@@ -1,9 +1,96 @@
 [
   {
+    "title": "The Alto Knights: Mafia y poder",
+    "image": "https://image.tmdb.org/t/p/w185/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg",
+    "rating": "5.7",
+    "year": "Mar. 14, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Dos de los jefes del crimen organizado más conocidos de Nueva York, Frank Costello y Vito Genovese, compiten por el control de las calles de la ciudad. Aunque eran mejores amigos, los celos mezquinos y una serie de traiciones los colocan en una carrera mortal que cambiará la Mafia (y Estados Unidos) para siempre.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/42/s8/2/x/C/m/I/xCmIy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=969988608-970062652"
+      }
+    ]
+  },
+  {
+    "title": "Súper Mario Bros: La película",
+    "image": "https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+    "rating": "7.4",
+    "year": "Apr. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "The Crow",
+    "image": "https://image.tmdb.org/t/p/w185/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
+    "rating": "4.7",
+    "year": "Aug. 21, 2024",
+    "quality": "CAM.rip",
+    "languages": [],
+    "description": "Un año después de que él y su prometida fueran asesinados, un cuervo místico devuelve a Eric a la vida para que pueda clamar su venganza.",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/q/M/u/LqMut.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "The Deep Web: Murdershow ; Deep web mortal",
+    "image": "https://image.tmdb.org/t/p/w185/3TZsNLYUi2qGVS9NNy5XBUm6VON.jpg",
+    "rating": "4.6",
+    "year": "Jul. 08, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/L/p/k/h/Lpkhy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "The Damned",
-    "url": "https://zonaaps.com/movies/the-damned/",
     "image": "https://image.tmdb.org/t/p/w185/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",
     "rating": "6.1",
+    "year": "Jan. 03, 2025",
+    "quality": "Sub Español",
+    "languages": [],
     "description": "",
     "genres": [
       "Drama",
@@ -18,45 +105,12 @@
     ]
   },
   {
-    "title": "The Crow",
-    "url": "https://zonaaps.com/movies/the-crow/",
-    "image": "https://image.tmdb.org/t/p/w185/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
-    "rating": "4.7",
-    "description": "Un año después de que él y su prometida fueran asesinados, un cuervo místico devuelve a Eric a la vida para que pueda clamar su venganza.",
-    "genres": [
-      "Acción",
-      "Fantasía",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/q/M/u/LqMut.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Terrifier 3 &#8211; Terrerife 3",
-    "url": "https://zonaaps.com/movies/terrifier-3/",
-    "image": "https://image.tmdb.org/t/p/w185/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg",
-    "rating": "7.2",
-    "description": "Secuela de «Terrifier 2», ambientada en el periodo navideño.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/S/s/m/QSsmu.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "The Dirt",
-    "url": "https://zonaaps.com/movies/the-dirt/",
     "image": "https://image.tmdb.org/t/p/w185/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
     "rating": "7",
+    "year": "Mar. 22, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En esta cruda biografía basada en el libro superventas de Mötley Crüe, cuatro inadaptados de Los Ángeles disfrutan de grandes éxitos y sufren las desgracias más atroces.",
     "genres": [
       "Comedia",
@@ -72,48 +126,51 @@
     ]
   },
   {
-    "title": "Supercool: Una noche de locura",
-    "url": "https://zonaaps.com/movies/supercool-una-noche-de-locura/",
-    "image": "https://image.tmdb.org/t/p/w185/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg",
-    "rating": "5.3",
-    "description": "Mejores amigos, Neil y Gilbert comienzan su último año de secundaria con grandes esperanzas y aspiraciones. Neil siempre ha fantaseado con ser lo suficientemente genial como para salir con su enamorado de mucho tiempo y Gilbert siempre ha soñado con ser una súper estrella de las redes sociales. Después de lo que es, según todos los informes, un primer día muy decepcionante y vergonzoso en la escuela, Neil pide un deseo mágico de ser genial justo en el momento mágico en que el reloj marca las 11:11. A la mañana siguiente, Neil se despierta con una realidad que proviene directamente de los cómics de sus sueños.",
+    "title": "The End of Evangelion",
+    "image": "https://image.tmdb.org/t/p/w185/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
+    "rating": "8.1",
+    "year": "Jul. 19, 1997",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Seele ordena un ataque sin cuartel contra NERV con el objetivo de destruir los Evas antes de que Gendo pueda provocar el Tercer Impacto y la unión de las almas humanas.",
     "genres": [
       "Acción",
-      "Comedia"
+      "Animación",
+      "Ciencia ficción",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/W/K/X/J/WKXJs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/W/K/X/J/WKXJs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/59/s8/2/m/q/Q/D/mqQDw.aaa.mp4"
       }
     ]
   },
   {
-    "title": "The Deep Web: Murdershow &#8211; Deep web mortal",
-    "url": "https://zonaaps.com/movies/the-deep-web-murdershow/",
-    "image": "https://image.tmdb.org/t/p/w185/3TZsNLYUi2qGVS9NNy5XBUm6VON.jpg",
-    "rating": "4.6",
-    "description": "",
+    "title": "The Sadness",
+    "image": "https://image.tmdb.org/t/p/w185/d8Ip6MmPxeMAtNJtusbPaGCEsvh.jpg",
+    "rating": "6.4",
+    "year": "Jan. 22, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato, tortura, violación y mutilación son solo el comienzo. Ya pasó la era de la civilidad y el orden. Solo queda ‘The Sadness’.",
     "genres": [
-      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/L/p/k/h/Lpkhy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/35/s8/2/C/c/p/B/CcpBw.aaa.mp4"
       }
     ]
   },
   {
     "title": "Suzume",
-    "url": "https://zonaaps.com/movies/suzume/",
     "image": "https://image.tmdb.org/t/p/w185/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
     "rating": "7.7",
+    "year": "Nov. 11, 2022",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Suzume, una joven chica de 17 años que vive en un pueblo tranquilo en la región de Kyushu, en el suroeste de Japón. La historia comienza cuando Suzume conoce a un misterioso joven que busca una «puerta». Los dos viajan juntos y encuentran una puerta vieja en una casa abandonada en las montañas. Como si algo tirara de ella, Suzume extiende su mano hacia la puerta, lo que comienza una serie de eventos desafortunados en todo Japón.",
     "genres": [
       "Animación",
@@ -130,66 +187,14 @@
     ]
   },
   {
-    "title": "The Sadness",
-    "url": "https://zonaaps.com/movies/the-sadness/",
-    "image": "https://image.tmdb.org/t/p/w185/d8Ip6MmPxeMAtNJtusbPaGCEsvh.jpg",
-    "rating": "6.4",
-    "description": "Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato, tortura, violación y mutilación son solo el comienzo. Ya pasó la era de la civilidad y el orden. Solo queda ‘The Sadness’.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/35/s8/2/C/c/p/B/CcpBw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "The End of Evangelion",
-    "url": "https://zonaaps.com/movies/the-end-of-evangelion/",
-    "image": "https://image.tmdb.org/t/p/w185/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
-    "rating": "8.1",
-    "description": "Seele ordena un ataque sin cuartel contra NERV con el objetivo de destruir los Evas antes de que Gendo pueda provocar el Tercer Impacto y la unión de las almas humanas.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/59/s8/2/m/q/Q/D/mqQDw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Tarot",
-    "url": "https://zonaaps.com/movies/tarot/",
-    "image": "https://image.tmdb.org/t/p/w185/mGuNJpSbaKcpsfDf05VAcN9h9vb.jpg",
-    "rating": "5",
-    "description": "Un grupo de amigos de la universidad comienzan a morir de maneras relacionadas con su fortuna después de que les lean los horóscopos.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/P/G/3/XPG3r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/P/G/3/XPG3r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "The Strangers: Chapter 3 &#8211; Los Extraños 3",
-    "url": "https://zonaaps.com/movies/the-strangers-chapter-3/",
+    "title": "The Strangers: Chapter 3 ; Los Extraños 3",
     "image": "https://image.tmdb.org/t/p/w185/yPegTig8dQNYiW2UW21LTNChGkK.jpg",
     "rating": "4.1",
+    "year": "Feb. 05, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "",
     "genres": [
       "Suspense",
@@ -203,10 +208,31 @@
     ]
   },
   {
+    "title": "The Truman Show: Historia de una Vida",
+    "image": "https://image.tmdb.org/t/p/w185/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg",
+    "rating": "8.2",
+    "year": "Jun. 04, 1998",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/Y/B/v/w/YBvwy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Thor: Amor y Trueno",
-    "url": "https://zonaaps.com/movies/thor-love-and-thunder/",
     "image": "https://image.tmdb.org/t/p/w185/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
     "rating": "6.2",
+    "year": "Jul. 06, 2022",
+    "quality": "720p HD",
+    "languages": [],
     "description": "El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.",
     "genres": [
       "Acción",
@@ -221,120 +247,12 @@
     ]
   },
   {
-    "title": "Superniños",
-    "url": "https://zonaaps.com/movies/superninos/",
-    "image": "https://image.tmdb.org/t/p/w185/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg",
-    "rating": "4.7",
-    "description": "Cuando unos invasores alienígenas capturan a los superhéroes de la Tierra, sus hijos tienen que aprender a trabajar en equipo parea rescatarlos… y salvar el planeta.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/u/O/_/m/uO_ms.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/u/O/_/m/uO_ms.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Superman Regresa",
-    "url": "https://zonaaps.com/movies/superman-regresa/",
-    "image": "https://image.tmdb.org/t/p/w185/oD94EXP5UDpzhZGhaGslDv6H8pR.jpg",
-    "rating": "6.1",
-    "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/h/_/q/ph_qo.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "The Truman Show: Historia de una Vida",
-    "url": "https://zonaaps.com/movies/the-truman-show-historia-de-una-vida/",
-    "image": "https://image.tmdb.org/t/p/w185/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg",
-    "rating": "8.2",
-    "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/9b/s8/2/Y/B/v/w/YBvwy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Tierra de Osos",
-    "url": "https://zonaaps.com/movies/tierra-de-osos/",
-    "image": "https://image.tmdb.org/t/p/w185/1XwOQNSby3HZfKMZcY7rtZw4KR.jpg",
-    "rating": "6.9",
-    "description": "En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espíritus lo transforman en un oso, el animal que más odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una misión de venganza en la que está en juego el honor familiar.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/R/9/c/F/R9cFx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "TAYLOR SWIFT | THE ERAS TOUR",
-    "url": "https://zonaaps.com/movies/taylor-swift-the-eras-tour/",
-    "image": "https://image.tmdb.org/t/p/w185/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",
-    "rating": "8.4",
-    "description": "",
-    "genres": [
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/E/U/J/oEUJo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Tierra de Osos 2",
-    "url": "https://zonaaps.com/movies/tierra-de-osos-2/",
-    "image": "https://image.tmdb.org/t/p/w185/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
-    "rating": "6.1",
-    "description": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura…",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/6e/s8/2/U/D/w/F/UDwFx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Thunderbolts*",
-    "url": "https://zonaaps.com/movies/thunderbolts/",
     "image": "https://image.tmdb.org/t/p/w185/zLbhKNJGDSfBCXFNtypM7ZuPTaW.jpg",
     "rating": "7.7",
+    "year": "Apr. 30, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Después de que Yelena Belova, Fantasma, Taskmaster y U.S. Agent se vean arrinconados en una trampa mortal tendida por Valentina Allegra de Fontaine, estos rechazados desilusionados, uniendo fuerzas junto con el Guardián Rojo y Bucky, deben embarcarse en una peligrosa misión que los obligará a enfrentar los rincones más oscuros de sus pasados.",
     "genres": [
       "Acción",
@@ -349,27 +267,70 @@
     ]
   },
   {
-    "title": "Tinker bell &#8211; Campanilla: Hadas y Piratas &#8211; Tinkerbell",
-    "url": "https://zonaaps.com/movies/tinker-bell-campanilla-hadas-y-piratas-tinkerbell/",
-    "image": "https://image.tmdb.org/t/p/w185/7Jrap24Ki03bC39hbfyebw3xDul.jpg",
-    "rating": "6.6",
-    "description": "Zarina, una incomprendida hada guardiana del polvo de hada, roba el importantísimo Polvo de Hada Azul de la Hondonada de las Hadas, y se escapa para unirse a los piratas de la Roca Calavera. Así que Campanilla y sus amigas las hadas emprenden la aventura de su vida para recuperarlo. Pero mientras persiguen a Zarina, el mundo de Campanilla se convierte en un caos. Ella y sus amigas se dan cuenta de que sus talentos respectivos están cambiados y tienen que emprender una carrera a contrarreloj para recuperar el Polvo de Hada Azul para salvar la Hondonada de las Hadas.",
+    "title": "Tierra de Osos 2",
+    "image": "https://image.tmdb.org/t/p/w185/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
+    "rating": "6.1",
+    "year": "Aug. 17, 2006",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura…",
     "genres": [
       "Animación",
+      "Aventura",
       "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/h/e/C/fheCv.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/6e/s8/2/U/D/w/F/UDwFx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "TAYLOR SWIFT | THE ERAS TOUR",
+    "image": "https://image.tmdb.org/t/p/w185/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",
+    "rating": "8.4",
+    "year": "Oct. 13, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/E/U/J/oEUJo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tierra de Osos",
+    "image": "https://image.tmdb.org/t/p/w185/1XwOQNSby3HZfKMZcY7rtZw4KR.jpg",
+    "rating": "6.9",
+    "year": "Oct. 23, 2003",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espíritus lo transforman en un oso, el animal que más odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una misión de venganza en la que está en juego el honor familiar.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/R/9/c/F/R9cFx.aaa.mp4"
       }
     ]
   },
   {
     "title": "Tinker Bell: Hadas al Rescate- Tinkerbell",
-    "url": "https://zonaaps.com/movies/tinker-bell-hadas-al-rescate-tinkerbell/",
     "image": "https://image.tmdb.org/t/p/w185/AmUOjwjgz1vGnAmnR51NVv0hqAe.jpg",
     "rating": "6.8",
+    "year": "Jul. 29, 2010",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Campanita visita las praderas de Inglaterra en verano y desarrolla una relación especial con una niña. Cuando las otras hadas lanzan un rescate audaz, Campanita tiene que hacerse cargo de todas para mantener a las hadas a salvo.",
     "genres": [
       "Animación",
@@ -385,27 +346,31 @@
     ]
   },
   {
-    "title": "Titanic",
-    "url": "https://zonaaps.com/movies/titanic/",
-    "image": "https://image.tmdb.org/t/p/w185/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg",
-    "rating": "0",
-    "description": "Durante las labores de recuperación de los restos del famoso Titanic, una anciana norteamericana se pone en contacto con la expedición para acudir a una plataforma flotante instalada en el Mar del Norte y asistir ‘in situ’ a la recuperación de sus recuerdos. A través de su memoria reviviremos los acontecimientos que marcaron el siniestro más famoso del siglo XX: el hundimiento del trasatlántico más lujoso del mundo, la máquina más sofisticada de su tiempo, considerada «insumergible», que sucumbió a las heladas aguas del Atlántico en abril de 1912, llevándose consigo la vida de mil quinientas personas, más de la mitad del pasaje. En los recueros de la anciana hay cabida para algo más que la tragedia, la historia de amor que vivió con un joven pasajero de tercera clase, un pintor aficionado que había ganado su pasaje en una partida las cartas en una taberna de Southampton.",
+    "title": "Tinker bell ; Campanilla: Hadas y Piratas ; Tinkerbell",
+    "image": "https://image.tmdb.org/t/p/w185/7Jrap24Ki03bC39hbfyebw3xDul.jpg",
+    "rating": "6.6",
+    "year": "Feb. 13, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Zarina, una incomprendida hada guardiana del polvo de hada, roba el importantísimo Polvo de Hada Azul de la Hondonada de las Hadas, y se escapa para unirse a los piratas de la Roca Calavera. Así que Campanilla y sus amigas las hadas emprenden la aventura de su vida para recuperarlo. Pero mientras persiguen a Zarina, el mundo de Campanilla se convierte en un caos. Ella y sus amigas se dan cuenta de que sus talentos respectivos están cambiados y tienen que emprender una carrera a contrarreloj para recuperar el Polvo de Hada Azul para salvar la Hondonada de las Hadas.",
     "genres": [
-      "Drama",
-      "Romance"
+      "Animación",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6a/s8/2/P/8/5/p/P85px.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/f/h/e/C/fheCv.aaa.mp4"
       }
     ]
   },
   {
     "title": "Tengo ganas de ti",
-    "url": "https://zonaaps.com/movies/tengo-ganas-de-ti/",
     "image": "https://image.tmdb.org/t/p/w185/z13I3sWzOoKBDAEpJ7iK9bSznQn.jpg",
     "rating": "6.8",
+    "year": "Jun. 22, 2012",
+    "quality": "720 HD",
+    "languages": [],
     "description": "La sexy Gin es el nuevo amor de Hache, pero éste no puede olvidar a su antigua novia, Babi. Hache ha vuelto a casa tras pasar una temporada en Londres, alejado del recuerdo imborrable de aquel primer amor. Para poder reconstruir su vida y olvidar el pasado, Gin parece perfecta, pues es una chica de espíritu descarado, efervescente y vital que le hace creer que es posible revivir aquella magia. Pero tarde o temprano tendrá que encontrarse de nuevo con Babi…",
     "genres": [
       "Drama",
@@ -420,9 +385,13 @@
   },
   {
     "title": "Thor",
-    "url": "https://zonaaps.com/movies/thor/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/08/qFAVW4XJaxhj7PcpiUI5hhO9bOX-185x278.jpg",
     "rating": "7",
+    "year": "Apr. 21, 2011",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
     "genres": [
       "Acción",
@@ -432,159 +401,36 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvcmxnY2Zjb29kdXhuX24vaW5kZXgtdjEtYTEubTN1OD90PTJ2YmU1VEJ0YWRKOHd2a3NXTDRPVVNjT0xoTzBUSDhZb0pZRWZSekFBVW8mcz0xNzg3MzM4NjI4JmU9NDMyMDAmdj0zMjMwMjQzMTAmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvcmxnY2Zjb29kdXhuX24vaW5kZXgtdjEtYTEubTN1OD90PTdWY2V4Y2UxRGE4T3N4aFpNazdRZkVGamJKVTc4QkZvQlk1TUpwUi1EYlEmcz0xNzg3MzYwNzc4JmU9NDMyMDAmdj0zMzE5MTg4OTkmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
   {
-    "title": "Thor: el mundo oscuro",
-    "url": "https://zonaaps.com/movies/thor-el-mundo-oscuro/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/gPAmH41VpK5UPaNhAiNJePzrL8z-185x278.jpg",
-    "rating": "6.8",
-    "description": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvbDV3eHE5eG50OWpiX24vaW5kZXgtdjEtYTEubTN1OD90PXRZaHdrdkgtREgtemxLcWJyc0RWMTZDN3JqV3hwQ0FQbVNCNFppMWtWQnMmcz0xNzg3MzM4NjQxJmU9NDMyMDAmdj0zMjUzOTAzNTkmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Todo Por Amor",
-    "url": "https://zonaaps.com/movies/todo-por-amor/",
-    "image": "https://image.tmdb.org/t/p/w185/fjR7Cl752iPw959smkNq6nRsJGx.jpg",
-    "rating": "6",
-    "description": "Hilary (Julia Roberts) es una atractiva joven que ya casi ha renunciado al amor, pero es que además el resto de su vida tampoco marcha bien. Un día decide contestar al anuncio de un periódico, en el que se solicita una chica atenta y servicial. Acude a una lujosa mansión, donde conoce a Victor (Campbell Scott), un joven de buena familia que padece una leucemia que todos creen incurable, incluido su dominante padre (David Selby).",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/3c/s8/2/w/8/8/w/w88wy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "The Duff &#8211; El último baile",
-    "url": "https://zonaaps.com/movies/the-duff-el-ultimo-baile/",
-    "image": "https://image.tmdb.org/t/p/w185/nDfF22C1ZxX0QX7lW16YYstru8l.jpg",
-    "rating": "6.4",
-    "description": "Bianca es una alumna de instituto de último curso a quien se le viene el mundo encima al enterarse de que sus compañeros se refieren a ella como la MAF (La amiga maja y fea) de sus amigas más guapas y más populares. Con su universo patas arriba, ignora los consejos de su profesor favorito y ficha a Wesley, un deportista pillo pero encantador, para que la ayude a separarse del grupo y borrar esa etiqueta para siempre. En el proceso, espera ligarse a su amor platónico, Toby, y encontrar la confianza para tumbar a la cruel etiquetadora del instituto, Madison, recordándole que, al margen del aspecto o la conducta de la gente, todos somos el MAF de alguien… y que no pasa absolutamente nada.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/K/D/V/L/KDVLq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Todos los hombres del Rey &#8211; All the King&#8217;s Men",
-    "url": "https://zonaaps.com/movies/todos-los-hombres-del-rey-all-the-kings-men/",
-    "image": "https://image.tmdb.org/t/p/w185/tqsvfwXKAKQ8WHohAzoulQ6WcCh.jpg",
-    "rating": "6.1",
-    "description": "",
-    "genres": [
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/a9/s8/2/2/6/I/i/26Iiz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=986669056-986744494"
-      }
-    ]
-  },
-  {
-    "title": "Tiana y el sapo",
-    "url": "https://zonaaps.com/movies/tiana-y-el-sapo/",
-    "image": "https://image.tmdb.org/t/p/w185/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",
-    "rating": "7.1",
-    "description": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
-    "genres": [
-      "Animación",
-      "Familia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/E/g/R/oEgRo.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/E/g/R/oEgRo.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Todos los ojos en mi",
-    "url": "https://zonaaps.com/movies/todos-los-ojos-en-mi/",
-    "image": "https://image.tmdb.org/t/p/w185/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg",
+    "title": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w185/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg",
     "rating": "0",
-    "description": "Todo los ojos en Mí hace una crónica de la vida y la herencia de Tupac Shakur, incluso su subida al superestrellato como un artista de hip-hop, actor, poeta y activista, así como su encarcelamiento y tiempo prolífico, polémico en Archivos de la Celda de los condenados a muerte. Contra probabilidades insuperables, Tupac se levantó para hacerse un icono cultural cuya carrera y personaje ambos siguen cultivando mucho después de su paso.",
+    "year": "Nov. 18, 1997",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante las labores de recuperación de los restos del famoso Titanic, una anciana norteamericana se pone en contacto con la expedición para acudir a una plataforma flotante instalada en el Mar del Norte y asistir ‘in situ’ a la recuperación de sus recuerdos. A través de su memoria reviviremos los acontecimientos que marcaron el siniestro más famoso del siglo XX: el hundimiento del trasatlántico más lujoso del mundo, la máquina más sofisticada de su tiempo, considerada «insumergible», que sucumbió a las heladas aguas del Atlántico en abril de 1912, llevándose consigo la vida de mil quinientas personas, más de la mitad del pasaje. En los recueros de la anciana hay cabida para algo más que la tragedia, la historia de amor que vivió con un joven pasajero de tercera clase, un pintor aficionado que había ganado su pasaje en una partida las cartas en una taberna de Southampton.",
     "genres": [
       "Drama",
-      "Historia",
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/97/s8/2/9/i/3/Z/9i3Zy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1102309888-1102394133"
-      }
-    ]
-  },
-  {
-    "title": "Tom y Jerry",
-    "url": "https://zonaaps.com/movies/tom-y-jerry/",
-    "image": "https://image.tmdb.org/t/p/w185/VpyHJgtihILK3QYa3erNuaWxzQ.jpg",
-    "rating": "5.3",
-    "description": "Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/C/D/c/CCDcu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Todos queremos a alguien",
-    "url": "https://zonaaps.com/movies/todos-queremos-a-alguien/",
-    "image": "https://image.tmdb.org/t/p/w185/zTzU0OP80TPYiGTZJkyMfVCitOv.jpg",
-    "rating": "6.4",
-    "description": "Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor. Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su exnovio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida. Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.",
-    "genres": [
-      "Comedia",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/de/s8/2/n/F/u/e/nFuex.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6a/s8/2/P/8/5/p/P85px.aaa.mp4"
       }
     ]
   },
   {
     "title": "The Witcher: Sirenas de las profundidades",
-    "url": "https://zonaaps.com/movies/the-witcher-sirenas-de-las-profundidades/",
     "image": "https://image.tmdb.org/t/p/w185/eSwQudxKlJnI4tjDKi47aTAvTmj.jpg",
     "rating": "N/A",
+    "year": "Feb. 10, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando unos misteriosos seres de las profundidades atacan a unos marineros, solo hay una persona que puede impedir el conflicto entre mar y tierra: Geralt de Rivia.",
     "genres": [
       "Acción",
@@ -604,106 +450,101 @@
     ]
   },
   {
-    "title": "Tom Y Jerry Y El Valiente Robin Hood",
-    "url": "https://zonaaps.com/movies/tom-y-jerry-y-el-valiente-robin-hood/",
-    "image": "https://image.tmdb.org/t/p/w185/osFsGZKeaxQlCMYdrfuHrrxP7Rc.jpg",
-    "rating": "6.3",
-    "description": "Robin Hood roba a los ricos para dar a los pobres, ¡Y necesita la ayuda de Tom y Jerry! Tu dúo audaz favorito apunta al querido cuento medieval en un nuevo largometraje ¡Es todos para uno y uno para todos!",
+    "title": "The Duff ; El último baile",
+    "image": "https://image.tmdb.org/t/p/w185/nDfF22C1ZxX0QX7lW16YYstru8l.jpg",
+    "rating": "6.4",
+    "year": "Feb. 20, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Bianca es una alumna de instituto de último curso a quien se le viene el mundo encima al enterarse de que sus compañeros se refieren a ella como la MAF (La amiga maja y fea) de sus amigas más guapas y más populares. Con su universo patas arriba, ignora los consejos de su profesor favorito y ficha a Wesley, un deportista pillo pero encantador, para que la ayude a separarse del grupo y borrar esa etiqueta para siempre. En el proceso, espera ligarse a su amor platónico, Toby, y encontrar la confianza para tumbar a la cruel etiquetadora del instituto, Madison, recordándole que, al margen del aspecto o la conducta de la gente, todos somos el MAF de alguien… y que no pasa absolutamente nada.",
     "genres": [
-      "Animación",
-      "Aventura",
       "Comedia",
-      "Familia"
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/2/9/I/I/x/9IIxx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/D/V/L/KDVLq.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Time Trap",
-    "url": "https://zonaaps.com/movies/time-trap/",
-    "image": "https://image.tmdb.org/t/p/w185/8w0hBC9kLy56F7rjwGIe8JtIrHS.jpg",
-    "rating": "6.2",
-    "description": "Un grupo de estudiantes queda atrapado dentro de una cueva misteriosa donde descubren que el tiempo pasa de forma diferente bajo tierra que en la superficie.",
+    "title": "Thor: Ragnarok",
+    "image": "https://image.tmdb.org/t/p/w185/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+    "rating": "7.9",
+    "year": "Oct. 02, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
     "genres": [
+      "Acción",
       "Aventura",
       "Ciencia ficción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/d/0/u/-d0uq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Tomorrowland &#8211; El mundo del Mañana",
-    "url": "https://zonaaps.com/movies/tomorrowland-el-mundo-del-manana/",
-    "image": "https://image.tmdb.org/t/p/w185/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg",
-    "rating": "0",
-    "description": "Atado por un destino compartido, un adolescente brillante y optimista lleno de curiosidad científica y un ex inventor genio de niño, hastiado de la desilusión, embarcarse en una misión llena de peligros para descubrir los secretos de un lugar enigmático en algún lugar del tiempo y espacio que existe en su comunidad la memoria como «Tomorrowland».",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Familia",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/79/s8/2/V/m/J/Z/VmJZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1026374144-1026452564"
-      }
-    ]
-  },
-  {
-    "title": "Toc, toc",
-    "url": "https://zonaaps.com/movies/toc-toc/",
-    "image": "https://image.tmdb.org/t/p/w185/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
-    "rating": "4.9",
-    "description": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de «Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/H/y/b/0Hybq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/H/y/b/0Hybq.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.caa.mp4"
       }
     ]
   },
   {
-    "title": "Tom y Jerry: La Brújula Mágica",
-    "url": "https://zonaaps.com/movies/tom-y-jerry-la-brujula-magica/",
-    "image": "https://image.tmdb.org/t/p/w185/eLomNIDmKBTuvtQtIFZ67N1mzsv.jpg",
-    "rating": "3.7",
-    "description": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+    "title": "Thor: el mundo oscuro",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/gPAmH41VpK5UPaNhAiNJePzrL8z-185x278.jpg",
+    "rating": "6.8",
+    "year": "Oct. 30, 2013",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
     "genres": [
-      "Animación",
+      "Acción",
       "Aventura",
-      "Comedia",
-      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/51/s8/2/q/S/A/3/qSA3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=783748096-783807833"
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvbDV3eHE5eG50OWpiX24vaW5kZXgtdjEtYTEubTN1OD90PXZ1aV9mVFI2SEsyVEVramRxbTVyRVNwMklveG9hUHlyWkdacVlNU0ZzN0Umcz0xNzg3MzYwNzg3JmU9NDMyMDAmdj0zMjUzOTAzNTkmc3J2PXMxMCZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Tiana y el sapo",
+    "image": "https://image.tmdb.org/t/p/w185/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",
+    "rating": "7.1",
+    "year": "Dec. 08, 2009",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas.",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/o/E/g/R/oEgRo.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/o/E/g/R/oEgRo.caa.mp4"
       }
     ]
   },
   {
     "title": "The Fallout",
-    "url": "https://zonaaps.com/movies/the-fallout/",
     "image": "https://image.tmdb.org/t/p/w185/fOJwjsJNtQlDhBanJSouGDwQfvP.jpg",
     "rating": "7",
+    "year": "Mar. 17, 2021",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Vada es una adolescente que trata de superar los efectos secundarios que sufre tras vivir una tragedia en su instituto. Tras esta experiencia, la relación con su familia y sus amigos, así como su forma de ver el mundo, cambiarán para siempre.",
     "genres": [
       "Drama"
@@ -720,10 +561,177 @@
     ]
   },
   {
+    "title": "Todo Por Amor",
+    "image": "https://image.tmdb.org/t/p/w185/fjR7Cl752iPw959smkNq6nRsJGx.jpg",
+    "rating": "6",
+    "year": "Jun. 20, 1991",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Hilary (Julia Roberts) es una atractiva joven que ya casi ha renunciado al amor, pero es que además el resto de su vida tampoco marcha bien. Un día decide contestar al anuncio de un periódico, en el que se solicita una chica atenta y servicial. Acude a una lujosa mansión, donde conoce a Victor (Campbell Scott), un joven de buena familia que padece una leucemia que todos creen incurable, incluido su dominante padre (David Selby).",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/3c/s8/2/w/8/8/w/w88wy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Todos los hombres del Rey ; All the King&#8217;s Men",
+    "image": "https://image.tmdb.org/t/p/w185/tqsvfwXKAKQ8WHohAzoulQ6WcCh.jpg",
+    "rating": "6.1",
+    "year": "Sep. 10, 2006",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/a9/s8/2/2/6/I/i/26Iiz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=986669056-986744494"
+      }
+    ]
+  },
+  {
+    "title": "Todos los ojos en mi",
+    "image": "https://image.tmdb.org/t/p/w185/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg",
+    "rating": "0",
+    "year": "Jun. 12, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Todo los ojos en Mí hace una crónica de la vida y la herencia de Tupac Shakur, incluso su subida al superestrellato como un artista de hip-hop, actor, poeta y activista, así como su encarcelamiento y tiempo prolífico, polémico en Archivos de la Celda de los condenados a muerte. Contra probabilidades insuperables, Tupac se levantó para hacerse un icono cultural cuya carrera y personaje ambos siguen cultivando mucho después de su paso.",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/97/s8/2/9/i/3/Z/9i3Zy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1102309888-1102394133"
+      }
+    ]
+  },
+  {
+    "title": "Todos queremos a alguien",
+    "image": "https://image.tmdb.org/t/p/w185/zTzU0OP80TPYiGTZJkyMfVCitOv.jpg",
+    "rating": "6.4",
+    "year": "Feb. 10, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor. Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su exnovio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida. Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/de/s8/2/n/F/u/e/nFuex.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tom y Jerry",
+    "image": "https://image.tmdb.org/t/p/w185/VpyHJgtihILK3QYa3erNuaWxzQ.jpg",
+    "rating": "5.3",
+    "year": "Feb. 10, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/C/D/c/CCDcu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tom Y Jerry Y El Valiente Robin Hood",
+    "image": "https://image.tmdb.org/t/p/w185/osFsGZKeaxQlCMYdrfuHrrxP7Rc.jpg",
+    "rating": "6.3",
+    "year": "Oct. 02, 2012",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Robin Hood roba a los ricos para dar a los pobres, ¡Y necesita la ayuda de Tom y Jerry! Tu dúo audaz favorito apunta al querido cuento medieval en un nuevo largometraje ¡Es todos para uno y uno para todos!",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/ca/s8/2/9/I/I/x/9IIxx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tom y Jerry: La Brújula Mágica",
+    "image": "https://image.tmdb.org/t/p/w185/eLomNIDmKBTuvtQtIFZ67N1mzsv.jpg",
+    "rating": "3.7",
+    "year": "Aug. 02, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/51/s8/2/q/S/A/3/qSA3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=783748096-783807833"
+      }
+    ]
+  },
+  {
+    "title": "Tomorrowland ; El mundo del Mañana",
+    "image": "https://image.tmdb.org/t/p/w185/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg",
+    "rating": "0",
+    "year": "May. 19, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Atado por un destino compartido, un adolescente brillante y optimista lleno de curiosidad científica y un ex inventor genio de niño, hastiado de la desilusión, embarcarse en una misión llena de peligros para descubrir los secretos de un lugar enigmático en algún lugar del tiempo y espacio que existe en su comunidad la memoria como «Tomorrowland».",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Familia",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/79/s8/2/V/m/J/Z/VmJZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1026374144-1026452564"
+      }
+    ]
+  },
+  {
     "title": "Tonterías de amor",
-    "url": "https://zonaaps.com/movies/tonterias-de-amor/",
     "image": "https://image.tmdb.org/t/p/w185/nAI8kxnjQS0YBj0EBy2yYkadM6K.jpg",
     "rating": "0",
+    "year": "Mar. 01, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando un malentendido pone a sus amigas en su contra, Pia, una chica adorable y rica, contrata a Arjan, un nuevo estudiante, para que se haga pasar por su novio",
     "genres": [
       "Comedia",
@@ -733,7 +741,91 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/15/s8/2/8/5/G/q/85Gqy.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/15/s8/2/8/5/G/q/85Gqy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Time Trap",
+    "image": "https://image.tmdb.org/t/p/w185/8w0hBC9kLy56F7rjwGIe8JtIrHS.jpg",
+    "rating": "6.2",
+    "year": "May. 19, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un grupo de estudiantes queda atrapado dentro de una cueva misteriosa donde descubren que el tiempo pasa de forma diferente bajo tierra que en la superficie.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/d/0/u/-d0uq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Toc, toc",
+    "image": "https://image.tmdb.org/t/p/w185/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+    "rating": "4.9",
+    "year": "Jun. 26, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de «Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/H/y/b/0Hybq.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/H/y/b/0Hybq.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tormento",
+    "image": "https://image.tmdb.org/t/p/w185/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
+    "rating": "5.0",
+    "year": "Nov. 13, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Un guardia de seguridad agotado es trasladado a una morgue y, en su primera noche, descubre que las sombras y los silencios esconden un tormento del cual puede no haber vuelta atrás.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/74/s8/2/g/-/I/Z/g-IZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=626893312-626941133"
+      }
+    ]
+  },
+  {
+    "title": "Tortugas Ninjas 2: Fuera de las sombras",
+    "image": "https://image.tmdb.org/t/p/w185/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
+    "rating": "5.9",
+    "year": "Jun. 01, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Michelangelo, Donatello, Leonardo y Raphael regresan junto con April O’Neil, Vern Fenwick y un nuevo vigilante enmascarado, Casey Jones, para combatir a unos villanos aún más malignos y poderosos. El súper villano Shredder escapa de prisión y une sus fuerzas con el científico loco Baxter Stockman y sus dos secuaces, Bebob y Rocksteady, para llevar a cabo un diabólico plan para conquistar el mundo. Mientras las Tortugas se preparan para enfrentarse a Shredder y su banda, tendrán que luchar también con un nuevo enemigo, incluso más poderoso, y también con intenciones malignas: El General Krang.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/d0/s8/2/m/8/p/D/m8pDx.aaa.mp4"
       }
     ]
   }

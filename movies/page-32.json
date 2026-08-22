@@ -1,30 +1,13 @@
 [
   {
-    "title": "Sin escape (2015)",
-    "url": "https://zonaaps.com/movies/sin-escape-2015/",
-    "image": "https://zonaaps.com/wp-content/uploads/2024/07/Sin-escape-1024x512-1.jpg",
-    "rating": "0",
-    "description": "Un hombre de negocios y su familia se ven atrapados en medio de un violento golpe de estado en un país del sudeste asiático. Mientras los rebeldes atacan, Jack y su familia tienen que buscar la forma de sobrevivir al infierno.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/B/D/-/J/BD-Js.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/B/D/-/J/BD-Js.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Star Wars: El despertar de la fuerza &#8211; Star Wars Episodio 7",
-    "url": "https://zonaaps.com/movies/star-wars-el-despertar-de-la-fuerza-star-wars-episodio-7/",
+    "title": "Star Wars: El despertar de la fuerza ; Star Wars Episodio 7",
     "image": "https://image.tmdb.org/t/p/w185/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
     "rating": "7.7",
+    "year": "Dec. 15, 2015",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
     "genres": [
       "Acción",
@@ -39,83 +22,15 @@
     ]
   },
   {
-    "title": "Star Wars: El ascenso de Skywalker &#8211; Star Wars Episodio 9",
-    "url": "https://zonaaps.com/movies/star-wars-el-ascenso-de-skywalker-star-wars-episodio-9/",
-    "image": "https://image.tmdb.org/t/p/w185/oeQxq6If4DcW6ADIYCF9SQwKov.jpg",
-    "rating": "6.3",
-    "description": "Un año después de los eventos de «Los últimos Jedi», los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo. Final de la trilogía iniciada con «El despertar de la Fuerza».",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/c7/s8/2/s/j/9/1/sj91z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1119484416-1119570109"
-      }
-    ]
-  },
-  {
-    "title": "Starstruck: Mi Novio es una Súperestrella",
-    "url": "https://zonaaps.com/movies/starstruck-mi-novio-es-una-superestrella/",
-    "image": "https://image.tmdb.org/t/p/w185/5qjlYhD9wVeC4dRwk5KcNi1XWam.jpg",
-    "rating": "6.1",
-    "description": "Jessica Olsen, una chica de Michigan, encuentra ridícula la actitud de su hermana, obsesionada con el cantante Christopher Wilde. Un día parte con su familia hacia Los Ángeles con la única idea de visitar a su abuela, mientras que su hermana pretende aprovechar el viaje para encontrar a Christopher Wilde. Pero el azar hará que sea Jessica la que le encuentre…",
-    "genres": [
-      "Comedia",
-      "Música",
-      "Película de TV",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/n/1/B/An1Bv.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Star Wars: Rogue One",
-    "url": "https://zonaaps.com/movies/star-wars-rogue-one/",
-    "image": "https://image.tmdb.org/t/p/w185/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
-    "rating": "7.8",
-    "description": "Una banda rebelde de luchadores de la resistencia se une a una misión para robar los planes de la Estrella de la Muerte y traer una nueva esperanza a la galaxia.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/60/s8/2/U/B/W/3/UBW3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1057709568-1057790289"
-      }
-    ]
-  },
-  {
-    "title": "Star Wars: Los últimos Jedi &#8211; Star Wars Episodio 8",
-    "url": "https://zonaaps.com/movies/star-wars-los-ultimos-jedi-star-wars-episodio-8/",
-    "image": "https://image.tmdb.org/t/p/w185/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
-    "rating": "6.8",
-    "description": "La Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/6c/s8/2/U/H/8/1/UH81z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1197680128-1197771985"
-      }
-    ]
-  },
-  {
     "title": "Star Wars: The Mandalorian and Grogu",
-    "url": "https://zonaaps.com/movies/star-wars-the-mandalorian-and-grogu/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/05/sSRaYCfsxgL8LWeBQOO4Syd5BQJ-185x278.jpg",
     "rating": "7.0",
+    "year": "May. 20, 2026",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Continuación de la serie «The Mandalorian» en forma de película. El malvado Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin (Pedro Pascal) y su joven aprendiz Grogu.",
     "genres": [
       "Acción",
@@ -130,10 +45,77 @@
     ]
   },
   {
+    "title": "Star Wars: Los últimos Jedi ; Star Wars Episodio 8",
+    "image": "https://image.tmdb.org/t/p/w185/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
+    "rating": "6.8",
+    "year": "Dec. 13, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/6c/s8/2/U/H/8/1/UH81z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1197680128-1197771985"
+      }
+    ]
+  },
+  {
+    "title": "Star Wars: Rogue One",
+    "image": "https://image.tmdb.org/t/p/w185/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
+    "rating": "7.8",
+    "year": "Dec. 14, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Una banda rebelde de luchadores de la resistencia se une a una misión para robar los planes de la Estrella de la Muerte y traer una nueva esperanza a la galaxia.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/60/s8/2/U/B/W/3/UBW3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1057709568-1057790289"
+      }
+    ]
+  },
+  {
+    "title": "Starstruck: Mi Novio es una Súperestrella",
+    "image": "https://image.tmdb.org/t/p/w185/5qjlYhD9wVeC4dRwk5KcNi1XWam.jpg",
+    "rating": "6.1",
+    "year": "Feb. 14, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jessica Olsen, una chica de Michigan, encuentra ridícula la actitud de su hermana, obsesionada con el cantante Christopher Wilde. Un día parte con su familia hacia Los Ángeles con la única idea de visitar a su abuela, mientras que su hermana pretende aprovechar el viaje para encontrar a Christopher Wilde. Pero el azar hará que sea Jessica la que le encuentre…",
+    "genres": [
+      "Comedia",
+      "Música",
+      "Película de TV",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/A/n/1/B/An1Bv.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Sting. Araña asesina",
-    "url": "https://zonaaps.com/movies/sting-arana-asesina/",
     "image": "https://image.tmdb.org/t/p/w185/AgKiOjlywG2pJszCCZDUB01ztlW.jpg",
     "rating": "5.7",
+    "year": "Apr. 12, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Pelicula inspirada en uno de los mayores temores de la humanidad, la aracnofobia, más monstruosa que nunca.",
     "genres": [
       "Ciencia ficción",
@@ -148,66 +130,12 @@
     ]
   },
   {
-    "title": "Sueños galácticos",
-    "url": "https://zonaaps.com/movies/suenos-galacticos/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/dKT6A7yQWxvRhZwX5uudHofvpja-185x278.jpg",
-    "rating": "6.5",
-    "description": "Ambientada en un futuro cercano, la historia gira en torno al surgimiento de la tecnología de realidad onírica “Good Dreams”, que permite a las personas hacer todo lo que deseen dentro de sus propios sueños creados por ellos mismos. Sin embargo, una crisis provocada por estos sueños comienza a desarrollarse en silencio.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/35/s8/2/U/f/O/y/UfOyA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3435857408-3435925662"
-      }
-    ]
-  },
-  {
-    "title": "Super Mario Galaxy La película",
-    "url": "https://zonaaps.com/movies/ver-super-mario-galaxy-la-pelicula/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/pLQQMO77ohibggTKV6wmFs5LHYf-185x278.jpg",
-    "rating": "N/A",
-    "description": "Ver Super Mario Galaxy La película. Super Mario Galaxy La película es una emocionante aventura espacial protagonizada por los icónicos hermanos Mario y Luigi. En esta nueva historia intergaláctica, los héroes del Reino Champiñón deberán enfrentarse a una poderosa amenaza: Bowser Jr., quien está decidido a liberar a su padre y restaurar el legado del imperio Koopa utilizando el poder de las estrellas. Si estás buscando dónde disfrutar de este increíble estreno, en Movie Days puedes ver Super Mario Galaxy La película completa y GRATIS en HD. Nuestra plataforma te ofrece la mejor calidad de streaming para que acompañes a Mario, Luigi y Estela (Rosalina) en un viaje épico a través de galaxias llenas de peligros, misterios y desafíos visuales que cautivarán a toda la familia. Acompañados de viejos aliados y nuevos personajes, los hermanos emprenden una misión rescatando a los Destellos (Lumas) mientras exploran mundos con gravedades imposibles. Con acción, humor y una historia cargada de nostalgia para los fans de los videojuegos de Nintendo, esta película promete conquistar tanto a los seguidores clásicos como a las nuevas generaciones que buscan una aventura mágica y llena de valentía. Quizás te podría gustar:Puedes ver la primera película de Super Mario Bros aquí Super Mario 2023 o explorar más títulos del género de Animación en nuestra web. Más detalles técnicos en la ficha de TMDB. &nbsp;",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3017804800-3017864634"
-      }
-    ]
-  },
-  {
-    "title": "Sueños sobre hielo",
-    "url": "https://zonaaps.com/movies/suenos-sobre-hielo/",
-    "image": "https://image.tmdb.org/t/p/w185/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg",
-    "rating": "6",
-    "description": "Casey Carlyle es una estudiante aplicada a la que se le da bastante bien la física. Su madre, Joan, es una profesora de literatura que ya tiene planeado el brillante futuro académico y personal de su hija. Para conseguir una beca de física para la universidad de Harvard, Casey decide hacer un trabajo personal sobre el patinaje artístico, para probar así que hay fórmulas físicas en la inercia de las patinadoras.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/36/s8/2/C/x/j/p/Cxjpy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Spider-Man De Regreso a Casa",
-    "url": "https://zonaaps.com/movies/spider-man-de-regreso-a-casa/",
     "image": "https://image.tmdb.org/t/p/w185/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
     "rating": "7.4",
+    "year": "Jul. 05, 2017",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
     "genres": [
       "Acción",
@@ -227,28 +155,76 @@
     ]
   },
   {
-    "title": "Supergirl",
-    "url": "https://zonaaps.com/movies/supergirl/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/diEz9JG1UHEDTN0Yeri5sJZD7PL-185x278.jpg",
-    "rating": "8.8",
-    "description": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una «búsqueda asesina de venganza».",
+    "title": "Sueños galácticos",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/dKT6A7yQWxvRhZwX5uudHofvpja-185x278.jpg",
+    "rating": "6.5",
+    "year": "Feb. 17, 2026",
+    "quality": "",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Ambientada en un futuro cercano, la historia gira en torno al surgimiento de la tecnología de realidad onírica “Good Dreams”, que permite a las personas hacer todo lo que deseen dentro de sus propios sueños creados por ellos mismos. Sin embargo, una crisis provocada por estos sueños comienza a desarrollarse en silencio.",
     "genres": [
-      "Acción",
       "Aventura",
-      "Ciencia ficción"
+      "Ciencia ficción",
+      "Drama"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/78/s8/2/M/i/h/K/MihKA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3330606592-3330672832"
+        "url": "https://1a-1791.com/video/fwe2/35/s8/2/U/f/O/y/UfOyA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3435857408-3435925662"
+      }
+    ]
+  },
+  {
+    "title": "Sound of Freedom ; Sonido de Libertad",
+    "image": "https://image.tmdb.org/t/p/w185/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
+    "rating": "8.7",
+    "year": "Jul. 03, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/m/A/6/EmA6n.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sueños sobre hielo",
+    "image": "https://image.tmdb.org/t/p/w185/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg",
+    "rating": "6",
+    "year": "Mar. 17, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Casey Carlyle es una estudiante aplicada a la que se le da bastante bien la física. Su madre, Joan, es una profesora de literatura que ya tiene planeado el brillante futuro académico y personal de su hija. Para conseguir una beca de física para la universidad de Harvard, Casey decide hacer un trabajo personal sobre el patinaje artístico, para probar así que hay fórmulas físicas en la inercia de las patinadoras.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/36/s8/2/C/x/j/p/Cxjpy.aaa.mp4"
       }
     ]
   },
   {
     "title": "Splice: Experimento mortal",
-    "url": "https://zonaaps.com/movies/splice-experimento-mortal/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/07/rIYJsichDJbxGFGMyNRwIsQ144P-185x278.jpg",
     "rating": "5.8",
+    "year": "Jun. 03, 2010",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Clive (Adrien Brody) y Elsa (Sarah Polley) son dos brillantes científicos que, por medio de la ingeniería genética, se dedican a crear variaciones de especies conocidas. Aunque han alcanzado el éxito, su ambición les hará perder el control, cuando, en secreto, decidan llevar sus experimentos más allá de la moral. Combinando ADN humano en sus experimentos genéticos obtendrán un nuevo escalón en el árbol evolutivo actual.",
     "genres": [
       "Ciencia ficción",
@@ -258,15 +234,41 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDA4LzJyMzM2cHU0bHB1cV9uL2luZGV4LXYxLWExLm0zdTg_dD1URHB0enN2VUhtRnZ1TWlwVVhoejhsR2ctT1h6Rk1JMFJsUTdMb0tOWVhVJnM9MTc4NzMzODY1MCZlPTQzMjAwJnY9MzI3NzUyMTg1Jmk9MC4zJnNwPTAmZnI9MnIzMzZwdTRscHVxJnI9ZQ"
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDA4LzJyMzM2cHU0bHB1cV9uL2luZGV4LXYxLWExLm0zdTg_dD0zbkZxVjQyWlF0bzBlLTNucGVyNmI2Y2pBdU5oQjBGbkdzLVNJeTlOMmJ3JnM9MTc4NzM2MDgwMiZlPTQzMjAwJnY9MzI3NzUyMTg1Jmk9MC4zJnNwPTAmZnI9MnIzMzZwdTRscHVxJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Super Mario Galaxy La película",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/pLQQMO77ohibggTKV6wmFs5LHYf-185x278.jpg",
+    "rating": "N/A",
+    "year": "Apr. 01, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Ver Super Mario Galaxy La película. Super Mario Galaxy La película es una emocionante aventura espacial protagonizada por los icónicos hermanos Mario y Luigi. En esta nueva historia intergaláctica, los héroes del Reino Champiñón deberán enfrentarse a una poderosa amenaza: Bowser Jr., quien está decidido a liberar a su padre y restaurar el legado del imperio Koopa utilizando el poder de las estrellas. Si estás buscando dónde disfrutar de este increíble estreno, en Movie Days puedes ver Super Mario Galaxy La película completa y GRATIS en HD. Nuestra plataforma te ofrece la mejor calidad de streaming para que acompañes a Mario, Luigi y Estela (Rosalina) en un viaje épico a través de galaxias llenas de peligros, misterios y desafíos visuales que cautivarán a toda la familia. Acompañados de viejos aliados y nuevos personajes, los hermanos emprenden una misión rescatando a los Destellos (Lumas) mientras exploran mundos con gravedades imposibles. Con acción, humor y una historia cargada de nostalgia para los fans de los videojuegos de Nintendo, esta película promete conquistar tanto a los seguidores clásicos como a las nuevas generaciones que buscan una aventura mágica y llena de valentía. Quizás te podría gustar:Puedes ver la primera película de Super Mario Bros aquí Super Mario 2023 o explorar más títulos del género de Animación en nuestra web. Más detalles técnicos en la ficha de TMDB. &nbsp;",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3017804800-3017864634"
       }
     ]
   },
   {
     "title": "Spider-Man. Un nuevo universo",
-    "url": "https://zonaaps.com/movies/spider-man-un-nuevo-universo/",
     "image": "https://image.tmdb.org/t/p/w185/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
     "rating": "8.4",
+    "year": "Dec. 06, 2018",
+    "quality": "720 HD",
+    "languages": [],
     "description": "",
     "genres": [
       "Acción",
@@ -286,27 +288,12 @@
     ]
   },
   {
-    "title": "Sound of Freedom &#8211; Sonido de Libertad",
-    "url": "https://zonaaps.com/movies/sound-of-freedom-sonido-de-libertad/",
-    "image": "https://image.tmdb.org/t/p/w185/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
-    "rating": "8.7",
-    "description": "",
-    "genres": [
-      "Acción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/m/A/6/EmA6n.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "SuperCan &#8211; Superdog",
-    "url": "https://zonaaps.com/movies/supercan-superdog/",
+    "title": "SuperCan ; Superdog",
     "image": "https://image.tmdb.org/t/p/w185/kHlXtndIRk8k1pEmE6cQyRGvoU1.jpg",
     "rating": "4.8",
+    "year": "Aug. 03, 2007",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Basada en la serie clásica de dibujos animados “Underdog”. Tras un accidente en el misterioso laboratorio del científico chiflado, el Dr. Simon Barsinister (Peter Dinklage), un perro de raza beagle descubre de repente que tiene unos poderes inimaginables además de la capacidad de hablar. Ataviado con un traje de superhéroe, Superdog (voz original de Jason Lee) jura proteger a los atormentados ciudadanos de Capitol City y, en especial, a una bonita spaniel llamada Polly Purebread (voz de Amy Adams). Cuando un siniestro plan de Barsinister y su secuaz Cad (Patrick Warburton) amenaza con destruir Capitol City, sólo Superdog puede arreglar las cosas…",
     "genres": [
       "Acción",
@@ -325,9 +312,11 @@
   },
   {
     "title": "Super Me",
-    "url": "https://zonaaps.com/movies/super-me/",
     "image": "https://image.tmdb.org/t/p/w185/wEZ9si3boJMHXvNHbi7gHb1ajL0.jpg",
     "rating": "5.8",
+    "year": "Apr. 09, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "SANG Yu está tan agotado por tratar de mantenerse despierto. Cada vez que cierra los ojos, un demonio lo persigue y lo mata en sus sueños. Una noche, SANG se da cuenta de que tiene un poder especial: puede hacer realidad los tesoros de sus sueños. Casi de la noche a la mañana, se convierte en un hombre rico. Pero su riqueza también atrae la atención de un gángster despiadado.",
     "genres": [
       "Aventura",
@@ -342,10 +331,32 @@
     ]
   },
   {
+    "title": "Supergirl",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/diEz9JG1UHEDTN0Yeri5sJZD7PL-185x278.jpg",
+    "rating": "8.8",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una «búsqueda asesina de venganza».",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/78/s8/2/M/i/h/K/MihKA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3330606592-3330672832"
+      }
+    ]
+  },
+  {
     "title": "Superpoli de centro comercial",
-    "url": "https://zonaaps.com/movies/superpoli-de-centro-comercial/",
     "image": "https://image.tmdb.org/t/p/w185/cC7BSAlGAOZt5XWEU2kyw1VW7RJ.jpg",
     "rating": "5.3",
+    "year": "Jan. 15, 2009",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Paul Blart (Kevin James, «Hitch») es un padre soltero del extrarradio que trata de ganarse la vida como guardia de seguridad en un gran centro comercial de Nueva Jersey. A pesar de que nadie toma su trabajo en serio, Paul considera que está al frente de la seguridad del recinto. Cuando un atraco cierra las puertas del centro comercial, el oficial de seguridad más extraordinario de Jersey tendrá que convertirse en un policía de verdad para poder salvar la situación.",
     "genres": [
       "Acción",
@@ -356,33 +367,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/T/1/v/5/T1v5t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Te Amaré Por Siempre",
-    "url": "https://zonaaps.com/movies/te-amare-por-siempre/",
-    "image": "https://image.tmdb.org/t/p/w185/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg",
-    "rating": "7.1",
-    "description": "Clare (Rachel McAdams) ha estado siempre enamorada de Henry (Eric Bana), un bibliotecario de Chicago. Está convencida de que están destinados a vivir juntos, aunque no sepa cuándo tendrán que volver a separarse: Henry es un viajero del tiempo, con una rara anomalía genética que lo condena a vivir su vida en una escala de tiempo cambiante, avanzando y retrocediendo a través de los años sin ningún control. A pesar de que los viajes de Henry son tan imprevisibles que Clare nunca sabe cuándo volverán a verse, intenta desesperadamente adaptarse a esa vida, pues lo que sí sabe es que no podría vivir sin Henry.",
-    "genres": [
-      "Drama",
-      "Fantasía",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/e5/s8/2/8/R/e/p/8Repy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/1/v/5/T1v5t.aaa.mp4"
       }
     ]
   },
   {
     "title": "Tadeo Jones 2: El secreto del rey Midas",
-    "url": "https://zonaaps.com/movies/tadeo-jones-2-el-secreto-del-rey-midas/",
     "image": "https://image.tmdb.org/t/p/w185/zsaGcfQcGuRmSHfvQEbjj4gR9jP.jpg",
     "rating": "0",
+    "year": "Mar. 25, 2017",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Segunda entrega de las aventuras de este albañil con un espíritu aventurero y soñador que acaba como arqueólogo por casualidad. En esta ocasión, Tadeo Jones viajará hasta Las Vegas. Allí acude a la presentación del último descubrimiento de la arqueóloga Sara Lavroff. Se trata de un papiro que demuestra que el Collar de Midas, el Rey que convertía todo lo que tocaba en oro, existe de verdad. Pero las cosas se complicarán cuando un malvado ricachón secuestre a Sara para así hacerse con la reliquia y conseguir riquezas infinitas. Será entonces cuando Tadeo emprenderá un viaje por medio mundo para evitarlo. Junto a sus fieles amigos el loro Belzoni y su perro Jeff, Tadeo tendrá que echar mano de su ingenio para rescatar a Sara, en un arriesgado viaje, donde encontrará nuevos amigos… y nuevos villanos. ¿Conseguirá salvar a Sara y evitar que el villano se haga con el poder?",
     "genres": [
       "Animación",
@@ -398,10 +393,68 @@
     ]
   },
   {
+    "title": "Speak",
+    "image": "https://image.tmdb.org/t/p/w185/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
+    "rating": "7.2",
+    "year": "Jan. 20, 2004",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Melinda Sordino (Kristen Stewart), una adolescente traumatizada por un hecho que no quiere contar a nadie, ha dejado de hablar. Empecinada en su silencio, inicia otro año escolar, cerrada no sólo a quienes se burlan de su aislamiento, sino también a quienes quieren ayudarla.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/N/I/w/sNIwq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Spanglish",
+    "image": "https://image.tmdb.org/t/p/w185/z9ldwHfJhhYEZwHozTVLOF01rdE.jpg",
+    "rating": "6.4",
+    "year": "Dec. 17, 2004",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Flor (Paz Vega) es una mexicana que emigra a los Estados Unidos para poder ofrecer una vida mejor a su hija. Una vez allí consigue trabajo en casa de una acomodada familia, los Clasky (Adam Sandler y Téa Leoni), a pesar de la barrera que supone su desconocimiento del inglés.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/2/z/s/k2zsq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Te Amaré Por Siempre",
+    "image": "https://image.tmdb.org/t/p/w185/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg",
+    "rating": "7.1",
+    "year": "Aug. 14, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Clare (Rachel McAdams) ha estado siempre enamorada de Henry (Eric Bana), un bibliotecario de Chicago. Está convencida de que están destinados a vivir juntos, aunque no sepa cuándo tendrán que volver a separarse: Henry es un viajero del tiempo, con una rara anomalía genética que lo condena a vivir su vida en una escala de tiempo cambiante, avanzando y retrocediendo a través de los años sin ningún control. A pesar de que los viajes de Henry son tan imprevisibles que Clare nunca sabe cuándo volverán a verse, intenta desesperadamente adaptarse a esa vida, pues lo que sí sabe es que no podría vivir sin Henry.",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/e5/s8/2/8/R/e/p/8Repy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Spider-Man. Lejos de casa",
-    "url": "https://zonaaps.com/movies/spider-man-lejos-de-casa/",
     "image": "https://image.tmdb.org/t/p/w185/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg",
     "rating": "7.4",
+    "year": "Jun. 28, 2019",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
     "genres": [
       "Acción",
@@ -416,45 +469,12 @@
     ]
   },
   {
-    "title": "Speak",
-    "url": "https://zonaaps.com/movies/speak/",
-    "image": "https://image.tmdb.org/t/p/w185/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
-    "rating": "7.2",
-    "description": "Melinda Sordino (Kristen Stewart), una adolescente traumatizada por un hecho que no quiere contar a nadie, ha dejado de hablar. Empecinada en su silencio, inicia otro año escolar, cerrada no sólo a quienes se burlan de su aislamiento, sino también a quienes quieren ayudarla.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/N/I/w/sNIwq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Spy x Family Código: Blanco",
-    "url": "https://zonaaps.com/movies/spy-x-family-codigo-blanco/",
-    "image": "https://image.tmdb.org/t/p/w185/jfjW3mQiCTL001ZVfUQ8bQ19zTD.jpg",
-    "rating": "7.4",
-    "description": "Él es un espía. Ella es una asesina. Juntos, Loid y Yor se guardan su doble vida para sí mismos mientras pretenden ser la familia perfecta. Sin embargo, su hija adoptiva Anya, una telépata, conoce apasionantes secretos de ambos sin que ellos lo sepan. Con el pretexto de llevar a su familia a una escapada de fin de semana invernal, el intento de Loid de avanzar en su misión actual, la Operación Strix, resulta difícil cuando Anya se involucra por error y desencadena eventos que amenazan la paz mundial.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/y/E/V/F/yEVFr.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Ted 2",
-    "url": "https://zonaaps.com/movies/ted-2/",
     "image": "https://image.tmdb.org/t/p/w185/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
     "rating": "6.3",
+    "year": "Jun. 25, 2015",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
     "genres": [
       "Comedia",
@@ -463,15 +483,19 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4"
       }
     ]
   },
   {
     "title": "Tekken: Blood Vengeance",
-    "url": "https://zonaaps.com/movies/tekken-blood-vengeance/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/05/aq5rke2oofY3xHCXEdWNk4cTpKY-185x278.jpg",
     "rating": "5.8",
+    "year": "Jul. 26, 2011",
+    "quality": "1080p HD",
+    "languages": [
+      "subtitulado"
+    ],
     "description": "Nos narra la historia de Xiaoyu Ling, una experta en artes marciales y estudiante de instituto a quien la Corporación G ha ordenado infiltrarse en una escuela internacional de Kioto para obtener información sobre el misterioso estudiante Shin Kamiya. Antes de que pueda hacer grandes progresos en su investigación, un asaltante desconocido secuestra a Shin. Xiaoyu va a su rescate y se adentra cada vez más en la historia de Shin, llegando a descubrir el temible corazón del Mishima Zaibatsu. La conspiración, teñida de sangre, de Jin Kazama, Kazuya Mishima y el difunto Heihachi Mishima.",
     "genres": [
       "Acción",
@@ -488,9 +512,11 @@
   },
   {
     "title": "Telma: La Unicornio",
-    "url": "https://zonaaps.com/movies/telma-la-unicornio/",
     "image": "https://image.tmdb.org/t/p/w185/t2QbM7VgCPMZmSwGMNKuNIiRFZM.jpg",
     "rating": "5.7",
+    "year": "May. 17, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una poni cantante que sueña con el estrellato consigue la fama instantánea cuando se convierte en una brillante unicornio…, pero ser una celebridad no es tan sencillo.",
     "genres": [
       "Animación",
@@ -500,15 +526,56 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/f/S/z/b/fSzby.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/08/s8/2/f/S/z/b/fSzby.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Temple Grandin",
+    "image": "https://image.tmdb.org/t/p/w185/7zcylW4oBLAaShlnUNfrtRZy3Iu.jpg",
+    "rating": "8.2",
+    "year": "Feb. 06, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia de una mujer extraordinaria a la que le diagnosticaron autismo cuando era niña. Sin embargo, Temple Grandin pudo superar obstáculos fatídicos y se convirtió en científica, escritora y pionera de la educación autista.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/e1/s8/2/m/w/c/u/mwcuy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Terminator",
+    "image": "https://image.tmdb.org/t/p/w185/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg",
+    "rating": "0",
+    "year": "Oct. 26, 1984",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0"
       }
     ]
   },
   {
     "title": "Terminator 2: El juicio final",
-    "url": "https://zonaaps.com/movies/terminator-2-el-juicio-final/",
     "image": "https://image.tmdb.org/t/p/w185/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
     "rating": "8.6",
+    "year": "Jul. 03, 1991",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
     "genres": [
       "Acción",
@@ -523,61 +590,37 @@
     ]
   },
   {
-    "title": "Temple Grandin",
-    "url": "https://zonaaps.com/movies/temple-grandin/",
-    "image": "https://image.tmdb.org/t/p/w185/7zcylW4oBLAaShlnUNfrtRZy3Iu.jpg",
-    "rating": "8.2",
-    "description": "La historia de una mujer extraordinaria a la que le diagnosticaron autismo cuando era niña. Sin embargo, Temple Grandin pudo superar obstáculos fatídicos y se convirtió en científica, escritora y pionera de la educación autista.",
+    "title": "Supercool: Una noche de locura",
+    "image": "https://image.tmdb.org/t/p/w185/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg",
+    "rating": "5.3",
+    "year": "Jul. 02, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mejores amigos, Neil y Gilbert comienzan su último año de secundaria con grandes esperanzas y aspiraciones. Neil siempre ha fantaseado con ser lo suficientemente genial como para salir con su enamorado de mucho tiempo y Gilbert siempre ha soñado con ser una súper estrella de las redes sociales. Después de lo que es, según todos los informes, un primer día muy decepcionante y vergonzoso en la escuela, Neil pide un deseo mágico de ser genial justo en el momento mágico en que el reloj marca las 11:11. A la mañana siguiente, Neil se despierta con una realidad que proviene directamente de los cómics de sus sueños.",
     "genres": [
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/e1/s8/2/m/w/c/u/mwcuy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Spanglish",
-    "url": "https://zonaaps.com/movies/spanglish/",
-    "image": "https://image.tmdb.org/t/p/w185/z9ldwHfJhhYEZwHozTVLOF01rdE.jpg",
-    "rating": "6.4",
-    "description": "Flor (Paz Vega) es una mexicana que emigra a los Estados Unidos para poder ofrecer una vida mejor a su hija. Una vez allí consigue trabajo en casa de una acomodada familia, los Clasky (Adam Sandler y Téa Leoni), a pesar de la barrera que supone su desconocimiento del inglés.",
-    "genres": [
+      "Acción",
       "Comedia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/2/z/s/k2zsq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Terminator",
-    "url": "https://zonaaps.com/movies/terminator/",
-    "image": "https://image.tmdb.org/t/p/w185/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg",
-    "rating": "0",
-    "description": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.aaa.mp4"
+      },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.caa.mp4"
       }
     ]
   },
   {
-    "title": "Terremoto &#8211; San Andrés",
-    "url": "https://zonaaps.com/movies/terremoto-san-andres/",
+    "title": "Terremoto ; San Andrés",
     "image": "https://zonaaps.com/wp-content/uploads/2026/06/uC4uhJuyOxZQhMcJoKQWbe667Sx-185x278.jpg",
     "rating": "6.1",
+    "year": "May. 27, 2015",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija, Blake. Pero su tortuoso viaje hacia el norte solamente es el comienzo del desomoronamiento de todo lo que creían firme en su vida.",
     "genres": [
       "Acción",
@@ -593,9 +636,11 @@
   },
   {
     "title": "Terrifier",
-    "url": "https://zonaaps.com/movies/terrifier/",
     "image": "https://image.tmdb.org/t/p/w185/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg",
     "rating": "5.6",
+    "year": "Jan. 25, 2018",
+    "quality": "720p HD",
+    "languages": [],
     "description": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
     "genres": [
       "Suspense",
@@ -609,10 +654,56 @@
     ]
   },
   {
+    "title": "Superniños",
+    "image": "https://image.tmdb.org/t/p/w185/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg",
+    "rating": "4.7",
+    "year": "Dec. 25, 2020",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando unos invasores alienígenas capturan a los superhéroes de la Tierra, sus hijos tienen que aprender a trabajar en equipo parea rescatarlos… y salvar el planeta.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/u/O/_/m/uO_ms.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/u/O/_/m/uO_ms.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Terrifier 3 ; Terrerife 3",
+    "image": "https://image.tmdb.org/t/p/w185/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg",
+    "rating": "7.2",
+    "year": "Oct. 09, 2024",
+    "quality": "BBRIP",
+    "languages": [],
+    "description": "Secuela de «Terrifier 2», ambientada en el periodo navideño.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/S/s/m/QSsmu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Stopmotion",
-    "url": "https://zonaaps.com/movies/stopmotion/",
     "image": "https://image.tmdb.org/t/p/w185/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
     "rating": "5.6",
+    "year": "Feb. 22, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "",
     "genres": [
       "Terror"
@@ -625,27 +716,60 @@
     ]
   },
   {
-    "title": "Terror en Silent Hill: Regreso al infierno &#8211; Return to Silent Hill (2026)",
-    "url": "https://zonaaps.com/movies/terror-en-silent-hill-regreso-al-infierno/",
-    "image": "https://image.tmdb.org/t/p/w185/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
-    "rating": "4.4",
-    "description": "Tras recibir una misteriosa carta, James Sunderland conduce hacía un pueblo reconocible en la búsqueda de su amor perdido.",
+    "title": "Tarot",
+    "image": "https://image.tmdb.org/t/p/w185/mGuNJpSbaKcpsfDf05VAcN9h9vb.jpg",
+    "rating": "5",
+    "year": "May. 01, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un grupo de amigos de la universidad comienzan a morir de maneras relacionadas con su fortuna después de que les lean los horóscopos.",
     "genres": [
-      "Misterio",
+      "Suspense",
       "Terror"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=834665472-834729171"
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/P/G/3/XPG3r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/P/G/3/XPG3r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Superman Regresa",
+    "image": "https://image.tmdb.org/t/p/w185/oD94EXP5UDpzhZGhaGslDv6H8pR.jpg",
+    "rating": "6.1",
+    "year": "Jun. 28, 2006",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/h/_/q/ph_qo.caa.mp4"
       }
     ]
   },
   {
     "title": "Te Van A Matar",
-    "url": "https://zonaaps.com/movies/te-van-a-matar/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/06/jOYxV166K7b7HWnswjoZKxi3sux-185x278.jpg",
     "rating": "6.3",
+    "year": "Mar. 25, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
     "genres": [
       "Acción",
@@ -655,15 +779,38 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDEwLzI2dmhmemIwZ291ZV9uL2luZGV4LXYxLWExLm0zdTg_dD05QmEwU3FZOWYtTmFDd1JsSGhYb0dvcmgya29nX1RFemxhd0lNSUVEZTZFJnM9MTc4NzMzODY1OCZlPTQzMjAwJnY9MzIyOTg0NjEyJmk9MC4wJnNwPTAmZnI9MjZ2aGZ6YjBnb3VlJnI9ZQ"
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDEwLzI2dmhmemIwZ291ZV9uL2luZGV4LXYxLWExLm0zdTg_dD1qaEJsejFSSmRTbTlldWY4WjBzUlJUajhGbW90QjNnc0xYekVfLWRYVHJvJnM9MTc4NzM2MDgxNCZlPTQzMjAwJnY9MzMxOTI0NTI1Jmk9MC4wJnNwPTAmZnI9MjZ2aGZ6YjBnb3VlJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Ted 1",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/1QVZXQQHCEIj8lyUhdBYd2qOYtq-185x278.jpg",
+    "rating": "6.9",
+    "year": "Jun. 29, 2012",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvN2Y5cm15YXJscTg5X24vaW5kZXgtdjEtYTEubTN1OD90PUhuMlNuZ05rSFozNGtlaXhubWtySDYwNmR2X09YRXVBQlNTeFJlQkF1OHMmcz0xNzg3MzYwODAzJmU9NDMyMDAmdj0zMjUyNjgxNzkmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
       }
     ]
   },
   {
     "title": "Terror en Silent Hill 2: La revelación",
-    "url": "https://zonaaps.com/movies/terror-en-silent-hill-2-la-revelacion/",
     "image": "https://image.tmdb.org/t/p/w185/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",
     "rating": "4.9",
+    "year": "Oct. 10, 2012",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Heather Mason y su padre han estado corriendo, siempre un paso por delante de las fuerzas peligrosas que ella no entiende completamente. Ahora en la víspera de su cumpleaños 18, plagada de horribles pesadillas y la desaparición de su padre, Heather descubre que no es Que ella cree que es. La revelación la lleva a profundizar en un mundo demoníaco que amenaza con atraparla para siempre.",
     "genres": [
       "Misterio",
@@ -678,61 +825,23 @@
     ]
   },
   {
-    "title": "Ted 1",
-    "url": "https://zonaaps.com/movies/ted/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/1QVZXQQHCEIj8lyUhdBYd2qOYtq-185x278.jpg",
-    "rating": "6.9",
-    "description": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
-    "genres": [
-      "Comedia",
-      "Fantasía"
+    "title": "Terror en Silent Hill: Regreso al infierno ; Return to Silent Hill (2026)",
+    "image": "https://image.tmdb.org/t/p/w185/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
+    "rating": "4.4",
+    "year": "Jan. 21, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
     ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvN2Y5cm15YXJscTg5X24vaW5kZXgtdjEtYTEubTN1OD90PUtkR3Y1SUhFY1dGRlg4dnRCS01wMmVkakpxTldxZnVXMnFQUFNyZi1CTTAmcz0xNzg3MzM4NjUxJmU9NDMyMDAmdj0zMjUyNjgxNzkmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
-    "title": "Súper Mario Bros: La película",
-    "url": "https://zonaaps.com/movies/super-mario-bros-la-pelicula/",
-    "image": "https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-    "rating": "7.4",
-    "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+    "description": "Tras recibir una misteriosa carta, James Sunderland conduce hacía un pueblo reconocible en la búsqueda de su amor perdido.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "The Alto Knights: Mafia y poder",
-    "url": "https://zonaaps.com/movies/the-alto-knights-mafia-y-poder/",
-    "image": "https://image.tmdb.org/t/p/w185/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg",
-    "rating": "5.7",
-    "description": "Dos de los jefes del crimen organizado más conocidos de Nueva York, Frank Costello y Vito Genovese, compiten por el control de las calles de la ciudad. Aunque eran mejores amigos, los celos mezquinos y una serie de traiciones los colocan en una carrera mortal que cambiará la Mafia (y Estados Unidos) para siempre.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Historia"
+      "Misterio",
+      "Terror"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/42/s8/2/x/C/m/I/xCmIy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=969988608-970062652"
+        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=834665472-834729171"
       }
     ]
   }

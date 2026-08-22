@@ -1,27 +1,127 @@
 [
   {
-    "title": "Kong: La isla calavera",
-    "url": "https://zonaaps.com/movies/kong-la-isla-calavera/",
-    "image": "https://image.tmdb.org/t/p/w185/myOdovPayRRitZDZSutI07eNANM.jpg",
-    "rating": "6.7",
-    "description": "En los años 70, un variopinto grupo de exploradores y soldados es reclutado para viajar a una misteriosa isla del Pacífico. Entre ellos están el capitán James Conrad, el teniente coronel Packard y una foto-periodista. Pero al adentrarse en esta bella pero traicionera isla, los exploradores encontrarán algo absolutamente sorprendente. Sin saberlo, estarán invadiendo los dominios del mítico Kong, el gigante gorila rey de esta isla. Será Marlow, un peculiar habitante del lugar, quien les enseñe los secretos de Isla Calavera, además del resto de seres monstruosos que la habitan.",
+    "title": "La Foquita: El 10 de la Calle",
+    "image": "https://image.tmdb.org/t/p/w185/lyvD8rs2jv8P3IdVm7qcrvgr6Ns.jpg",
+    "rating": "5.5",
+    "year": "Jan. 30, 2020",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La vida del famoso futbolista Jefferson Farfán, desde las adversidades durante su infancia en Lima hasta el partido épico que llevó a Perú de regreso a la Copa Mundial.",
     "genres": [
-      "Acción",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/62/s8/2/Y/7/s/G/Y7sGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717438464-717492863"
+      }
+    ]
+  },
+  {
+    "title": "La fiesta de las salchichas",
+    "image": "https://image.tmdb.org/t/p/w185/4YiHAxavhMLaBqOzx7ZirmOwNkD.jpg",
+    "rating": "6.1",
+    "year": "Jul. 11, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La trama sigue el drama de una salchicha y sus amigos, otros productos de supermercado, cuando descubren que serán brutalmente asesinados al llegar a casa de sus compradores. Es entonces que necesitan encontrar una manera de regresar al supermercado y avisar a sus amigos de lo que realmente sucede con la comida.",
+    "genres": [
+      "Animación",
       "Aventura",
+      "Comedia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/Q/Q/q/dQQqn.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/v/0/W/W/v0WWt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Cenicienta",
+    "image": "https://image.tmdb.org/t/p/w185/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg",
+    "rating": "7.3",
+    "year": "Feb. 22, 1950",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cenicienta vive con su madrastra y las dos hijas de ésta. Las tres le hacen la vida imposible y la tienen trabajando sin parar en las labores del hogar. Pero ella establece amistad con los animales de la casa, que le ayudarán a asistir al baile Real al que su madre no le permite ir.",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/J/a/k/v/Jakvr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/J/a/k/v/Jakvr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/J/a/k/v/Jakvr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/J/a/k/v/Jakvr.oaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La cabaña",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/d7qG9sdCTo3uBeWXpxKehplvr8B-185x278.jpg",
+    "rating": "6.3",
+    "year": "Mar. 02, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Después de sufrir una tragedia familiar, Mack Phillips cae en una profunda depresión que le lleva a cuestionar todas sus creencias. Sumido en una crisis de fe, recibe una enigmática carta donde un misterioso personaje le cita en una cabaña abandonada en lo más profundo de los bosques de Oregón. A pesar de sus dudas, Mack viaja a la cabaña, donde se encontrará con alguien inesperado. Este encuentro conducirá a Mack a enfrentarse a importantes verdades, que no sólo transformarán su comprensión de la tragedia sino que harán que su vida cambie para siempre.",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNS52aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvZTFuNmlnb3dmaHZ4X24vaW5kZXgtdjEtYTEubTN1OD90PWE4N0hDUVRuajR3X25Rd184U3kzVnpSNzVOV05XaklmMk5zYkJqeG9aYmcmcz0xNzg3MzYwODE1JmU9NDMyMDAmdj0zMjU0MDU1MzYmc3J2PXMxMyZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "La guerra de los mundos",
+    "image": "https://image.tmdb.org/t/p/w185/ahcOViJGgwGojoncRVDMq5R7WDN.jpg",
+    "rating": "6.5",
+    "year": "Jun. 28, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ray Ferrier es un descargador de muelle, divorciado y padre nada modélico. Poco después de que su ex mujer y su nuevo marido se vayan después de dejar a Robbie, su hijo adolescente, y a su pequeña hija Rachel para una de sus contadas visitas, estalla una tremenda e inesperada tormenta eléctrica. Unos momentos después, en un cruce cerca de la casa, Ray es testigo de un acontecimiento que cambiará su vida y la de los suyos para siempre. Una enorme máquina de tres patas emerge del suelo y antes de que alguien pueda hacer algo, arrasa todo lo que está a su alcance. Un día como otro cualquiera acaba de convertirse en la fecha más extraordinaria de su vida: el primer ataque alienígena contra la Tierra.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/D/B/f/vDBft.aaa.mp4"
       }
     ]
   },
   {
     "title": "La bella y la bestia",
-    "url": "https://zonaaps.com/movies/la-bella-y-la-bestia/",
     "image": "https://image.tmdb.org/t/p/w185/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg",
     "rating": "7.1",
+    "year": "Mar. 16, 2017",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.",
     "genres": [
       "Familia",
@@ -40,60 +140,32 @@
     ]
   },
   {
-    "title": "La fiesta de las salchichas",
-    "url": "https://zonaaps.com/movies/la-fiesta-de-las-salchichas/",
-    "image": "https://image.tmdb.org/t/p/w185/4YiHAxavhMLaBqOzx7ZirmOwNkD.jpg",
-    "rating": "6.1",
-    "description": "La trama sigue el drama de una salchicha y sus amigos, otros productos de supermercado, cuando descubren que serán brutalmente asesinados al llegar a casa de sus compradores. Es entonces que necesitan encontrar una manera de regresar al supermercado y avisar a sus amigos de lo que realmente sucede con la comida.",
+    "title": "Kong: La isla calavera",
+    "image": "https://image.tmdb.org/t/p/w185/myOdovPayRRitZDZSutI07eNANM.jpg",
+    "rating": "6.7",
+    "year": "Mar. 08, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En los años 70, un variopinto grupo de exploradores y soldados es reclutado para viajar a una misteriosa isla del Pacífico. Entre ellos están el capitán James Conrad, el teniente coronel Packard y una foto-periodista. Pero al adentrarse en esta bella pero traicionera isla, los exploradores encontrarán algo absolutamente sorprendente. Sin saberlo, estarán invadiendo los dominios del mítico Kong, el gigante gorila rey de esta isla. Será Marlow, un peculiar habitante del lugar, quien les enseñe los secretos de Isla Calavera, además del resto de seres monstruosos que la habitan.",
     "genres": [
-      "Animación",
+      "Acción",
       "Aventura",
-      "Comedia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/v/0/W/W/v0WWt.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/Q/Q/q/dQQqn.caa.mp4"
       }
     ]
   },
   {
-    "title": "La Cenicienta",
-    "url": "https://zonaaps.com/movies/la-cenicienta/",
-    "image": "https://image.tmdb.org/t/p/w185/5kqNkGE5PFt4EOloc90LMUoXqxb.jpg",
-    "rating": "7.3",
-    "description": "Cenicienta vive con su madrastra y las dos hijas de ésta. Las tres le hacen la vida imposible y la tienen trabajando sin parar en las labores del hogar. Pero ella establece amistad con los animales de la casa, que le ayudarán a asistir al baile Real al que su madre no le permite ir.",
-    "genres": [
-      "Animación",
-      "Familia",
-      "Fantasía",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/J/a/k/v/Jakvr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/J/a/k/v/Jakvr.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/J/a/k/v/Jakvr.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/J/a/k/v/Jakvr.oaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La autopsia de Jane Doe &#8211; La Morgue",
-    "url": "https://zonaaps.com/movies/la-autopsia-de-jane-doe-la-morgue/",
+    "title": "La autopsia de Jane Doe ; La Morgue",
     "image": "https://image.tmdb.org/t/p/w185/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",
     "rating": "6.8",
+    "year": "Dec. 21, 2016",
+    "quality": "720 HD",
+    "languages": [],
     "description": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
     "genres": [
       "Misterio",
@@ -107,28 +179,12 @@
     ]
   },
   {
-    "title": "La guerra de los mundos",
-    "url": "https://zonaaps.com/movies/la-guerra-de-los-mundos/",
-    "image": "https://image.tmdb.org/t/p/w185/ahcOViJGgwGojoncRVDMq5R7WDN.jpg",
-    "rating": "6.5",
-    "description": "Ray Ferrier es un descargador de muelle, divorciado y padre nada modélico. Poco después de que su ex mujer y su nuevo marido se vayan después de dejar a Robbie, su hijo adolescente, y a su pequeña hija Rachel para una de sus contadas visitas, estalla una tremenda e inesperada tormenta eléctrica. Unos momentos después, en un cruce cerca de la casa, Ray es testigo de un acontecimiento que cambiará su vida y la de los suyos para siempre. Una enorme máquina de tres patas emerge del suelo y antes de que alguien pueda hacer algo, arrasa todo lo que está a su alcance. Un día como otro cualquiera acaba de convertirse en la fecha más extraordinaria de su vida: el primer ataque alienígena contra la Tierra.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/D/B/f/vDBft.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La hera del Hielo 4: La formación de los continentes &#8211; Ice Age 4",
-    "url": "https://zonaaps.com/movies/ice-age-4-la-formacion-de-los-continentes/",
+    "title": "La hera del Hielo 4: La formación de los continentes ; Ice Age 4",
     "image": "https://image.tmdb.org/t/p/w185/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg",
     "rating": "6.5",
+    "year": "Jun. 27, 2012",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La loca persecución de Scrat por su escurridiza bellota desde el principio de los tiempos, tiene consecuencias que cambiarán el mundo: un cataclismo continental que desencadenará la mayor de las aventuras para Manny, Diego y Sid. En medio de estas agitaciones, Sid se reencuentra con su Abuelita Gruñona y la manada tropieza con una extraña cuadrilla de piratas de altamar decididos a impedirles su regreso a casa.",
     "genres": [
       "Animación",
@@ -139,33 +195,19 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/T/9/V/_/T9V_s.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La caza",
-    "url": "https://zonaaps.com/movies/la-caza/",
-    "image": "https://image.tmdb.org/t/p/w185/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg",
-    "rating": "6.5",
-    "description": "Doce extraños se despiertan en el claro de un bosque con muchas preguntas sin respuesta. ¿Dónde están? ¿Cómo llegaron allí? ¿Y por qué o con qué propósito están ahí? La respuesta a todas esas preguntas es: La caza, un juego macabro ideado por miembros de las élites globales, que se reúnen en un punto remoto o una casa para cazar humanos por diversión. Ellos son las presas; el resto, los cazadores. Pero todo está a punto de cambiar cuando Crystal, una de las jóvenes que se encuentra entre los «cazados», le da la vuelta al juego y empieza a inclinar la balanza a su favor. Uno a uno, comienza a deshacerse de los miembros de la élite que pretende darles caza, con la intención de llegar hasta la misteriosa mujer (Hilary Swank) que mueve los hilos de todo aquello.",
-    "genres": [
-      "Acción",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/D/A/w/GDAwn.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/9/V/_/T9V_s.aaa.mp4"
       }
     ]
   },
   {
     "title": "La hermanastra fea",
-    "url": "https://zonaaps.com/movies/la-hermanastra-fea/",
     "image": "https://image.tmdb.org/t/p/w185/mk4vGUy03tUCgJsOuwkYy877RYo.jpg",
     "rating": "0",
+    "year": "Mar. 07, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Combinando comedia y terror, la película es una versión atrevida e inesperada del famoso cuento, vista a través de los ojos de Elvira, la hermanastra de Cenicienta. La sangrienta película sigue a Elvira en su lucha por competir con su increíblemente bella hermanastra en un reino donde la belleza es un negocio brutal. Elvira hará todo lo posible por atraer la atención del príncipe.",
     "genres": [
       "Comedia",
@@ -176,15 +218,20 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/38/s8/2/m/z/s/u/mzsuz.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/38/s8/2/m/z/s/u/mzsuz.aaa.mp4"
       }
     ]
   },
   {
-    "title": "La hora de la desaparición &#8211; Weapons",
-    "url": "https://zonaaps.com/movies/la-hora-de-la-desaparicion-weapons/",
+    "title": "La hora de la desaparición ; Weapons",
     "image": "https://image.tmdb.org/t/p/w185/cwjNSLj5FCkwFsTx7g57ybWQDcp.jpg",
     "rating": "7.9",
+    "year": "Aug. 06, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Cuando todos los niños de una secundaria, menos uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, toda la comunidad de un pequeño pueblo se pregunta quién (o qué) es responsable de su desaparición.",
     "genres": [
       "Misterio",
@@ -198,10 +245,15 @@
     ]
   },
   {
-    "title": "La idea de tenerte &#8211; La idea de Ti",
-    "url": "https://zonaaps.com/movies/la-idea-de-tenerte/",
+    "title": "La idea de tenerte ; La idea de Ti",
     "image": "https://zonaaps.com/wp-content/uploads/2026/05/heci4aAOBfN5I2BQ1QpVFE2o5qi-185x278.jpg",
     "rating": "6.6",
+    "year": "May. 02, 2024",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Solène, madre soltera de 40 años, comienza un romance inesperado con Hayes Campbell, de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
     "genres": [
       "Comedia",
@@ -216,248 +268,12 @@
     ]
   },
   {
-    "title": "La decisión de Anne",
-    "url": "https://zonaaps.com/movies/la-decision-de-anne/",
-    "image": "https://image.tmdb.org/t/p/w185/bvLsfZfaqGiq46lEbtWj7WuQjZ9.jpg",
-    "rating": "7.3",
-    "description": "La vida de Sara (Cameron Diaz) y Brian Fitzgerald (Jason Patric) cambia radicalmente cuando a su hija Kate (Vassilieva), de sólo dos años, le diagnostican una leucemia. Inmediatamente, Sara abandona su carrera de abogado para dedicarse por entero al cuidado de su hija. Su única esperanza para salvarla es tener otro hijo. La ingeniería genética es un campo que plantea aún cuestiones morales muy espinosas, pero para los Fitzgerald es la única opción. Así es cómo nace Anne (Breslin), y entre ella y Kate se establece una relación mucho más profunda de lo normal, sobre todo porque ambas tendrán que someterse a diversos tratamientos médicos y compartirán largas estancias en el hospital.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/i/J/Q/oiJQp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/i/J/Q/oiJQp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Foquita: El 10 de la Calle",
-    "url": "https://zonaaps.com/movies/la-foquita-el-10-de-la-calle/",
-    "image": "https://image.tmdb.org/t/p/w185/lyvD8rs2jv8P3IdVm7qcrvgr6Ns.jpg",
-    "rating": "5.5",
-    "description": "La vida del famoso futbolista Jefferson Farfán, desde las adversidades durante su infancia en Lima hasta el partido épico que llevó a Perú de regreso a la Copa Mundial.",
-    "genres": [
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/62/s8/2/Y/7/s/G/Y7sGz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717438464-717492863"
-      }
-    ]
-  },
-  {
-    "title": "La gran apuesta",
-    "url": "https://zonaaps.com/movies/la-gran-apuesta/",
-    "image": "https://image.tmdb.org/t/p/w185/p8bPJXPOZqGw8khHAAr0yUQxcGz.jpg",
-    "rating": "7.8",
-    "description": "Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: ‘La Gran Apuesta’… pero sus inversiones de riesgo les conducen al lado oscuro de la banca moderna, donde deben poner en duda todo y a todos…",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/r/h/Y/CrhYp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/r/h/Y/CrhYp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La legión del águila",
-    "url": "https://zonaaps.com/movies/la-legion-del-aguila/",
-    "image": "https://image.tmdb.org/t/p/w185/2YiuJ1XEaVC1PCXwgvOXs64vrPC.jpg",
-    "rating": "0",
-    "description": "Siglo II d.C. Un legionario romano, Marcus Aquila (Channing Tatum), y su esclavo celta Esca (Jamie Bell) emprenden la búsqueda de la Legión Novena, una compañía romana que desapareció veinte años atrás en alguna parte del Norte de Escocia y a cuyo frente se encontraba un general que era el padre de Marcus.",
-    "genres": [
-      "Aventura",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/14/s8/2/W/s/A/9/WsA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3516659200-3516729017"
-      }
-    ]
-  },
-  {
-    "title": "La leyenda de Hercules &#8211; Hercules 2",
-    "url": "https://zonaaps.com/movies/la-leyenda-de-hercules-hercules-2/",
-    "image": "https://image.tmdb.org/t/p/w185/zc6Cjed79ENqzktwQUeYkp0YWaQ.jpg",
-    "rating": "4.3",
-    "description": "La película nos sitúa en la antigua Grecia, en concreto en el año 1200 a.C. Allí, una reina sucumbe a la lujuria de Zeus y tiene un hijo con él. El niño se supone que es el encargado de acabar con el reino tirano del rey y restablecer el orden. Sin embargo, el príncipe, al que ponen de nombre Hércules (Kellan Lutz, Crepúsculo), no sabe quién es en realidad y solamente desea una cosa: el amor de la princesa de Creta, que se acaba de prometer con su hermano. Pero, cuando se entera de cuál es su destino, debe tomar una difícil decisión. Hércules debe elegir entre huir con su amada o convertirse en el héroe que se supone que debe ser. Su aventura le llevará a conocer lugares y seres tan peligrosos como extraños. Además, se enfrentará a la envidia de los mortales y a la ira de los dioses.",
-    "genres": [
-      "Acción",
-      "Aventura"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/ff/s8/2/2/r/r/F/2rrFx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Leyenda del Charro Negro",
-    "url": "https://zonaaps.com/movies/la-leyenda-del-charro-negro/",
-    "image": "https://image.tmdb.org/t/p/w185/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
-    "rating": "6.9",
-    "description": "Conoce la historia del Charro Negro, el hombre que pasa las noches a caballo buscando a sus víctimas. Después de liberar al Chupacabras, Leo San Juan, decide que es el momento de regresar junto con su hermano Nando a casa de su abuela. A mitad del camino, el Charro Negro logra confundir a Leo y por su culpa, una niña inocente es arrastrada al inframundo. Leo se ve obligado a reparar el daño. Sus amigos acudirán para intentar ayudarle y poder salir de allí cuanto antes. Pero no es casualidad que el Charro haya elegido involucrar a Leo, sus intenciones van más allá de conseguir un alma nueva.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Familia",
-      "Fantasía",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/7a/s8/2/r/1/Q/C/r1QCx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La cita perfecta",
-    "url": "https://zonaaps.com/movies/la-cita-perfecta/",
-    "image": "https://image.tmdb.org/t/p/w185/v8P8AI9xfz1AnX9ojfbn3lTo1e.jpg",
-    "rating": "5.8",
-    "description": "¿Buscas novio? Para pagarse la universidad, Brooks Rattigan (Noah Centineo) necesita dinero. Por eso, este estudiante de instituto crea una aplicación de citas y se ofrece como novio suplente. Claro que hacerse pasar cada noche por un chico distinto le llevará a cuestionarse quién es en realidad… y con quién quiere estar. ¿Hasta dónde será capaz Brooks de llegar para pagar sus estudios universitarios?",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/E/B/T/eEBTq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La liberación",
-    "url": "https://zonaaps.com/movies/la-liberacion/",
-    "image": "https://image.tmdb.org/t/p/w185/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
-    "rating": "5.3",
-    "description": "Ebony Jackson, una madre soltera, se muda con su familia para empezar desde cero, sin saber que en su nueva casa ya habita un malvado ente.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/n/n/G/v/nnGvt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "La Leyenda de los Chaneques",
-    "url": "https://zonaaps.com/movies/la-leyenda-de-los-chaneques/",
-    "image": "https://image.tmdb.org/t/p/w185/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
-    "rating": "6.4",
-    "description": "Cinco años después de renunciar a sus poderes y separarse de sus amigos, Leo San Juan ha comenzado una nueva vida tratando de concentrarse en su familia y su panadería, alejándose del peligro y las aventuras. Sin embargo, Leo sabe que sus planes pocas veces se cumplen y esta vez no es la excepción: mientras viaja con Nando a Veracruz, las cosas empiezan a ponerse raras, y desde lo más profundo de la selva de Tuxtlas, una antigua maldición ha regresado y solo Leo puede hacerle frente. .",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/m/m/h/G/mmhGu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Leyenda del Dragón &#8211; Guardiana de dragones (Dragonkeeper)",
-    "url": "https://zonaaps.com/movies/la-leyenda-del-dragon-guardiana-de-dragones-dragonkeeper/",
-    "image": "https://image.tmdb.org/t/p/w185/A09gQ5TTsvHcMqOIdL9PHj283E2.jpg",
-    "rating": "5.7",
-    "description": "Son tiempos oscuros en la China imperial. Los dragones, antaño amigos y sabios aliados de los hombres, han sido perseguidos durante años y encerrados en mazmorras. En una remota fortaleza en las montañas, una niña ayuda a escapar al último de los dragones y se une a él en una apasionante misión para recuperar el tesoro más preciado: El último huevo de dragón, robado por un malvado hechicero que quiere explotar su potencial mágico para alcanzar la inmortalidad. Adaptación de la primera de las seis novelas de la saga literaria homónima de Carole Wilkins.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/x/P/N/AxPNu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La maldición 3 (El Grito 3)",
-    "url": "https://zonaaps.com/movies/la-maldicion-3-el-grito-3/",
-    "image": "https://image.tmdb.org/t/p/w185/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg",
-    "rating": "0",
-    "description": "Jake, el único sobreviviente del Rencor 2 masacre, es torturado por visiones glaciales de Kayako y Toshio que han llevado a su hospitalización. El conserje de Jake, el Dr. Sullivan se decide a investigar sus cuentos que horrorizan. Explora su Chicago a casa, encontrando a otra familia en el borde de sucumbir a la maldición. Se hace claro que las historias aterradoras de Jake son verdad, y una mujer japonesa misteriosa puede ser la única esperanza de desterrar los espíritus para siempre&#8230; a menos que su plan destruya a todos ellos.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/db/s8/2/M/H/J/4/MHJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=712386048-712440568"
-      }
-    ]
-  },
-  {
-    "title": "La maldición 1 (El Grito)",
-    "url": "https://zonaaps.com/movies/la-maldicion-1-el-grito/",
-    "image": "https://image.tmdb.org/t/p/w185/qNBzIoK5f5YxroprnnoQvDbN37W.jpg",
-    "rating": "0",
-    "description": "La aparente normalidad de la fachada de una modesta casa de Tokio oculta el horror que se encuentra en su interior. La vivienda está poseída por una violenta plaga que destruye las vidas de todos los que entran en ella.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/cc/s8/2/Q/G/J/4/QGJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=721363456-721418507"
-      }
-    ]
-  },
-  {
-    "title": "La maldición 2",
-    "url": "https://zonaaps.com/movies/la-maldicion-2/",
-    "image": "https://image.tmdb.org/t/p/w185/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
-    "rating": "0",
-    "description": "Embarazada de su prometido, la actriz Masashi es contratada para trabajar en un reportaje titulado “La casa encantada” que investigará el asesinato varios años antes de la señora de la casa Kayako Saeki y la desaprición de su hijo Toshio. Desde entonces las familias que han vivido en la casa y las personas vinculadas a ellas han desaparecido o muerto misteriosamente. Durante el rodaje sólo Megumi, la estilista, se da cuenta de que Kayako y Toshio todavía rondan por la casa y decide irse sin perder tiempo. Esa misma noche comienzan a ocurrir de nuevo extraños sucesos que implican a todos los relacionados con la producción.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/b4/s8/2/O/F/J/4/OFJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=761515520-761573801"
-      }
-    ]
-  },
-  {
     "title": "La dama y el vagabundo",
-    "url": "https://zonaaps.com/movies/la-dama-y-el-vagabundo/",
     "image": "https://image.tmdb.org/t/p/w185/j4in9pWwnYeXyf1Z3303nXbzFAS.jpg",
     "rating": "7.3",
+    "year": "Jun. 22, 1955",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Reina es una preciosa perrita de pura raza que vive feliz en su hogar. Jaimito y Linda, la miman mucho y ella corresponde feliz a sus cuidados. Sin embargo, el día en que sus dueños deciden hacer un viaje, la vida de Reina se ve alterada; la llegada de la tía Sara con sus gatos no provoca más que sobresaltos. Menos mal que conoce a Golfo, un perro vagabundo muy simpático",
     "genres": [
       "Animación",
@@ -476,28 +292,160 @@
     ]
   },
   {
-    "title": "La maldición renace",
-    "url": "https://zonaaps.com/movies/la-maldicion-renace/",
-    "image": "https://image.tmdb.org/t/p/w185/62gIJdks9agqdYavMHJx3FlRXp9.jpg",
-    "rating": "4.4",
-    "description": "Después de que una joven madre asesina a su familia en su propia casa, una madre soltera y un detective intentan investigar y resolver el caso. Más tarde, descubren que la casa está maldita por un fantasma vengativo que condena a quienes entran con una muerte violenta.",
+    "title": "La legión del águila",
+    "image": "https://image.tmdb.org/t/p/w185/2YiuJ1XEaVC1PCXwgvOXs64vrPC.jpg",
+    "rating": "0",
+    "year": "Feb. 08, 2011",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Siglo II d.C. Un legionario romano, Marcus Aquila (Channing Tatum), y su esclavo celta Esca (Jamie Bell) emprenden la búsqueda de la Legión Novena, una compañía romana que desapareció veinte años atrás en alguna parte del Norte de Escocia y a cuyo frente se encontraba un general que era el padre de Marcus.",
     "genres": [
-      "Misterio",
-      "Terror"
+      "Aventura",
+      "Drama"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/f3/s8/2/m/Y/Y/4/mYY4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740229120-740285585"
+        "url": "https://1a-1791.com/video/fww1/14/s8/2/W/s/A/9/WsA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3516659200-3516729017"
       }
     ]
   },
   {
-    "title": "La matanza de Texas 3D",
-    "url": "https://zonaaps.com/movies/la-matanza-de-texas-3d/",
-    "image": "https://image.tmdb.org/t/p/w185/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg",
-    "rating": "4.8",
-    "description": "Secuela directa del film de Tobe Hooper (1974). Hace 20 años, el pueblo de Newt (Texas) se vengó de la familia Sawyer por su papel ayudando y ocultando los asesinados cometidos por Jeb Sawyer, el maniaco de la motosierra, también conocido como “Cara de cuero”. Se presumió que toda la famila estaba muerta cuando Burt Hartman lideró a la gente del pueblo para quemar su granja, pero el bebé de los Sawyer sobrevivió y Gavin y Arlene, dos de los vigilantes pueblerinos, se le llevaron en secreto y la criaron como hija propia con el nombre de Heather. Hasta llegar a la veintena ella no descubre que es adoptada. Un abogado de su abuela la localiza para hacerle saber de una herencia.",
+    "title": "La leyenda de Hercules ; Hercules 2",
+    "image": "https://image.tmdb.org/t/p/w185/zc6Cjed79ENqzktwQUeYkp0YWaQ.jpg",
+    "rating": "4.3",
+    "year": "Jan. 10, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La película nos sitúa en la antigua Grecia, en concreto en el año 1200 a.C. Allí, una reina sucumbe a la lujuria de Zeus y tiene un hijo con él. El niño se supone que es el encargado de acabar con el reino tirano del rey y restablecer el orden. Sin embargo, el príncipe, al que ponen de nombre Hércules (Kellan Lutz, Crepúsculo), no sabe quién es en realidad y solamente desea una cosa: el amor de la princesa de Creta, que se acaba de prometer con su hermano. Pero, cuando se entera de cuál es su destino, debe tomar una difícil decisión. Hércules debe elegir entre huir con su amada o convertirse en el héroe que se supone que debe ser. Su aventura le llevará a conocer lugares y seres tan peligrosos como extraños. Además, se enfrentará a la envidia de los mortales y a la ira de los dioses.",
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/ff/s8/2/2/r/r/F/2rrFx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La decisión de Anne",
+    "image": "https://image.tmdb.org/t/p/w185/bvLsfZfaqGiq46lEbtWj7WuQjZ9.jpg",
+    "rating": "7.3",
+    "year": "Jun. 26, 2009",
+    "quality": "",
+    "languages": [],
+    "description": "La vida de Sara (Cameron Diaz) y Brian Fitzgerald (Jason Patric) cambia radicalmente cuando a su hija Kate (Vassilieva), de sólo dos años, le diagnostican una leucemia. Inmediatamente, Sara abandona su carrera de abogado para dedicarse por entero al cuidado de su hija. Su única esperanza para salvarla es tener otro hijo. La ingeniería genética es un campo que plantea aún cuestiones morales muy espinosas, pero para los Fitzgerald es la única opción. Así es cómo nace Anne (Breslin), y entre ella y Kate se establece una relación mucho más profunda de lo normal, sobre todo porque ambas tendrán que someterse a diversos tratamientos médicos y compartirán largas estancias en el hospital.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/o/i/J/Q/oiJQp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/o/i/J/Q/oiJQp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Leyenda de los Chaneques",
+    "image": "https://image.tmdb.org/t/p/w185/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
+    "rating": "6.4",
+    "year": "Jul. 14, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cinco años después de renunciar a sus poderes y separarse de sus amigos, Leo San Juan ha comenzado una nueva vida tratando de concentrarse en su familia y su panadería, alejándose del peligro y las aventuras. Sin embargo, Leo sabe que sus planes pocas veces se cumplen y esta vez no es la excepción: mientras viaja con Nando a Veracruz, las cosas empiezan a ponerse raras, y desde lo más profundo de la selva de Tuxtlas, una antigua maldición ha regresado y solo Leo puede hacerle frente. .",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/m/m/h/G/mmhGu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La caza",
+    "image": "https://image.tmdb.org/t/p/w185/5WCuPRfa0h8jMT4Iu2jIIQXqllM.jpg",
+    "rating": "6.5",
+    "year": "Mar. 11, 2020",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Doce extraños se despiertan en el claro de un bosque con muchas preguntas sin respuesta. ¿Dónde están? ¿Cómo llegaron allí? ¿Y por qué o con qué propósito están ahí? La respuesta a todas esas preguntas es: La caza, un juego macabro ideado por miembros de las élites globales, que se reúnen en un punto remoto o una casa para cazar humanos por diversión. Ellos son las presas; el resto, los cazadores. Pero todo está a punto de cambiar cuando Crystal, una de las jóvenes que se encuentra entre los «cazados», le da la vuelta al juego y empieza a inclinar la balanza a su favor. Uno a uno, comienza a deshacerse de los miembros de la élite que pretende darles caza, con la intención de llegar hasta la misteriosa mujer (Hilary Swank) que mueve los hilos de todo aquello.",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/D/A/w/GDAwn.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Leyenda del Charro Negro",
+    "image": "https://image.tmdb.org/t/p/w185/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
+    "rating": "6.9",
+    "year": "Jan. 19, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Conoce la historia del Charro Negro, el hombre que pasa las noches a caballo buscando a sus víctimas. Después de liberar al Chupacabras, Leo San Juan, decide que es el momento de regresar junto con su hermano Nando a casa de su abuela. A mitad del camino, el Charro Negro logra confundir a Leo y por su culpa, una niña inocente es arrastrada al inframundo. Leo se ve obligado a reparar el daño. Sus amigos acudirán para intentar ayudarle y poder salir de allí cuanto antes. Pero no es casualidad que el Charro haya elegido involucrar a Leo, sus intenciones van más allá de conseguir un alma nueva.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Familia",
+      "Fantasía",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/7a/s8/2/r/1/Q/C/r1QCx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Leyenda del Dragón ; Guardiana de dragones (Dragonkeeper)",
+    "image": "https://image.tmdb.org/t/p/w185/A09gQ5TTsvHcMqOIdL9PHj283E2.jpg",
+    "rating": "5.7",
+    "year": "Apr. 11, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Son tiempos oscuros en la China imperial. Los dragones, antaño amigos y sabios aliados de los hombres, han sido perseguidos durante años y encerrados en mazmorras. En una remota fortaleza en las montañas, una niña ayuda a escapar al último de los dragones y se une a él en una apasionante misión para recuperar el tesoro más preciado: El último huevo de dragón, robado por un malvado hechicero que quiere explotar su potencial mágico para alcanzar la inmortalidad. Adaptación de la primera de las seis novelas de la saga literaria homónima de Carole Wilkins.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/x/P/N/AxPNu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La liberación",
+    "image": "https://image.tmdb.org/t/p/w185/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+    "rating": "5.3",
+    "year": "Aug. 16, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ebony Jackson, una madre soltera, se muda con su familia para empezar desde cero, sin saber que en su nueva casa ya habita un malvado ente.",
     "genres": [
       "Suspense",
       "Terror"
@@ -505,209 +453,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/I/Q/K/0IQKt.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/n/G/v/nnGvt.aaa.mp4?u=0&b=0"
       }
     ]
   },
   {
-    "title": "La matanza de Texas: El origen",
-    "url": "https://zonaaps.com/movies/la-matanza-de-texas-el-origen/",
-    "image": "https://image.tmdb.org/t/p/w185/26pS1DpWu32aIp4VdknonHMu81P.jpg",
-    "rating": "5.8",
-    "description": "1969. En Estados Unidos, los efectos de la guerra de Vietnam son catastróficos: las bajas son innumerables, pero el reclutamiento continúa. Dean Hill, que acaba de cumplir 18 años, es llamado a filas. Su hermano Eric, que acaba de regresar de Vietnam, contra los deseos de su novia decide volver a alistarse en la Marina para proteger a su hermano. Pero los planes de Eric no coinciden con los de Dean, que ha planeado huir a México con su novia para evitar la guerra. Pero antes de ejecutar sus planes, las dos parejas deciden ir a Texas para pasar un último fin de semana de diversión.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/h/k/8/whk8u.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La familia Addams",
-    "url": "https://zonaaps.com/movies/la-familia-addams/",
-    "image": "https://image.tmdb.org/t/p/w185/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg",
-    "rating": "5.8",
-    "description": "Los integrantes de la espeluznante familia Addams preparan una fiesta a la que asistirán sus terroríficos familiares, pero una amenaza se cierne sobre todos ellos: una estrella de la televisión se ha dado cuenta de que la lúgubre mansión de la familia le impide vender todas las casas del vecindario y hará lo que sea necesario para deshacerse de ellos.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/e/0/I/We0In.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Momia 3: La tumba del emperador dragón",
-    "url": "https://zonaaps.com/movies/la-momia-3-la-tumba-del-emperador-dragon/",
-    "image": "https://image.tmdb.org/t/p/w185/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg",
-    "rating": "5.2",
-    "description": "El aventurero Rick O’Connell y su familia desafían las antiguas maldiciones y se aventuran en China para enfrentarse al cruel emperador dragón, que ha sido despertado de su sueño milenario. En esta trepidante aventura, lucharán contra fuerzas oscuras y criaturas sobrenaturales en una carrera contra el tiempo para salvar al mundo de una nueva amenaza.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/9/l/b/y/9lbyy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Momia Regresa &#8211; La Momia 2",
-    "url": "https://zonaaps.com/movies/la-momia-regresa-la-momia-2/",
-    "image": "https://image.tmdb.org/t/p/w185/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
-    "rating": "6.4",
-    "description": "Rick O’Connell está ahora casado con Evelyn, y se han establecido en Londres, donde crían a su hijo Alex de 8 años. Cuando una cadena de eventos propicia la resurrección de Imhotep, la Momia camina de nuevo sobre la Tierra, determinada a conquistar su búsqueda por la inmortalidad.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/38/s8/2/b/p/b/y/bpbyy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La monja",
-    "url": "https://zonaaps.com/movies/la-monja/",
-    "image": "https://image.tmdb.org/t/p/w185/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg",
-    "rating": "5.3",
-    "description": "Cuando una joven monja se suicida en una abadía de clausura en Rumanía, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden. Arriesgando no solo sus propias vidas sino su fe y hasta sus almas, se enfrentan a una fuerza maléfica en forma de monja demoníaca, en una abadía que se convierte en un campo de batalla de horror entre los vivos y los condenados….",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/S/h/c/kShct.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Misma Luna &#8211; Bajo la misma Luna",
-    "url": "https://zonaaps.com/movies/la-misma-luna/",
-    "image": "https://image.tmdb.org/t/p/w185/zoJiIRk704TgQiVFrOjtg07kvPs.jpg",
-    "rating": "7.3",
-    "description": "una madre que emigra ilegalmente a los Estados Unidos, y su hijo de nueve años, Carlitos (Adrián Alonso). Rosario y Carlitos no se han visto en cuatro años, ya que Carlitos tenía cinco años. Rosario, que ahora vive en Los Ángeles, California, llama a su hijo, (aún en México), todos los domingos. Carlitos vive en un pequeño pueblo mexicano con su abuela enferma y su tía opresiva y tío, que lo mantendrá con el fin de obtener el dinero que envía Rosario. Un día, Carlitos se encuentra con dos transportadores de inmigrantes (coyotes), Marta (América Ferrera) y David (Jesse García), que ofrecen para el contrabando de niños pequeños a través de la frontera.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/47/s8/2/N/F/Q/G/NFQGy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=869753856-869820271"
-      }
-    ]
-  },
-  {
-    "title": "La Momia 1",
-    "url": "https://zonaaps.com/movies/la-momia-1/",
-    "image": "https://image.tmdb.org/t/p/w185/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
-    "rating": "7.1",
-    "description": "Un aventurero imprudente y un grupo de exploradores desentierran accidentalmente una antigua maldición egipcia. Ahora, deben luchar contra la resucitada momia del sacerdote Imhotep, que busca recuperar su poder y venganza sobre el mundo moderno.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/52/s8/2/K/h/V/x/KhVxy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La muerte de Robin Hood",
-    "url": "https://zonaaps.com/movies/la-muerte-de-robin-hood/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/pC2hVl4J522GcMVc5OghRHSs0tq-185x278.jpg",
-    "rating": "6.1",
-    "description": "Una cruda reinterpretación de la leyenda de Robin Hood donde un solitario marcado por la batalla, atormentado por su violento pasado, encuentra la redención a través de una mujer enigmática tras una grave herida.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/12/s8/2/6/G/_/N/6G_NA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3757667328-3757741968"
-      }
-    ]
-  },
-  {
-    "title": "La Hera del Hielo 3: El Origen de los Dinosaurios &#8211; Ice Age 3",
-    "url": "https://zonaaps.com/movies/ice-age-dawn-of-the-dinosaurs/",
-    "image": "https://image.tmdb.org/t/p/w185/bFLbDLyE8BX4yccwoSotfHMJBZF.jpg",
-    "rating": "6.9",
-    "description": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/J/v/z/-Jvzs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/J/v/z/-Jvzs.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La gran exclusiva",
-    "url": "https://zonaaps.com/movies/la-gran-exclusiva/",
-    "image": "https://image.tmdb.org/t/p/w185/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
-    "rating": "6.6",
-    "description": "Esta dramatización ficticia basada en hechos reales muestra cómo las periodistas de ‘Newsnight’ consiguieron la famosa entrevista con el Príncipe Andrés.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/e/k/N/8/ekN8q.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Monja 3 &#8211; The Bad Nun 3",
-    "url": "https://zonaaps.com/movies/the-bad-nun-3/",
-    "image": "https://image.tmdb.org/t/p/w185/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
-    "rating": "3",
-    "description": "",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/V/d/c/fVdct.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La fuerza del honor &#8211; Reto de Valientes",
-    "url": "https://zonaaps.com/movies/la-fuerza-del-honor/",
+    "title": "La fuerza del honor ; Reto de Valientes",
     "image": "https://image.tmdb.org/t/p/w185/39skXeJ7FFmjdvzBd8pyogrmaib.jpg",
     "rating": "6.9",
+    "year": "Sep. 30, 2011",
+    "quality": "720 HD",
+    "languages": [],
     "description": "En “Courageous” conocemos a cuatro oficiales de policía y a su nuevo amigo, Javier. Cuatro hombres, un sólo objetivo: servir y proteger. Como agentes del orden son hombres preparados para hacerle frente al peor peligro de las calles y, sin embargo, al final del día, se enfrentan a lo que ninguno de ellos está realmente preparado: el reto de ser padres de familia. Cuando la tragedia los golpea en casa, estos hombres luchan contra sus temores con esperanza y fe.",
     "genres": [
       "Drama"
@@ -724,11 +480,197 @@
     ]
   },
   {
-    "title": "La Liga de la Justicia de Zack Snyder",
-    "url": "https://zonaaps.com/movies/la-liga-de-la-justicia-de-zack-snyder/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/wcIJgChypo0s6ILm9Dkr13rV5q0-185x278.jpg",
-    "rating": "7.9",
-    "description": "Decidido a asegurarse de que el sacrificio final de Superman no fue en vano, Bruce Wayne alinea fuerzas con Diana Prince con planes para reclutar un equipo de metahumanos para proteger al mundo de una amenaza de proporciones catastróficas que se aproxima.",
+    "title": "La familia Addams",
+    "image": "https://image.tmdb.org/t/p/w185/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg",
+    "rating": "5.8",
+    "year": "Oct. 10, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Los integrantes de la espeluznante familia Addams preparan una fiesta a la que asistirán sus terroríficos familiares, pero una amenaza se cierne sobre todos ellos: una estrella de la televisión se ha dado cuenta de que la lúgubre mansión de la familia le impide vender todas las casas del vecindario y hará lo que sea necesario para deshacerse de ellos.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/e/0/I/We0In.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La maldición 1 (El Grito)",
+    "image": "https://image.tmdb.org/t/p/w185/qNBzIoK5f5YxroprnnoQvDbN37W.jpg",
+    "rating": "0",
+    "year": "Oct. 22, 2004",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La aparente normalidad de la fachada de una modesta casa de Tokio oculta el horror que se encuentra en su interior. La vivienda está poseída por una violenta plaga que destruye las vidas de todos los que entran en ella.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/cc/s8/2/Q/G/J/4/QGJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=721363456-721418507"
+      }
+    ]
+  },
+  {
+    "title": "La maldición 2",
+    "image": "https://image.tmdb.org/t/p/w185/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
+    "rating": "0",
+    "year": "Oct. 12, 2006",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Embarazada de su prometido, la actriz Masashi es contratada para trabajar en un reportaje titulado “La casa encantada” que investigará el asesinato varios años antes de la señora de la casa Kayako Saeki y la desaprición de su hijo Toshio. Desde entonces las familias que han vivido en la casa y las personas vinculadas a ellas han desaparecido o muerto misteriosamente. Durante el rodaje sólo Megumi, la estilista, se da cuenta de que Kayako y Toshio todavía rondan por la casa y decide irse sin perder tiempo. Esa misma noche comienzan a ocurrir de nuevo extraños sucesos que implican a todos los relacionados con la producción.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/b4/s8/2/O/F/J/4/OFJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=761515520-761573801"
+      }
+    ]
+  },
+  {
+    "title": "La maldición 3 (El Grito 3)",
+    "image": "https://image.tmdb.org/t/p/w185/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg",
+    "rating": "0",
+    "year": "May. 12, 2009",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Jake, el único sobreviviente del Rencor 2 masacre, es torturado por visiones glaciales de Kayako y Toshio que han llevado a su hospitalización. El conserje de Jake, el Dr. Sullivan se decide a investigar sus cuentos que horrorizan. Explora su Chicago a casa, encontrando a otra familia en el borde de sucumbir a la maldición. Se hace claro que las historias aterradoras de Jake son verdad, y una mujer japonesa misteriosa puede ser la única esperanza de desterrar los espíritus para siempre&#8230; a menos que su plan destruya a todos ellos.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/db/s8/2/M/H/J/4/MHJ4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=712386048-712440568"
+      }
+    ]
+  },
+  {
+    "title": "La matanza de Texas: El origen",
+    "image": "https://image.tmdb.org/t/p/w185/26pS1DpWu32aIp4VdknonHMu81P.jpg",
+    "rating": "5.8",
+    "year": "Oct. 05, 2006",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "1969. En Estados Unidos, los efectos de la guerra de Vietnam son catastróficos: las bajas son innumerables, pero el reclutamiento continúa. Dean Hill, que acaba de cumplir 18 años, es llamado a filas. Su hermano Eric, que acaba de regresar de Vietnam, contra los deseos de su novia decide volver a alistarse en la Marina para proteger a su hermano. Pero los planes de Eric no coinciden con los de Dean, que ha planeado huir a México con su novia para evitar la guerra. Pero antes de ejecutar sus planes, las dos parejas deciden ir a Texas para pasar un último fin de semana de diversión.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/h/k/8/whk8u.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La gran apuesta",
+    "image": "https://image.tmdb.org/t/p/w185/p8bPJXPOZqGw8khHAAr0yUQxcGz.jpg",
+    "rating": "7.8",
+    "year": "Dec. 11, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: ‘La Gran Apuesta’… pero sus inversiones de riesgo les conducen al lado oscuro de la banca moderna, donde deben poner en duda todo y a todos…",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/r/h/Y/CrhYp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/r/h/Y/CrhYp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Misma Luna ; Bajo la misma Luna",
+    "image": "https://image.tmdb.org/t/p/w185/zoJiIRk704TgQiVFrOjtg07kvPs.jpg",
+    "rating": "7.3",
+    "year": "Jul. 27, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "una madre que emigra ilegalmente a los Estados Unidos, y su hijo de nueve años, Carlitos (Adrián Alonso). Rosario y Carlitos no se han visto en cuatro años, ya que Carlitos tenía cinco años. Rosario, que ahora vive en Los Ángeles, California, llama a su hijo, (aún en México), todos los domingos. Carlitos vive en un pequeño pueblo mexicano con su abuela enferma y su tía opresiva y tío, que lo mantendrá con el fin de obtener el dinero que envía Rosario. Un día, Carlitos se encuentra con dos transportadores de inmigrantes (coyotes), Marta (América Ferrera) y David (Jesse García), que ofrecen para el contrabando de niños pequeños a través de la frontera.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/47/s8/2/N/F/Q/G/NFQGy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=869753856-869820271"
+      }
+    ]
+  },
+  {
+    "title": "La maldición renace",
+    "image": "https://image.tmdb.org/t/p/w185/62gIJdks9agqdYavMHJx3FlRXp9.jpg",
+    "rating": "4.4",
+    "year": "Dec. 31, 2019",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Después de que una joven madre asesina a su familia en su propia casa, una madre soltera y un detective intentan investigar y resolver el caso. Más tarde, descubren que la casa está maldita por un fantasma vengativo que condena a quienes entran con una muerte violenta.",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/f3/s8/2/m/Y/Y/4/mYY4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740229120-740285585"
+      }
+    ]
+  },
+  {
+    "title": "La gran exclusiva",
+    "image": "https://image.tmdb.org/t/p/w185/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
+    "rating": "6.6",
+    "year": "Mar. 27, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Esta dramatización ficticia basada en hechos reales muestra cómo las periodistas de ‘Newsnight’ consiguieron la famosa entrevista con el Príncipe Andrés.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/k/N/8/ekN8q.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Momia Regresa ; La Momia 2",
+    "image": "https://image.tmdb.org/t/p/w185/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+    "rating": "6.4",
+    "year": "May. 04, 2001",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Rick O’Connell está ahora casado con Evelyn, y se han establecido en Londres, donde crían a su hijo Alex de 8 años. Cuando una cadena de eventos propicia la resurrección de Imhotep, la Momia camina de nuevo sobre la Tierra, determinada a conquistar su búsqueda por la inmortalidad.",
     "genres": [
       "Acción",
       "Aventura",
@@ -737,7 +679,164 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAzLzB6ZnZ0aHE5Y2ExaF9uL2luZGV4LXYxLWExLm0zdTg_dD1QUGFqemM5YkFTcmgyeXluenUyWFAzVFpRUWdTT3ZqMEg0TjlzZkdENzFrJnM9MTc4NzMzODYyNSZlPTQzMjAwJnY9MzI1Mjc5NDM3Jmk9MC4wJnNwPTAmcj1l"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/38/s8/2/b/p/b/y/bpbyy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Momia 1",
+    "image": "https://image.tmdb.org/t/p/w185/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+    "rating": "7.1",
+    "year": "Apr. 16, 1999",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un aventurero imprudente y un grupo de exploradores desentierran accidentalmente una antigua maldición egipcia. Ahora, deben luchar contra la resucitada momia del sacerdote Imhotep, que busca recuperar su poder y venganza sobre el mundo moderno.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/52/s8/2/K/h/V/x/KhVxy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Momia 3: La tumba del emperador dragón",
+    "image": "https://image.tmdb.org/t/p/w185/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg",
+    "rating": "5.2",
+    "year": "Jul. 01, 2008",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El aventurero Rick O’Connell y su familia desafían las antiguas maldiciones y se aventuran en China para enfrentarse al cruel emperador dragón, que ha sido despertado de su sueño milenario. En esta trepidante aventura, lucharán contra fuerzas oscuras y criaturas sobrenaturales en una carrera contra el tiempo para salvar al mundo de una nueva amenaza.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/9/l/b/y/9lbyy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Monja 3 ; The Bad Nun 3",
+    "image": "https://image.tmdb.org/t/p/w185/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
+    "rating": "3",
+    "year": "Jan. 01, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/V/d/c/fVdct.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La monja",
+    "image": "https://image.tmdb.org/t/p/w185/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg",
+    "rating": "5.3",
+    "year": "Sep. 05, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando una joven monja se suicida en una abadía de clausura en Rumanía, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden. Arriesgando no solo sus propias vidas sino su fe y hasta sus almas, se enfrentan a una fuerza maléfica en forma de monja demoníaca, en una abadía que se convierte en un campo de batalla de horror entre los vivos y los condenados….",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/S/h/c/kShct.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La guerra del mañana",
+    "image": "https://image.tmdb.org/t/p/w185/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+    "rating": "6.6",
+    "year": "Sep. 03, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un día el mundo se paraliza cuando un grupo de viajeros en el tiempo se transporta desde el año 2051 para entregar un mensaje urgente: La humanidad está perdiendo la guerra mundial contra una especie alienígena letal. La única esperanza de supervivencia es que los soldados y los ciudadanos del presente sean transportados al futuro y se unan a la lucha. Entre los reclutados está el profesor de instituto y padre de familia Dan Forester (Chris Pratt) quien, decidido a salvar el mundo por su hija, se une a una brillante científica (Yvonne Strahovski) y a su padre (J.K. Simmons) en una búsqueda desesperada por reescribir el destino del planeta.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/z/G/x/2/zGx2q.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La muerte de Robin Hood",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/pC2hVl4J522GcMVc5OghRHSs0tq-185x278.jpg",
+    "rating": "6.1",
+    "year": "Jun. 18, 2026",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Una cruda reinterpretación de la leyenda de Robin Hood donde un solitario marcado por la batalla, atormentado por su violento pasado, encuentra la redención a través de una mujer enigmática tras una grave herida.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/12/s8/2/6/G/_/N/6G_NA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3757667328-3757741968"
+      }
+    ]
+  },
+  {
+    "title": "La cita perfecta",
+    "image": "https://image.tmdb.org/t/p/w185/v8P8AI9xfz1AnX9ojfbn3lTo1e.jpg",
+    "rating": "5.8",
+    "year": "Apr. 12, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "¿Buscas novio? Para pagarse la universidad, Brooks Rattigan (Noah Centineo) necesita dinero. Por eso, este estudiante de instituto crea una aplicación de citas y se ofrece como novio suplente. Claro que hacerse pasar cada noche por un chico distinto le llevará a cuestionarse quién es en realidad… y con quién quiere estar. ¿Hasta dónde será capaz Brooks de llegar para pagar sus estudios universitarios?",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/E/B/T/eEBTq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Niñera ; The Babysitter",
+    "image": "https://image.tmdb.org/t/p/w185/4pMbRBz2KLlOqEIDIwnMVVKPWUh.jpg",
+    "rating": "6.4",
+    "year": "Oct. 13, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cole es un adolescente que está enamorado de su niñera Bee. Una noche, Cole se queda despierto hasta tarde y descubre que su guapa niñera forma parte de una secta satánica, y hará lo que sea necesario para mantenerlo callado.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/g/O/3/ngO3s.aaa.mp4"
       }
     ]
   }

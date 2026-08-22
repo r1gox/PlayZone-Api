@@ -1,27 +1,11 @@
 [
   {
-    "title": "300 2: El origen de un imperio",
-    "url": "https://zonaaps.com/movies/300-2-el-origen-de-un-imperio/",
-    "image": "https://image.tmdb.org/t/p/w185/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",
-    "rating": "6.2",
-    "description": "La historia se ambienta en el año 490 a.C., unos diez años antes de la batalla de las Termópilas. El general griego Temistocles intenta unir las polis griegas para combatir a los persas invasores. Él dirigirá las tropas griegas que se enfrentarán con los persas en la decisiva batalla de Maratón. La derrota persa impedirá la invasión del país.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/f2/s8/2/r/v/J/C/rvJCx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "10 Cosas que Odio De Ti &#8211; 10 razones para odiarte (dies)",
-    "url": "https://zonaaps.com/movies/10-cosas-que-odio-de-ti-10-razones-para-odiarte-dies/",
+    "title": "10 Cosas que Odio De Ti ; 10 razones para odiarte (dies)",
     "image": "https://image.tmdb.org/t/p/w185/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg",
     "rating": "7.3",
+    "year": "Mar. 30, 1999",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa…",
     "genres": [
       "Comedia",
@@ -31,50 +15,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/d/K/G/a/dKGav.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "18 rosas",
-    "url": "https://zonaaps.com/movies/18-rosas/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/18.rosas.jpg",
-    "rating": "5.5",
-    "description": "Una chica que sueña con una fiesta de debut perfecta hace un trato con un compañero solitario, pero ciertos sentimientos inesperados podrían destruir sus planes.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/1f/s8/2/g/K/y/i/gKyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4059240960-4059321610"
-      }
-    ]
-  },
-  {
-    "title": "2012",
-    "url": "https://zonaaps.com/movies/2012/",
-    "image": "https://image.tmdb.org/t/p/w185/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
-    "rating": "5.8",
-    "description": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo «venden» plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información… y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/k/E/d/r/kEdry.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/K/G/a/dKGav.aaa.mp4"
       }
     ]
   },
   {
     "title": "13 fantasmas",
-    "url": "https://zonaaps.com/movies/13-fantasmas/",
     "image": "https://image.tmdb.org/t/p/w185/tobmCmAgCNVhqxUN7r58cnoYOco.jpg",
     "rating": "5.6",
+    "year": "Oct. 26, 2001",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Arthur Kriticos y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio que dejó al resto de la familia sin nada, hasta que de repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y de cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. A Arthur y los chicos les cuesta creer su golpe de buena suerte, y al llegar a la nueva casa admiran la elegancia de sus paredes de cristal. Lo que no saben es que la casa de la luz guarda un oscuro secreto.",
     "genres": [
       "Suspense",
@@ -89,9 +40,13 @@
   },
   {
     "title": "31 Minutos: Calurosa Navidad",
-    "url": "https://zonaaps.com/movies/31-minutos-calurosa-navidad/",
     "image": "https://image.tmdb.org/t/p/w185/bBB0lLFkNcVMP5l8do6KiIvwZyi.jpg",
     "rating": "7.5",
+    "year": "Nov. 19, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Titirilquén, el pueblo de 31 Minutos, vive una Navidad tan infernalmente calurosa… ¡que Santa Claus debe suspender su visita! Pero no todo está perdido: El conejo Bodoque se ofrece heroicamente a ir por los regalos al Polo Norte. Para esperarlo, sus amigos improvisan un espectáculo navideño desastroso pero lleno de esperanza. No sospechan que Bodoque será víctima de irresistibles tentaciones…",
     "genres": [
       "Aventura",
@@ -107,62 +62,12 @@
     ]
   },
   {
-    "title": "13 Vidas",
-    "url": "https://zonaaps.com/movies/13-vidas/",
-    "image": "https://image.tmdb.org/t/p/w185/ggeL3pdF7FGyRARcCXYBwM87J4h.jpg",
-    "rating": "7.8",
-    "description": "Historia real de la misión de rescate en la cueva tailandesa de Tham Luang. Un equipo de fútbol de niños queda atrapado en la montaña cuando las tormentas inundan la entrada. El mundo entero observa mientras se desarrollan los dramáticos eventos.",
-    "genres": [
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/q/j/I/q/qjIqy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "50 Cincuenta sombras liberadas",
-    "url": "https://zonaaps.com/movies/cincuenta-sombras-liberadas/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/50-liberadas.jpg",
-    "rating": "4.5",
-    "description": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/86/s8/2/M/X/e/o/MXeoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3400145920-3400213424"
-      }
-    ]
-  },
-  {
-    "title": "50 Cincuenta sombras de Grey",
-    "url": "https://zonaaps.com/movies/cincuenta-sombras-de-grey/",
-    "image": "https://image.tmdb.org/t/p/w185/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
-    "rating": "4.2",
-    "description": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/r/G/L/nrGLt.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "27 vestidos",
-    "url": "https://zonaaps.com/movies/27-vestidos/",
     "image": "https://image.tmdb.org/t/p/w185/4u1KKBa7kQzxPgl51rGWSPlT1Ws.jpg",
     "rating": "6.1",
+    "year": "Jan. 10, 2008",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Jane, la eterna dama de honor –lo ha sido hasta 27 veces– pero nunca la novia, debe hacer frente a su peor pesadilla cuando su hermana se compromete con el hombre de sus sueños. A Jane le encanta acudir a bodas y ayudar a la novia en su día más especial. Está enamorada de su jefe, pero el día que se decide a confesarle su amor, su atractiva y caprichosa hermana, a la que siempre ha cuidado, entra en escena.",
     "genres": [
       "Comedia",
@@ -176,10 +81,93 @@
     ]
   },
   {
+    "title": "13 Vidas",
+    "image": "https://image.tmdb.org/t/p/w185/ggeL3pdF7FGyRARcCXYBwM87J4h.jpg",
+    "rating": "7.8",
+    "year": "Jul. 18, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Historia real de la misión de rescate en la cueva tailandesa de Tham Luang. Un equipo de fútbol de niños queda atrapado en la montaña cuando las tormentas inundan la entrada. El mundo entero observa mientras se desarrollan los dramáticos eventos.",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/q/j/I/q/qjIqy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "2012",
+    "image": "https://image.tmdb.org/t/p/w185/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
+    "rating": "5.8",
+    "year": "Oct. 10, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo «venden» plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información… y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies; y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/26/s8/2/k/E/d/r/kEdry.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "18 rosas",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/6pUwaXT6tdA6sek8o6SdFYudJDj-185x278.jpg",
+    "rating": "5.5",
+    "year": "Apr. 09, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Una chica que sueña con una fiesta de debut perfecta hace un trato con un compañero solitario, pero ciertos sentimientos inesperados podrían destruir sus planes.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/1f/s8/2/g/K/y/i/gKyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4059240960-4059321610"
+      }
+    ]
+  },
+  {
+    "title": "300 2: El origen de un imperio",
+    "image": "https://image.tmdb.org/t/p/w185/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg",
+    "rating": "6.2",
+    "year": "Mar. 05, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia se ambienta en el año 490 a.C., unos diez años antes de la batalla de las Termópilas. El general griego Temistocles intenta unir las polis griegas para combatir a los persas invasores. Él dirigirá las tropas griegas que se enfrentarán con los persas en la decisiva batalla de Maratón. La derrota persa impedirá la invasión del país.",
+    "genres": [
+      "Acción",
+      "Bélica",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/f2/s8/2/r/v/J/C/rvJCx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "22 de julio",
-    "url": "https://zonaaps.com/movies/22-de-julio/",
     "image": "https://image.tmdb.org/t/p/w185/jQX1Ult7VWZnCttjY4x1hGQnN2s.jpg",
     "rating": "6.8",
+    "year": "Oct. 04, 2018",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una historia sobre el peor ataque terrorista en la historia de Noruega, en el que 70 personas perdieron la vida. 22 de Julio es una mirada al desastre en si, a los supervivientes, al sistema político noruego y a los abogados que trabajaron en este horrible suceso.",
     "genres": [
       "Crimen",
@@ -195,10 +183,32 @@
     ]
   },
   {
+    "title": "50 Cincuenta sombras de Grey",
+    "image": "https://image.tmdb.org/t/p/w185/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+    "rating": "4.2",
+    "year": "Feb. 11, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/n/r/G/L/nrGLt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "57 Segundos Atrás",
-    "url": "https://zonaaps.com/movies/57-segundos-atras/",
     "image": "https://image.tmdb.org/t/p/w185/rKpXTUo03vyZov4dCFqKx3QHuiA.jpg",
     "rating": "5.4",
+    "year": "Sep. 29, 2023",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando un bloguero de tecnología consigue una entrevista con un gurú de la tecnología y detiene un ataque contra él, encuentra un anillo misterioso que lo lleva 57 segundos al pasado.",
     "genres": [
       "Acción",
@@ -213,10 +223,15 @@
     ]
   },
   {
-    "title": "500 Días juntos; 500 dias con ella",
-    "url": "https://zonaaps.com/movies/500-dias-juntos/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/500-dias.jpg",
+    "title": "500 Días juntos ; 500 dias con ella",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/xziurNdvxWZkgonZ5ZaGRB9YdLt-185x278.jpg",
     "rating": "7.7",
+    "year": "Jul. 17, 2009",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Tom aún sigue creyendo, incluso en este cínico mundo moderno, en la noción de un amor transformador, predestinado por el cosmos y que golpea como un rayo sólo una vez. Summer no cree lo mismo, para nada. La mecha se enciende desde el primer día, cuando Tom, un arquitecto en ciernes convertido en un sensiblero escritor de tarjetas de felicitación, se encuentra con Summer, la bella y fresca nueva secretaria de su jefe. Aunque aparentemente está fuera de su alcance, Tom pronto descubre que tienen un montón de cosas en común. La historia de Tom y Summer cubre desde el enamoramiento, las citas y el sexo hasta la separación, las recriminaciones y la redención, todo lo cual se suma al caleidoscópico retrato del por qué y el cómo seguimos esforzándonos de modo tan risible y rastrero para encontrar sentido al amor… y esperar convertirlo en realidad.",
     "genres": [
       "Comedia",
@@ -231,27 +246,37 @@
     ]
   },
   {
-    "title": "17 Otra Vez",
-    "url": "https://zonaaps.com/movies/17-otra-vez/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/17-otra-vez.jpg",
-    "rating": "6.4",
-    "description": "A los 35 años, la vida de Mike no ha ido por el camino del éxito que todos preveían cuando en el instituto era la estrella del equipo de baloncesto y el que ligaba con las chicas más guapas. Después de 18 años vendiendo productos farmacéuticos no ha conseguido ascender en el trabajo, no tiene buena relación con sus dos hijos y se acaba de separar de Scarlet, su encantadora mujer. Una noche de tormenta, Mike ve al que fuera bedel de su instituto subido encima de la valla de un puente mirando al río. Mike detiene su coche con intención de evitar que el hombre se tire, pero cuando llega a la altura del bedel, éste ha desaparecido y Mike cae irremediablemente al río. Cuando a la mañana siguiente Mike llega a casa de su amigo Ned, se da cuenta de que no es el mismo Mike vendedor de medicamentos sino Mike O’Donnell, el adolescente de 17 años.",
+    "title": "50 Cincuenta sombras liberadas",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/sM8hwgWZlmZf0h4aOkNopb3HBIo-185x278.jpg",
+    "rating": "4.5",
+    "year": "Jan. 17, 2018",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
     "genres": [
-      "Comedia",
-      "Fantasía"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDQvNTk2djF2MXF3eG1yX24vaW5kZXgtdjEtYTIubTN1OD90PVpPRFpZdlBieXJQd1YwZDdkUkctSGhoaWhJYU9hNkJtZEZXbk5TSVB0ak0mcz0xNzg3MzM4NjI3JmU9NDMyMDAmdj0zMjk5NzQ1NDMmc3J2PXMxMiZpPTAuMCZzcD0wJmZyPTU5NnYxdjFxd3htciZyPWU"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/86/s8/2/M/X/e/o/MXeoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3400145920-3400213424"
       }
     ]
   },
   {
-    "title": "El día de la revelación",
-    "url": "https://zonaaps.com/movies/60-fps-el-dia-de-la-revelacion/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/dia-revelacion.jpg",
+    "title": " El día de la revelación",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/8yQ7RDPPBlHMYdIo4ihPkHkOfnY-185x278.jpg",
     "rating": "0",
+    "year": "Jun. 10, 2026",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías?",
     "genres": [
       "60 FPS",
@@ -267,50 +292,12 @@
     ]
   },
   {
-    "title": "31",
-    "url": "https://zonaaps.com/movies/31/",
-    "image": "https://image.tmdb.org/t/p/w185/mHVcoTEqmIBdXSjXxfsKWu7GGga.jpg",
-    "rating": "5.1",
-    "description": "31 nos llevará hasta una feria de circo donde cinco trabajadores son secuestrados la noche antes de Halloween y son llevados a Murder World, un lugar donde tendrán 12 horas para sobrevivir a unos maniacos llamados The Heads en un juego llamado 31.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/N/n/t/bNntn.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/N/n/t/bNntn.baa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "4K-Better Man: La historia de Robbie Williams",
-    "url": "https://zonaaps.com/movies/better-man-la-historia-de-robbie-williams/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/better.jpg",
-    "rating": "7.5",
-    "description": "Sigue el viaje de Robbie Williams desde su infancia, hasta convertirse en el miembro más joven de la exitosa banda de chicos Take That, hasta sus logros incomparables como artista solista que rompe récords, todo ello mientras enfrenta los desafíos que la fama y el éxito estratosférica pueden traer.",
-    "genres": [
-      "4k",
-      "Drama",
-      "Música",
-      "60 FPS"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbmk3N3kxb3Q3Z2dwX24vaW5kZXgtdjEtYTEubTN1OD90PU1kcXFRNVFFc1hnM2kwdHl6MTRkYlA2NzN6LUdRMlk5RjB0VXk2WFJCMlkmcz0xNzg3MzM4NjcyJmU9NDMyMDAmdj0zMjMwNDQ5NjUmc3J2PXMxNCZpPTAuMCZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "101 dálmatas",
-    "url": "https://zonaaps.com/movies/101-dalmatas/",
     "image": "https://image.tmdb.org/t/p/w185/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg",
     "rating": "7.3",
+    "year": "Jan. 25, 1961",
+    "quality": "",
+    "languages": [],
     "description": "Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros junto a sus amos, Roger y Anita. Pero la felicidad no es eterna y hay una malvada mujer, que vive en una gran mansion, que es la mayor enemiga del perro.Cuando se entera de que los protagonistas tienen nada menos que quince cachorros dalmatas, su sueño de obtener un exclusivo abrigo de piel de los pequeños perros, se convierte en una obsesion. Para conseguirlo contrata a dos ladrones y pone en marcha un malvado plan con el unico fin de secuestrar a los dalmatas.",
     "genres": [
       "Animación",
@@ -330,10 +317,58 @@
     ]
   },
   {
-    "title": "Impacto Mortal",
-    "url": "https://zonaaps.com/movies/60-fps-impacto-mortal/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/impacto-mortal.jpg",
+    "title": "31",
+    "image": "https://image.tmdb.org/t/p/w185/mHVcoTEqmIBdXSjXxfsKWu7GGga.jpg",
+    "rating": "5.1",
+    "year": "Sep. 15, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "31 nos llevará hasta una feria de circo donde cinco trabajadores son secuestrados la noche antes de Halloween y son llevados a Murder World, un lugar donde tendrán 12 horas para sobrevivir a unos maniacos llamados The Heads en un juego llamado 31.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/N/n/t/bNntn.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/N/n/t/bNntn.baa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "17 Otra Vez",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/aeY39uBOmk603RbuJ0KcB6Rr1wf-185x278.jpg",
+    "rating": "6.4",
+    "year": "Mar. 11, 2009",
+    "quality": "",
+    "languages": [
+      "Latino"
+    ],
+    "description": "A los 35 años, la vida de Mike no ha ido por el camino del éxito que todos preveían cuando en el instituto era la estrella del equipo de baloncesto y el que ligaba con las chicas más guapas. Después de 18 años vendiendo productos farmacéuticos no ha conseguido ascender en el trabajo, no tiene buena relación con sus dos hijos y se acaba de separar de Scarlet, su encantadora mujer. Una noche de tormenta, Mike ve al que fuera bedel de su instituto subido encima de la valla de un puente mirando al río. Mike detiene su coche con intención de evitar que el hombre se tire, pero cuando llega a la altura del bedel, éste ha desaparecido y Mike cae irremediablemente al río. Cuando a la mañana siguiente Mike llega a casa de su amigo Ned, se da cuenta de que no es el mismo Mike vendedor de medicamentos sino Mike O’Donnell, el adolescente de 17 años.",
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDQvNTk2djF2MXF3eG1yX24vaW5kZXgtdjEtYTIubTN1OD90PTJub3R4eF9wWldiU05na0EzUDgway00b0JjZTE4OGQ0Mkd6Y0ZUMEVKTWMmcz0xNzg3MzYwNzc3JmU9NDMyMDAmdj0zMjk5NzQ1NDMmc3J2PXMxMiZpPTAuMCZzcD0wJmZyPTU5NnYxdjFxd3htciZyPWU"
+      }
+    ]
+  },
+  {
+    "title": " Impacto Mortal",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/2yXnZvLxfi0paO0HnjpO4rLfocr-185x278.jpg",
     "rating": "0",
+    "year": "Apr. 30, 2026",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino"
+    ],
     "description": "Un grupo de pasajeros internacionales en ruta de Los Ángeles a Shanghai se ven obligados a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Ahora deben superar el frenesí de los tiburones merodeantes.",
     "genres": [
       "60 FPS",
@@ -349,30 +384,83 @@
     ]
   },
   {
-    "title": "La caída del halcón negro",
-    "url": "https://zonaaps.com/movies/4k-la-caida-del-halcon-negro/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/halcon-negro.jpg",
-    "rating": "7.7",
-    "description": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
+    "title": "#Vivo ; Alive",
+    "image": "https://image.tmdb.org/t/p/w185/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",
+    "rating": "6.3",
+    "year": "Jun. 24, 2020",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "La rápida propagación de una infección desconocida provoca el caos absoluto en una ciudad. Sin embargo, un ciudadano que vive completamente solo logra permanecer al margen de ella. Esta es su historia.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/b/T/h/B/bThBp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/b/T/h/B/bThBp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "4K-Better Man: La historia de Robbie Williams",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6Rf7kF0Np3mOa1KRo2a2KJZ7mIj-185x278.jpg",
+    "rating": "7.5",
+    "year": "Dec. 06, 2024",
+    "quality": "4k",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Sigue el viaje de Robbie Williams desde su infancia, hasta convertirse en el miembro más joven de la exitosa banda de chicos Take That, hasta sus logros incomparables como artista solista que rompe récords, todo ello mientras enfrenta los desafíos que la fama y el éxito estratosférica pueden traer.",
     "genres": [
       "4k",
-      "Acción",
-      "Bélica",
-      "Historia",
+      "Drama",
+      "Música",
       "60 FPS"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvcnUxYTg4bjZwNjJ3X24vaW5kZXgtdjEtYTEubTN1OD90PURsVi14b3MtU2RVZkZuQWg5MTlFNndvLVZPSGhPbi1GLVNhM1hxOGtKczAmcz0xNzg3MzM4NjY1JmU9NDMyMDAmdj0zMjMwNDU0MjImc3J2PXMxMSZpPTAuMyZzcD0wJnI9ZQ"
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbmk3N3kxb3Q3Z2dwX24vaW5kZXgtdjEtYTEubTN1OD90PUlvZUoyUEI1ejIyQWprUE5JLU5XeU1EM1pRQ0dJYkdDR1lEbl8tdXhYUFEmcz0xNzg3MzYwODI3JmU9NDMyMDAmdj0zMzE5MjQ3Mzcmc3J2PXMxNCZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
   {
-    "title": "La Guerra De Los Mundos",
-    "url": "https://zonaaps.com/movies/60-fps-la-guerra-de-los-mundos/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/war-words.jpg",
+    "title": "127 horas",
+    "image": "https://image.tmdb.org/t/p/w185/kJdktpjBkhR8NjBXW9kruNpjnPt.jpg",
+    "rating": "7.5",
+    "year": "Nov. 12, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Basada en la historia real de Aron Ralston, un intrépido montañero norteamericano tristemente famoso porque en mayo de 2003, durante una escalada, en Utah, sufrió una caída. Tras varios días inmovilizado e incapaz de encontrar una solución, tuvo que tomar una dramática decisión.",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/P/y/g/e/Pyger.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": " La Guerra De Los Mundos",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/exy74uTi0aap1VjGaTxuKqBHuyt-185x278.jpg",
     "rating": "0",
+    "year": "Jun. 28, 2005",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Mientras la Tierra es invadida por máquinas alienígenas de combate, una familia lucha por la supervivencia.",
     "genres": [
       "60 FPS",
@@ -386,121 +474,39 @@
     ]
   },
   {
-    "title": "127 horas",
-    "url": "https://zonaaps.com/movies/127-horas/",
-    "image": "https://image.tmdb.org/t/p/w185/kJdktpjBkhR8NjBXW9kruNpjnPt.jpg",
-    "rating": "7.5",
-    "description": "Basada en la historia real de Aron Ralston, un intrépido montañero norteamericano tristemente famoso porque en mayo de 2003, durante una escalada, en Utah, sufrió una caída. Tras varios días inmovilizado e incapaz de encontrar una solución, tuvo que tomar una dramática decisión.",
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Suspense"
+    "title": " La caída del halcón negro",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/A2vZprRrBbcwLMwf4Oswtk1jodh-185x278.jpg",
+    "rating": "7.7",
+    "year": "Dec. 28, 2001",
+    "quality": "4k",
+    "languages": [
+      "Latino"
     ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/y/g/e/Pyger.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "#Vivo &#8211; Alive",
-    "url": "https://zonaaps.com/movies/vivo-alive/",
-    "image": "https://image.tmdb.org/t/p/w185/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",
-    "rating": "6.3",
-    "description": "La rápida propagación de una infección desconocida provoca el caos absoluto en una ciudad. Sin embargo, un ciudadano que vive completamente solo logra permanecer al margen de ella. Esta es su historia.",
+    "description": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
     "genres": [
+      "4k",
       "Acción",
-      "Aventura",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/T/h/B/bThBp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/T/h/B/bThBp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "12 horas para sobrevivir (Purga 3): El año de la eleccion",
-    "url": "https://zonaaps.com/movies/election-12-horas-para-sobrevivir/",
-    "image": "https://image.tmdb.org/t/p/w185/wEpLdiISE6mLHXOc1iDnd3edfal.jpg",
-    "rating": "6",
-    "description": "Han pasado dos años desde que el ex-sargento de policía Leo Barnes (Frank Grillo) decidió no vengarse del hombre que mató a su hijo. Ahora Barnes dirige al equipo de seguridad que se encarga de proteger a la senadora Charlie Roan (Elizabeth Mitchell), una candidata a la Presidencia que reivindica la supresión de La Purga anual, que consiste en permitir, una noche al año, cualquier actividad criminal, incluído el asesinato. Roan considera que esta práctica perjudica sobre todo a los necesitados y a los pobres.",
-    "genres": [
-      "Acción",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/n/x/H/ynxHn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "12 horas horas para sobrevivir (Purga 2)",
-    "url": "https://zonaaps.com/movies/anarchy-la-noche-de-las-bestias/",
-    "image": "https://image.tmdb.org/t/p/w185/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg",
-    "rating": "6.4",
-    "description": "Secuela de la película The Purge. La noche de las bestias (2013). En la película original, el gobierno de Estados Unidos permite que, durante una noche, cualquier acto vandálico sea legal. De esta forma intentan reducir el número de criminales, ya que las cárceles del país se encuentran saturadas. La idea surge de la teoría de que todo ser humano tiene maldad en su interior, maldad que en algún momento saldrá a la luz. En esta situación, las personas que tienen dinero tienen más posibilidades que las pobres, ya que estas últimas no tienen los medios necesarios para defenderse de los que les quieran hacer daño. Así, una pregunta sale a la luz: ¿Cómo poder sobrevivir a los criminales sin convertirse en uno?",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/q/t/-/G/qt-Gn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "300",
-    "url": "https://zonaaps.com/movies/300/",
-    "image": "https://image.tmdb.org/t/p/w185/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
-    "rating": "7.6",
-    "description": "Adaptación del cómic de Frank Miller (autor del cómic ‘Sin City’) sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Bélica"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/P/3/E/AP3Eo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Matrix",
-    "url": "https://zonaaps.com/movies/60-fps-matrix/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/matrix.jpg",
-    "rating": "8.7",
-    "description": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
-    "genres": [
-      "60 FPS",
+      "Bélica",
+      "Historia",
       "60 FPS"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/1a/s8/2/6/E/j/L/6EjLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4244866560-4244950324"
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvcnUxYTg4bjZwNjJ3X24vaW5kZXgtdjEtYTEubTN1OD90PTkxRFlwM3gxc0NhakppaEE5SUFITzJVS3VHUV9FYm5tR1VrUFIzcFhmVzAmcz0xNzg3MzYwODIyJmU9NDMyMDAmdj0zMzE5MjQ2NjEmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
   {
-    "title": "Matrix 2; Reloaded",
-    "url": "https://zonaaps.com/movies/60-fps-matrix-2-reloaded/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/matrix-recargado.jpg",
+    "title": " Matrix 2 ; Reloaded",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/ljaXjqT9h5i8b8NiN9kCAQl32Cg-185x278.jpg",
     "rating": "7.2",
+    "year": "May. 15, 2003",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Neo y sus aliados corren contra el tiempo antes de que las máquinas descubran la ciudad de Zion y la destruyan. Mientras busca la verdad sobre la Matrix, Neo debe salvar a Trinity de un oscuro destino.",
     "genres": [
       "60 FPS",
@@ -514,43 +520,12 @@
     ]
   },
   {
-    "title": "20 años no importan",
-    "url": "https://zonaaps.com/movies/20-anos-no-importan/",
-    "image": "https://image.tmdb.org/t/p/w185/8Zo5Ve9NHUMRaLymJmrnw0czVr.jpg",
-    "rating": "6.3",
-    "description": "Alice Lantins (Virginia Efira, En solitario) tiene 38 años. Es hermosa, ambiciosa y pone mucha dedición a su trabajo, demasiada, hasta el punto de llegarse a olvidar de sus propios problemas. Tiene todos los ingredientes para convertirse en la próxima directora de la revista «Rebelle», todo excepto una pareja. Pero cuando el joven y pasional Balthazar (Pierre Niney, LOL [Laughing Out Loud]), de 20 años de edad, se cruza por casualidad en su camino, la imagen que tenían sus compañeros de ella, cambia de la noche a la mañana. Creyendo haber encontrado la clave para conseguir el ansiado ascenso en el trabajo, Alice decide ser la protagonista de una imaginaria comedia romántica que aparentemente no acabará bien.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/3/m/v/1/3mv1n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "50 primeras citas",
-    "url": "https://zonaaps.com/movies/50-primeras-citas/",
-    "image": "https://image.tmdb.org/t/p/w185/iuBSUp33aTqXXRokt4v2wZrsqcj.jpg",
-    "rating": "6.8",
-    "description": "Henry Roth es un biólogo marino de Hawaii que se pasa la vida inventando excusas para no comprometerse con las numerosas chicas con las que sale. Sin embargo, cuando conoce a la chica de sus sueños, la encantadora Lucy Whitmore, surge un extraño problema en la relación: cuando Lucy se levanta por las mañanas no recuerda absolutamente nada de lo ocurrido el día anterior, de modo que Henry no tendrá más remedio que reconquistarla cada día.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/K/a/y/4Kayo.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "50 Cincuenta sombras más oscuras",
-    "url": "https://zonaaps.com/movies/cincuenta-sombras-mas-oscuras/",
     "image": "https://image.tmdb.org/t/p/w185/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg",
     "rating": "4.6",
+    "year": "Feb. 08, 2017",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Cuando Christian Grey, que se siente herido, intenta convencer a Anastasia Steele de que vuelva a formar parte de su vida, ella le exige un nuevo acuerdo antes de aceptar. Pero cuando la pareja empieza a ser más confiada y a tener una cierta estabilidad, aparecen mujeres del pasado de Christian decididas a frenar en seco sus esperanzas de un futuro juntos…",
     "genres": [
       "Drama",
@@ -568,10 +543,112 @@
     ]
   },
   {
-    "title": "60 FPS &#8211; Stitch 2025 &#8211; Lilo y Stitch",
-    "url": "https://zonaaps.com/movies/60-fps-stitch-2025-lilo-y-stitch/",
+    "title": " Matrix",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/8rT9kG2EYkZpJmYCuTJNnPDEube-185x278.jpg",
+    "rating": "8.7",
+    "year": "Mar. 31, 1999",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+    "genres": [
+      "60 FPS",
+      "60 FPS"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/1a/s8/2/6/E/j/L/6EjLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4244866560-4244950324"
+      }
+    ]
+  },
+  {
+    "title": "12 horas para sobrevivir (Purga 3): El año de la eleccion",
+    "image": "https://image.tmdb.org/t/p/w185/wEpLdiISE6mLHXOc1iDnd3edfal.jpg",
+    "rating": "6",
+    "year": "Jun. 29, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Han pasado dos años desde que el ex-sargento de policía Leo Barnes (Frank Grillo) decidió no vengarse del hombre que mató a su hijo. Ahora Barnes dirige al equipo de seguridad que se encarga de proteger a la senadora Charlie Roan (Elizabeth Mitchell), una candidata a la Presidencia que reivindica la supresión de La Purga anual, que consiste en permitir, una noche al año, cualquier actividad criminal, incluído el asesinato. Roan considera que esta práctica perjudica sobre todo a los necesitados y a los pobres.",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/n/x/H/ynxHn.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "12 horas horas para sobrevivir (Purga 2)",
+    "image": "https://image.tmdb.org/t/p/w185/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg",
+    "rating": "6.4",
+    "year": "Jul. 17, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Secuela de la película The Purge. La noche de las bestias (2013). En la película original, el gobierno de Estados Unidos permite que, durante una noche, cualquier acto vandálico sea legal. De esta forma intentan reducir el número de criminales, ya que las cárceles del país se encuentran saturadas. La idea surge de la teoría de que todo ser humano tiene maldad en su interior, maldad que en algún momento saldrá a la luz. En esta situación, las personas que tienen dinero tienen más posibilidades que las pobres, ya que estas últimas no tienen los medios necesarios para defenderse de los que les quieran hacer daño. Así, una pregunta sale a la luz: ¿Cómo poder sobrevivir a los criminales sin convertirse en uno?",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/q/t/-/G/qt-Gn.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "300",
+    "image": "https://image.tmdb.org/t/p/w185/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+    "rating": "7.6",
+    "year": "Mar. 07, 2007",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Adaptación del cómic de Frank Miller (autor del cómic ‘Sin City’) sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Bélica"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/A/P/3/E/AP3Eo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "50 primeras citas",
+    "image": "https://image.tmdb.org/t/p/w185/iuBSUp33aTqXXRokt4v2wZrsqcj.jpg",
+    "rating": "6.8",
+    "year": "Feb. 13, 2004",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Henry Roth es un biólogo marino de Hawaii que se pasa la vida inventando excusas para no comprometerse con las numerosas chicas con las que sale. Sin embargo, cuando conoce a la chica de sus sueños, la encantadora Lucy Whitmore, surge un extraño problema en la relación: cuando Lucy se levanta por las mañanas no recuerda absolutamente nada de lo ocurrido el día anterior, de modo que Henry no tendrá más remedio que reconquistarla cada día.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/K/a/y/4Kayo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": " Stitch 2025 ; Lilo y Stitch",
     "image": "https://image.tmdb.org/t/p/w185/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
     "rating": "6.9",
+    "year": "May. 17, 2025",
+    "quality": "60 FPS",
+    "languages": [],
     "description": "Lilo, una soltaría niña hawaiana, adopta a un «perro» de la perrera local, sin saber que es un extraterrestre fugitivo que se refugia en la Tierra.",
     "genres": [
       "60 FPS",
@@ -583,50 +660,37 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/37/s8/2/2/2/_/4/22_4y.aaa.mp4"
+        "url": "https://1a-1791.com/video/fww1/37/s8/2/2/2/_/4/22_4y.aaa.mp4"
       }
     ]
   },
   {
-    "title": "60 Segundos",
-    "url": "https://zonaaps.com/movies/60-segundos/",
-    "image": "https://image.tmdb.org/t/p/w185/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
-    "rating": "0",
-    "description": "El robo de autos en Long Beach se redujo en un 47% cuando Randall «Memphis» Raines se alejó de esta vida. Sin embargo, se ve obligado a regresar a este mundo, tomando las riendas del trabajo que su hermano Kip arruinó para el negociante de autos robados Raymond Calitri: robar 50 autos exóticos y tenerlos listo en un barco de contenedores a las 8:00 de la mañana del viernes, siendo avisado un lunes. Con Calitri amenazando con matarlo a él y a Kip, y a la unidad GRAB de la policía respirándole en la nuca, Memphis vuelve a reunir a su antiguo equipo para llevar a cabo algo logísticamente imposible.",
+    "title": "20 años no importan",
+    "image": "https://image.tmdb.org/t/p/w185/8Zo5Ve9NHUMRaLymJmrnw0czVr.jpg",
+    "rating": "6.3",
+    "year": "Mar. 06, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Alice Lantins (Virginia Efira, En solitario) tiene 38 años. Es hermosa, ambiciosa y pone mucha dedición a su trabajo, demasiada, hasta el punto de llegarse a olvidar de sus propios problemas. Tiene todos los ingredientes para convertirse en la próxima directora de la revista «Rebelle», todo excepto una pareja. Pero cuando el joven y pasional Balthazar (Pierre Niney, LOL [Laughing Out Loud]), de 20 años de edad, se cruza por casualidad en su camino, la imagen que tenían sus compañeros de ella, cambia de la noche a la mañana. Creyendo haber encontrado la clave para conseguir el ansiado ascenso en el trabajo, Alice decide ser la protagonista de una imaginaria comedia romántica que aparentemente no acabará bien.",
     "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
+      "Comedia"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/f3/s8/2/H/C/T/Y/HCTYy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=928892928-928963946"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/3/m/v/1/3mv1n.caa.mp4"
       }
     ]
   },
   {
-    "title": "8 Mile: Calle de las ilusiones &#8211; 8 Millas",
-    "url": "https://zonaaps.com/movies/8-mile-calle-de-ilusiones/",
-    "image": "https://image.tmdb.org/t/p/w185/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg",
-    "rating": "0",
-    "description": "La gente de Detroit conoce al limite de la Ciudad como 8 Mile. Pero este límite no solamente es físico sino que es una barrera psicologica que separa a Jimmy Smith de lo que el quiere llegar a ser. 8 Mile Calle de las Ilusiones es una provocativa refleión de lo que implica una semana para la vida de Jimmy. Esta película es estelarizada por el multi-premiado artista EMINEM en su primer papel protagónico jacompañado por Kim Basinger como su madre.",
-    "genres": [
-      "Drama",
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/a5/s8/2/3/A/I/Z/3AIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=872584192-872650606"
-      }
-    ]
-  },
-  {
-    "title": "Titanic",
-    "url": "https://zonaaps.com/movies/60-fps-titanic/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/titanic.jpg",
+    "title": "60 FPS Titanic",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/c32fxD3D7a7PuxYxOvSLcssHj8G-185x278.jpg",
     "rating": "8.0",
+    "year": "Dec. 18, 1997",
+    "quality": "60 FPS",
+    "languages": [
+      "Latino"
+    ],
     "description": "Ver Titanic 60 FPS Online Gratis. Disfruta de la obra maestra de James Cameron como nunca antes la habías visto. El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic con una fluidez de imagen impresionante. Su amor, como el barco, desafía las olas del destino en esta versión remasterizada a alta tasa de fotogramas. &nbsp;",
     "genres": [
       "60 FPS",
@@ -642,10 +706,54 @@
     ]
   },
   {
+    "title": "60 Segundos",
+    "image": "https://image.tmdb.org/t/p/w185/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+    "rating": "0",
+    "year": "Jun. 09, 2000",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El robo de autos en Long Beach se redujo en un 47% cuando Randall «Memphis» Raines se alejó de esta vida. Sin embargo, se ve obligado a regresar a este mundo, tomando las riendas del trabajo que su hermano Kip arruinó para el negociante de autos robados Raymond Calitri: robar 50 autos exóticos y tenerlos listo en un barco de contenedores a las 8:00 de la mañana del viernes, siendo avisado un lunes. Con Calitri amenazando con matarlo a él y a Kip, y a la unidad GRAB de la policía respirándole en la nuca, Memphis vuelve a reunir a su antiguo equipo para llevar a cabo algo logísticamente imposible.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/f3/s8/2/H/C/T/Y/HCTYy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=928892928-928963946"
+      }
+    ]
+  },
+  {
+    "title": "8 Mile: Calle de las ilusiones ; 8 Millas",
+    "image": "https://image.tmdb.org/t/p/w185/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg",
+    "rating": "0",
+    "year": "Nov. 08, 2002",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La gente de Detroit conoce al limite de la Ciudad como 8 Mile. Pero este límite no solamente es físico sino que es una barrera psicologica que separa a Jimmy Smith de lo que el quiere llegar a ser. 8 Mile Calle de las Ilusiones es una provocativa refleión de lo que implica una semana para la vida de Jimmy. Esta película es estelarizada por el multi-premiado artista EMINEM en su primer papel protagónico jacompañado por Kim Basinger como su madre.",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/a5/s8/2/3/A/I/Z/3AIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=872584192-872650606"
+      }
+    ]
+  },
+  {
     "title": "911: Llamada Infernal",
-    "url": "https://zonaaps.com/movies/911-llamada-infernal/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/911-llamada.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/aOIXYOwB97ioUnhHzwnyCRxwVBe-185x278.jpg",
     "rating": "5.0",
+    "year": "Mar. 12, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Durante una llamada rutinaria por disturbios domésticos, un trágico accidente lleva a dos oficiales de policía a una pesadilla implacable que revela la existencia de un culto aterrador.",
     "genres": [
       "Terror"
@@ -659,9 +767,11 @@
   },
   {
     "title": "A dos metros de ti",
-    "url": "https://zonaaps.com/movies/a-dos-metros-de-ti/",
     "image": "https://image.tmdb.org/t/p/w185/4F5LggLzv2VIa0MJT2ETN8bWtr2.jpg",
     "rating": "7.2",
+    "year": "Mar. 14, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Will y Stella son dos adolescentes que padecen fibrosis quística y están ingresados en el hospital para tratarse. Aunque ambos tratan de refugiarse en su propio mundo, de forma inevitable acaban enamorándose. La pareja deberá luchar para mantener viva su relación, con una única regla: separarse con una distancia de alrededor de dos metros para evitar que ambos se puedan contagiar. Sin embargo, la vida de ambos estará en peligro.",
     "genres": [
       "Drama",
@@ -675,10 +785,31 @@
     ]
   },
   {
+    "title": "A La Mierda Con Los Zombis",
+    "image": "https://image.tmdb.org/t/p/w185/qxYhEeYxRb4MDwTCnCR6QD82gb1.jpg",
+    "rating": "6.3",
+    "year": "Oct. 23, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tres exploradores, amigos de toda la vida, unen sus fuerzas con la agresiva camarera de un bar para formar el equipo de héroes menos probable del mundo. Cuando su pacífico pueblo es asolado por una invasión de zombies, lucharán por la insignia de sus vidas y pondrán a prueba sus habilidades como exploradores para salvar a la humanidad del ataque de los no muertos.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/98/s8/2/K/b/0/9/Kb09y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=732029952-732085774"
+      }
+    ]
+  },
+  {
     "title": "A todos los chicos de los que me enamoré",
-    "url": "https://zonaaps.com/movies/a-todos-los-chicos-de-los-que-me-enamore/",
     "image": "https://image.tmdb.org/t/p/w185/edspFefhqzR2jpqzV38duYjYKNC.jpg",
     "rating": "7",
+    "year": "Aug. 16, 2018",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La joven Lara Jean Covey se ha dedicado durante toda su vida a escribir cartas a todos esos chicos con los que tuvo una relación fallida o ni siquiera consiguió tener algo. Todas esas cartas las guarda en una caja que solo ella conoce. Un día, todas esas misivas de amor (o desamor) son entregadas a los chicos a los que iban dirigidas misteriosamente. Ahora Lara tendrá que enfrentarse a sus amores pasados y a la reacción de ellos y de toda la gente de su alrededor que se entera.",
     "genres": [
       "Comedia",
@@ -687,43 +818,26 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/7/i/T/l/7iTlt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/7/i/T/l/7iTlt.aaa.mp4"
       }
     ]
   },
   {
-    "title": "A través de mi ventana",
-    "url": "https://zonaaps.com/movies/a-traves-de-mi-ventana/",
-    "image": "https://image.tmdb.org/t/p/w185/zGnfnPkQRUC1W1R5A8ldI4AfSJu.jpg",
-    "rating": "5.5",
-    "description": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista y es que, muy a su pesar, no han intercambiado ni una palabra. Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Pero ella no es una niña inocente y no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma…",
+    "title": "A todos los chicos: P.D. Todavía te quiero",
+    "image": "https://image.tmdb.org/t/p/w185/eoCZ84UK0E3X7ru4VAE2ept88zl.jpg",
+    "rating": "6.1",
+    "year": "Feb. 03, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ya es oficial, Lara Jean y Peter son pareja. ¿Qué podría salir mal? Pues que un viejo amor vuelva a entrar en la vida de esta chica tan feliz.",
     "genres": [
       "Comedia",
-      "Drama",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/l/7/O/zl7Op.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "A todos los chicos: Para siempre",
-    "url": "https://zonaaps.com/movies/a-todos-los-chicos-para-siempre/",
-    "image": "https://image.tmdb.org/t/p/w185/7bGVC0tkhvihjZHNFJuiuY2YcN7.jpg",
-    "rating": "6.3",
-    "description": "Á todos los chicos: Para siempre sigue a Lara Jean en su último año de secundaria mientras enfrenta decisiones importantes sobre su futuro. Durante un viaje escolar a Nueva York, descubre nuevas posibilidades que la llevan a cuestionar sus planes universitarios y su relación con Peter. Mientras ambos intentan mantener viva su historia de amor, Lara Jean aprende a equilibrar sus sueños personales con los sentimientos que la unen a él. La película combina romance, crecimiento personal y momentos emotivos que cierran la trilogía con un mensaje sobre encontrar tu propio camino sin dejar de lado lo que amas. Puedes ver más detalles oficiales en IMDb.Si disfrutas las historias de terror, también puedes visitar nuestra sección de Terror.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/d/K/t/3dKtv.aaa.mp4"
+        "url": "https://1a-1791.com/video/fw/s8/2/D/F/K/f/DFKfv.aaa.mp4"
       }
     ]
   }

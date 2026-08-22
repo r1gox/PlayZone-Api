@@ -1,27 +1,14 @@
 [
   {
-    "title": "Bumblebee",
-    "url": "https://zonaaps.com/movies/bumblebee/",
-    "image": "https://image.tmdb.org/t/p/w185/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg",
-    "rating": "6.7",
-    "description": "Sexta entrega de la saga ‘Transformers’, esta vez centrada en el «hermano pequeño» de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VW amarillo ordinario.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/9/c/2/d/9c2dt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
     "title": "Camino hacia el terror 7: La Fundación",
-    "url": "https://zonaaps.com/movies/camino-hacia-el-terror-7-la-fundacion/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/camino2.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/cny2yzaSZGMQ1bSLsLNVm67mIvI-185x278.jpg",
     "rating": "0",
+    "year": "Jan. 26, 2021",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados «The Foundation».",
     "genres": [
       "Suspense",
@@ -35,62 +22,14 @@
     ]
   },
   {
-    "title": "Black Friday",
-    "url": "https://zonaaps.com/movies/black-friday/",
-    "image": "https://image.tmdb.org/t/p/w185/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
-    "rating": "6.6",
-    "description": "Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para «Grindhouse».",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/O/m/E/Y/OmEYo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Campamento con mamá",
-    "url": "https://zonaaps.com/movies/campamento-con-mama/",
-    "image": "https://image.tmdb.org/t/p/w185/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
-    "rating": "5.4",
-    "description": "Para salvar la acampada de fin de curso de su hijo, una madre soltera decide conducir el autobús mientras intenta demostrarle que puede ser una madre guay.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/fa/s8/2/A/L/A/q/ALAqw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Canina",
-    "url": "https://zonaaps.com/movies/canina/",
-    "image": "https://image.tmdb.org/t/p/w185/wBTdVt42yrLqS4LuWt01BTnAgxw.jpg",
-    "rating": "5.6",
-    "description": "Una mujer hace una pausa en su carrera profesional para convertirse en madre y ama de casa, pero pronto su vida doméstica toma un giro surrealista. A medida que acepta el poder salvaje profundamente arraigado en la maternidad, se vuelve cada vez más consciente de las extrañas e innegables señales de que se puede estar convirtiendo en un perro. &nbsp; ⬇⬇⬇⬇⬇",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/81/s8/2/0/_/9/9/0_99w.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Camp Rock 2: El Concierto Final 2",
-    "url": "https://zonaaps.com/movies/camp-rock-2-el-concierto-final-2/",
     "image": "https://image.tmdb.org/t/p/w185/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg",
     "rating": "5.2",
+    "year": "Sep. 17, 2010",
+    "quality": "480p SD",
+    "languages": [
+      "Latino"
+    ],
     "description": "La secuela sigue la historia de Mitchie, Shane, Jason, Nate y sus amigos cuando retornan a «Camp Rock» con la intención de pasar otro verano de música y diversión. Sin embargo, ellos pronto aprenden que un nuevo campamento musical, «Camp Star» se ha abierto al otro lado del lago y ha atraído a muchos de los profesores y alumnos de Camp Rock, poniendo el futuro de ese campamento en riesgo. Cuando el director de Camp Star desafía a Camp Rock a una «batalla musical» para ver cuál de los dos campamentos tiene realmente el mejor talento musical, todos se preparan para la máxima batalla de bandas.",
     "genres": [
       "Comedia",
@@ -105,28 +44,52 @@
     ]
   },
   {
-    "title": "Capitana Marvel",
-    "url": "https://zonaaps.com/movies/capitana-marvel/",
-    "image": "https://image.tmdb.org/t/p/w185/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
-    "rating": "6.8",
-    "description": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, ‘Capitana Marvel’ es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+    "title": "Campamento con mamá",
+    "image": "https://image.tmdb.org/t/p/w185/xw11v7kM8QrvhyBzls3xxC1zILd.jpg",
+    "rating": "5.4",
+    "year": "Dec. 05, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Para salvar la acampada de fin de curso de su hijo, una madre soltera decide conducir el autobús mientras intenta demostrarle que puede ser una madre guay.",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Comedia",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9b/s8/2/i/u/E/o/iuEow.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/fa/s8/2/A/L/A/q/ALAqw.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Caníbales; The Green Inferno",
-    "url": "https://zonaaps.com/movies/canibales-the-green-inferno/",
+    "title": "Canina",
+    "image": "https://image.tmdb.org/t/p/w185/wBTdVt42yrLqS4LuWt01BTnAgxw.jpg",
+    "rating": "5.6",
+    "year": "Dec. 06, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una mujer hace una pausa en su carrera profesional para convertirse en madre y ama de casa, pero pronto su vida doméstica toma un giro surrealista. A medida que acepta el poder salvaje profundamente arraigado en la maternidad, se vuelve cada vez más consciente de las extrañas e innegables señales de que se puede estar convirtiendo en un perro. &nbsp; ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/81/s8/2/0/_/9/9/0_99w.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Caníbales ; The Green Inferno",
     "image": "https://image.tmdb.org/t/p/w185/jusadS0u0P0BFAYcUpI1pSBF6IN.jpg",
     "rating": "0",
+    "year": "Sep. 08, 2013",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Justine y sus idealistas compañeros activistas de Nueva York viajan a la selva en Perú para impedir la destrucción de una parte de la jungla por la tala de árboles que perturbe la vida de una tribu indígena local. Hasta aquí todo son buenas intenciones, que se torcerán cuando descubran que la tribu en cuestión es caníbal.",
     "genres": [
       "Aventura",
@@ -141,9 +104,14 @@
   },
   {
     "title": "Capitán América 2: El soldado de invierno",
-    "url": "https://zonaaps.com/movies/capitan-america-el-soldado-de-invierno/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/capitan.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6QBRnyvJHD7slOlX6aukvMwcEu-185x278.jpg",
     "rating": "7.8",
+    "year": "Mar. 20, 2014",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo.",
     "genres": [
       "Acción",
@@ -158,10 +126,32 @@
     ]
   },
   {
+    "title": "Capitana Marvel",
+    "image": "https://image.tmdb.org/t/p/w185/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+    "rating": "6.8",
+    "year": "Mar. 06, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, ‘Capitana Marvel’ es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/i/u/E/o/iuEow.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Capitán América: Un nuevo mundo",
-    "url": "https://zonaaps.com/movies/capitan-america-un-nuevo-mundo/",
     "image": "https://image.tmdb.org/t/p/w185/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg",
     "rating": "5.7",
+    "year": "Feb. 12, 2025",
+    "quality": "CAM-HDTS",
+    "languages": [],
     "description": "Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero entre en caos.",
     "genres": [
       "Acción",
@@ -171,34 +161,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/f0/s8/2/Y/c/h/r/Ychry.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Caracortada; Scarface; Tony Montana",
-    "url": "https://zonaaps.com/movies/caracortada-scarface-tony-montana/",
-    "image": "https://image.tmdb.org/t/p/w185/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
-    "rating": "8.3",
-    "description": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama",
-      "3709"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/24/s8/2/S/X/G/N/SXGNx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/2/Y/c/h/r/Ychry.aaa.mp4"
       }
     ]
   },
   {
     "title": "Buscando a Nemo",
-    "url": "https://zonaaps.com/movies/buscando-a-nemo/",
     "image": "https://image.tmdb.org/t/p/w185/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
     "rating": "8.2",
+    "year": "May. 30, 2003",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar.",
     "genres": [
       "Animación",
@@ -224,10 +197,72 @@
     ]
   },
   {
+    "title": "Black Friday",
+    "image": "https://image.tmdb.org/t/p/w185/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
+    "rating": "6.6",
+    "year": "Nov. 16, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para «Grindhouse».",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/O/m/E/Y/OmEYo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Caracortada ; Scarface ; Tony Montana",
+    "image": "https://image.tmdb.org/t/p/w185/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+    "rating": "8.3",
+    "year": "Dec. 09, 1983",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama",
+      "3709"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/24/s8/2/S/X/G/N/SXGNx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Carrie",
+    "image": "https://image.tmdb.org/t/p/w185/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg",
+    "rating": "5.8",
+    "year": "Oct. 16, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Carrie White, una adolescente a la que sus compañeros humillan constantemente, posee poderes psíquicos que se manifiestan cuando se siente dominada por la ira. El día del baile de graduación la situación llega a ser insoportable.",
+    "genres": [
+      "Drama",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/-/J/C/r/-JCry.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Blue Lock la película -episodio Nagi-",
-    "url": "https://zonaaps.com/movies/blue-lock-la-pelicula-episodio-nagi/",
     "image": "https://image.tmdb.org/t/p/w185/kYk0yppy0To0WxjP2MMI4wdvYjD.jpg",
     "rating": "6.6",
+    "year": "Apr. 19, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "«Qué fastidio». Esa era la frase favorita de Nagi Seishiro, estudiante de segundo año de preparatoria, en su día a día. Eso fue hasta que Mikage Reo, un compañero que soñaba con ganar la Copa del Mundo, descubrió la habilidad oculta de Nagi y le animó a jugar al fútbol y compartir su extraordinario talento. Un día recibe una invitación para el misterioso Proyecto BLUE LOCK. Allí se encuentra con los mejores delanteros del país. El sueño de Nagi de convertirse en el mejor junto a Reo le llevará a un mundo desconocido. Un prodigio sólo puede formarse cuando alguien lo descubre… ahora, el increíble talento y la personalidad del delantero Nagi Seishiro revolucionarán el mundo del fútbol.",
     "genres": [
       "Acción",
@@ -243,27 +278,54 @@
     ]
   },
   {
-    "title": "Carrie",
-    "url": "https://zonaaps.com/movies/carrie/",
-    "image": "https://image.tmdb.org/t/p/w185/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg",
-    "rating": "5.8",
-    "description": "Carrie White, una adolescente a la que sus compañeros humillan constantemente, posee poderes psíquicos que se manifiestan cuando se siente dominada por la ira. El día del baile de graduación la situación llega a ser insoportable.",
+    "title": "Bolt",
+    "image": "https://image.tmdb.org/t/p/w185/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+    "rating": "6.8",
+    "year": "Nov. 21, 2008",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
     "genres": [
-      "Drama",
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/G/1/b/GG1br.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Camino hacia el terror 5: Linaje sangriento",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/8rCVdIzSIDIALXArSjLyw44teD0-185x278.jpg",
+    "rating": "4.1",
+    "year": "Oct. 23, 2012",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En una pequeña ciudad de Virginia Occidental, tiene lugar el Mountain Man Festival el día de Halloween, donde una multitud de excursionistas acuden a la fiesta, disfrazados y listos para pasar una noche salvaje con música y diversión. Pero una familia endogámica de caníbales les aguará la fiesta. Quinta entrega de la saga KM 666",
+    "genres": [
+      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/88/s8/2/-/J/C/r/-JCry.aaa.mp4"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDYvM3B2cG1rNzUzYm54X24vaW5kZXgtdjEtYTEubTN1OD90PUd2Q2xCNXFyZUdiblFiRHZ1bTBleTBKbXZnVmh2a1FuTHdmZ1BlQmJkczQmcz0xNzg3MzYwNzgwJmU9NDMyMDAmdj0zMzE5MjM4MjAmc3J2PXMxMiZpPTAuMCZzcD0wJmZyPTNwdnBtazc1M2JueCZyPWU"
       }
     ]
   },
   {
-    "title": "Camino hacia el Terror 1; Km. 666 (Camino sangriento)",
-    "url": "https://zonaaps.com/movies/camino-hacia-el-terror-1-km-666-camino-sangriento/",
+    "title": "Camino hacia el Terror 1 ; Km. 666 (Camino sangriento)",
     "image": "https://image.tmdb.org/t/p/w185/m4zoAUmcvWBnMGPYO9jP91kfkkN.jpg",
     "rating": "6.1",
+    "year": "May. 30, 2003",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Seis adolescentes viajan en coche cuando, de pronto, deben desviarse de su ruta al encontrar la carretera bloqueada por un accidente. Pero los jóvenes se pierden en los densos bosques de West Virginia, donde serán perseguidos por una raza humana de caníbales, horriblemente desfigurados por su antinatural alimentación a lo largo de generaciones…",
     "genres": [
       "Suspense",
@@ -281,27 +343,12 @@
     ]
   },
   {
-    "title": "Camino hacia el terror 5: Linaje sangriento",
-    "url": "https://zonaaps.com/movies/camino-hacia-el-terror-5-linaje-sangriento/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/camino5.jpg",
-    "rating": "4.1",
-    "description": "En una pequeña ciudad de Virginia Occidental, tiene lugar el Mountain Man Festival el día de Halloween, donde una multitud de excursionistas acuden a la fiesta, disfrazados y listos para pasar una noche salvaje con música y diversión. Pero una familia endogámica de caníbales les aguará la fiesta. Quinta entrega de la saga KM 666",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDA2LzNwdnBtazc1M2JueF9uL2luZGV4LXYxLWExLm0zdTg_dD10RTlia2ZFZXFCNjZGMmN1VTlVc2FtemMyeXhMTzlLSU9hRTRIUld3R25NJnM9MTc4NzMzODYzMiZlPTQzMjAwJnY9MzIzMDM0MTY0Jmk9MC4wJnNwPTAmZnI9M3B2cG1rNzUzYm54JnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "Casino Royale",
-    "url": "https://zonaaps.com/movies/casino-royale/",
     "image": "https://image.tmdb.org/t/p/w185/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg",
     "rating": "8",
+    "year": "Nov. 14, 2006",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
     "genres": [
       "Acción",
@@ -316,47 +363,31 @@
     ]
   },
   {
-    "title": "Bolas de Fuego (Fireball)",
-    "url": "https://zonaaps.com/movies/fireball/",
-    "image": "https://image.tmdb.org/t/p/w185/4yj2JAApec2qzVk6h3eEyJPELwI.jpg",
-    "rating": "5",
-    "description": "Película de acción centrada en un nuevo deporte callejero que mezcla el baloncesto con el muay thai.",
+    "title": "Cazadores en tierra inhóspita",
+    "image": "https://image.tmdb.org/t/p/w185/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
+    "rating": "5.9",
+    "year": "Jan. 25, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado.",
     "genres": [
       "Acción",
-      "Aventura",
       "Ciencia ficción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/i/i/g/j/iigjr.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/h/i/L/zhiLs.aaa.mp4?u=0&b=0"
       }
     ]
   },
   {
-    "title": "Bolt",
-    "url": "https://zonaaps.com/movies/bolt/",
-    "image": "https://image.tmdb.org/t/p/w185/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
-    "rating": "6.8",
-    "description": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/G/1/b/GG1br.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Camino hacia el Terror 4 &#8211; Camino sangriento 4: El origen",
-    "url": "https://zonaaps.com/movies/camino-sangriento-4-el-origen/",
+    "title": "Camino hacia el Terror 4 ; Camino sangriento 4: El origen",
     "image": "https://image.tmdb.org/t/p/w185/3tTAlLrPJAfWz1E2841yEKRbBoM.jpg",
     "rating": "4.5",
+    "year": "Oct. 17, 2011",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Precuela de la original «Wrong Turn» (Km. 666 – Desvío al infierno), del año 2003, protagonizada por los tres caníbales de dicha entrega.",
     "genres": [
       "Suspense",
@@ -375,9 +406,11 @@
   },
   {
     "title": "Cazafantasmas",
-    "url": "https://zonaaps.com/movies/cazafantasmas/",
     "image": "https://image.tmdb.org/t/p/w185/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",
     "rating": "6.8",
+    "year": "Jul. 14, 2016",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de Cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral.",
     "genres": [
       "Acción",
@@ -387,15 +420,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/M/3/E/y/M3Eyw.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/bf/s8/2/M/3/E/y/M3Eyw.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Camino hacia el Terror 2; Km. 666 II: Camino sangriento 2",
-    "url": "https://zonaaps.com/movies/camino-hacia-el-terror-2-km-666-ii-camino-sangriento-2/",
+    "title": "Camino hacia el Terror 2 ; Km. 666 II: Camino sangriento 2",
     "image": "https://image.tmdb.org/t/p/w185/g3ivyNtj5GjoZ5lHqzEIjY7Jhxt.jpg",
     "rating": "5.5",
+    "year": "Aug. 25, 2007",
+    "quality": "720 HD",
+    "languages": [],
     "description": "El coronel retirado Dale Murphy es el presentador de un reality apocalíptico simulado en el cual se reta a los participantes a sobrevivir en un área salvaje y remota del estado de Virginia… Pero el show televisivo se convierte en una auténtica lucha a vida o muerte cuando los concursantes comprenden que están siendo perseguidos por una familia endogámica de degenerados caníbales decididos a convertirlos a todos en su cena…",
     "genres": [
       "Suspense",
@@ -413,28 +448,12 @@
     ]
   },
   {
-    "title": "Caminando entre dinosaurios",
-    "url": "https://zonaaps.com/movies/caminando-entre-dinosaurios/",
-    "image": "https://image.tmdb.org/t/p/w185/xm8BhcZ4hy1feODH2O3sC4oi6IH.jpg",
-    "rating": "5.2",
-    "description": "Remake de la mítica serie documental de los noventa que ofrece un viaje a lomos de las especies extintas más espectaculares que poblaron la tierra. Un acercamiento a la historia, evolución y supervivencia de los dinosaurios, que transmite su lucha a muerte por prevalecer en un mundo donde la naturaleza se abre camino a base de la Ley del más fuerte. Película que mezcla acción con criaturas creadas por ordenador en animación 3D, para adentrarnos en un mundo prehistórico y vivir de cerca la evolución de los pequeños de la manada desde su nacimiento. Desde romper el cascaron, pasando por la incesante batalla por la comida, hasta la rivalidad por el liderazgo del grupo y el enfrentamiento contra los depredadores que les acechan a cada paso. Apasionante visión de un mundo ya extinto como nunca antes se había plasmado en la gran pantalla. A medio camino entre el documental narrado y una estética visual impactante, los dinosaurios reviven una experiencia sensorial abrumadora.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/8/R/h/68Rhp.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Cazafantasmas: Imperio helado",
-    "url": "https://zonaaps.com/movies/cazafantasmas-imperio-helado/",
     "image": "https://image.tmdb.org/t/p/w185/zsbne3czz9lrVyOvGfFDB9Io45x.jpg",
     "rating": "6.5",
+    "year": "Mar. 20, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.",
     "genres": [
       "Aventura",
@@ -449,24 +468,14 @@
     ]
   },
   {
-    "title": "Cerca de ti",
-    "url": "https://zonaaps.com/movies/cerca-de-ti/",
-    "image": "https://image.tmdb.org/t/p/w185/uNNBGldrfK9B87lnTUMV6rUnpEZ.jpg",
-    "rating": "0",
-    "description": "Película dirigida por Beto Gomez",
-    "genres": [],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/71/s8/2/6/v/z/h/6vzhy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Capitán América: El primer vengador",
-    "url": "https://zonaaps.com/movies/capitan-america-el-primer-vengador/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/primer-ven.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/82ucHZ4ioVGiweT1XMl1mUZaodq-185x278.jpg",
     "rating": "6.9",
+    "year": "Jul. 22, 2011",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores.",
     "genres": [
       "Acción",
@@ -476,107 +485,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAzL3lieWUzNXI1bWVtZV9uL2luZGV4LXYxLWExLm0zdTg_dD1KMXVsYW5BSXZRcE1JSUpCS3lIamJNV3N0eWJWOTBUUnB5bEp3WXlIZEFvJnM9MTc4NzMzODY2NCZlPTQzMjAwJnY9MzI1Mjc3NjQ3Jmk9MC4wJnNwPTAmcj1l"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAzL3lieWUzNXI1bWVtZV9uL2luZGV4LXYxLWExLm0zdTg_dD1jd3VYbXQzS2RRSThjZmpvLUpmcEl6REkyWVZaRUhqdTUwV2dGU0puYXdJJnM9MTc4NzM2MDgyMSZlPTQzMjAwJnY9MzI1Mjc3NjQ3Jmk9MC4zJnNwPTAmcj1l"
       }
     ]
   },
   {
-    "title": "Cazadores en tierra inhóspita",
-    "url": "https://zonaaps.com/movies/cazadores-en-tierra-inhospita/",
-    "image": "https://image.tmdb.org/t/p/w185/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
-    "rating": "5.9",
-    "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/z/h/i/L/zhiLs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Chang machaca; Puedes hacerlo Chang",
-    "url": "https://zonaaps.com/movies/chang-machaca-puedes-hacerlo-chang/",
-    "image": "https://image.tmdb.org/t/p/w185/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg",
-    "rating": "6.3",
-    "description": "Chang, un chaval asiático-estadounidense de 16 años, le apuesta al as del baloncesto de su instituto que podrá hacer un mate la noche del último partido de fútbol. Chang, que mide 1,72 m, se propone aprender a encestar un mate, no solo para impresionar a Kristy, la chica que le gusta, sino también para ganarse el respeto de sus compañeros. Pero, antes de que pueda saltar hasta el aro y encestar, le tocará replantearse todo lo que cree sobre sí mismo, sus amistades y su familia. &nbsp; ⬇⬇⬇⬇⬇",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/9a/s8/2/h/i/4/9/hi49w.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Caos: el inicio; Chaos Walking",
-    "url": "https://zonaaps.com/movies/caos-el-inicio-chaos-walking/",
-    "image": "https://image.tmdb.org/t/p/w185/k3zMduK3u1ckKt1HHcvPDbdhOap.jpg",
-    "rating": "5.7",
-    "description": "Todd Hewitt es el último chico de Prentisstown, una pequeña comunidad cuya peculiaridad (aparte del hecho de que no hay mujeres) es que todos escuchan los pensamientos ajenos, lo que es definido como Ruido, un ruido que nunca cesa. Todd está contento porque sólo falta un mes para que sea su decimotercer cumpleaños y por fin, se convierta en hombre. Pero entonces, en uno de sus paseos por el bosque con su fiel perro, encuentra algo inesperado que cambiará su mundo para siempre: el silencio. O como lo define Todd: un agujero en el ruido.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/1/V/Z/b1VZv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/1/V/Z/b1VZv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Charlie y la fábrica de chocolate",
-    "url": "https://zonaaps.com/movies/charlie-y-la-fabrica-de-chocolate/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/charly.jpg",
-    "rating": "6.7",
-    "description": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/aa/s8/2/w/Z/J/k/wZJkA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3556772864-3556843483"
-      }
-    ]
-  },
-  {
-    "title": "Carrie: un extraño presentimiento",
-    "url": "https://zonaaps.com/movies/carrie-un-extrano-presentimiento/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/carrie.jpg",
-    "rating": "0",
-    "description": "Carrie White, una tímida adolescente que vive con su madre, una fanática religiosa, es objeto de las burlas constantes de sus compañeros de instituto. Cuando, en las duchas del gimnasio, la chica sufre un ataque de histeria al tener su primera menstruación, a una de sus compañeras se le ocurre gastarle una broma macabra durante la fiesta de graduación. Lo que todos ignoran es que Carrie posee poderes telequinésicos. Adaptación de la novela homónima de Stephen King.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5L2h4am9kZGc1OXYxal9oL2luZGV4LXYxLWExLm0zdTg_dD1vS3dLNHdKVFYwcEtDVHo5a3hVV19kNHNENmNOSmVmSjRZOUNDSmZQVFk4JnM9MTc4NzMzODYzMiZlPTQzMjAwJnY9MzI3NzI1Mzc2Jmk9MC4wJnNwPTAmZnI9aHhqb2RkZzU5djFqJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Campanilla: El secreto de las hadas; Tinker bell y el secreto de las hadas; Tinkerbell",
-    "url": "https://zonaaps.com/movies/campanilla-el-secreto-de-las-hadas/",
+    "title": "Campanilla: El secreto de las hadas ; Tinker bell y el secreto de las hadas ; Tinkerbell",
     "image": "https://image.tmdb.org/t/p/w185/soPOZlksVHcumHnhyRlI3XtAVyx.jpg",
     "rating": "7",
+    "year": "Aug. 17, 2012",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Para Campanilla y el resto de las hadas de la temporada cálida, el Bosque del Invierno sigue siendo un lugar misterioso y prohibido. Con «Campanilla: El Secreto de las Hadas», el público acompañará a Campanilla en un increíble viaje a ese mundo prohibido donde descubrirá un secreto mágico que cambiará su vida para siempre.",
     "genres": [
       "Animación",
@@ -596,10 +515,197 @@
     ]
   },
   {
+    "title": "Caminando entre dinosaurios",
+    "image": "https://image.tmdb.org/t/p/w185/xm8BhcZ4hy1feODH2O3sC4oi6IH.jpg",
+    "rating": "5.2",
+    "year": "Dec. 18, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Remake de la mítica serie documental de los noventa que ofrece un viaje a lomos de las especies extintas más espectaculares que poblaron la tierra. Un acercamiento a la historia, evolución y supervivencia de los dinosaurios, que transmite su lucha a muerte por prevalecer en un mundo donde la naturaleza se abre camino a base de la Ley del más fuerte. Película que mezcla acción con criaturas creadas por ordenador en animación 3D, para adentrarnos en un mundo prehistórico y vivir de cerca la evolución de los pequeños de la manada desde su nacimiento. Desde romper el cascaron, pasando por la incesante batalla por la comida, hasta la rivalidad por el liderazgo del grupo y el enfrentamiento contra los depredadores que les acechan a cada paso. Apasionante visión de un mundo ya extinto como nunca antes se había plasmado en la gran pantalla. A medio camino entre el documental narrado y una estética visual impactante, los dinosaurios reviven una experiencia sensorial abrumadora.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/6/8/R/h/68Rhp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Cerca de ti",
+    "image": "https://image.tmdb.org/t/p/w185/uNNBGldrfK9B87lnTUMV6rUnpEZ.jpg",
+    "rating": "0",
+    "year": "Dec. 31, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Película dirigida por Beto Gomez",
+    "genres": [],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/71/s8/2/6/v/z/h/6vzhy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Chang machaca ; Puedes hacerlo Chang",
+    "image": "https://image.tmdb.org/t/p/w185/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg",
+    "rating": "6.3",
+    "year": "Mar. 09, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Chang, un chaval asiático-estadounidense de 16 años, le apuesta al as del baloncesto de su instituto que podrá hacer un mate la noche del último partido de fútbol. Chang, que mide 1,72 m, se propone aprender a encestar un mate, no solo para impresionar a Kristy, la chica que le gusta, sino también para ganarse el respeto de sus compañeros. Pero, antes de que pueda saltar hasta el aro y encestar, le tocará replantearse todo lo que cree sobre sí mismo, sus amistades y su familia. &nbsp; ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/9a/s8/2/h/i/4/9/hi49w.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Charlie y la fábrica de chocolate",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/x2x8Ud3xtPmQO0niQ8qlosTmLpR-185x278.jpg",
+    "rating": "6.7",
+    "year": "Jul. 13, 2005",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "charlie y la fabrica de chocolate español latino",
+      "charlie y la fabrica de chocolate pelicula completa en español latino hd",
+      "descargar charlie y la fabrica de chocolate 2005 mega",
+      "donde ver charlie y la fabrica de chocolate 2026",
+      "johnny dep willy wonka gratis",
+      "mirar charlie y la fábrica de chocolate gratis online 2026",
+      "pelicula de la fabrica de dulces gratis",
+      "ver charlie y la fábrica de chocolate online gratis",
+      "ver charlie y la fabrica de chocolate sin cortes",
+      "ver pelicula charlie y la fabrica de chocolate 1080p"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/aa/s8/2/w/Z/J/k/wZJkA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3556772864-3556843483"
+      }
+    ]
+  },
+  {
+    "title": "Caos: el inicio ; Chaos Walking",
+    "image": "https://image.tmdb.org/t/p/w185/k3zMduK3u1ckKt1HHcvPDbdhOap.jpg",
+    "rating": "5.7",
+    "year": "Feb. 24, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Todd Hewitt es el último chico de Prentisstown, una pequeña comunidad cuya peculiaridad (aparte del hecho de que no hay mujeres) es que todos escuchan los pensamientos ajenos, lo que es definido como Ruido, un ruido que nunca cesa. Todd está contento porque sólo falta un mes para que sea su decimotercer cumpleaños y por fin, se convierta en hombre. Pero entonces, en uno de sus paseos por el bosque con su fiel perro, encuentra algo inesperado que cambiará su mundo para siempre: el silencio. O como lo define Todd: un agujero en el ruido.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/b/1/V/Z/b1VZv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/b/1/V/Z/b1VZv.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Carrie: un extraño presentimiento",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/6JTL8AQ4jGFmFMTA6H7oVGGKaPp-185x278.jpg",
+    "rating": "0",
+    "year": "Nov. 03, 1976",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Carrie White, una tímida adolescente que vive con su madre, una fanática religiosa, es objeto de las burlas constantes de sus compañeros de instituto. Cuando, en las duchas del gimnasio, la chica sufre un ataque de histeria al tener su primera menstruación, a una de sus compañeras se le ocurre gastarle una broma macabra durante la fiesta de graduación. Lo que todos ignoran es que Carrie posee poderes telequinésicos. Adaptación de la novela homónima de Stephen King.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5L2h4am9kZGc1OXYxal9oL2luZGV4LXYxLWExLm0zdTg_dD11a3BpaldOREo0U01rWXdGaFJvQVpJblNUSVJ6Z0lzZXFRSzEySnB5SFBzJnM9MTc4NzM2MDc4MCZlPTQzMjAwJnY9MzI3NzI1Mzc2Jmk9MC4wJnNwPTAmZnI9aHhqb2RkZzU5djFqJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Chiquito pero Peligroso",
+    "image": "https://image.tmdb.org/t/p/w185/7oWhgp3SHexU9Byx97U7Sc8uroW.jpg",
+    "rating": "4.5",
+    "year": "Aug. 31, 2006",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un hombre desesperado por ser padre creerá lo que sea, incluso que un ladrón de joyas con cara de bebé es un niño abandonado.",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/F/_/S/TF_Ss.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Casi 300",
+    "image": "https://image.tmdb.org/t/p/w185/vmgHtWiNmyWuyzlXZwM1xlgZ170.jpg",
+    "rating": "2.8",
+    "year": "Jan. 24, 2008",
+    "quality": "",
+    "languages": [],
+    "description": "Parodia de la exitosa película «300». El heroico Leónidas, sin más armas que la ropa interior de cuero y una capa, lidera un grupo de 13 espartanos en defensa de su patria contra los invasores persas (cuyas filas incluyen a Ghost Rider, Rocky Balboa, los Transformers y a una jorobada Paris Hilton).",
+    "genres": [
+      "Bélica",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.oaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Cara a cara",
-    "url": "https://zonaaps.com/movies/cara-a-cara/",
     "image": "https://image.tmdb.org/t/p/w185/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
     "rating": "7.3",
+    "year": "Jun. 27, 1997",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Para vengar la muerte de su hijo, el Agente del FBI San Archer se hace una peligrosa operación consistente en cambiar su cara por la del terrorista Castor Troy, que está en estado de coma. Peor cuando Castor despierta y toma la identidad de Sean, comienza para éste su peor pesadilla, teniendo que luchar no sólo por salvar su vida sino la de su mujer e hija.",
     "genres": [
       "Acción",
@@ -618,27 +724,12 @@
     ]
   },
   {
-    "title": "Chiquito pero Peligroso",
-    "url": "https://zonaaps.com/movies/chiquito-pero-peligroso/",
-    "image": "https://image.tmdb.org/t/p/w185/7oWhgp3SHexU9Byx97U7Sc8uroW.jpg",
-    "rating": "4.5",
-    "description": "Un hombre desesperado por ser padre creerá lo que sea, incluso que un ladrón de joyas con cara de bebé es un niño abandonado.",
-    "genres": [
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/T/F/_/S/TF_Ss.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Christiane F; Wir Kinder vom Bahnhof Zoo",
-    "url": "https://zonaaps.com/movies/christiane-f-wir-kinder-vom-bahnhof-zoo/",
+    "title": "Christiane F. ; Wir Kinder vom Bahnhof Zoo",
     "image": "https://image.tmdb.org/t/p/w185/p79zGPQ2SdVuLZlE6K1f00mab7w.jpg",
     "rating": "7.5",
+    "year": "Apr. 02, 1981",
+    "quality": "720p HD",
+    "languages": [],
     "description": "",
     "genres": [
       "Drama"
@@ -646,55 +737,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ee/s8/2/Z/0/u/6/Z0u6x.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Cars",
-    "url": "https://zonaaps.com/movies/cars/",
-    "image": "https://image.tmdb.org/t/p/w185/nqii8TqllZRainaNhQkJLNoSbMv.jpg",
-    "rating": "7.2",
-    "description": "El aspirante a campeón de carreras Rayo McQueen está sobre la vía rápida al éxito, la fama y todo lo que él había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/i/P/J/3/iPJ3r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/i/P/J/3/iPJ3r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Ciudad de Dios",
-    "url": "https://zonaaps.com/movies/ciudad-de-dios/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/dios.jpg",
-    "rating": "8.6",
-    "description": "Buscapé, de 11 años, vive en la famosa favela «Ciudad de Dios» y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes.",
-    "genres": [
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/22/s8/2/C/g/B/o/CgBoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3999913472-3999992922"
+        "url": "https://1a-1791.com/video/fwe2/ee/s8/2/Z/0/u/6/Z0u6x.aaa.mp4"
       }
     ]
   },
   {
     "title": "Cars 2",
-    "url": "https://zonaaps.com/movies/cars-2/",
     "image": "https://image.tmdb.org/t/p/w185/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg",
     "rating": "6.2",
+    "year": "Jun. 11, 2011",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Cuando Rayo McQueen y Mate compiten en el Gran Premio Mundial, la carretera se llena de divertidas sorpresas… especialmente cuando Mate se ve atrapado en una aventura de espionaje internacional.",
     "genres": [
       "Animación",
@@ -714,10 +767,35 @@
     ]
   },
   {
+    "title": "Ciudad de Dios",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/wmvT5l8kXXy36SA4CPbSEJ0302S-185x278.jpg",
+    "rating": "8.6",
+    "year": "Aug. 30, 2002",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Buscapé, de 11 años, vive en la famosa favela «Ciudad de Dios» y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes.",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/22/s8/2/C/g/B/o/CgBoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3999913472-3999992922"
+      }
+    ]
+  },
+  {
     "title": "Chucky 4: La semilla de Chucky",
-    "url": "https://zonaaps.com/movies/chucky-4-la-semilla-de-chucky/",
     "image": "https://image.tmdb.org/t/p/w185/5KFnfRzXmn0QNzMZGNWMoW4iSKD.jpg",
     "rating": "4.9",
+    "year": "Nov. 12, 2004",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Seed of Chucky presenta a Glen, el hijo huérfano del irresistible Chucky y de su retorcida esposa Tiffany. En Hollywood se prepara una película acerca de la leyenda urbana de sus sanguinarios padres y Glen aprovecha para resucitarlos. Pero las relaciones familiares son todo menos perfectas cuando Glen descubre que Chucky y su deliciosa Tiffany se han lanzado a una carrera tan infernal como criminal. Chucky no acaba de creerse que su retoño no quiera seguir sus sangrientos pasos. Tiffany, totalmente colgada de las estrellas de Hollywood, tampoco acaba de creerse que el director haya escogido a Jennifer Tilly para protagonizar la película. La actriz no tarda en convertirse, muy a pesar suyo, en anfitriona de la temible familia.",
     "genres": [
       "Comedia",
@@ -731,10 +809,12 @@
     ]
   },
   {
-    "title": "Ciudad Virtual; Fabricated City",
-    "url": "https://zonaaps.com/movies/ciudad-virtual-fabricated-city/",
+    "title": "Ciudad Virtual ; Fabricated City",
     "image": "https://image.tmdb.org/t/p/w185/jsC2AKvwgZzkYbWrBnq1TvvcUCm.jpg",
     "rating": "6.8",
+    "year": "Feb. 09, 2017",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En la vida real Kwon Yoo está sin empleo, pero en el mundo virtual es un gamer de éxito. Un día se convierte en el principal sospechoso de un asesinato y tendrá que acudir a sus amigos gamers para intentar destapar la verdad del caso.",
     "genres": [
       "Acción",
@@ -745,6 +825,56 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/x/Z/L/DxZLt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Cars 3",
+    "image": "https://image.tmdb.org/t/p/w185/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+    "rating": "6.7",
+    "year": "Jun. 15, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Rayo McQueen sigue siendo el mejor coche de carreras del mundo, pero ahora que es uno de los más veteranos del circuito, debe demostrar a todo el mundo que aún puede ganar una gran carrera y que no necesita jubilarse. En esta ocasión, el famoso bólido de carreras tendrá que enfrentarse a una nueva generación de corredores más jóvenes, potentes y veloces, que amenaza con cambiar el deporte de su vida. Entre ellos está el competitivo y revolucionario Jackson Storm, que no se lo pondrá nada fácil.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/3/F/z/8/3Fz8r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/3/F/z/8/3Fz8r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Coco",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/lUZZhYLLDU4g4XGQ5tvjYNVytxc-185x278.jpg",
+    "rating": "8.4",
+    "year": "Oct. 27, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/12/s8/2/e/q/N/k/eqNkA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3233490432-3233554612"
       }
     ]
   }

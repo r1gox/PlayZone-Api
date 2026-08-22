@@ -1,27 +1,11 @@
 [
   {
-    "title": "Ip Man 2",
-    "url": "https://zonaaps.com/movies/ip-man-2/",
-    "image": "https://image.tmdb.org/t/p/w185/ype1J4olDfeQpseCiQob5I74oqg.jpg",
-    "rating": "7.5",
-    "description": "En esta secuela, Ip Man (Donnie Yen), llega a Hong-Kong y abre una escuela de Wing Chun, pero pronto entrará en conflicto con un maestro local de Hung Fist llamado Hung Jan-nam, quien es interpretado por Sammo Hung. Aunque, Ip Man, últimamente ha sido desafiado por los ingleses que gobiernan el territorio, las tensiones entre los dos maestros de Kung fu sigue incrementando, y eso hace que ellos se vean forzados a batirse a duelo.",
-    "genres": [
-      "Acción",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/-/c/9/J/-c9Jr.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Ip Man 3",
-    "url": "https://zonaaps.com/movies/ip-man-3/",
     "image": "https://image.tmdb.org/t/p/w185/1wBnEGU0OXtgtDvTtgvYEODwcwi.jpg",
     "rating": "7",
+    "year": "Dec. 24, 2015",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.",
     "genres": [
       "Acción",
@@ -36,10 +20,69 @@
     ]
   },
   {
+    "title": "Juego de ladrones 1: El atraco perfecto ; El robo perfecto 1",
+    "image": "https://image.tmdb.org/t/p/w185/4OAnIfMibW3GeNNItTqL2ynuJqj.jpg",
+    "rating": "7",
+    "year": "Jan. 18, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Todos los días, el banco de la Reserva Federal de Los Ángeles saca de la circulación 120 millones de dólares en efectivo. Un grupo de experimentados ladrones planea su gran atraco final: robar esos 120 millones, pero el departamento del Sheriff de Los Ángeles, la brigada más temida de la ciudad liderada por ‘El gran Nick’, no está dispuesto a ponérselo fácil.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/aa/s8/2/E/u/s/X/EusXw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Invicto 3: Redención",
+    "image": "https://image.tmdb.org/t/p/w185/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg",
+    "rating": "7.3",
+    "year": "May. 22, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En esta película Scott Adkins vuelve a encarnar a Boyka (el malo de Undisputed 2), que busca la libertad. Cuando se le ofrece la oportunidad de participar en un campeonato clandestino entre los 8 mejores luchadores reclusos del mundo, ni lo dudará.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/M/v/E/9MvEr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Jugaremos en el bosque",
+    "image": "https://image.tmdb.org/t/p/w185/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
+    "rating": "5",
+    "year": "May. 01, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/51/s8/2/o/4/A/l/o4Alx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Invicto 2",
-    "url": "https://zonaaps.com/movies/invicto-2/",
     "image": "https://image.tmdb.org/t/p/w185/nSGlv1yJxEewtf44bo0CUgHSNHW.jpg",
     "rating": "7",
+    "year": "Apr. 11, 2006",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Un boxeador ex campeón del mundo, pero venido a menos y lleno de deudas viaja a Rusia con su agente para ganarse unos pesos grabando comerciales de Vodka, pero una vez allá caerá en manos de la mafia, que desea meterlo preso y enfrentarlo al campeón reinante de un torneo para reclusos que mueve muchísimo dinero. Es así como “Ice man” deberá vérselas con todos los reclusos y el corrupto mundo que ahí se vive.",
     "genres": [
       "Acción",
@@ -55,9 +98,11 @@
   },
   {
     "title": "Jujutsu Kaisen 0",
-    "url": "https://zonaaps.com/movies/jujutsu-kaisen-0/",
     "image": "https://image.tmdb.org/t/p/w185/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
     "rating": "7.8",
+    "year": "Dec. 24, 2021",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
     "genres": [
       "Acción",
@@ -73,42 +118,12 @@
     ]
   },
   {
-    "title": "Jack y Jill &#8211; Jack y su gemela",
-    "url": "https://zonaaps.com/movies/jack-y-jill-jack-y-su-gemela/",
-    "image": "https://image.tmdb.org/t/p/w185/rglSEPbB5bA3EWzqellWjlVsKA1.jpg",
-    "rating": "3.3",
-    "description": "Jack (Adam Sandler) es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Por si fuera poco, lo que, en principio, iba a ser una visita de pocos días, se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jugaremos en el bosque",
-    "url": "https://zonaaps.com/movies/jugaremos-en-el-bosque/",
-    "image": "https://image.tmdb.org/t/p/w185/eBSl9nGymidAyEBdJGADnnm7JKt.jpg",
-    "rating": "5",
-    "description": "",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/51/s8/2/o/4/A/l/o4Alx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jugando con la muerte &#8211; Game of Death",
-    "url": "https://zonaaps.com/movies/jugando-con-la-muerte-game-of-death/",
+    "title": "Jugando con la muerte ; Game of Death",
     "image": "https://image.tmdb.org/t/p/w185/iaF3ln0xzbam2QfeFQTKpTVCPHy.jpg",
     "rating": "4.7",
+    "year": "Mar. 31, 2011",
+    "quality": "720p HD",
+    "languages": [],
     "description": "El agente de operaciones secretas, Marcus, es enviado a Detroit para atrapar a un traficante de armas y a su proveedor. El refuerzo de la CIA tendrá otros planes para él.",
     "genres": [
       "Acción",
@@ -118,15 +133,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/c3/s8/2/E/z/c/o/Ezcox.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/c3/s8/2/E/z/c/o/Ezcox.aaa.mp4"
       }
     ]
   },
   {
     "title": "Jumanji: Bienvenidos a la jungla",
-    "url": "https://zonaaps.com/movies/jumanji-bienvenidos-a-la-jungla/",
     "image": "https://image.tmdb.org/t/p/w185/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
     "rating": "7",
+    "year": "Dec. 09, 2017",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuatro estudiantes de secundaria se quedan atrapados en la selva dentro de un videojuego, donde viven una aventura convertidos en avatares adultos arquetípicos.",
     "genres": [
       "Aventura",
@@ -136,33 +153,37 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/c/2/_/B/c2_Bv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/2/_/B/c2_Bv.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Irreversible",
-    "url": "https://zonaaps.com/movies/irreversible/",
-    "image": "https://image.tmdb.org/t/p/w185/tqBC7IBuwCAjwTVmcg3f6jOZgMT.jpg",
-    "rating": "7.3",
-    "description": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+    "title": "Ip Man 2",
+    "image": "https://image.tmdb.org/t/p/w185/ype1J4olDfeQpseCiQob5I74oqg.jpg",
+    "rating": "7.5",
+    "year": "Apr. 29, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En esta secuela, Ip Man (Donnie Yen), llega a Hong-Kong y abre una escuela de Wing Chun, pero pronto entrará en conflicto con un maestro local de Hung Fist llamado Hung Jan-nam, quien es interpretado por Sammo Hung. Aunque, Ip Man, últimamente ha sido desafiado por los ingleses que gobiernan el territorio, las tensiones entre los dos maestros de Kung fu sigue incrementando, y eso hace que ellos se vean forzados a batirse a duelo.",
     "genres": [
-      "Crimen",
+      "Acción",
       "Drama",
-      "Suspense"
+      "Historia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/p/J/Y/GpJYn.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/-/c/9/J/-c9Jr.aaa.mp4"
       }
     ]
   },
   {
     "title": "Jurado Nº 2",
-    "url": "https://zonaaps.com/movies/jurado-no-2/",
     "image": "https://image.tmdb.org/t/p/w185/nk2fxww83vynfSXFuWC6qMGyag.jpg",
     "rating": "7.3",
+    "year": "Oct. 30, 2024",
+    "quality": "720p HDCAM.rip",
+    "languages": [],
     "description": "Sigue a Justin Kemp, un hombre de familia que, mientras forma parte de un jurado en un juicio por asesinato de alto perfil, se encuentra luchando con un serio dilema moral… uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
     "genres": [
       "Crimen",
@@ -177,45 +198,32 @@
     ]
   },
   {
-    "title": "Juego prohibido (The Forbidden Play)",
-    "url": "https://zonaaps.com/movies/juego-prohibido-the-forbidden-play/",
-    "image": "https://image.tmdb.org/t/p/w185/vEauIPchLaqdxfVnuT305oj8qpT.jpg",
-    "rating": "4.4",
-    "description": "Cuando la directora de vídeos para internet Hiroko Kurasawa visita la casa de su antiguo colega Naoto Ihara, quien ha perdido a su esposa, ve a su hijo Haruto recitando un extraño hechizo en dirección a un montículo de tierra en su jardín. Un encantamiento misterioso, la cola de un lagarto, un dedo, una sombra pálida, un montón de tierra ondulante y una casa sellada… Alrededor de Hiroko comienzan a producirse fenómenos extraños y lo que comenzó como el deseo inocente de un niño se convierte en una maldad desatada.",
+    "title": "Irreversible",
+    "image": "https://image.tmdb.org/t/p/w185/tqBC7IBuwCAjwTVmcg3f6jOZgMT.jpg",
+    "rating": "7.3",
+    "year": "May. 22, 2002",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
     "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/6/-/x/v6-xt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Justicia implacable &#8211; Despierta la furia",
-    "url": "https://zonaaps.com/movies/justicia-implacable-despierta-la-furia/",
-    "image": "https://image.tmdb.org/t/p/w185/fvqIv59EgwY7lJ5QfqSWpCxOFxK.jpg",
-    "rating": "7.1",
-    "description": "H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de furgones blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades propias de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene.",
-    "genres": [
-      "Acción",
       "Crimen",
+      "Drama",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/U/s/P/N/UsPNu.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/p/J/Y/GpJYn.caa.mp4"
       }
     ]
   },
   {
     "title": "Jamesy Boy",
-    "url": "https://zonaaps.com/movies/jamesy-boy/",
     "image": "https://image.tmdb.org/t/p/w185/fJCMNxUnYfOmej5FhXSOeMX2jSD.jpg",
     "rating": "6.2",
+    "year": "Jan. 03, 2014",
+    "quality": "Sub Español",
+    "languages": [],
     "description": "Un joven pandillero consigue darle un giro a su vida en prisión gracias a la amistad que entabla con un asesino convicto que se convierte en su mentor.",
     "genres": [
       "Crimen",
@@ -238,10 +246,50 @@
     ]
   },
   {
+    "title": "Jack y Jill ; Jack y su gemela",
+    "image": "https://image.tmdb.org/t/p/w185/rglSEPbB5bA3EWzqellWjlVsKA1.jpg",
+    "rating": "3.3",
+    "year": "Nov. 11, 2011",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Jack (Adam Sandler) es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Por si fuera poco, lo que, en principio, iba a ser una visita de pocos días, se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Justicia implacable ; Despierta la furia",
+    "image": "https://image.tmdb.org/t/p/w185/fvqIv59EgwY7lJ5QfqSWpCxOFxK.jpg",
+    "rating": "7.1",
+    "year": "Apr. 22, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "H (Jason Statham) es el misterioso tipo que acaba de incorporarse como guardia de seguridad en una compañía de furgones blindados. Durante un intento de atraco a su camión, sorprende a sus compañeros mostrando habilidades propias de un soldado profesional, dejando al resto del equipo preguntándose quién es realmente y de dónde viene.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/s/P/N/UsPNu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Karate Kid",
-    "url": "https://zonaaps.com/movies/karate-kid/",
     "image": "https://image.tmdb.org/t/p/w185/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
     "rating": "6.2",
+    "year": "Jun. 10, 2010",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
     "genres": [
       "Acción",
@@ -257,10 +305,12 @@
     ]
   },
   {
-    "title": "Karate Kid II &#8211; 2, la historia continúa",
-    "url": "https://zonaaps.com/movies/karate-kid-ii-2-la-historia-continua/",
+    "title": "Karate Kid II ; 2, la historia continúa",
     "image": "https://image.tmdb.org/t/p/w185/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
     "rating": "6.1",
+    "year": "Jun. 18, 1986",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
     "genres": [
       "Acción",
@@ -277,26 +327,12 @@
     ]
   },
   {
-    "title": "Klass: La Clase",
-    "url": "https://zonaaps.com/movies/klass/",
-    "image": "https://image.tmdb.org/t/p/w185/w8Iw1Dp5SbxmCkZezTSu3O56AkD.jpg",
-    "rating": "7.9",
-    "description": "Joseph es un joven taciturno, introvertido, incompetente en los deportes, distinto, raro. Todo eso hace de él un cabeza de turco ideal para los matones de su instituto. La escalada de humillaciones y el ensañamiento van creciendo mientras la vida de Joseph se vuelve más insoportable. Entonces llega Kaspar, un amigo inesperado, un aliado. Ahora ya no está solo. Ahora son dos y quieren la revancha porque los mansos se han cansado. Porque planean fría y concienzudamente su venganza… Siguiendo la estela de Elephant (Gus Van Sant, 2003) Klass es una reflexión sobre la gestación de la violencia adolescente, una historia que supone una llamada de atención sobre el acoso escolar (bullying) a la vez que, con objetividad, rastrea la crueldad en la adolescencia, sus motivos y las respuestas violentas en situaciones extremas.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/43/s8/2/r/Z/g/y/rZgyy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Karate Kid, el momento de la verdad",
-    "url": "https://zonaaps.com/movies/karate-kid-el-momento-de-la-verdad/",
     "image": "https://image.tmdb.org/t/p/w185/sH7HK7phjO6NKsUaNi7tOWQ1k0t.jpg",
     "rating": "7.3",
+    "year": "Jun. 22, 1984",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
     "genres": [
       "Acción",
@@ -311,10 +347,12 @@
     ]
   },
   {
-    "title": "John Q &#8211; Situacion Extrema",
-    "url": "https://zonaaps.com/movies/john-q/",
+    "title": "John Q ; Situacion Extrema",
     "image": "https://image.tmdb.org/t/p/w185/irYGpSxU7gRnC36qc1gGIH5hhMA.jpg",
     "rating": "7.1",
+    "year": "Feb. 15, 2002",
+    "quality": "720 HD",
+    "languages": [],
     "description": "John Q. Archibald (Denzel Washington) es un hombre corriente que trabaja en una fábrica y se ocupa de su familia. Su mujer Denise (Kimberly Elise) y su hijo Michael (Daniel E. Smith) son todo su mundo. Pero, cuando su hijo cae gravemente enfermo y es preciso someterlo urgentemente a un trasplante de corazón, resulta que su seguro médico no cubre la operación.",
     "genres": [
       "Crimen",
@@ -333,10 +371,30 @@
     ]
   },
   {
+    "title": "Klass: La Clase",
+    "image": "https://image.tmdb.org/t/p/w185/w8Iw1Dp5SbxmCkZezTSu3O56AkD.jpg",
+    "rating": "7.9",
+    "year": "Mar. 16, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Joseph es un joven taciturno, introvertido, incompetente en los deportes, distinto, raro. Todo eso hace de él un cabeza de turco ideal para los matones de su instituto. La escalada de humillaciones y el ensañamiento van creciendo mientras la vida de Joseph se vuelve más insoportable. Entonces llega Kaspar, un amigo inesperado, un aliado. Ahora ya no está solo. Ahora son dos y quieren la revancha porque los mansos se han cansado. Porque planean fría y concienzudamente su venganza… Siguiendo la estela de Elephant (Gus Van Sant, 2003) Klass es una reflexión sobre la gestación de la violencia adolescente, una historia que supone una llamada de atención sobre el acoso escolar (bullying) a la vez que, con objetividad, rastrea la crueldad en la adolescencia, sus motivos y las respuestas violentas en situaciones extremas.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/43/s8/2/r/Z/g/y/rZgyy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Kraven the Hunter",
-    "url": "https://zonaaps.com/movies/kraven-the-hunter/",
     "image": "https://image.tmdb.org/t/p/w185/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",
     "rating": "5.5",
+    "year": "Dec. 11, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Es la historia sobre cómo y por qué uno de los más icónicos villanos de Marvel llegó a serlo. Kraven (Aaron Taylor-Johnson) es un hombre cuya compleja relación con su despiadado padre, Nikolai Kravinoff (Russell Crowe), le hace emprender un camino de venganza con brutales consecuencias, motivándole a convertirse no sólo en el mejor cazador del mundo, sino también en uno de los más temidos.",
     "genres": [
       "Acción",
@@ -346,15 +404,36 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/bc/s8/2/Z/A/-/1/ZA-1w.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/bc/s8/2/Z/A/-/1/ZA-1w.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Kromoleo",
+    "image": "https://image.tmdb.org/t/p/w185/cgKECXXrgA6O7HzTpTPXblKkatV.jpg",
+    "rating": "3.9",
+    "year": "Aug. 22, 2024",
+    "quality": "Sub Español",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/D/m/P/o/DmPow.aaa.mp4"
       }
     ]
   },
   {
     "title": "Jeanne du Barry",
-    "url": "https://zonaaps.com/movies/jeanne-du-barry/",
     "image": "https://image.tmdb.org/t/p/w185/bB2gII3YgyzA9rEtHwDe4xbImuM.jpg",
     "rating": "6.7",
+    "year": "May. 16, 2023",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Jeanne, una joven de clase trabajadora ávida de cultura y placer, utiliza su inteligencia y su atractivo para ascender uno a uno los peldaños de la escala social. Se convierte en la favorita del rey Luis XV, quien desconociendo su condición de cortesana, recupera a través de ella su apetito por la vida. Se enamoran perdidamente. Contra todo decoro y etiqueta, Jeanne se traslada a Versalles, donde su llegada escandaliza a la corte…",
     "genres": [
       "Drama",
@@ -369,10 +448,12 @@
     ]
   },
   {
-    "title": "La acompañante &#8211; La Compañera Perfecta",
-    "url": "https://zonaaps.com/movies/la-acompanante/",
+    "title": "La acompañante ; La Compañera Perfecta",
     "image": "https://image.tmdb.org/t/p/w185/dZR98C2Tzefugivw21yEfYvp1G9.jpg",
     "rating": "7.4",
+    "year": "Jan. 22, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La muerte de un multimillonario desencadena una cadena de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su propiedad junto al lago.",
     "genres": [
       "Ciencia ficción",
@@ -388,45 +469,12 @@
     ]
   },
   {
-    "title": "Kromoleo",
-    "url": "https://zonaaps.com/movies/kromoleo/",
-    "image": "https://image.tmdb.org/t/p/w185/cgKECXXrgA6O7HzTpTPXblKkatV.jpg",
-    "rating": "3.9",
-    "description": "",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/D/m/P/o/DmPow.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La bestia oculta",
-    "url": "https://zonaaps.com/movies/la-bestia-oculta/",
-    "image": "https://image.tmdb.org/t/p/w185/6RgP9K7HBekNbW6TimYroSrzYay.jpg",
-    "rating": "4.2",
-    "description": "Tras una serie de extraños sucesos que la llevan a cuestionarse la vida aislada de su familia en un recinto fortificado en lo profundo de la selva inglesa, Willow, de 10 años, sigue a sus padres en una de sus excursiones secretas nocturnas al corazón del antiguo bosque. Pero al ver a su padre sufrir una terrible transformación, ella también se ve atrapada por el oscuro secreto ancestral que han intentado ocultar tan desesperadamente.",
-    "genres": [
-      "Drama",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/55/s8/2/G/Z/w/y/GZwyw.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La abadesa",
-    "url": "https://zonaaps.com/movies/la-abadesa/",
     "image": "https://image.tmdb.org/t/p/w185/zQSAJVLpLSSU9zhmZeWcBr7ydWm.jpg",
     "rating": "6.2",
+    "year": "Mar. 22, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En una época oscura y violenta, una joven de 17 años es nombrada abadesa, y recibe el encargo de repoblar y cristianizar territorios fronterizos y en guerra con el islam.",
     "genres": [
       "Drama"
@@ -440,9 +488,11 @@
   },
   {
     "title": "La bruja de Blair 3",
-    "url": "https://zonaaps.com/movies/la-bruja-de-blair-3/",
     "image": "https://image.tmdb.org/t/p/w185/umYep3ZxgnyWZ2HZIvnaklynJjO.jpg",
     "rating": "5",
+    "year": "Sep. 15, 2016",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un grupo de estudiantes universitarios se aventuran en Black Hills Forest en Maryland para descubrir los misterios que envuelven la desaparición de Heather, la hermana de James Donahue, quien muchos creen está conectada a la leyenda de la Bruja de Blair después de su desaparición hace 20 años. Al principio el grupo tiene esperanzas, especialmente cuando un par de locales se ofrecen a actuar como guías a través del oscuro bosque, pero mientras la interminable noche avanza, el grupo es atormentado por una presencia amenazante. Lentamente, el grupo empieza a entender que la leyenda es muy real y más siniestra de lo que pudieron haber imaginado.",
     "genres": [
       "Suspense",
@@ -456,10 +506,51 @@
     ]
   },
   {
+    "title": "La bestia oculta",
+    "image": "https://image.tmdb.org/t/p/w185/6RgP9K7HBekNbW6TimYroSrzYay.jpg",
+    "rating": "4.2",
+    "year": "Jul. 22, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tras una serie de extraños sucesos que la llevan a cuestionarse la vida aislada de su familia en un recinto fortificado en lo profundo de la selva inglesa, Willow, de 10 años, sigue a sus padres en una de sus excursiones secretas nocturnas al corazón del antiguo bosque. Pero al ver a su padre sufrir una terrible transformación, ella también se ve atrapada por el oscuro secreto ancestral que han intentado ocultar tan desesperadamente.",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/55/s8/2/G/Z/w/y/GZwyw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Juego limpio",
+    "image": "https://image.tmdb.org/t/p/w185/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg",
+    "rating": "6.4",
+    "year": "Sep. 28, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Recién comprometidos, Emily (Phoebe Dynevor) y Luke (Alden Ehrenreich), una próspera pareja de Nueva York, no se cansan el uno del otro. Cuando surge un codiciado ascenso en su despiadada empresa financiera, los intercambios de apoyo entre los amantes comienzan a agriarse hasta convertirse en algo más siniestro. A medida que la dinámica de poder cambia irrevocablemente en su relación, Luke y Emily deben enfrentarse al verdadero precio del éxito y a los desconcertantes límites de la ambición.",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/7/z/7/k7z7n.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "La casa de cera",
-    "url": "https://zonaaps.com/movies/la-casa-de-cera/",
     "image": "https://image.tmdb.org/t/p/w185/2LQS9JNfbRlsalAe2BlTDXquSyH.jpg",
     "rating": "5.5",
+    "year": "May. 05, 2005",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un grupo de adolescentes inadvertidos se encuentran varados cerca de un extraño museo de cera y pronto deben luchar para sobrevivir y evitar convertirse en la próxima exposición.",
     "genres": [
       "Misterio",
@@ -474,27 +565,12 @@
     ]
   },
   {
-    "title": "Kung Fu Panda 2",
-    "url": "https://zonaaps.com/movies/kung-fu-panda-2/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/5JsMPU79GmY9dKBahXxq6OefPmN-185x278.jpg",
-    "rating": "7.2",
-    "description": "Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.",
-    "genres": [
-      "Animación",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTAudmltZW9zLm5ldC9obHMyLzAyLzAwMDAzL2gyMWp4czJjZHU4bF9uL2luZGV4LXYxLWExLm0zdTg_dD1yMHlHSjVsak5EVFk1RUxwRHpoOG5nenlQdW16MGtxNWFmVkNwN1RqbmpRJnM9MTc4NzMzODY1OCZlPTQzMjAwJnY9MzMwMDQ2MTI1Jmk9MC4zJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
     "title": "La casa del reloj en la pared",
-    "url": "https://zonaaps.com/movies/la-casa-del-reloj-en-la-pared/",
     "image": "https://image.tmdb.org/t/p/w185/7pOLjpoCvZapa1SvWgKAc46W04p.jpg",
     "rating": "6.1",
+    "year": "Sep. 15, 2018",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La historia cuenta el mágico y escalofriante relato de Lewis (Owen Vaccaro), un niño de 10 años quien, tras quedar huérfano, se muda a la vieja y rechinante casa de su tío, la cual tiene un misterioso reloj. Pronto, la aburrida y tranquila vida de su nuevo pueblo se ve interrumpida cuando accidentalmente, Lewis despierta a magos y brujas de un mundo secreto.",
     "genres": [
       "Comedia",
@@ -509,27 +585,12 @@
     ]
   },
   {
-    "title": "Juego limpio",
-    "url": "https://zonaaps.com/movies/juego-limpio/",
-    "image": "https://image.tmdb.org/t/p/w185/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg",
-    "rating": "6.4",
-    "description": "Recién comprometidos, Emily (Phoebe Dynevor) y Luke (Alden Ehrenreich), una próspera pareja de Nueva York, no se cansan el uno del otro. Cuando surge un codiciado ascenso en su despiadada empresa financiera, los intercambios de apoyo entre los amantes comienzan a agriarse hasta convertirse en algo más siniestro. A medida que la dinámica de poder cambia irrevocablemente en su relación, Luke y Emily deben enfrentarse al verdadero precio del éxito y a los desconcertantes límites de la ambición.",
-    "genres": [
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/7/z/7/k7z7n.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La casa del terror (Haunt)",
-    "url": "https://zonaaps.com/movies/la-casa-del-terror-haunt/",
     "image": "https://image.tmdb.org/t/p/w185/6fuNWZzY0RijO1Xpw46soazDFMb.jpg",
     "rating": "6.3",
+    "year": "Sep. 13, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En Halloween, seis amigos deciden entrar en una casa encantada que promete ofrecer una experiencia extrema a base de explotar sus miedos más profundos. La noche se volverá mortal cuando se den cuenta de que algunos monstruos son reales.",
     "genres": [
       "Suspense",
@@ -543,10 +604,33 @@
     ]
   },
   {
+    "title": "Kung Fu Panda 2",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/5JsMPU79GmY9dKBahXxq6OefPmN-185x278.jpg",
+    "rating": "7.2",
+    "year": "May. 25, 2011",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.",
+    "genres": [
+      "Animación",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvaDIxanhzMmNkdThsX24vaW5kZXgtdjEtYTEubTN1OD90PVhQRWRzeXh6QktxN1B5SU52ZHVSQUhKOF9teTdnMDJYa1JFMEE2T1RQWjgmcz0xNzg3MzYwODE0JmU9NDMyMDAmdj0zMzAwNDYxMjUmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "La caída de la Casa Blanca",
-    "url": "https://zonaaps.com/movies/la-caida-de-la-casa-blanca/",
     "image": "https://image.tmdb.org/t/p/w185/7Ri9YvVFMsTsBCZphs13sEIvU5H.jpg",
     "rating": "6.3",
+    "year": "Jun. 27, 2013",
+    "quality": "720p HD",
+    "languages": [],
     "description": "John Cale, un policía del Capitolio, ve rechazada su petición de entrar en el Servicio Secreto para proteger al Presidente de los Estados Unidos James Sawyer. Para no decepcionar a su hija, la lleva a hacer un tour por la Casa Blanca. En ese momento, un comando paramilitar fuertemente armado asalta el edificio. Con el Gobierno de la nación sumido en el caos, Cale intentará salvar al Presidente, a su hija y al país.",
     "genres": [
       "Acción",
@@ -562,9 +646,14 @@
   },
   {
     "title": "La caída del halcón negro",
-    "url": "https://zonaaps.com/movies/la-caida-del-halcon-negro/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/05/A2vZprRrBbcwLMwf4Oswtk1jodh-185x278.jpg",
     "rating": "7.7",
+    "year": "Dec. 28, 2001",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
     "genres": [
       "Acción",
@@ -579,51 +668,14 @@
     ]
   },
   {
-    "title": "Kabhi Khushi Kabhie Gham",
-    "url": "https://zonaaps.com/movies/kabhi-khushi-kabhie-gham/",
-    "image": "https://image.tmdb.org/t/p/w185/pgcFOZwfEmlvIMv5XiezsdgQ1dU.jpg",
-    "rating": "7.4",
-    "description": "Rohan, estudiante universitario, regresa a casa de sus padres en las afueras de Nueva Delhi para celebrar el Diwali con su familia. Una vez allí, descubre la verdad sobre lo sucedido con su hermano Rahull: diez años antes, su padre y su hermano se distanciaron después de que éste se casara, en contra de la tradición y el deseo de su familia, con una joven llamada Anjali y se mudaran a Londres. Es entonces cuando Rohan decide viajar a Londres para traer a su hermano a casa… pero primero debe encontrarlo y convencerlo.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/n/V/m/snVms.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/n/V/m/snVms.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Kung Fu Panda 4",
-    "url": "https://zonaaps.com/movies/kung-fu-panda-4/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/bqe5pdLIoLeZSszA8N5ZvoIS4aB-185x278.jpg",
-    "rating": "6.7",
-    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado «el Camaleón», que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAwL3pmOWw2cXNseTR4aV9uL2luZGV4LXYxLWExLm0zdTg_dD1rNXFubDhaN0otS213Rkd6UWRibGNza0pxakQtYS1hQkJCQ0xseUw0aTJJJnM9MTc4NzMzOTY2MyZlPTQzMjAwJnY9MzIzMTc0NjA5Jmk9MC4wJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
     "title": "La ciudad de las estrellas (La La Land)",
-    "url": "https://zonaaps.com/movies/la-ciudad-de-las-estrellas-la-la-land/",
     "image": "https://image.tmdb.org/t/p/w185/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg",
     "rating": "8",
+    "year": "Nov. 29, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Mia, una joven aspirante a actriz que compagina los castings con su trabajo de camarera, y Sebastian, un pianista de jazz que se gana la vida tocando en sórdidos tugurios, se enamoran. Pero la gran ambición por llegar a la cima en sus carreras artísticas amenaza con separarlos.",
     "genres": [
       "Comedia",
@@ -640,9 +692,11 @@
   },
   {
     "title": "La Colonia",
-    "url": "https://zonaaps.com/movies/la-colonia/",
     "image": "https://image.tmdb.org/t/p/w185/uPld99AspbPcTI979EsOj3faE9r.jpg",
     "rating": "4.8",
+    "year": "Apr. 04, 1997",
+    "quality": "BBRIP",
+    "languages": [],
     "description": "Jack Quinn es un agente antiterrorista que va tras la pista de Stavros, un peligroso terrorista, en la que será su última misión. Quinn fracasará en su intento de dar caza a Stavros y quedará recluido de por vida en La Colonia. La Colonia es una especie de retiro forzado para “agentes fracasados”, allí la única obsesión de Quinn será escapar y rescatar a su esposa embarazada, que ha sido capturada por su mortal enemigo Stavros. Para ello contará con la ayuda de Yazz un traficante de armas poco cuerdo y bastante excéntrico.",
     "genres": [
       "Acción",
@@ -656,29 +710,14 @@
     ]
   },
   {
-    "title": "La Era de Kasym",
-    "url": "https://zonaaps.com/movies/la-era-de-kasym/",
-    "image": "https://image.tmdb.org/t/p/w185/4Vqo4obgBj4sm4YSlv52BB3bt0j.jpg",
-    "rating": "5.7",
-    "description": "En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/c9/s8/2/7/e/v/y/7evyy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La Empleada",
-    "url": "https://zonaaps.com/movies/la-empleada/",
     "image": "https://image.tmdb.org/t/p/w185/67PMTBnKahx4ywg7sqyjCHlvaSI.jpg",
     "rating": "7.0",
+    "year": "Dec. 18, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde.",
     "genres": [
       "Misterio",
@@ -692,27 +731,81 @@
     ]
   },
   {
-    "title": "La cabaña",
-    "url": "https://zonaaps.com/movies/la-cabana/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/d7qG9sdCTo3uBeWXpxKehplvr8B-185x278.jpg",
-    "rating": "6.3",
-    "description": "Después de sufrir una tragedia familiar, Mack Phillips cae en una profunda depresión que le lleva a cuestionar todas sus creencias. Sumido en una crisis de fe, recibe una enigmática carta donde un misterioso personaje le cita en una cabaña abandonada en lo más profundo de los bosques de Oregón. A pesar de sus dudas, Mack viaja a la cabaña, donde se encontrará con alguien inesperado. Este encuentro conducirá a Mack a enfrentarse a importantes verdades, que no sólo transformarán su comprensión de la tragedia sino que harán que su vida cambie para siempre.",
+    "title": "La Era de Kasym",
+    "image": "https://image.tmdb.org/t/p/w185/4Vqo4obgBj4sm4YSlv52BB3bt0j.jpg",
+    "rating": "5.7",
+    "year": "May. 12, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.",
     "genres": [
+      "Acción",
+      "Bélica",
       "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/7/e/v/y/7evyy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/bqe5pdLIoLeZSszA8N5ZvoIS4aB-185x278.jpg",
+    "rating": "6.7",
+    "year": "Mar. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado «el Camaleón», que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Comedia",
       "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDAzL2UxbjZpZ293Zmh2eF9uL2luZGV4LXYxLWExLm0zdTg_dD10MElFcktvSUhGVEdZUzdES3QwMzhCby1mNVhUQ0NMRlp3NWhZLWZXNjRjJnM9MTc4NzMzODY1OSZlPTQzMjAwJnY9MzI1NDA1NTM2Jmk9MC4zJnNwPTAmcj1l"
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAwL3pmOWw2cXNseTR4aV9uL2luZGV4LXYxLWExLm0zdTg_dD1YMndTdndVY2dPMG11bGR4Y2hCWXRlTi15TmdRU0hhdlBMVGFvclJnSTg0JnM9MTc4NzM2MTY4OSZlPTQzMjAwJnY9MzMxOTQxMDQzJmk9MC4zJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Kick-Ass 2: Con un par",
+    "image": "https://image.tmdb.org/t/p/w185/6ddmalOaKzQCtpaIJuWTTy2rRTo.jpg",
+    "rating": "6.5",
+    "year": "Jul. 17, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Secuela de la aclamada película Kick-Ass (2010), basada en el cómic de Mark Millar. Después de que la loca valentía de Kick-Ass (Aaron Taylor-Johnson) inspirara a toda una oleada de nuevos defensores del bien dirigidos por el durísimo coronel Stars and Stripes (Jim Carrey), nuestro héroe decide unirse a ellos. Pero cuando Bruma Roja (Christopher Mintz-Plasse), que regresa con el nombre de The Mother, decide deshacerse de los superhéroes aficionados, solo Hit Girl (Chloë Grace Moretz) podrá impedir que los aniquile.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/B/H/j/WBHjs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/B/H/j/WBHjs.caa.mp4"
       }
     ]
   },
   {
     "title": "Kickboxer",
-    "url": "https://zonaaps.com/movies/kickboxer/",
     "image": "https://image.tmdb.org/t/p/w185/eP1GzZxRL7VpIEpeawtAjlYhNQj.jpg",
     "rating": "6.4",
+    "year": "Apr. 20, 1989",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
     "genres": [
       "Acción",

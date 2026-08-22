@@ -1,9 +1,56 @@
 [
   {
+    "title": "Los tipos malos 2",
+    "image": "https://image.tmdb.org/t/p/w185/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",
+    "rating": "7.3",
+    "year": "Jul. 24, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En está ocasión, los malos luchan por encontrar confianza y aceptación en sus nuevas vidas como buenos, cuando un escuadrón de criminales compuesto exclusivamente por mujeres las saca de su retiro y las obliga a hacer «un último trabajo».",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Crimen",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/92/s8/2/m/f/A/9/mfA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3195812864-3195876333"
+      }
+    ]
+  },
+  {
+    "title": "Los tipos malos: ¿Truco o atraco?",
+    "image": "https://image.tmdb.org/t/p/w185/b5g5FdOUUVJEpduADQ4T5WPTt6A.jpg",
+    "rating": "0",
+    "year": "Oct. 03, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La pícara banda de los tipos malos planea un arriesgadísimo atraco en Halloween de un valioso amuleto en una tenebrosa mansión. ¿Qué podría salir mal?",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/m/1/U/W/m1UWt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Love Me, Love Me",
-    "url": "https://zonaaps.com/movies/love-me-love-me/",
     "image": "https://image.tmdb.org/t/p/w185/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
     "rating": "4.5",
+    "year": "Feb. 12, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Tras la muerte de su hermano, June se muda a Milán para empezar de nuevo y encuentra consuelo en Will, el alumno modelo de su nueva escuela internacional. Pero cuando su conflictivo mejor amigo James inicia una rivalidad que pronto se convierte en una atracción irresistible, June deberá elegir entre la seguridad y un amor que lo pone todo en jaque.",
     "genres": [
       "Drama",
@@ -17,10 +64,34 @@
     ]
   },
   {
+    "title": "Luca",
+    "image": "https://image.tmdb.org/t/p/w185/pr06RihHOGE3waZQx5fs2WYUdwr.jpg",
+    "rating": "7.4",
+    "year": "Jun. 17, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/1b/s8/2/w/_/I/p/w_Ipx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Luis y los Alienígenas",
-    "url": "https://zonaaps.com/movies/luis-y-los-alienigenas/",
     "image": "https://image.tmdb.org/t/p/w185/yKQrDNJk2vgsXSR8XyWqOcQ29Kf.jpg",
     "rating": "6",
+    "year": "May. 09, 2018",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuenta la historia de un niño de 11 años que hace amistad con tres adorables alienígenas, que estrellan su OVNI en su casa. A cambio de la ayuda de Luis para encontrar el material que compraron para buscar volver a su hogar, salvan a Luis de un internado, siguiendo una emocionante aventura.",
     "genres": [
       "Animación",
@@ -34,10 +105,37 @@
     ]
   },
   {
+    "title": "Los ilusionistas 2 ; Ahora me ves 2",
+    "image": "https://image.tmdb.org/t/p/w185/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
+    "rating": "6.4",
+    "year": "Jun. 02, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha… Secuela de «Ahora me ves» del 2013.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Misterio",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Lórax: En Busca De La Trúfula Perdida",
-    "url": "https://zonaaps.com/movies/lorax-en-busca-de-la-trufula-perdida/",
     "image": "https://image.tmdb.org/t/p/w185/b7FMtquHglzxIi938cHIgVQuPx5.jpg",
     "rating": "6.4",
+    "year": "Mar. 01, 2012",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un chico se propone conquistar el afecto de la chica de sus sueños. Para conseguirlo, debe averiguar la historia del Lorax, una encantadora aunque gruñona criatura que lucha por proteger un mundo en vías de extinción.",
     "genres": [
       "Animación",
@@ -46,15 +144,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/cc/s8/2/h/o/q/_/hoq_x.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/cc/s8/2/h/o/q/_/hoq_x.aaa.mp4"
       }
     ]
   },
   {
-    "title": "M3GAN &#8211; Megan",
-    "url": "https://zonaaps.com/movies/m3gan/",
+    "title": "M3GAN ; Megan",
     "image": "https://image.tmdb.org/t/p/w185/ogSpQMynabVu91Bi7AuUA8tshfb.jpg",
     "rating": "6.4",
+    "year": "Dec. 28, 2022",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.",
     "genres": [
       "Ciencia ficción",
@@ -70,9 +170,13 @@
   },
   {
     "title": "Machete",
-    "url": "https://zonaaps.com/movies/machete/",
     "image": "https://image.tmdb.org/t/p/w185/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
     "rating": "6.6",
+    "year": "Sep. 01, 2010",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Machete es un ex federal mexicano que posee extraordinarias habilidades. Después de haber sido dado por muerto a raíz de un enfrentamiento con Torres, el rey mexicano de la droga, huye a Texas e intenta olvidar su trágico pasado. Pero allí la corrupción, además de provocar el asesinato de un senador, convierte a Machete en el hombre más buscado. Dispuesto a limpiar su nombre y a desentrañar la oscura e intricada red criminal, tropieza con Booth, un implacable hombre de negocios para el que trabajan innumerables asesinos a sueldo. Pero él cuenta con Luz, una sexy vendedora ambulante de espíritu rebelde y corazón revolucionario, y con Padre, un cura muy bueno con las armas.",
     "genres": [
       "Acción",
@@ -87,70 +191,12 @@
     ]
   },
   {
-    "title": "Los Increíbles 2",
-    "url": "https://zonaaps.com/movies/los-increibles-2/",
-    "image": "https://image.tmdb.org/t/p/w185/iNIKq8r155eRFlsoaxgfRYs71qY.jpg",
-    "rating": "7.5",
-    "description": "Helen tiene que liderar una campaña para que los superhéroes regresen, mientras Bob vive su vida ‘normal’ con Violet, Dash y el bebé Jack-Jack —cuyos superpoderes descubriremos—. Su misión se va a pique cuando aparece un nuevo villano con un brillante plan que lo amenaza todo. Pero los Parr no se amedrentarán y menos teniendo a Frozone de su parte.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/J/P/P/w/JPPws.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los mundos de Coraline",
-    "url": "https://zonaaps.com/movies/los-mundos-de-coraline/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/sYXXUeSrx9TBbFpbgtLklW5kmVR-185x278.jpg",
-    "rating": "7.7",
-    "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso y su otra madre intenta mantenerla a su lado para siempre, Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
-    "genres": [
-      "Animación",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDQvdTlnNDBlbHJ1bzk3X24vaW5kZXgtdjEtYTEubTN1OD90PWE3MW9zYlFQOHM2Z1F3aUg2blF1MnB0TnZSQ2hLQUZlNWVDNzFyN1pQc1Emcz0xNzg3MzM4NjMyJmU9NDMyMDAmdj0zMjk5OTkxNTMmc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Los ilusionistas 2 &#8211; Ahora me ves 2",
-    "url": "https://zonaaps.com/movies/ahora-me-ves-2/",
-    "image": "https://image.tmdb.org/t/p/w185/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
-    "rating": "6.4",
-    "description": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha… Secuela de «Ahora me ves» del 2013.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Misterio",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/C/Y/W/NCYWp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Extraños: Capítulo 1 &#8211; The Strangers: Chapter 1",
-    "url": "https://zonaaps.com/movies/the-strangers-chapter-1/",
+    "title": "Los Extraños: Capítulo 1 ; The Strangers: Chapter 1",
     "image": "https://image.tmdb.org/t/p/w185/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
     "rating": "0",
+    "year": "May. 15, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra oportunidad que detenerse en un AirBnb aislado en Oregón. Una noche de terror contra 3 desconocidos enmascarados se avecina.",
     "genres": [
       "Suspense",
@@ -168,10 +214,122 @@
     ]
   },
   {
+    "title": "Magia del revés",
+    "image": "https://image.tmdb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg",
+    "rating": "5.4",
+    "year": "Jul. 31, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La película se centra en Nory Boxwood Horace (Rose), de 13 años, quien descubre que puede convertirse en animales, y su mejor amiga Reina Carvajal (Agudong), quien puede manipular las llamas, cuando ingresan a la Academia Sage para Estudios Mágicos.",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Película de TV"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/B/p/B/CBpBt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los mundos de Coraline",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/sYXXUeSrx9TBbFpbgtLklW5kmVR-185x278.jpg",
+    "rating": "7.7",
+    "year": "Feb. 05, 2009",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso y su otra madre intenta mantenerla a su lado para siempre, Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDQvdTlnNDBlbHJ1bzk3X24vaW5kZXgtdjEtYTEubTN1OD90PTUwb3VWWEVxZm1GYkdodDJaR0wzY0xCdm1UWXBXbUpDa3ppUDhyVnN5Mncmcz0xNzg3MzYwNzgwJmU9NDMyMDAmdj0zMjk5OTkxNTMmc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Malditos bastardos",
+    "image": "https://image.tmdb.org/t/p/w185/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",
+    "rating": "8.4",
+    "year": "Aug. 02, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos «Los bastardos» para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+    "genres": [
+      "Bélica",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/U/a/A/5/UaA5u.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+    "image": "https://image.tmdb.org/t/p/w185/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
+    "rating": "6.9",
+    "year": "Nov. 15, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Increíbles 2",
+    "image": "https://image.tmdb.org/t/p/w185/iNIKq8r155eRFlsoaxgfRYs71qY.jpg",
+    "rating": "7.5",
+    "year": "Jun. 14, 2018",
+    "quality": "",
+    "languages": [],
+    "description": "Helen tiene que liderar una campaña para que los superhéroes regresen, mientras Bob vive su vida ‘normal’ con Violet, Dash y el bebé Jack-Jack —cuyos superpoderes descubriremos—. Su misión se va a pique cuando aparece un nuevo villano con un brillante plan que lo amenaza todo. Pero los Parr no se amedrentarán y menos teniendo a Frozone de su parte.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/J/P/P/w/JPPws.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Maléfica: Maestra del mal",
-    "url": "https://zonaaps.com/movies/malefica-maestra-del-mal/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/08/eZOkXqHXWCKytd78TggAtJ0M3gU-185x278.jpg",
     "rating": "6.6",
+    "year": "Oct. 16, 2019",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Maléfica: Maestra del mal, de Disney, es una aventura de fantasía que retoma la historia de Maléfica varios años más tarde —en la que se dieron a conocer los hechos que endurecieron el corazón de la villana más emblemática de Disney y la llevaron a arrojar una maldición sobre la princesa recién nacida: Aurora. La película continúa explorando la compleja relación entre el hada de enormes cuernos y la futura reina, mientras forjan nuevas alianzas y se enfrentan a nuevos adversarios en su lucha por proteger el páramo y las criaturas mágicas que lo habitan.",
     "genres": [
       "Acción",
@@ -187,63 +345,12 @@
     ]
   },
   {
-    "title": "Malditos bastardos",
-    "url": "https://zonaaps.com/movies/malditos-bastardos/",
-    "image": "https://image.tmdb.org/t/p/w185/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",
-    "rating": "8.4",
-    "description": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos «Los bastardos» para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/a/A/5/UaA5u.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Magia del revés",
-    "url": "https://zonaaps.com/movies/magia-del-reves/",
-    "image": "https://image.tmdb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg",
-    "rating": "5.4",
-    "description": "La película se centra en Nory Boxwood Horace (Rose), de 13 años, quien descubre que puede convertirse en animales, y su mejor amiga Reina Carvajal (Agudong), quien puede manipular las llamas, cuando ingresan a la Academia Sage para Estudios Mágicos.",
-    "genres": [
-      "Familia",
-      "Fantasía",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/C/B/p/B/CBpBt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Mamma Mia!",
-    "url": "https://zonaaps.com/movies/mamma-mia/",
-    "image": "https://image.tmdb.org/t/p/w185/kfwpEsGsME1yVbZsPl6QvZy7Gue.jpg",
-    "rating": "6.5",
-    "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/v/R/2/LvR2s.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Los Infalibles",
-    "url": "https://zonaaps.com/movies/los-infalibles/",
     "image": "https://image.tmdb.org/t/p/w185/mmaz2IESTJkKf77tSOKZ3PxV7NN.jpg",
     "rating": "4.2",
+    "year": "Jun. 20, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Mientras una banda de ladrones lleva meses sembrando el caos en París y humillando a la policía, el Ministro del Interior quiere sangre nueva para encabezar la investigación: Alia, explosiva e ingobernable, Hugo, mejor estudiante y meticuloso.",
     "genres": [
       "Acción",
@@ -258,9 +365,13 @@
   },
   {
     "title": "Los tres chiflados",
-    "url": "https://zonaaps.com/movies/los-tres-chiflados/",
     "image": "https://image.tmdb.org/t/p/w185/2rP8vjVp5nx4c9TxVW14jWlffW.jpg",
     "rating": "5.1",
+    "year": "Apr. 13, 2012",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Es inspirada en la serie de 190 cortos, de unos 16 minutos, ‘The Three Stooges’ que estrenó Columbia Pictures entre 1934 y 1958. Los protagonistas son tres recién nacidos que viven en un orfanato.",
     "genres": [
       "Comedia"
@@ -268,83 +379,63 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/X/4/Z/q/X4Zqs.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/4/Z/q/X4Zqs.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/X/4/Z/q/X4Zqs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/4/Z/q/X4Zqs.caa.mp4"
       }
     ]
   },
   {
-    "title": "Madagascar",
-    "url": "https://zonaaps.com/movies/madagascar/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/zrV5GnfCcLWzyjrFgYTpjQPRMfl-185x278.jpg",
-    "rating": "6.9",
-    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+    "title": "Mamma Mia!",
+    "image": "https://image.tmdb.org/t/p/w185/kfwpEsGsME1yVbZsPl6QvZy7Gue.jpg",
+    "rating": "6.5",
+    "year": "Jul. 03, 2008",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
     "genres": [
-      "Animación",
-      "Aventura",
       "Comedia",
-      "Familia"
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbGZqY28yaHN0YjdvX24vaW5kZXgtdjEtYTEubTN1OD90PUJLSzkyeHlCTHpWOG52ajhzWUItdVA2QUFJSXdVay1uVjFvNHNoUExlbncmcz0xNzg3MzM4ODg2JmU9NDMyMDAmdj0zMjI5NzcyNzImc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
+        "url": "https://1a-1791.com/video/s8/2/L/v/R/2/LvR2s.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Los tres mosqueteros: D&#8217;Artagnan",
-    "url": "https://zonaaps.com/movies/los-tres-mosqueteros-dartagnan/",
-    "image": "https://image.tmdb.org/t/p/w185/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg",
-    "rating": "0",
-    "description": "D’Artagnan, un intrépido joven, es dado por muerto tras intentar salvar a una joven de ser secuestrada. Cuando llega a París, intenta por todos los medios encontrar a sus agresores. Sin embargo, ignora que su búsqueda le llevará al corazón de una guerra en la que está en juego el futuro de Francia. Junto con Athos, Porthos y Aramis, tres valientes mosqueteros del rey, D’Artagnan se enfrenta a las oscuras maquinaciones del cardenal Richelieu y a la misteriosa Milady de Winter.",
+    "title": "Luces fuera",
+    "image": "https://image.tmdb.org/t/p/w185/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
+    "rating": "4.8",
+    "year": "Feb. 16, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un ex soldado a la deriva se convierte en luchador clandestino con la ayuda de un ex convicto recién liberado, enfrentándose ambos a policías corruptos y asesinos a sueldo que les persiguen a ellos y a todos los que les importan.",
     "genres": [
       "Acción",
-      "Aventura",
-      "Drama",
-      "Historia"
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/q/a/p/cqapn.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/e/F/8/9/eF89p.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/q/a/p/cqapn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-    "url": "https://zonaaps.com/movies/los-juegos-del-hambre-balada-de-pajaros-cantores-y-serpientes/",
-    "image": "https://image.tmdb.org/t/p/w185/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
-    "rating": "6.9",
-    "description": "Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/l/Y/G/plYGp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/l/Y/G/plYGp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/e/F/8/9/eF89p.caa.mp4"
       }
     ]
   },
   {
     "title": "Los vigilantes",
-    "url": "https://zonaaps.com/movies/los-vigilantes/",
     "image": "https://image.tmdb.org/t/p/w185/13G0wKhucGWiERNloOicAuzQIyd.jpg",
     "rating": "5.8",
+    "year": "Jun. 06, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
     "genres": [
       "Fantasía",
@@ -355,54 +446,71 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/B/8/A/E/B8AEs.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/B/8/A/E/B8AEs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.caa.mp4"
       }
     ]
   },
   {
-    "title": "Los Vengadores",
-    "url": "https://zonaaps.com/movies/los-vengadores/",
-    "image": "https://image.tmdb.org/t/p/w185/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-    "rating": "8",
-    "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "title": "Los tres mosqueteros: D&#8217;Artagnan",
+    "image": "https://image.tmdb.org/t/p/w185/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg",
+    "rating": "0",
+    "year": "Apr. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "D’Artagnan, un intrépido joven, es dado por muerto tras intentar salvar a una joven de ser secuestrada. Cuando llega a París, intenta por todos los medios encontrar a sus agresores. Sin embargo, ignora que su búsqueda le llevará al corazón de una guerra en la que está en juego el futuro de Francia. Junto con Athos, Porthos y Aramis, tres valientes mosqueteros del rey, D’Artagnan se enfrenta a las oscuras maquinaciones del cardenal Richelieu y a la misteriosa Milady de Winter.",
     "genres": [
       "Acción",
       "Aventura",
-      "Ciencia ficción"
+      "Drama",
+      "Historia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/b/e/C/abeCs.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/c/q/a/p/cqapn.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/c/q/a/p/cqapn.caa.mp4"
       }
     ]
   },
   {
-    "title": "Luna sin miel",
-    "url": "https://zonaaps.com/movies/luna-sin-miel/",
-    "image": "https://image.tmdb.org/t/p/w185/v2YJ94cEfV8ORTPUqdBrwMosJbR.jpg",
-    "rating": "5.2",
-    "description": "Una pareja de recién casados se da cuenta en su luna de miel de que realmente son completamente diferentes. Pero, ¿se atraen los polos opuestos?",
+    "title": "Madagascar",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/zrV5GnfCcLWzyjrFgYTpjQPRMfl-185x278.jpg",
+    "rating": "6.9",
+    "year": "May. 25, 2005",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
     "genres": [
+      "Animación",
+      "Aventura",
       "Comedia",
-      "Romance"
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/A/H/Q/AAHQr.aaa.mp4"
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbGZqY28yaHN0YjdvX24vaW5kZXgtdjEtYTEubTN1OD90PVdNS0ptLVNCdm1mUlBGT2VzN0h3dXRnVUdkVWI3VEtBaVI0RVlidHdLeWMmcz0xNzg3MzYxMDA4JmU9NDMyMDAmdj0zMzE5MjIyMzAmc3J2PXMxMiZpPTAuMyZzcD0wJnI9ZQ"
       }
     ]
   },
   {
     "title": "Marty Supremo",
-    "url": "https://zonaaps.com/movies/marty-supremo/",
     "image": "https://image.tmdb.org/t/p/w185/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg",
     "rating": "7.8",
+    "year": "Dec. 19, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Ambientada en el vibrante mundo del tenis de mesa de los años 50, Marty Supreme sigue a Marty Mauser (Timothée Chalamet), un joven soñador decidido a ganarse el respeto en un deporte que nadie toma en serio. Inspirada en el espíritu del legendario jugador de ping-pong, la película narra el descenso de Marty hacia la obsesión, las apuestas y la redención, mientras arriesga todo para transformar su improbable pasión en grandeza y como cambio algo en el al final luego de conocer a su hija.",
     "genres": [
       "Drama",
@@ -416,10 +524,71 @@
     ]
   },
   {
+    "title": "Mas alla del Cielo ; Siempre a mi lado",
+    "image": "https://image.tmdb.org/t/p/w185/g4TAQ4mYvObkOvX5cBAZrDT3NmJ.jpg",
+    "rating": "6.4",
+    "year": "Jul. 30, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Charlie St. Cloud es un joven tan afectado por la muerte de su hermano menor, Sam, que acepta un trabajo como cuidador en el cementerio en el que el pequeño está enterrado. Charlie tiene un vínculo especial con su hermano, pues le puede ver, y cada noche se encuentra con él para hablar y jugar juntos. Pero sucede que un día una chica entra en la vida de Charlie, y este tendrá que elegir entre mantener una promesa que hizo a Sam o ir con la joven que ama.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/p/h/m/rphmu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Vengadores",
+    "image": "https://image.tmdb.org/t/p/w185/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+    "rating": "8",
+    "year": "Apr. 25, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/a/b/e/C/abeCs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Matilda",
+    "image": "https://image.tmdb.org/t/p/w185/icsytUzUc9f97a9SdafFG0eqijR.jpg",
+    "rating": "7",
+    "year": "Aug. 02, 1996",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/3/B/Z/D/3BZDu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Madagascar 3: Los Fugitivos",
-    "url": "https://zonaaps.com/movies/madagascar-3-los-fugitivos/",
     "image": "https://image.tmdb.org/t/p/w185/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
     "rating": "6.8",
+    "year": "Jun. 06, 2012",
+    "quality": "720 HD",
+    "languages": [],
     "description": "En su tercera aventura fuera del zoológico de Nueva York, Alex, Marty, Melman y Gloria viajan a Europa con el propósito de encontrar a los monos y a los pingüinos en Monte Carlo; sin embargo, ellos terminan formando parte de un circo rodante en el que hacen nuevos amigos mientras tratan de escapar de Chantal Dubois, jefa de la policía de Control de Animales en Europa, quien desea obtener la cabeza de Alex para su colección.",
     "genres": [
       "Animación",
@@ -439,66 +608,31 @@
     ]
   },
   {
-    "title": "Matilda",
-    "url": "https://zonaaps.com/movies/matilda/",
-    "image": "https://image.tmdb.org/t/p/w185/icsytUzUc9f97a9SdafFG0eqijR.jpg",
-    "rating": "7",
-    "description": "Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.",
+    "title": "Luna sin miel",
+    "image": "https://image.tmdb.org/t/p/w185/v2YJ94cEfV8ORTPUqdBrwMosJbR.jpg",
+    "rating": "5.2",
+    "year": "Apr. 29, 2024",
+    "quality": "",
+    "languages": [],
+    "description": "Una pareja de recién casados se da cuenta en su luna de miel de que realmente son completamente diferentes. Pero, ¿se atraen los polos opuestos?",
     "genres": [
       "Comedia",
-      "Familia",
-      "Fantasía"
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/3/B/Z/D/3BZDu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Luces fuera",
-    "url": "https://zonaaps.com/movies/luces-fuera/",
-    "image": "https://image.tmdb.org/t/p/w185/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
-    "rating": "4.8",
-    "description": "Un ex soldado a la deriva se convierte en luchador clandestino con la ayuda de un ex convicto recién liberado, enfrentándose ambos a policías corruptos y asesinos a sueldo que les persiguen a ellos y a todos los que les importan.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/e/F/8/9/eF89p.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/e/F/8/9/eF89p.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Madame Web",
-    "url": "https://zonaaps.com/movies/madame-web/",
-    "image": "https://image.tmdb.org/t/p/w185/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
-    "rating": "3.8",
-    "description": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso… si consiguen sobrevivir a un presente mortal.",
-    "genres": [
-      "Acción",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/f/b/E/IfbEq.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/A/A/H/Q/AAHQr.aaa.mp4"
       }
     ]
   },
   {
     "title": "MaXXXine",
-    "url": "https://zonaaps.com/movies/maxxxine/",
     "image": "https://image.tmdb.org/t/p/w185/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg",
     "rating": "6.7",
+    "year": "Jul. 04, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Sigue a Maxine, superviviente de los sangrientos incidentes de X, mientras continúa su viaje hacia la fama para ser actriz en Los Ángeles de la década de 1980.",
     "genres": [
       "Crimen",
@@ -513,10 +647,36 @@
     ]
   },
   {
+    "title": "Madre!",
+    "image": "https://image.tmdb.org/t/p/w185/j9cPQew4hBDKF7TpbSirXwN2F6c.jpg",
+    "rating": "6.6",
+    "year": "Sep. 13, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/O/I/x/R/OIxRp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/O/I/x/R/OIxRp.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Maléfica",
-    "url": "https://zonaaps.com/movies/malefica/",
     "image": "https://image.tmdb.org/t/p/w185/i8qn2A0Qfjj45EXlZVt92WnX7iH.jpg",
     "rating": "6.9",
+    "year": "May. 28, 2014",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Es la historia jamás contada de Maléfica, la villana más querida de Disney, la mala de ‘La Bella durmiente’, el clásico de 1959. La película relata los acontecimientos que endurecieron su corazón y la llevaron a lanzar una maldición sobre la pequeña Aurora.",
     "genres": [
       "Acción",
@@ -537,27 +697,12 @@
     ]
   },
   {
-    "title": "Mas alla del Cielo &#8211; Siempre a mi lado",
-    "url": "https://zonaaps.com/movies/mas-alla-del-cielo-siempre-a-mi-lado/",
-    "image": "https://image.tmdb.org/t/p/w185/g4TAQ4mYvObkOvX5cBAZrDT3NmJ.jpg",
-    "rating": "6.4",
-    "description": "Charlie St. Cloud es un joven tan afectado por la muerte de su hermano menor, Sam, que acepta un trabajo como cuidador en el cementerio en el que el pequeño está enterrado. Charlie tiene un vínculo especial con su hermano, pues le puede ver, y cada noche se encuentra con él para hablar y jugar juntos. Pero sucede que un día una chica entra en la vida de Charlie, y este tendrá que elegir entre mantener una promesa que hizo a Sam o ir con la joven que ama.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/p/h/m/rphmu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "McLovin &#8211; Supercool &#8211; Supersalidos",
-    "url": "https://zonaaps.com/movies/mclovin-supercool-supersalidos/",
+    "title": "McLovin ; Supercool ; Supersalidos",
     "image": "https://image.tmdb.org/t/p/w185/ftUDFRYywWzajElI2RT9NIno2PS.jpg",
     "rating": "7.6",
+    "year": "Mar. 20, 2007",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En una de sus últimas noches como estudiantes del instituto, los amigos e inadaptados Evan y Seth experimentarán una legendaria odisea durante una tarde en la que intentan comprar bebida para una fiesta en la que estarán las chicas de sus sueños. En su peripecia les acompañará el indescriptible McLovin, otro amigo inadaptado que acaba de comprarse un carnet falso: su pasaporte para comprar el alcohol.",
     "genres": [
       "Comedia"
@@ -565,37 +710,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/8/1/P/x81Pu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Madre!",
-    "url": "https://zonaaps.com/movies/madre/",
-    "image": "https://image.tmdb.org/t/p/w185/j9cPQew4hBDKF7TpbSirXwN2F6c.jpg",
-    "rating": "6.6",
-    "description": "A una mujer (Jennifer Lawrence) le pilla por sorpresa que su marido (Javier Bardem) deje entrar en casa a unas personas a las que no había invitado. Poco a poco el comportamiento de su marido va siendo más extraño, y ella empieza a estresarse y a intentar echar a todo el mundo.",
-    "genres": [
-      "Drama",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/O/I/x/R/OIxRp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/O/I/x/R/OIxRp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/x/8/1/P/x81Pu.aaa.mp4"
       }
     ]
   },
   {
     "title": "Mamá te quiere (Corre)",
-    "url": "https://zonaaps.com/movies/mama-te-quiere/",
     "image": "https://image.tmdb.org/t/p/w185/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg",
     "rating": "6.7",
+    "year": "Nov. 20, 2020",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Dicen que el amor de una madre es para siempre… pero para Chloe esto no es un consuelo, sino una amenaza. Hay algo extraño, incluso siniestro en la relación de Chloe y su madre, Diane (Sarah Paulson). Diane ha criado a su hija completamente aislada, controlando cada uno de sus movimientos, pero Chloe pronto empezará a descubrir los oscuros secretos que guarda su madre…",
     "genres": [
       "Drama",
@@ -605,19 +730,40 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/k/o/L/4koLo.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/4/k/o/L/4koLo.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/k/o/L/4koLo.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/4/k/o/L/4koLo.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Madame Web",
+    "image": "https://image.tmdb.org/t/p/w185/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+    "rating": "3.8",
+    "year": "Feb. 14, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso… si consiguen sobrevivir a un presente mortal.",
+    "genres": [
+      "Acción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/f/b/E/IfbEq.aaa.mp4"
       }
     ]
   },
   {
     "title": "Medidas extremas",
-    "url": "https://zonaaps.com/movies/medidas-extremas/",
     "image": "https://image.tmdb.org/t/p/w185/fjnlNMmQxxtcfHbFfzbe2jDTnUa.jpg",
     "rating": "4.5",
+    "year": "Jan. 18, 2022",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un jefe de policía contrata a un amigo, que es espía internacional, para que le ayude a buscar a un sospechoso buscado en Filipinas. Cuando el jefe muere, todas las pruebas apuntan hacia el espía, y éste debe defenderse.",
     "genres": [
       "Acción",
@@ -626,15 +772,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/30/s8/2/m/z/v/o/mzvoy.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/30/s8/2/m/z/v/o/mzvoy.aaa.mp4"
       }
     ]
   },
   {
     "title": "Malos padres",
-    "url": "https://zonaaps.com/movies/malos-padres/",
     "image": "https://image.tmdb.org/t/p/w185/wFCnsUHSeAqbVwmVZhJ93gVA8tb.jpg",
     "rating": "8.8",
+    "year": "Aug. 10, 2023",
+    "quality": "720 HD",
+    "languages": [],
     "description": "",
     "genres": [
       "Comedia"
@@ -648,9 +796,11 @@
   },
   {
     "title": "Mamá",
-    "url": "https://zonaaps.com/movies/mama/",
     "image": "https://image.tmdb.org/t/p/w185/9nYzxKmVlMKEhzUHnQBz326OBWR.jpg",
     "rating": "6.2",
+    "year": "Jan. 17, 2013",
+    "quality": "720 HD",
+    "languages": [],
     "description": "El día que su padre mató a su madre, las hermanas Victoria y Lilly desaparecieron en el bosque cercano a la urbanización donde vivían. Su tío Lucas y su novia Annabel las han buscado sin cesar durante cinco años. Cuando ocurre lo imposible y las niñas aparecen en una cabaña medio derruida, la pareja empieza a preguntarse si no ha llegado alguien más a su casa acompañando a las niñas. Annabel intenta ofrecer una vida normal a las niñas, pero acaba convencida de que hay una presencia malévola en la casa. ¿Sufren las hermanas de estrés traumático o viene un fantasma a visitarlas? Mientras intenta contestar a estas inquietantes preguntas, la nueva madre acabará descubriendo que los susurros que se oyen a la hora de dormir proceden de los labios de una presencia letal.",
     "genres": [
       "Terror"
@@ -658,15 +808,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/1/v/M/51vMr.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/5/1/v/M/51vMr.aaa.mp4"
       }
     ]
   },
   {
     "title": "Manos de piedra (Puño de Hierro)",
-    "url": "https://zonaaps.com/movies/manos-de-piedra/",
     "image": "https://image.tmdb.org/t/p/w185/jno7F2SixgYRygFsOC6gVdVPUyu.jpg",
     "rating": "6.6",
+    "year": "Aug. 26, 2016",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Biopic sobre el boxeador panameño Roberto «Manos de Piedra» Durán, quien es mundialmente reconocido como el mejor peso ligero de todos los tiempos, y también catalogado por muchos como uno de los más grandes boxeadores latinoamericanos y uno de los mejores libra por libra de la historia del boxeo.",
     "genres": [
       "Drama"
@@ -674,78 +826,28 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/-/E/x/c-Exl.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/c/-/E/x/c-Exl.caa.mp4"
       }
     ]
   },
   {
-    "title": "Mas allá del universo",
-    "url": "https://zonaaps.com/movies/mas-alla-del-universo/",
-    "image": "https://image.tmdb.org/t/p/w185/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg",
-    "rating": "6.6",
-    "description": "Mientras espera un trasplante de riñón, una joven pianista encuentra una conexión inesperada con su médico y el coraje para cumplir sus sueños musicales.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Maravilloso desastre",
-    "url": "https://zonaaps.com/movies/maravilloso-desastre/",
-    "image": "https://image.tmdb.org/t/p/w185/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
-    "rating": "5.3",
-    "description": "Travis es exactamente lo que Abby necesita y quiere… evitar. Pasa las noches peleando en combates clandestinos de boxeo, y los días como el mayor encantador del campus. Aunque Abby no quiere tener nada que ver con Travis, él le ofrece una simple apuesta: si pierde su próxima pelea, estará un mes entero sin sexo; pero si gana, Abby deberá vivir en su apartamento la misma cantidad de tiempo.",
+    "title": "Mansión encantada (Haunted Mansion)",
+    "image": "https://image.tmdb.org/t/p/w185/3EuVUPGihWXfwTt3myKVKOydPVW.jpg",
+    "rating": "6.1",
+    "year": "Jul. 26, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una mujer y su hijo reclutan a un variopinto grupo de expertos espirituales para que les ayuden a liberar su hogar de unos ocupantes sobrenaturales.",
     "genres": [
       "Comedia",
-      "Drama",
-      "Romance"
+      "Familia",
+      "Fantasía",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/7/e/s/b/7esbr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Master Z: El Legado de Ip Man",
-    "url": "https://zonaaps.com/movies/master-z-el-legado-de-ip-man/",
-    "image": "https://image.tmdb.org/t/p/w185/5SvIKrP3q1i3A8C99YPRgjSrNed.jpg",
-    "rating": "6.5",
-    "description": "Tras su derrota ante el Maestro Ip, Cheung Tin Chi intenta ganarse la vida con su hijo pequeño en Hong Kong, sirviendo mesas en un bar que atiende a expatriados. Pero no pasa mucho tiempo antes de que la mezcla de extranjeros, dinero y líderes de la tríada lo atraigan nuevamente a la lucha.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/s/L/BDsLr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Metal Lords",
-    "url": "https://zonaaps.com/movies/metal-lords/",
-    "image": "https://image.tmdb.org/t/p/w185/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
-    "rating": "6.7",
-    "description": "Para los inadaptados adolescentes Hunter y Kevin, el camino a la gloria es claro: dedicarse al metal. Gana la Batalla de las Bandas. y ser adorados como dioses.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/y/C/t/yyCtv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/g/2/l/eg2ln.caa.mp4"
       }
     ]
   }

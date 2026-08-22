@@ -1,10 +1,12 @@
 [
   {
-    "title": "Pokémon, la película: Mewtwo contraataca",
-    "url": "https://zonaaps.com/movies/pokemon-la-pelicula-mewtwo-contraataca/",
-    "image": "https://image.tmdb.org/t/p/w185/aeskMWlroIsPR9AllXLW2H6Gev0.jpg",
-    "rating": "6.3",
-    "description": "Los científicos crean genéticamente un nuevo Pokémon, Mewtwo, pero los resultados son horribles y desastrosos.",
+    "title": "Pokémon 3: el hechizo de los Unown",
+    "image": "https://image.tmdb.org/t/p/w185/uccD0yQ1pgBqeAsrE5tLbOCCWSx.jpg",
+    "rating": "5.8",
+    "year": "Jul. 08, 2000",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En la ciudad de Greenfield, los sueños y deseos de una joven solitaria son llevados a la realidad por un colectivo de Pokémon que alteran la realidad.",
     "genres": [
       "Acción",
       "Animación",
@@ -15,16 +17,18 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/98/s8/2/K/Y/5/v/KY5vy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/00/s8/2/h/p/d/y/hpdyy.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Pokémon x siempre: Celebi, la voz del bosque &#8211; Pokemon 4",
-    "url": "https://zonaaps.com/movies/pokemon-x-siempre-celebi-la-voz-del-bosque-pokemon-4/",
-    "image": "https://image.tmdb.org/t/p/w185/u0QPVQvyBBsRXfR24K12LLb1YSl.jpg",
-    "rating": "5.8",
-    "description": "Todos tus personajes favoritos de Pokémon están de vuelta, y se unen por primera vez por los legendarios Pokémon Celebi y Suicune, en esta última emocionante aventura de Pokémon! Para escapar de un codicioso cazador de Pokémon, Celebi debe usar lo último de su energía para viajar a través del tiempo hasta nuestros días. Celebi trae consigo a Sammy, un chico que había estado tratando de protegerlo. Junto con Ash, Pikachu y el resto de la pandilla, Sammy y Celebi encuentran un enemigo mucho más avanzado que el cazador dejado atrás en el pasado. Este nuevo enemigo posee una Pokéball llamada «Bola Oscura», que transforma el Pokémon que captura en criaturas malignas y mucho más fuertes. Cuando Celebi es capturado, el destino de todo el bosque está amenazado. ¡Deja que POKÉMON 4EVER te lleve a un mundo de aventuras mientras Ash, Suicune y el resto toman acción para salvar el día!",
+    "title": "Pokémon 2 la película 2000",
+    "image": "https://image.tmdb.org/t/p/w185/onOIJL2FPGF6hQ66zDEyesfTxSi.jpg",
+    "rating": "6.1",
+    "year": "Jul. 17, 1999",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ash Ketchum debe reunir las tres esferas de fuego, hielo y relámpago para devolver el equilibrio a las Islas Naranja.",
     "genres": [
       "Animación",
       "Aventura",
@@ -35,15 +39,37 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/B/e/P/C/BePCy.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/40/s8/2/2/y/Z/w/2yZwy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Detective Pikachu",
+    "image": "https://image.tmdb.org/t/p/w185/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+    "rating": "6.5",
+    "year": "May. 03, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/b/0/5/Ub05u.aaa.mp4"
       }
     ]
   },
   {
     "title": "Pokémon 8: Lucario y el misterio de Mew",
-    "url": "https://zonaaps.com/movies/pokemon-8-lucario-y-el-misterio-de-mew/",
     "image": "https://image.tmdb.org/t/p/w185/aEPMnvSfDlDciCpHgFnWje7YSDQ.jpg",
     "rating": "6.8",
+    "year": "Jul. 16, 2005",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando Pikachu es llevado al Árbol de los Comienzos por el juguetón Mew, Ash Ketchum y sus amigos son guiados al árbol por Lucario, un Pokémon desplazado en el tiempo que busca respuestas sobre la traición de su maestro.",
     "genres": [
       "Acción",
@@ -56,33 +82,61 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/2/R/8/u/J/R8uJx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/d0/s8/2/R/8/u/J/R8uJx.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Piratas del Caribe 5: La venganza de Salazar",
-    "url": "https://zonaaps.com/movies/piratas-del-caribe-la-venganza-de-salazar/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/AookkwjZfWdigGtaEwy5IfOnBku-185x278.jpg",
-    "rating": "6.5",
-    "description": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
+    "title": "Pokémon, la película: Mewtwo contraataca",
+    "image": "https://image.tmdb.org/t/p/w185/aeskMWlroIsPR9AllXLW2H6Gev0.jpg",
+    "rating": "6.3",
+    "year": "Jul. 18, 1998",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Los científicos crean genéticamente un nuevo Pokémon, Mewtwo, pero los resultados son horribles y desastrosos.",
     "genres": [
       "Acción",
+      "Animación",
       "Aventura",
+      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbjZmNmE2ZDVocTRxX24vaW5kZXgtdjEtYTEubTN1OD90PVVLdTFaZW1MUi1hWnJMSmozcGxGV3BIRlpsUV9iUFkyNmEyTGp2cGlmWlUmcz0xNzg3MzM4NjUxJmU9NDMyMDAmdj0zMjk5ODM4MjEmc3J2PXMxMCZpPTAuMCZzcD0wJnI9ZQ"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/K/Y/5/v/KY5vy.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Policán &#8211; Las Aventuras de Dog Man &#8211; DogMan",
-    "url": "https://zonaaps.com/movies/polican-las-aventuras-de-dog-man/",
+    "title": "Pokémon x siempre: Celebi, la voz del bosque ; Pokemon 4",
+    "image": "https://image.tmdb.org/t/p/w185/u0QPVQvyBBsRXfR24K12LLb1YSl.jpg",
+    "rating": "5.8",
+    "year": "Jul. 06, 2001",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Todos tus personajes favoritos de Pokémon están de vuelta, y se unen por primera vez por los legendarios Pokémon Celebi y Suicune, en esta última emocionante aventura de Pokémon! Para escapar de un codicioso cazador de Pokémon, Celebi debe usar lo último de su energía para viajar a través del tiempo hasta nuestros días. Celebi trae consigo a Sammy, un chico que había estado tratando de protegerlo. Junto con Ash, Pikachu y el resto de la pandilla, Sammy y Celebi encuentran un enemigo mucho más avanzado que el cazador dejado atrás en el pasado. Este nuevo enemigo posee una Pokéball llamada «Bola Oscura», que transforma el Pokémon que captura en criaturas malignas y mucho más fuertes. Cuando Celebi es capturado, el destino de todo el bosque está amenazado. ¡Deja que POKÉMON 4EVER te lleve a un mundo de aventuras mientras Ash, Suicune y el resto toman acción para salvar el día!",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Ciencia ficción",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/83/s8/2/B/e/P/C/BePCy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Policán ; Las Aventuras de Dog Man ; DogMan",
     "image": "https://image.tmdb.org/t/p/w185/sccfhAcEkQGiyTjIAKoQZcIr0ti.jpg",
     "rating": "6.4",
+    "year": "Jan. 24, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un perro y un agente de policía resultan heridos juntos en el trabajo. Una operación quirúrgica que les salva la vida cambia el curso de la historia cuando nace Policán. Mitad perro, mitad hombre, Policán ha jurado proteger y servir -siempre que no le distraigan las ardillas- mientras persigue tenazmente a su archienemigo: el supervillano felino Petey el Gato. Pero la rivalidad entre Policán y Petey se ve alterada por la llegada de un adorable gatito clon de Petey, Lil Petey, que cambia las reglas del juego para ambos.",
     "genres": [
       "Acción",
@@ -93,32 +147,39 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/86/s8/2/t/L/y/b/tLyby.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/86/s8/2/t/L/y/b/tLyby.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Posesión infernal: El despertar &#8211; Evil Deat Rise",
-    "url": "https://zonaaps.com/movies/posesion-infernal-el-despertar-evil-deat-rise/",
-    "image": "https://image.tmdb.org/t/p/w185/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
-    "rating": "7.5",
-    "description": "Historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar. Secuela de la trilgía original de ‘Evil Dead’.",
+    "title": "Piratas del Caribe 5: La venganza de Salazar",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/AookkwjZfWdigGtaEwy5IfOnBku-185x278.jpg",
+    "rating": "6.5",
+    "year": "May. 23, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Acción",
+      "Aventura",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/T/O/K/XTOKt.aaa.mp4"
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbjZmNmE2ZDVocTRxX24vaW5kZXgtdjEtYTEubTN1OD90PWQ5cFZPR1BNRF9WSzNkRTU1R01RS2JFY0h3NTk3OF9pWExsMm5FMk5pQWMmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMjk5ODM4MjEmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
       }
     ]
   },
   {
     "title": "Ponyo en el acantilado",
-    "url": "https://zonaaps.com/movies/ponyo-en-el-acantilado/",
     "image": "https://image.tmdb.org/t/p/w185/nhp8r2zx4u6NfYRPISfVPE4AM6N.jpg",
     "rating": "7.6",
+    "year": "Jul. 19, 2008",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de «La sirenita» que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
     "genres": [
       "Animación",
@@ -133,10 +194,69 @@
     ]
   },
   {
+    "title": "Posesión infernal: El despertar ; Evil Deat Rise",
+    "image": "https://image.tmdb.org/t/p/w185/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
+    "rating": "7.5",
+    "year": "Apr. 12, 2023",
+    "quality": "720 HD720p HD",
+    "languages": [],
+    "description": "Historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar. Secuela de la trilgía original de ‘Evil Dead’.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/X/T/O/K/XTOKt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Pasajero 666",
+    "image": "https://image.tmdb.org/t/p/w185/im1sYcEskurUCIknzAcytaLoPzE.jpg",
+    "rating": "4.5",
+    "year": "Nov. 11, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una joven doctora junto a su hija de 6 años viajan en un vuelo nocturno en medio de una terrible tormenta. En un avión medio vacío, y ante las inexplicables muertes de los pasajeros, ella comenzará a perder la conexión con la realidad y se verá obligada a revivir las peores pesadillas de su infancia",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/f/x/M/EfxMr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Pequeño Manhattan (ABC de Amor)",
+    "image": "https://image.tmdb.org/t/p/w185/uphY0n0Nm47l4MHzqYNoaZJuzBJ.jpg",
+    "rating": "7.4",
+    "year": "Sep. 26, 2005",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Gabe (Josh Hutcherson) es un estudiante de quinto grado de 11 años de edad que vive en el Upper West Side de Manhattan con su padre y su madre. Los padres de Gabe se separaron hace año y medio, pero todavía comparten piso. Gabe considera a Nueva York como su ciudad – bueno, al menos las diez manzanas que están alrededor de su casa. Gabe es feliz saliendo con sus tres mejores amigos, jugando al baloncesto en el patio del recreo y moviéndose por el barrio. No tiene tiempo ni interés por las chicas. Pero cuando se apunta a clases de kárate y le emparejan con Rosemary Telesco (Charlie Ray), a quien conoce desde la guardería, todo cambia. Gabe se enamora de Rosemary, aun cuando no entiende esos sentimientos que al mismo tiempo le atormentan y le llenan de emoción. Nada es más grande que el primer amor…",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/l/z/a/Klzar.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Pearl",
-    "url": "https://zonaaps.com/movies/pearl/",
     "image": "https://image.tmdb.org/t/p/w185/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
     "rating": "7",
+    "year": "Sep. 16, 2022",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre. Deseosa de una vida glamorosa como la que ha visto en las películas, las ambiciones, tentaciones y represiones de Pearl chocan.",
     "genres": [
       "Drama",
@@ -146,15 +266,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/V/e/V/E/VeVEo.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/e/V/E/VeVEo.aaa.mp4"
       }
     ]
   },
   {
     "title": "Perdida",
-    "url": "https://zonaaps.com/movies/perdida/",
     "image": "https://image.tmdb.org/t/p/w185/btTzRshPDb5j9xXlxnJvFEm2KuV.jpg",
     "rating": "7",
+    "year": "Oct. 20, 2019",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Destrozado por la inesperada noticia de su ruptura irreversible, un aspirante a director de orquesta está desconcertado por el misterioso y aparentemente inexplicable caso de desaparición de su novia.",
     "genres": [
       "Misterio",
@@ -168,27 +290,12 @@
     ]
   },
   {
-    "title": "Pequeño Manhattan (ABC de Amor)",
-    "url": "https://zonaaps.com/movies/pequeno-manhattan-abc-de-amor/",
-    "image": "https://image.tmdb.org/t/p/w185/uphY0n0Nm47l4MHzqYNoaZJuzBJ.jpg",
-    "rating": "7.4",
-    "description": "Gabe (Josh Hutcherson) es un estudiante de quinto grado de 11 años de edad que vive en el Upper West Side de Manhattan con su padre y su madre. Los padres de Gabe se separaron hace año y medio, pero todavía comparten piso. Gabe considera a Nueva York como su ciudad – bueno, al menos las diez manzanas que están alrededor de su casa. Gabe es feliz saliendo con sus tres mejores amigos, jugando al baloncesto en el patio del recreo y moviéndose por el barrio. No tiene tiempo ni interés por las chicas. Pero cuando se apunta a clases de kárate y le emparejan con Rosemary Telesco (Charlie Ray), a quien conoce desde la guardería, todo cambia. Gabe se enamora de Rosemary, aun cuando no entiende esos sentimientos que al mismo tiempo le atormentan y le llenan de emoción. Nada es más grande que el primer amor…",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/K/l/z/a/Klzar.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Pinocho de Guillermo del Toro",
-    "url": "https://zonaaps.com/movies/pinocho-de-guillermo-del-toro/",
     "image": "https://image.tmdb.org/t/p/w185/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
     "rating": "7.6",
+    "year": "Nov. 09, 2022",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Versión musical en animación stop motion del famoso cuento de ‘Pinocho’, ambientada en la Italia fascista, durante la década de 1930.",
     "genres": [
       "Animación",
@@ -205,9 +312,11 @@
   },
   {
     "title": "Problemas&#8230;",
-    "url": "https://zonaaps.com/movies/problemas/",
     "image": "https://image.tmdb.org/t/p/w185/1tGnyrfjveMFe7CwXnLTZuDtO1A.jpg",
     "rating": "6.1",
+    "year": "Oct. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un torpe dependiente de electrónica, condenado por un asesinato que no cometió, se enfrenta a policías corruptos y conspiraciones criminales mientras intenta probar su inocencia.",
     "genres": [
       "Acción",
@@ -222,28 +331,14 @@
     ]
   },
   {
-    "title": "Piratas del Caribe 3: En el fin del mundo",
-    "url": "https://zonaaps.com/movies/piratas-del-caribe-en-el-fin-del-mundo/",
-    "image": "https://image.tmdb.org/t/p/w185/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
-    "rating": "7.1",
-    "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo…",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/d/c/n/odcno.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Proyecto Fin del Mundo &#8211; Proyecto Salvación",
-    "url": "https://zonaaps.com/movies/proyecto-fin-del-mundo/",
+    "title": "Proyecto Fin del Mundo ; Proyecto Salvación",
     "image": "https://image.tmdb.org/t/p/w185/5OrMnHwTlvndWr5vIWvyZhi4LfU.jpg",
     "rating": "0",
+    "year": "Mar. 15, 2026",
+    "quality": "CAM.rip",
+    "languages": [
+      "Latino"
+    ],
     "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
     "genres": [
       "Aventura",
@@ -258,10 +353,33 @@
     ]
   },
   {
+    "title": "Proyecto Florida",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/c2Jwrq1AbGt2vpbdFXGwjy82UU3-185x278.jpg",
+    "rating": "7.6",
+    "year": "Oct. 06, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Una niña de 6 años y sus amigos pasan el verano en un pequeño motel muy próximo a Disneyworld, mientras sus padres y el resto de adultos que les rodean sufren aún los efectos de la crisis.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/2a/s8/2/i/N/1/s/iN1sA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3439587328-3439655625"
+      }
+    ]
+  },
+  {
     "title": "Piraña 2 3DD",
-    "url": "https://zonaaps.com/movies/pirana-2-3dd/",
     "image": "https://image.tmdb.org/t/p/w185/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg",
     "rating": "3.8",
+    "year": "May. 11, 2012",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Hay algo en el agua. . . otra vez. Y esta vez nadie está a salvo de ser comido por un pescado, ya que hunden sus dientes afilados en los visitantes de la mejor atracción del verano, el parque acuático Big Wet. Un pueblo verá como las pirañas ya no sólo permanecerán en un lago sino que se abrirán paso a través de las tuberías llegando a hogares, piscinas e incluso a un parque acuático conocido como «Wilderness Waters» donde seguir con su orgía sangrienta. Secuela de «Piraña 3D» (Alexandre Aja, 2010).",
     "genres": [
       "Comedia",
@@ -276,43 +394,14 @@
     ]
   },
   {
-    "title": "Piraña 3D",
-    "url": "https://zonaaps.com/movies/pirana-3d/",
-    "image": "https://image.tmdb.org/t/p/w185/lIodGaZNJbbShF5bDgf51cqpAKa.jpg",
-    "rating": "5.5",
-    "description": "El lago Victoria (Arizona) es un lugar que se llena de gente joven durante las vacaciones de primavera. De repente, se producen una serie de temblores submarinos que liberan unos peces prehistóricos antropófagos. Todos deberán unir sus fuerzas para sobrevivir a estas criaturas. Remake del clásico de terror dirigido por Joe Dante",
-    "genres": [
-      "Comedia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/i/r/K/0irKo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Proyecto Florida",
-    "url": "https://zonaaps.com/movies/proyecto-florida/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/c2Jwrq1AbGt2vpbdFXGwjy82UU3-185x278.jpg",
-    "rating": "7.6",
-    "description": "Una niña de 6 años y sus amigos pasan el verano en un pequeño motel muy próximo a Disneyworld, mientras sus padres y el resto de adultos que les rodean sufren aún los efectos de la crisis.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/2a/s8/2/i/N/1/s/iN1sA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3439587328-3439655625"
-      }
-    ]
-  },
-  {
     "title": "Proyecto Lázaro",
-    "url": "https://zonaaps.com/movies/proyecto-lazaro/",
     "image": "https://image.tmdb.org/t/p/w185/1TSETMXX3ncT9lPtsKzvo7u1sdu.jpg",
     "rating": "0",
+    "year": "Dec. 13, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "A sus 32 años, Marc Jarvis (Tom Hughes) padece una enfermedad terminal. Le queda un año de vida. Justo ahora que él y Naomi (Oona Chaplin) han empezado a construir una vida juntos. Por eso, incapaz de aceptar su final, Marc decide criogenizar su cuerpo con la esperanza puesta en el futuro. Más de sesenta años después, en 2084, se convierte en el primer hombre resucitado de la Historia, pero su resurrección no se producirá de la forma idílica que Marc había imaginado antes de morir.",
     "genres": [
       "Ciencia ficción"
@@ -325,65 +414,51 @@
     ]
   },
   {
-    "title": "Pobres criaturas",
-    "url": "https://zonaaps.com/movies/pobres-criaturas/",
-    "image": "https://image.tmdb.org/t/p/w185/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
-    "rating": "7.9",
-    "description": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+    "title": "Piraña 3D",
+    "image": "https://image.tmdb.org/t/p/w185/lIodGaZNJbbShF5bDgf51cqpAKa.jpg",
+    "rating": "5.5",
+    "year": "Aug. 20, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "El lago Victoria (Arizona) es un lugar que se llena de gente joven durante las vacaciones de primavera. De repente, se producen una serie de temblores submarinos que liberan unos peces prehistóricos antropófagos. Todos deberán unir sus fuerzas para sobrevivir a estas criaturas. Remake del clásico de terror dirigido por Joe Dante",
     "genres": [
-      "Ciencia ficción",
       "Comedia",
-      "Romance"
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/t/I/N/I/tINIr.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/i/r/K/0irKo.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Pánico en el tren bala",
-    "url": "https://zonaaps.com/movies/panico-en-el-tren-bala/",
-    "image": "https://image.tmdb.org/t/p/w185/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg",
-    "rating": "6.3",
-    "description": "El pánico cunde en un tren bala con destino a Tokio que explotará si baja la velocidad a menos de 100 km/h, y las autoridades deben apresurarse para salvar a todos los pasajeros.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/d4/s8/2/_/6/Y/E/_6YEy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1085236224-1085319187"
-      }
-    ]
-  },
-  {
-    "title": "Power Rangers",
-    "url": "https://zonaaps.com/movies/power-rangers/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/dgsnZW7zyChQfAzCtmLlPp5twpl-185x278.jpg",
-    "rating": "0",
-    "description": "La película sigue a cinco jóvenes predestinados a convertirse en algo extraordinario cuando descubren que tanto su modesto poblado, Angel Grove, como el resto del mundo, están al borde de la aniquilación por una amenaza alienígena. Nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta, pero para lograrlo tendrán que superar problemas de la vida real y unirse bajo el nombre de Power Rangers antes de que sea demasiado tarde.",
+    "title": "Piratas del Caribe 3: En el fin del mundo",
+    "image": "https://image.tmdb.org/t/p/w185/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+    "rating": "7.1",
+    "year": "May. 19, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo…",
     "genres": [
       "Acción",
       "Aventura",
-      "Ciencia ficción"
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDkvbDd2dTExaXNzd2pkX2gvaW5kZXgtdjEtYTEubTN1OD90PTdYclFzZmZFQXJKYmtIbV9jYUM5ZzA4N2t2dmJVbnR4TkFfTUo1YkwycjQmcz0xNzg3MzM4NjQ4JmU9NDMyMDAmdj0zMjUzNzk3NjMmc3J2PXMxMyZpPTAuMyZzcD0wJmZyPWw3dnUxMWlzc3dqZCZyPWU"
+        "url": "https://1a-1791.com/video/s8/2/o/d/c/n/odcno.aaa.mp4"
       }
     ]
   },
   {
     "title": "Puñales por la espalda",
-    "url": "https://zonaaps.com/movies/punales-por-la-espalda/",
     "image": "https://image.tmdb.org/t/p/w185/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
     "rating": "7.9",
+    "year": "Nov. 27, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
     "genres": [
       "Comedia",
@@ -393,15 +468,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/Y/O/V/zYOVs.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/z/Y/O/V/zYOVs.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Poseído &#8211; La maldición del diablo &#8211; El no nacido (Still/Born)",
-    "url": "https://zonaaps.com/movies/poseido-la-maldicion-del-diablo-el-no-nacido-still-born/",
+    "title": "Poseído ; La maldición del diablo ; El no nacido (Still/Born)",
     "image": "https://image.tmdb.org/t/p/w185/m08JPaYvs2RxXbgR6D7CXToOX3a.jpg",
     "rating": "5.4",
+    "year": "Feb. 09, 2018",
+    "quality": "480p SD",
+    "languages": [],
     "description": "Mary está embarazada de gemelos, pero, en el parto, uno de los bebés muere. Diagnosticada con depresión postparto, la mujer entra en una espiral de neurosis, sobre todo cuando descubre las historias sobre un ente demoníaco que se alimenta de las madres y los recién nacidos. ¿Será eso lo que la atormenta por las noches, o se trata de sus terrores íntimos?",
     "genres": [
       "Terror"
@@ -418,29 +495,35 @@
     ]
   },
   {
-    "title": "Primitive War &#8211; Emboscada Salvaje",
-    "url": "https://zonaaps.com/movies/primitive-war-emboscada-salvaje/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/hFp9Ytgs4kbuBfF4wg1867bRtEs-185x278.jpg",
-    "rating": "5.3",
-    "description": "Vietnam. 1968. Una unidad de reconocimiento conocida como Escuadrón Buitre es enviada a un valle aislado de la jungla para descubrir el destino de un pelotón de Boina Verde desaparecido. Pronto descubren que no están solos.",
+    "title": "Pánico en el tren bala",
+    "image": "https://image.tmdb.org/t/p/w185/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg",
+    "rating": "6.3",
+    "year": "Apr. 23, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El pánico cunde en un tren bala con destino a Tokio que explotará si baja la velocidad a menos de 100 km/h, y las autoridades deben apresurarse para salvar a todos los pasajeros.",
     "genres": [
       "Acción",
-      "Bélica",
-      "Ciencia ficción",
-      "Terror"
+      "Crimen",
+      "Drama",
+      "Suspense"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zMTAudmltZW9zLm5ldC9obHMyLzAyLzAwMDEyL2hob2QyaGswa3NieF9uL2luZGV4LXYxLWExLm0zdTg_dD04dGZIdTg2OWFrZFBzSlA4RUt4THR2cVYxa1B5R2VQdDNoYUctRU9pV1RrJnM9MTc4NzMzODYyMyZlPTQzMjAwJnY9MzI3NzI4NjM3Jmk9MC4wJnNwPTAmZnI9aGhvZDJoazBrc2J4JnI9ZQ"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/d4/s8/2/_/6/Y/E/_6YEy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1085236224-1085319187"
       }
     ]
   },
   {
     "title": "Ralph el demoledor",
-    "url": "https://zonaaps.com/movies/ralph-el-demoledor/",
     "image": "https://image.tmdb.org/t/p/w185/3kB1z3uwsYlKAUMO8OuxrFlktvx.jpg",
     "rating": "7.7",
+    "year": "Nov. 01, 2012",
+    "quality": "",
+    "languages": [
+      "Latino"
+    ],
     "description": "Durante décadas, Ralph ha vivido a la sombra de Repara-Félix Jr., el chico bueno de su videojuego. Cansado de ser el malo de la historia, Ralph decide tomar el asunto por sus propias y gigantes manos, y se lanza en un viaje a través de los distintos mundos y generaciones de videojuegos para demostrarle al mundo que él también puede ser un héroe.",
     "genres": [
       "Animación",
@@ -456,10 +539,55 @@
     ]
   },
   {
+    "title": "Power Rangers",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/dgsnZW7zyChQfAzCtmLlPp5twpl-185x278.jpg",
+    "rating": "0",
+    "year": "Mar. 23, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La película sigue a cinco jóvenes predestinados a convertirse en algo extraordinario cuando descubren que tanto su modesto poblado, Angel Grove, como el resto del mundo, están al borde de la aniquilación por una amenaza alienígena. Nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta, pero para lograrlo tendrán que superar problemas de la vida real y unirse bajo el nombre de Power Rangers antes de que sea demasiado tarde.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDkvbDd2dTExaXNzd2pkX2gvaW5kZXgtdjEtYTEubTN1OD90PTdCdkZZNHZqaDFMbVp1cDJXazN2TjZ3UEZmRldIa0ZOVmtjOGNpT0Radlkmcz0xNzg3MzYwODAxJmU9NDMyMDAmdj0zMjUzNzk3NjMmc3J2PXMxMyZpPTAuMyZzcD0wJmZyPWw3dnUxMWlzc3dqZCZyPWU"
+      }
+    ]
+  },
+  {
+    "title": "Rambo III",
+    "image": "https://image.tmdb.org/t/p/w185/ql5ycVbQ8KMrZizgeWWDdZ6xPFw.jpg",
+    "rating": "5.8",
+    "year": "May. 24, 1988",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Bélica",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/T/v/H/vTvHt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Rambo: Acorralado Parte II",
-    "url": "https://zonaaps.com/movies/rambo-acorralado-parte-ii/",
     "image": "https://image.tmdb.org/t/p/w185/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",
     "rating": "6.5",
+    "year": "May. 21, 1985",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento. Pero el plan no saldrá como estaba previsto.",
     "genres": [
       "Acción",
@@ -475,48 +603,35 @@
     ]
   },
   {
-    "title": "Rambo III",
-    "url": "https://zonaaps.com/movies/rambo-iii/",
-    "image": "https://image.tmdb.org/t/p/w185/ql5ycVbQ8KMrZizgeWWDdZ6xPFw.jpg",
-    "rating": "5.8",
-    "description": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+    "title": "Primitive War ; Emboscada Salvaje",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/hFp9Ytgs4kbuBfF4wg1867bRtEs-185x278.jpg",
+    "rating": "5.3",
+    "year": "Aug. 21, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Vietnam. 1968. Una unidad de reconocimiento conocida como Escuadrón Buitre es enviada a un valle aislado de la jungla para descubrir el destino de un pelotón de Boina Verde desaparecido. Pronto descubren que no están solos.",
     "genres": [
       "Acción",
-      "Aventura",
       "Bélica",
-      "Suspense"
+      "Ciencia ficción",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/T/v/H/vTvHt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Polar Express",
-    "url": "https://zonaaps.com/movies/polar-express/",
-    "image": "https://image.tmdb.org/t/p/w185/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
-    "rating": "6.6",
-    "description": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/D/Q/Z/kDQZn.caa.mp4"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDIvMDAwMTIvaGhvZDJoazBrc2J4X24vaW5kZXgtdjEtYTEubTN1OD90PUdsOXJoeTNBS3d6aG9CeEgtT3dmWEc3MnRWbVo4WXhiSzJ2djVFZmtReUEmcz0xNzg3MzYwNzcyJmU9NDMyMDAmdj0zMjc3Mjg2Mzcmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWhob2QyaGswa3NieCZyPWU"
       }
     ]
   },
   {
     "title": "Rapidos y Furiosos 1",
-    "url": "https://zonaaps.com/movies/a-todo-gas/",
     "image": "https://image.tmdb.org/t/p/w185/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
     "rating": "6.8",
+    "year": "Jun. 22, 2001",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde vehículos deportivos. La policía decide infiltrar a un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tuning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complica cuando se enamora de la hermana de éste.",
     "genres": [
       "Acción",
@@ -526,51 +641,58 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/N/9/k/fN9kt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/f/N/9/k/fN9kt.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Poder sin limites &#8211; Chronicle",
-    "url": "https://zonaaps.com/movies/poder-sin-limites-chronicle/",
-    "image": "https://image.tmdb.org/t/p/w185/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
-    "rating": "7",
-    "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Suspense"
+    "title": "Re/Member ; Remember",
+    "image": "https://image.tmdb.org/t/p/w185/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg",
+    "rating": "0",
+    "year": "Oct. 14, 2022",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
     ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/i/I/R/r/iIRrr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Polaroid",
-    "url": "https://zonaaps.com/movies/polaroid/",
-    "image": "https://image.tmdb.org/t/p/w185/ghNua7wru2APolXOutWqO5kpJrI.jpg",
-    "rating": "5.2",
-    "description": "Basada en el cortometraje ganador en el Festival internacional de cine fantástico de Torremolinos. Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara «embrujada».",
+    "description": "Seis estudiantes atrapados en un sangriento bucle temporal deben encontrar los restos de una víctima desconocida para romper la maldición y vivir un nuevo día.",
     "genres": [
-      "Misterio",
       "Suspense",
       "Terror"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/q/J/p/xqJpq.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/27/s8/2/w/C/K/a/wCKaA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3166883328-3166946378"
       }
     ]
   },
   {
-    "title": "Predators &#8211; Predadores",
-    "url": "https://zonaaps.com/movies/predators/",
+    "title": "Ready Player One: comienza el juego",
+    "image": "https://image.tmdb.org/t/p/w185/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+    "rating": "7.4",
+    "year": "Mar. 28, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/2/A/t/42Atv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Predators ; Predadores",
     "image": "https://image.tmdb.org/t/p/w185/wNfucvF5YByebBVVuT0280D3VFb.jpg",
     "rating": "6.4",
+    "year": "Jul. 03, 2010",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos —mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte—, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres.",
     "genres": [
       "Acción",
@@ -589,80 +711,53 @@
     ]
   },
   {
-    "title": "Ready Player One: comienza el juego",
-    "url": "https://zonaaps.com/movies/ready-player-one/",
-    "image": "https://image.tmdb.org/t/p/w185/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
-    "rating": "7.4",
-    "description": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+    "title": "Polar Express",
+    "image": "https://image.tmdb.org/t/p/w185/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+    "rating": "6.6",
+    "year": "Nov. 10, 2004",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
     "genres": [
-      "Acción",
+      "Animación",
       "Aventura",
-      "Ciencia ficción"
+      "Familia",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/2/A/t/42Atv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/D/Q/Z/kDQZn.caa.mp4"
       }
     ]
   },
   {
-    "title": "Red One &#8211; Código &#8211; Traje Rojo",
-    "url": "https://zonaaps.com/movies/red-one-codigo-traje-rojo/",
-    "image": "https://image.tmdb.org/t/p/w185/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-    "rating": "6.9",
-    "description": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+    "title": "Polaroid",
+    "image": "https://image.tmdb.org/t/p/w185/ghNua7wru2APolXOutWqO5kpJrI.jpg",
+    "rating": "5.2",
+    "year": "Jan. 10, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Basada en el cortometraje ganador en el Festival internacional de cine fantástico de Torremolinos. Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara «embrujada».",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/Y/Y/H/1YYHu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Re/Member &#8211; Remember",
-    "url": "https://zonaaps.com/movies/re-member/",
-    "image": "https://image.tmdb.org/t/p/w185/b1ocR7F1aIx4UhdXbmG1akSZ9Bj.jpg",
-    "rating": "0",
-    "description": "Seis estudiantes atrapados en un sangriento bucle temporal deben encontrar los restos de una víctima desconocida para romper la maldición y vivir un nuevo día.",
-    "genres": [
+      "Misterio",
       "Suspense",
       "Terror"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/27/s8/2/w/C/K/a/wCKaA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3166883328-3166946378"
-      }
-    ]
-  },
-  {
-    "title": "Reel &#8211; El día que mi hermanastro descubrió mi secreto prohibido",
-    "url": "https://zonaaps.com/movies/reel-el-dia-que-mi-hermanastro-descubrio-mi-secreto-prohibido/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/el.dia_.en_.que_-185x278.jpg",
-    "rating": "0",
-    "description": "Por accidente, le entrego a un rival de mi crush una carta de amor… pero pronto descubro que en realidad es el porno que escribí. Lo peor es que ese chico resulta ser mi nuevo hermanastro: un verdadero demonio. Ahora estamos obligados a vivir bajo el mismo techo, y él tiene en sus manos mi secreto más vergonzoso&#8230;",
-    "genres": [
-      "Reel",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/c5/s8/2/Q/l/V/o/QlVoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2855582208-2855638773"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/x/q/J/p/xqJpq.aaa.mp4"
       }
     ]
   },
   {
     "title": "Rebel Ridge",
-    "url": "https://zonaaps.com/movies/rebel-ridge/",
     "image": "https://image.tmdb.org/t/p/w185/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
     "rating": "8.2",
+    "year": "Aug. 27, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un exmarine se enfrenta a la corrupción en una pequeña ciudad cuando la policía local le confisca, de forma injusta, la bolsa de dinero que necesita para la fianza de su primo.",
     "genres": [
       "Acción",
@@ -672,66 +767,68 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/8/C/A/I8CAt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/I/8/C/A/I8CAt.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Prometheus: Alien Covenant",
-    "url": "https://zonaaps.com/movies/prometheus-alien-covenant/",
-    "image": "https://image.tmdb.org/t/p/w185/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg",
-    "rating": "6.4",
-    "description": "Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil cuyo único habitante es un «sintético» llamado David (Michael Fassbender), superviviente de la malograda expedición Prometheus. Secuela de «Prometheus» (2012), a su vez precuela de «Alien, el octavo pasajero» (1979).",
+    "title": "Red One ; Código ; Traje Rojo",
+    "image": "https://image.tmdb.org/t/p/w185/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+    "rating": "6.9",
+    "year": "Oct. 31, 2024",
+    "quality": "CAM.rip",
+    "languages": [],
+    "description": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
     "genres": [
-      "Ciencia ficción",
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/R/f/Q/_/RfQ_n.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Priscilla",
-    "url": "https://zonaaps.com/movies/priscilla/",
-    "image": "https://image.tmdb.org/t/p/w185/2i9EgnxyXcD0POswNcirYCSm2iP.jpg",
-    "rating": "6.7",
-    "description": "Cuando la adolescente Priscilla Beaulieu conoce a Elvis Presley en una fiesta, él ya es una meteórica superestrella del rock and roll pero se convierte en alguien totalmente inesperado en momentos privados: un apasionante flechazo, un aliado en la soledad, un vulnerable mejor amigo. Película basada en las memorias ‘Elvis and Me’, escritas por Priscilla Beaulieu Presley, publicadas en 1985 y que relatan el largo noviazgo y turbulento matrimonio de Elvis y Priscilla, desde una base militar alemana hasta su finca de ensueño en Graceland.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/6/g/O/v6gOv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/6/g/O/v6gOv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Proyecto x &#8211; Project X",
-    "url": "https://zonaaps.com/movies/project-x/",
-    "image": "https://image.tmdb.org/t/p/w185/owF9NIcQOPFAOjp2pni8BsVlnRq.jpg",
-    "rating": "6.7",
-    "description": "Tres estudiantes de último curso de instituto, aparentemente anónimos, deciden montar una fiesta salvaje en casa de uno de ellos, promocionándola en las redes sociales como la fiesta más loca de la temporada. Además, los chicos deciden grabarla para luego colgarla en la red. Enseguida se corre la voz y todo se hace un desmadre…",
-    "genres": [
+      "Acción",
+      "Aventura",
       "Comedia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/t/2/t/l/t2tls.aaa.mp4"
-      },
+        "url": "https://1a-1791.com/video/s8/2/1/Y/Y/H/1YYHu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Poder sin limites ; Chronicle",
+    "image": "https://image.tmdb.org/t/p/w185/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
+    "rating": "7",
+    "year": "Feb. 01, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Chronicle cuenta la historia de tres adolescentes normales y corrientes que de pronto desarrollan superpoderes que les permiten hacer cosas que nunca creyeron posibles. Mientras intentan aprender a controlar sus habilidades para usarlas en su beneficio, sus vidas se adentran en una espiral fuera de control, y se muestra el lado oscuro de sus recién descubiertos poderes con consecuencias inesperadas.",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/t/2/t/l/t2tls.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/i/I/R/r/iIRrr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Reel ; El día que mi hermanastro descubrió mi secreto prohibido",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/el.dia_.en_.que_-185x278.jpg",
+    "rating": "0",
+    "year": "May. 25, 2026",
+    "quality": "DramaBox",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Por accidente, le entrego a un rival de mi crush una carta de amor… pero pronto descubro que en realidad es el porno que escribí. Lo peor es que ese chico resulta ser mi nuevo hermanastro: un verdadero demonio. Ahora estamos obligados a vivir bajo el mismo techo, y él tiene en sus manos mi secreto más vergonzoso&#8230;",
+    "genres": [
+      "Reel",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/c5/s8/2/Q/l/V/o/QlVoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2855582208-2855638773"
       }
     ]
   }

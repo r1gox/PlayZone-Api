@@ -1,27 +1,32 @@
 [
   {
-    "title": "Sigue el ritmo",
-    "url": "https://zonaaps.com/movies/sigue-el-ritmo/",
-    "image": "https://image.tmdb.org/t/p/w185/myPSIe9QGUcpKi0WmOi3BcjhKxy.jpg",
-    "rating": "6.3",
-    "description": "Después de la búsqueda infructuosa del triunfo en Broadway como bailarina, April (Sofia Carson) regresa a su pequeño pueblo natal donde se convierte, a regañadientes, en la profesora de un grupo de niñas que busca participar en una importante competición de baile en Atlantic City.",
+    "title": "Silencio",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/wYHfD8izsrr12KNxh1Y4T1OnrTh-185x278.jpg",
+    "rating": "6.6",
+    "year": "Mar. 12, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.",
     "genres": [
-      "Comedia",
-      "Drama",
-      "Música"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/1/n/7/s/1n7st.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/04/s8/2/q/C/G/f/qCGfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310592512-1310642043"
       }
     ]
   },
   {
     "title": "Silent Hill (2006)",
-    "url": "https://zonaaps.com/movies/silent-hill/",
     "image": "https://image.tmdb.org/t/p/w185/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
     "rating": "6.5",
+    "year": "Apr. 21, 2006",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Rose, desesperada por encontrar una cura para la misteriosa enfermedad de su hija Sharon, rehúsa ingresar a la niña en una institución psiquiátrica a pesar de las recomendaciones de los médicos, y decide huir a Silent Hill, un pueblo del que su hija habla constantemente en sueños. A pesar de que su marido Christopher se opone al viaje, Rose está convencida de que la respuesta se encuentra en este misterioso lugar. Al aproximarse al pueblo, una misteriosa figura se alza en medio de la carretera. Rose, para no atropellarla, tiene un accidente. Cuando vuelve en sí, Sharon ha desaparecido. A partir de ese momento, acompañada por una agente de policía, empieza una búsqueda desesperada en Silent Hill para encontrar a su hija. Las dos mujeres no tardan en darse cuenta de que el pueblo, que quedó desierto después de ser devastado por unos terribles incendios, no se parece a ningún otro.",
     "genres": [
       "Misterio",
@@ -30,33 +35,40 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/p/8/u/kp8uu.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/k/p/8/u/kp8uu.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Sin piedad",
-    "url": "https://zonaaps.com/movies/sin-piedad/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/tgmtRhwt3NuWXF9piH1pA7CEQA5-185x278.jpg",
-    "rating": "6.2",
-    "description": "En un futuro próximo, un detective es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la inteligencia artificial avanzada, a la que él mismo defendió en su día, antes de que esta decida su destino.",
+    "title": "Secreto en la Montaña: En terreno vedado",
+    "image": "https://image.tmdb.org/t/p/w185/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg",
+    "rating": "7.7",
+    "year": "Sep. 10, 2005",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.",
     "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/97/s8/2/M/d/M/g/MdMgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3067386368-3067447255"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/l/V/R/0/lVR0r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/l/V/R/0/lVR0r.caa.mp4"
       }
     ]
   },
   {
     "title": "Sin miedo en el corazón",
-    "url": "https://zonaaps.com/movies/sin-miedo-en-el-corazon/",
     "image": "https://image.tmdb.org/t/p/w185/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg",
     "rating": "0",
+    "year": "Jul. 23, 1993",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Tras presenciar el asesinato de su primer y único novio, la joven Justice decide abandonar el instituto y convertirse en una peluquera en Los Ángeles. Evitando las nuevas amistades, su única forma de combatir la depresión será componer bellos poemas. Camino de una convención en Oakland, se ve obligada a compartir asiento con un trabajador postal, con el que poco a poco irá descubriendo afinidades.",
     "genres": [
       "Drama",
@@ -71,9 +83,13 @@
   },
   {
     "title": "Shang-Chi y la leyenda de los Diez Anillos",
-    "url": "https://zonaaps.com/movies/shang-chi-y-la-leyenda-de-los-diez-anillos/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/07/lE8Pet7FMzOFUBMToH7l7g1XAny-185x278.jpg",
     "rating": "7.4",
+    "year": "Sep. 01, 2021",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.",
     "genres": [
       "Acción",
@@ -83,56 +99,66 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDAzLzl0bWI3eGQ2NWE4Z19uL2luZGV4LXYxLWExLm0zdTg_dD1BOW4zVThONDQ5X2VHcnc1Q2pONjYyWUNELXkyTE9PRzlQZWZCRVlLRjJrJnM9MTc4NzMzODY0MyZlPTQzMjAwJnY9MzI5OTc4NjI4Jmk9MC4zJnNwPTAmcj1l"
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvOXRtYjd4ZDY1YThnX24vaW5kZXgtdjEtYTEubTN1OD90PXh6NE1XLVh0VEdOTkxrUUY4X3YxNWt2b1lBTEJvRWNBV0FaMVdwNkZrN00mcz0xNzg3MzYwNzk1JmU9NDMyMDAmdj0zMjk5Nzg2Mjgmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
   {
-    "title": "Secreto en la Montaña: En terreno vedado",
-    "url": "https://zonaaps.com/movies/secreto-en-la-montana-en-terreno-vedado/",
-    "image": "https://image.tmdb.org/t/p/w185/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg",
-    "rating": "7.7",
-    "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.",
+    "title": "Sin piedad",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/tgmtRhwt3NuWXF9piH1pA7CEQA5-185x278.jpg",
+    "rating": "6.2",
+    "year": "Jan. 19, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "En un futuro próximo, un detective es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la inteligencia artificial avanzada, a la que él mismo defendió en su día, antes de que esta decida su destino.",
     "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/97/s8/2/M/d/M/g/MdMgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3067386368-3067447255"
+      }
+    ]
+  },
+  {
+    "title": "Señora Influencer",
+    "image": "https://image.tmdb.org/t/p/w185/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg",
+    "rating": "7.1",
+    "year": "Oct. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "De la noche a la mañana, Fátima, una mujer en sus cuarentas, se convierte en la influencer más famosa del momento. Sofi y Cami, un par de jóvenes influencers, intentarán aprovecharse de la repentina popularidad de Fátima fingiendo ser sus amigas. En la misma medida que Fátima logra tener seguidores que la aman, también atraerá a haters escondidos detrás de una pantalla, sin saber que se han burlado del perfil equivocado.",
+    "genres": [
+      "Comedia",
       "Drama",
-      "Romance"
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/V/R/0/lVR0r.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/V/R/0/lVR0r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Shrek 2",
-    "url": "https://zonaaps.com/movies/shrek-2/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/knRt4E8KyfwEv0SVu9LsLvD28IQ-185x278.jpg",
-    "rating": "7.3",
-    "description": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTQudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwLzM4YnZncWFwbmtldl9uL2luZGV4LXYxLWExLm0zdTg_dD1kV3JqWldubGUxbi02SkNGVmMtaVFWNnlQVV8zckxVZFpyTDk1VVFPNHZjJnM9MTc4NzMzODYyMyZlPTQzMjAwJnY9MzI1Mjc4OTI3Jmk9MC4wJnNwPTAmcj1l"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.caa.mp4"
       }
     ]
   },
   {
     "title": "Skal: Fight for Survival",
-    "url": "https://zonaaps.com/movies/skal-fight-for-survival/",
     "image": "https://image.tmdb.org/t/p/w185/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg",
     "rating": "0",
+    "year": "Nov. 24, 2023",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "",
     "genres": [
       "Acción",
@@ -148,11 +174,15 @@
     ]
   },
   {
-    "title": "Shrek: Felices para siempre",
-    "url": "https://zonaaps.com/movies/shrek-felices-para-siempre/",
-    "image": "https://image.tmdb.org/t/p/w185/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
-    "rating": "6.3",
-    "description": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un «ogro real», Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+    "title": "Shrek 2",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/knRt4E8KyfwEv0SVu9LsLvD28IQ-185x278.jpg",
+    "rating": "7.3",
+    "year": "May. 19, 2004",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
     "genres": [
       "Animación",
       "Aventura",
@@ -163,19 +193,36 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.caa.mp4"
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTQudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwLzM4YnZncWFwbmtldl9uL2luZGV4LXYxLWExLm0zdTg_dD1veFg1d3l3MFhTdjZXRGhXZXVyaUN3cG5yTkNMek1sSGx1TVpybjE4aGxzJnM9MTc4NzM2MDc3MiZlPTQzMjAwJnY9MzI1Mjc4OTI3Jmk9MC4zJnNwPTAmcj1l"
       }
     ]
   },
   {
-    "title": "Sobre-Natural &#8211; La Niebla",
-    "url": "https://zonaaps.com/movies/sobre-natural-la-niebla/",
+    "title": "Smile 2",
+    "image": "https://image.tmdb.org/t/p/w185/aE85MnPIsSoSs3978Noo16BRsKN.jpg",
+    "rating": "7.2",
+    "year": "Oct. 16, 2024",
+    "quality": "CAM.rip",
+    "languages": [],
+    "description": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror ‘Smile’ (2022).",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/I/k/-/kIk-t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sobre-Natural ; La Niebla",
     "image": "https://image.tmdb.org/t/p/w185/8gG0GP0TPnn91zIsNkwnQgBK8mh.jpg",
     "rating": "7.1",
+    "year": "Nov. 21, 2007",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.",
     "genres": [
       "Ciencia ficción",
@@ -190,65 +237,54 @@
     ]
   },
   {
-    "title": "Señora Influencer",
-    "url": "https://zonaaps.com/movies/senora-influencer/",
-    "image": "https://image.tmdb.org/t/p/w185/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg",
-    "rating": "7.1",
-    "description": "De la noche a la mañana, Fátima, una mujer en sus cuarentas, se convierte en la influencer más famosa del momento. Sofi y Cami, un par de jóvenes influencers, intentarán aprovecharse de la repentina popularidad de Fátima fingiendo ser sus amigas. En la misma medida que Fátima logra tener seguidores que la aman, también atraerá a haters escondidos detrás de una pantalla, sin saber que se han burlado del perfil equivocado.",
+    "title": "Sex Appeal",
+    "image": "https://image.tmdb.org/t/p/w185/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
+    "rating": "5.3",
+    "year": "Jan. 14, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Avery, una adolescente con tendencia al perfeccionismo, recluta a su amigo Larson para que la ayude a prepararse para su primera vez con su novio a larga distancia.",
     "genres": [
       "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/C/t/f7Cts.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sol de justicia ; Killer Heat",
+    "image": "https://image.tmdb.org/t/p/w185/zHrNdRdB1RahDWD8JfuH0mf0la3.jpg",
+    "rating": "0",
+    "year": "Sep. 26, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un detective privado expatriado acepta investigar una muerte sospechosa en Creta, Grecia, dentro de una familia con celos muy arraigados.",
+    "genres": [
+      "Crimen",
       "Drama",
+      "Romance",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/T/f/P/oTfPp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/T/f/P/oTfPp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/b/H/i/R/bHiRt.aaa.mp4?u=0&b=0"
       }
     ]
   },
   {
-    "title": "Secretariat",
-    "url": "https://zonaaps.com/movies/secretariat/",
-    "image": "https://image.tmdb.org/t/p/w185/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg",
-    "rating": "7.2",
-    "description": "Narra las peripecias del ganador de la Triple Corona en 1973. Penny Chenery es una madre y ama de casa que, al enfermar su padre, se compromete a hacerse cargo de las caballerizas de la familia, en Virginia. Aunque ignora todo cuanto se refiere al mundo de las carreras de caballos, con la ayuda de un veterano entrenador y contra todo pronóstico, acaba consiguiendo la primera Triple Corona en 25 años, gracias a uno de los mejores caballos de carreras de todos los tiempos.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/E/s/L/DEsLs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Smile 2",
-    "url": "https://zonaaps.com/movies/smile-2/",
-    "image": "https://image.tmdb.org/t/p/w185/aE85MnPIsSoSs3978Noo16BRsKN.jpg",
-    "rating": "7.2",
-    "description": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror ‘Smile’ (2022).",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/I/k/-/kIk-t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Solitary Man &#8211; El Hombre Solitario",
-    "url": "https://zonaaps.com/movies/solitary-man-el-hombre-solitario/",
+    "title": "Solitary Man ; El Hombre Solitario",
     "image": "https://image.tmdb.org/t/p/w185/mKDIhs9uVp9xWfa1y0ScAyPiDkT.jpg",
     "rating": "6.3",
+    "year": "Sep. 07, 2009",
+    "quality": "480p SD",
+    "languages": [
+      "Latino"
+    ],
     "description": "",
     "genres": [
       "Comedia",
@@ -264,9 +300,11 @@
   },
   {
     "title": "Solo Leveling: ReAwakening",
-    "url": "https://zonaaps.com/movies/solo-leveling-reawakening/",
     "image": "https://image.tmdb.org/t/p/w185/diPEcLFEb1uuUpApol1Bit6ck3l.jpg",
     "rating": "8.4",
+    "year": "Nov. 26, 2024",
+    "quality": "Película",
+    "languages": [],
     "description": "Ha pasado más de una década desde que un camino llamado «portal» que conecta este mundo con una dimensión alternativa apareció de repente, y personas con poderes sobrehumanos llamados «cazadores» han despertado. Los cazadores usan sus poderes sobrehumanos para conquistar mazmorras dentro de los portales para ganarse la vida y Sung Jinwoo, un cazador del rango más bajo, es considerado como el Cazador Más débil de Toda la Humanidad. Un día se encuentra con una mazmorra doble, una mazmorra de alto nivel oculta dentro de una de bajo nivel. Frente a un Jinwoo gravemente herido, surge una misteriosa ventana hacia una misión. Al borde de la muerte, Jinwoo decide encargarse de la misión, que le convierte en la única persona capaz de subir de nivel. Largometraje formado por una recapitulación de la primera temporada de la serie de anime homónima junto con un avance exclusivo de los dos primeros episodios de la segunda temporada.",
     "genres": [
       "Acción",
@@ -280,15 +318,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/M/D/x/AMDxv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/M/D/x/AMDxv.aaa.mp4"
       }
     ]
   },
   {
     "title": "Seis Triple Ocho",
-    "url": "https://zonaaps.com/movies/seis-triple-ocho/",
     "image": "https://image.tmdb.org/t/p/w185/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
     "rating": "6.6",
+    "year": "Dec. 06, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de 17 millones de piezas de correo.",
     "genres": [
       "Bélica",
@@ -307,46 +347,30 @@
     ]
   },
   {
-    "title": "Sol de justicia &#8211; Killer Heat",
-    "url": "https://zonaaps.com/movies/sol-de-justicia-killer-heat/",
-    "image": "https://image.tmdb.org/t/p/w185/zHrNdRdB1RahDWD8JfuH0mf0la3.jpg",
-    "rating": "0",
-    "description": "Un detective privado expatriado acepta investigar una muerte sospechosa en Creta, Grecia, dentro de una familia con celos muy arraigados.",
+    "title": "Secretariat",
+    "image": "https://image.tmdb.org/t/p/w185/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg",
+    "rating": "7.2",
+    "year": "Aug. 20, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Narra las peripecias del ganador de la Triple Corona en 1973. Penny Chenery es una madre y ama de casa que, al enfermar su padre, se compromete a hacerse cargo de las caballerizas de la familia, en Virginia. Aunque ignora todo cuanto se refiere al mundo de las carreras de caballos, con la ayuda de un veterano entrenador y contra todo pronóstico, acaba consiguiendo la primera Triple Corona en 25 años, gracias a uno de los mejores caballos de carreras de todos los tiempos.",
     "genres": [
-      "Crimen",
-      "Drama",
-      "Romance",
-      "Suspense"
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/H/i/R/bHiRt.aaa.mp4?u=0&b=0"
+        "url": "https://1a-1791.com/video/s8/2/D/E/s/L/DEsLs.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Sex Appeal",
-    "url": "https://zonaaps.com/movies/sex-appeal/",
-    "image": "https://image.tmdb.org/t/p/w185/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
-    "rating": "5.3",
-    "description": "Avery, una adolescente con tendencia al perfeccionismo, recluta a su amigo Larson para que la ayude a prepararse para su primera vez con su novio a larga distancia.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/7/C/t/f7Cts.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Silencio desde el mal &#8211; El Titere &#8211; Dead Silence",
-    "url": "https://zonaaps.com/movies/silencio-desde-el-mal-el-titere-dead-silence/",
+    "title": "Silencio desde el mal ; El Titere ; Dead Silence",
     "image": "https://image.tmdb.org/t/p/w185/wwb8z8BiRr6aTwLv6slfOMJMCdq.jpg",
     "rating": "6.1",
+    "year": "Mar. 16, 2007",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Un joven viudo regresa a su hogar para investigar el asesinato de su mujer. Allí descubre la leyenda de Mary Shaw, una ventrílocua que pidió ser enterrada junto a sus 101 «muñecos». Uno de ellos parece haber vuelto de la tumba, y no precisamente con buenas intenciones… De los creadores de «Saw».",
     "genres": [
       "Terror"
@@ -363,26 +387,12 @@
     ]
   },
   {
-    "title": "Son como niños",
-    "url": "https://zonaaps.com/movies/ninos-grandes/",
-    "image": "https://image.tmdb.org/t/p/w185/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
-    "rating": "6",
-    "description": "Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/y/E/y/dyEyu.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Somos los Miller",
-    "url": "https://zonaaps.com/movies/somos-los-miller/",
     "image": "https://image.tmdb.org/t/p/w185/e6ITLpsQP9FMBF4jDyvHpWUYV64.jpg",
     "rating": "7",
+    "year": "Aug. 07, 2013",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un traficante de marihuana se crea una familia ficticia con una stripper y dos jóvenes como parte de su plan para pasar un gran cargamento de Estados Unidos a México.",
     "genres": [
       "Comedia",
@@ -396,10 +406,30 @@
     ]
   },
   {
+    "title": "Son como niños",
+    "image": "https://image.tmdb.org/t/p/w185/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
+    "rating": "6",
+    "year": "Jun. 24, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Después de muchos años, su antiguo entrenador de basquet muere y cincos amigos deciden pasar un fin de semanas -ahora con sus respectivas familias- en la casa donde celebraron, antaño, el campeonato.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/y/E/y/dyEyu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Sick 2022",
-    "url": "https://zonaaps.com/movies/sick/",
     "image": "https://image.tmdb.org/t/p/w185/nBgxSimgLMGYCQckRQw7C2f7row.jpg",
     "rating": "6",
+    "year": "Sep. 11, 2022",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Durante la pandemia, Parker y su mejor amigo deciden realizar la cuarentena en la casa familiar del lago donde estarán aislados del mundo… o al menos eso es lo que piensan.",
     "genres": [
       "Suspense",
@@ -408,15 +438,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/0/N/1/Z0N1j.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/Z/0/N/1/Z0N1j.caa.mp4"
       }
     ]
   },
   {
     "title": "Son Como Niños 2",
-    "url": "https://zonaaps.com/movies/son-como-ninos-2/",
     "image": "https://image.tmdb.org/t/p/w185/6TRhV0E6wDQjMEtvYru0Kel6juW.jpg",
     "rating": "5.4",
+    "year": "Jul. 11, 2013",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Lenny se ha trasladado con su familia a la pequeña ciudad donde tanto él como sus amigos se criaron. En esta ocasión, los adultos serán quienes reciban toda una lección de sus propios hijos. Secuela de «Son como niños».",
     "genres": [
       "Comedia"
@@ -424,15 +456,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/ca/s8/2/q/f/x/t/qfxty.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/ca/s8/2/q/f/x/t/qfxty.aaa.mp4"
       }
     ]
   },
   {
     "title": "Sonic 2: La película",
-    "url": "https://zonaaps.com/movies/sonic-2-la-pelicula/",
     "image": "https://image.tmdb.org/t/p/w185/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
     "rating": "6.5",
+    "year": "Apr. 08, 2022",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe, pero Robotnik regresa con nuevo compañero Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones, pero Sonic no está solo, le ayudará Tails.",
     "genres": [
       "Acción",
@@ -443,34 +477,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/W/3/d/QW3du.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sonic: La película",
-    "url": "https://zonaaps.com/movies/sonic-la-pelicula/",
-    "image": "https://image.tmdb.org/t/p/w185/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
-    "rating": "6.5",
-    "description": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/d2/s8/2/-/a/o/n/-aonx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/W/3/d/QW3du.aaa.mp4"
       }
     ]
   },
   {
     "title": "Sonic 3: La película",
-    "url": "https://zonaaps.com/movies/sonic-3-la-pelicula/",
     "image": "https://image.tmdb.org/t/p/w185/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg",
     "rating": "7.5",
+    "year": "Dec. 19, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
     "genres": [
       "Aventura",
@@ -486,10 +503,56 @@
     ]
   },
   {
+    "title": "Sin escape (2015)",
+    "image": "https://zonaaps.com/wp-content/uploads/2024/07/Sin-escape-1024x512-1.jpg",
+    "rating": "0",
+    "year": "Sep. 03, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un hombre de negocios y su familia se ven atrapados en medio de un violento golpe de estado en un país del sudeste asiático. Mientras los rebeldes atacan, Jack y su familia tienen que buscar la forma de sobrevivir al infierno.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sonic: La película",
+    "image": "https://image.tmdb.org/t/p/w185/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+    "rating": "6.5",
+    "year": "Feb. 12, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/d2/s8/2/-/a/o/n/-aonx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Soul",
-    "url": "https://zonaaps.com/movies/soul/",
     "image": "https://image.tmdb.org/t/p/w185/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
     "rating": "8",
+    "year": "Dec. 25, 2020",
+    "quality": "720p HD",
+    "languages": [],
     "description": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser… tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida.",
     "genres": [
       "Animación",
@@ -500,15 +563,35 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/K/s/2/bKs2t.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/K/s/2/bKs2t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Simón",
+    "image": "https://image.tmdb.org/t/p/w185/8bY3ojxD1C9VaOVLNh9cATtRIJm.jpg",
+    "rating": "8",
+    "year": "Apr. 15, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/U/V/f/o/UVfoq.aaa.mp4"
       }
     ]
   },
   {
     "title": "Soy el número cuatro",
-    "url": "https://zonaaps.com/movies/soy-el-numero-cuatro/",
     "image": "https://image.tmdb.org/t/p/w185/ikfd6zZDhLUWlLii61YQ6NSFXLY.jpg",
     "rating": "6.1",
+    "year": "Feb. 18, 2011",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Después de que su mundo haya sido destruido por seres de otro planeta, nueve jóvenes alienígenas se esconden en la Tierra. Uno de ellos, el cuarto del grupo y que se hace llamar John Smith, descubre que no está a salvo: sus enemigos se encuentran en la Tierra, han acabado con los tres anteriores y le siguen los pasos para dar con él. Para intentar no ser descubierto el joven cuenta con la ayuda de un guardián que le protege, Henri. Haciéndose pasar por padre e hijo, su nuevo destino es Paradise, un pequeño pueblo de Ohio, donde John conoce a Sara, por la que pronto comienza a sentir una gran atracción.",
     "genres": [
       "Acción",
@@ -519,32 +602,20 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/fa/s8/2/9/-/0/y/9-0yy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/9/-/0/y/9-0yy.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Saw VI",
-    "url": "https://zonaaps.com/movies/saw-vi/",
-    "image": "https://image.tmdb.org/t/p/w185/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg",
-    "rating": "6",
-    "description": "El Agente Especial Strahm está muerto, y el Detective Hoffman es el sucesor de Jigsaw y su juego macabro. Sin embargo, cuando la Brigada de Investigación Criminal comienza a estrechar el cerco a Hoffman, lo forzarán a poner en marcha el juego complejo de Jigsaw, y por fin a entenderlo por completo… Sexta entrega de la sangrienta saga Saw.En octubre de 2009 la distribuidora decidió cancelar su estreno en España a causa de la controvertida clasificación X que recibió del Ministerio de Cultura. Finalmente, la película llega a las salas españolas en octubre de 2010, con un montaje específico de los productores, que han eliminado 3 minutos de metraje, suprimiendo las escenas más violentas de la cinta.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/t/f/X/QtfXs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Spider-Man &#8211; Sin Camino A Casa",
-    "url": "https://zonaaps.com/movies/spider-man-no-way-home/",
+    "title": "Spider-Man ; Sin Camino A Casa",
     "image": "https://zonaaps.com/wp-content/uploads/2026/04/wngeV2SQk9UllOqZLaBbq16wpy5-185x278.jpg",
     "rating": "8.2",
+    "year": "Dec. 15, 2021",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
     "genres": [
       "Acción",
@@ -560,9 +631,13 @@
   },
   {
     "title": "Spectral",
-    "url": "https://zonaaps.com/movies/spectral/",
     "image": "https://image.tmdb.org/t/p/w185/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg",
     "rating": "6.3",
+    "year": "Dec. 09, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Un equipo de Operaciones Especiales se prepara para hacer frente y dar caza a unos seres sobrenaturales que están atacando Moldavia.",
     "genres": [
       "Acción",
@@ -577,10 +652,33 @@
     ]
   },
   {
+    "title": "Sing ven y ¡Canta!: Thriller",
+    "image": "https://image.tmdb.org/t/p/w185/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+    "rating": "6.8",
+    "year": "Oct. 16, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Buster Moon sueña con un espectáculo de estrellas al ritmo de ‘Thriller’ de Michael Jackson en este corto de animación con personajes de las exitosas películas ‘¡Canta!’.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/a/T/-/baT-t.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Spider-Man: Cruzando el multiverso",
-    "url": "https://zonaaps.com/movies/spider-man-cruzando-el-multiverso/",
     "image": "https://image.tmdb.org/t/p/w185/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg",
     "rating": "9.1",
+    "year": "May. 31, 2023",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spider-Man a través del Multiverso para unir fuerzas con Gwen Stacy y un nuevo equipo de Spider-People, y enfrentarse así a un villano mucho más poderoso que cualquier cosa que hayan conocido antes.",
     "genres": [
       "Acción",
@@ -597,9 +695,11 @@
   },
   {
     "title": "Spider-Man: Un nuevo día",
-    "url": "https://zonaaps.com/movies/spider-man-un-nuevo-dia/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/07/GUVYjqDLWy61q9hDYiV9M5UEJe-185x278.jpg",
     "rating": "8.5",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
     "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
     "genres": [
       "Acción",
@@ -614,29 +714,12 @@
     ]
   },
   {
-    "title": "Sing ven y ¡Canta!: Thriller",
-    "url": "https://zonaaps.com/movies/sing-ven-y-canta-thriller/",
-    "image": "https://image.tmdb.org/t/p/w185/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
-    "rating": "6.8",
-    "description": "Buster Moon sueña con un espectáculo de estrellas al ritmo de ‘Thriller’ de Michael Jackson en este corto de animación con personajes de las exitosas películas ‘¡Canta!’.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/a/T/-/baT-t.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Spirit, el corcel indomable",
-    "url": "https://zonaaps.com/movies/spirit-el-corcel-indomable/",
     "image": "https://image.tmdb.org/t/p/w185/qdaRFy6SL0mcHiH9dXHTwpDHigJ.jpg",
     "rating": "7.2",
+    "year": "May. 24, 2002",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Sigue las aventuras de un corcel mustang salvaje e ingobernable que recorre la indómita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por él pero sí se hace amigo suyo. El valiente corcel también encuentra el amor con una hermosa yegua llamada Rain. Spirit se conviertirá en uno de los grandes héroes anónimos del Viejo Oeste.",
     "genres": [
       "Animación",
@@ -655,44 +738,12 @@
     ]
   },
   {
-    "title": "Spirit: El Indomable",
-    "url": "https://zonaaps.com/movies/spirit-el-indomable/",
-    "image": "https://image.tmdb.org/t/p/w185/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg",
-    "rating": "5.5",
-    "description": "La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/bd/s8/2/W/y/v/o/Wyvoy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Simón",
-    "url": "https://zonaaps.com/movies/simon/",
-    "image": "https://image.tmdb.org/t/p/w185/8bY3ojxD1C9VaOVLNh9cATtRIJm.jpg",
-    "rating": "8",
-    "description": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/U/V/f/o/UVfoq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Smile &#8211; Sonrrie",
-    "url": "https://zonaaps.com/movies/smile/",
+    "title": "Smile ; Sonrrie",
     "image": "https://image.tmdb.org/t/p/w185/szII7Fo0TWePGNI7CoWnAdESdZ5.jpg",
     "rating": "6.5",
+    "year": "Sep. 23, 2022",
+    "quality": "",
+    "languages": [],
     "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
     "genres": [
       "Misterio",
@@ -707,10 +758,53 @@
     ]
   },
   {
+    "title": "Spirit: El Indomable",
+    "image": "https://image.tmdb.org/t/p/w185/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg",
+    "rating": "5.5",
+    "year": "May. 20, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La vida de Lucky Prescott cambia para siempre cuando se muda de su casa en la gran ciudad a un pequeño pueblo fronterizo en el que entabla amistad con un caballo salvaje llamado Spirit.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/bd/s8/2/W/y/v/o/Wyvoy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Star Trek: Section 31",
+    "image": "https://image.tmdb.org/t/p/w185/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg",
+    "rating": "4.2",
+    "year": "Jan. 15, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En Star Trek: Sección 31, la Emperadora Philippa Georgiou, se une a una división secreta de la Flota Estelar encargada de proteger a la Federación Unida de Planetas y se enfrenta a los pecados de su pasado.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/37/s8/2/Z/C/H/-/ZCH-w.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Slender Man",
-    "url": "https://zonaaps.com/movies/slender-man/",
     "image": "https://image.tmdb.org/t/p/w185/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
     "rating": "3.3",
+    "year": "Aug. 10, 2018",
+    "quality": "720 HD",
+    "languages": [],
     "description": "“El hombre más pálido. El traje más oscuro. Más grande que el gigante más alto. Ten miedo de este hombre: Slender Man ya que puede hacer lo que nadie puede”. Estas son algunas de las características que usuarios del internet dieron al personaje ficticio de terror Slender Man (el hombre delgado). Ahora la criatura llega a la gran pantalla con este film de terror, que nace de una de las leyendas urbanas de la web más populares, en base de una recopilación de imágenes en el foro Something Awful y, hoy en día, pertenece a la cultura «creepypasta».",
     "genres": [
       "Misterio",
@@ -725,21 +819,24 @@
     ]
   },
   {
-    "title": "Star Trek: Section 31",
-    "url": "https://zonaaps.com/movies/star-trek-section-31/",
-    "image": "https://image.tmdb.org/t/p/w185/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg",
-    "rating": "4.2",
-    "description": "En Star Trek: Sección 31, la Emperadora Philippa Georgiou, se une a una división secreta de la Flota Estelar encargada de proteger a la Federación Unida de Planetas y se enfrenta a los pecados de su pasado.",
+    "title": "Star Wars: El ascenso de Skywalker ; Star Wars Episodio 9",
+    "image": "https://image.tmdb.org/t/p/w185/oeQxq6If4DcW6ADIYCF9SQwKov.jpg",
+    "rating": "6.3",
+    "year": "Dec. 18, 2019",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Un año después de los eventos de «Los últimos Jedi», los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo. Final de la trilogía iniciada con «El despertar de la Fuerza».",
     "genres": [
       "Acción",
       "Aventura",
-      "Ciencia ficción",
-      "Drama"
+      "Ciencia ficción"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/37/s8/2/Z/C/H/-/ZCH-w.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/c7/s8/2/s/j/9/1/sj91z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1119484416-1119570109"
       }
     ]
   }

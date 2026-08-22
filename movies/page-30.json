@@ -1,10 +1,12 @@
 [
   {
-    "title": "Saw IV",
-    "url": "https://zonaaps.com/movies/saw-iv/",
-    "image": "https://image.tmdb.org/t/p/w185/cSIAfVlrE065RnYRJKIgmRIXQKp.jpg",
-    "rating": "5.9",
-    "description": "A pesar de la muerte de Jigsaw, y para salvar la vida de dos de sus colegas, el teniente Rigg se ve obligado a participar en un nuevo juego, que promete ponerlo a prueba hasta el límite.",
+    "title": "Saw V",
+    "image": "https://image.tmdb.org/t/p/w185/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg",
+    "rating": "5.8",
+    "year": "Oct. 23, 2008",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Hoffman (Costas Mandylor) es la última persona viva para heredar el legado de Jigsaw (Tobin Bell). Pero cuando su secreto se ve amenazado, Hoffman debe iniciar la caza para eliminar todos los cabos sueltos. Nueva entrega de la saga dirigida por el mismo productor de diseño de las tres entregas anteriores.",
     "genres": [
       "Crimen",
       "Suspense",
@@ -13,15 +15,73 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/X/x/h/X/XxhXs.aaa.mp4?u=0&b=0"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/5/f/X/f5fXs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Saw VII",
+    "image": "https://image.tmdb.org/t/p/w185/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
+    "rating": "5.5",
+    "year": "Oct. 22, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
+    "genres": [
+      "Crimen",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/i/e/X/HieXs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Saw VI",
+    "image": "https://image.tmdb.org/t/p/w185/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg",
+    "rating": "6",
+    "year": "Oct. 22, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El Agente Especial Strahm está muerto, y el Detective Hoffman es el sucesor de Jigsaw y su juego macabro. Sin embargo, cuando la Brigada de Investigación Criminal comienza a estrechar el cerco a Hoffman, lo forzarán a poner en marcha el juego complejo de Jigsaw, y por fin a entenderlo por completo… Sexta entrega de la sangrienta saga Saw.En octubre de 2009 la distribuidora decidió cancelar su estreno en España a causa de la controvertida clasificación X que recibió del Ministerio de Cultura. Finalmente, la película llega a las salas españolas en octubre de 2010, con un montaje específico de los productores, que han eliminado 3 minutos de metraje, suprimiendo las escenas más violentas de la cinta.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/t/f/X/QtfXs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Rings ; El aro 3",
+    "image": "https://image.tmdb.org/t/p/w185/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg",
+    "rating": "4.5",
+    "year": "Feb. 01, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Precuela de ‘The Ring’, que contará como una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una «película dentro de la película» que nadie ha visto antes",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/V/E/y/4VEyq.aaa.mp4"
       }
     ]
   },
   {
     "title": "Ruega por nosotros",
-    "url": "https://zonaaps.com/movies/ruega-por-nosotros/",
     "image": "https://image.tmdb.org/t/p/w185/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg",
     "rating": "5.1",
+    "year": "Mar. 31, 2021",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Se centra en un periodista caído en desgracia que descubre una serie de aparentes milagros acaecidos en un pequeño pueblo de Nueva Inglaterra, aplicándolos para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree.",
     "genres": [
       "Misterio",
@@ -30,70 +90,43 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/O/2/_/DO2_r.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/O/2/_/DO2_r.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/O/2/_/DO2_r.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/O/2/_/DO2_r.caa.mp4"
       }
     ]
   },
   {
-    "title": "Royalteen: El heredero",
-    "url": "https://zonaaps.com/movies/royalteen-el-heredero/",
-    "image": "https://image.tmdb.org/t/p/w185/n7ptP3khuhWHrTvFO0VCVPs6EVY.jpg",
-    "rating": "5.3",
-    "description": "Cuando empiezan a surgir sentimientos entre el príncipe Karl Johan (Mathias Storhøi), Kalle para los amigos, y la recién llegada Lena (Ines Høysæter Asserson), esta se siente encantada, pero también es escéptica, y por muchas razones. Kalle es un príncipe amigo de las fiestas y un habitual de la prensa rosa y los blogs de cotilleos, uno de ellos publicado por la propia Lena de forma anónima hasta que la descubrieron. Lena es dolorosamente consciente de que salir con el futuro rey podría dejarlos en una situación imposible, y no le ha contado ni a Kalle ni a nadie un secreto aún mayor, que también es el motivo de que se fuera de su ciudad natal.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/a/f/5/6af5n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Scary Movie 3",
-    "url": "https://zonaaps.com/movies/scary-movie-3/",
-    "image": "https://image.tmdb.org/t/p/w185/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+    "title": "Scary Movie 5",
+    "image": "https://image.tmdb.org/t/p/w185/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
     "rating": "0",
-    "description": "La presentadora de noticias Cindy Campbell tiene que investigar misteriosos círculos de cultivos y matar cintas de video, y ayudar al presidente a detener una invasión alienígena en el proceso.",
+    "year": "Apr. 11, 2013",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Hogar con su familia recién formada, los padres felices Dan y Jody son frecuentados por actividades siniestras, paranormales. Decididos a expulsar a la fuerza insidiosa, instalan cámaras de seguridad y descubren que su familia está siendo acosada por un demonio muerto malvado.",
     "genres": [
       "Comedia"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/27/s8/2/e/L/V/6/eLV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=675723264-675774795"
-      }
-    ]
-  },
-  {
-    "title": "Sangre por Sangre",
-    "url": "https://zonaaps.com/movies/sangre-por-sangre/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/Wc4S6rFHKJ7jyghOdZVWVVC49j-185x278.jpg",
-    "rating": "0",
-    "description": "Tres primos crecen como hermanos en medio de la violencia de las bandas del este de Los Ángeles. Con el tiempo sus vidas siguen caminos muy diferentes: uno trabaja para la brigada antidroga de la Policía, otro cae en las redes de las brutales bandas de San Quintín y el tercero se deja arrastrar por el sórdido mundo de la drogadiccion. Pero el sentido del honor y sobre todo los lazos de sangre los mantendrán siempre unidos.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDYvdGo0NGR4c3RzbTh5X24vaW5kZXgtdjEtYTIubTN1OD90PU5sM1Q4ZUduczZveTBLcGpIRVVfdzkxU1p3dTFmVXRBS2ItUlNhWXBXdjgmcz0xNzg3MzM4NjQ5JmU9NDMyMDAmdj0zMzAwNzA3NjImc3J2PXMxMyZpPTAuMCZzcD0wJmZyPXRqNDRkeHN0c204eSZyPWU"
+        "url": "https://1a-1791.com/video/fwe2/62/s8/2/4/K/V/6/4KV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=695765504-695818531"
       }
     ]
   },
   {
     "title": "Scary movie 4: Descuartizados de miedo",
-    "url": "https://zonaaps.com/movies/scary-movie-4-descuartizados-de-miedo/",
     "image": "https://image.tmdb.org/t/p/w185/5v0yI7fsSeMEoq35fuaL1DJWyW2.jpg",
     "rating": "0",
+    "year": "Apr. 12, 2006",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Cindy descubre que la casa en la que vive es perseguida por un niño pequeño y se va en una búsqueda para averiguar quién lo mató y por qué. Además, Alien «Tr-iPods» están invadiendo el mundo y ella tiene que descubrir el secreto con el fin de detenerlos.",
     "genres": [
       "Comedia"
@@ -106,10 +139,52 @@
     ]
   },
   {
+    "title": "Scary Movie 3",
+    "image": "https://image.tmdb.org/t/p/w185/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
+    "rating": "0",
+    "year": "Oct. 24, 2003",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La presentadora de noticias Cindy Campbell tiene que investigar misteriosos círculos de cultivos y matar cintas de video, y ayudar al presidente a detener una invasión alienígena en el proceso.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/27/s8/2/e/L/V/6/eLV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=675723264-675774795"
+      }
+    ]
+  },
+  {
+    "title": "RoboCop",
+    "image": "https://image.tmdb.org/t/p/w185/fnFqGOKi3oxiIuWffSrGGRPG9qu.jpg",
+    "rating": "7.6",
+    "year": "Jul. 17, 1987",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Parte del cuerpo de un policía asesinado, es utilizado para crear un «superpolicía» con cuerpo mecánico y cerebro humano. Aunque los científicos aseguran que el robot no tendrá remordimientos, éstos acabarán apareciendo en la memoria del humanoide.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/i/l/l/J/illJq.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Scary Movie 6: Terroríficamente incorrecta",
-    "url": "https://zonaaps.com/movies/ver-pelicula-scary-movie-6-terrorificamente-incorrecta-online-gratis-hd/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/06/iYQnvP1DrgSaoSbYPuNCPr3TRqk-185x278.jpg",
     "rating": "7.5",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
     "description": "Ver Scary Movie 6: Terroríficamente incorrecta Online Gratis. Un grupo de cineastas aficionados y estrellas de reality decide rodar la película de terror más barata y escandalosa posible en una mansión abandonada. Lo que comienza como un desastre de producción lleno de egos, romances tóxicos y chistes de mal gusto, pronto se convierte en una pesadilla real cuando las muertes empiezan a ocurrir de verdad&#8230; pero de las formas más absurdas e incorrectas imaginables. Prepárate para Ver Scary Movie 6: Terroríficamente incorrecta Online Gratis y acompáñalos en la parodia más sin filtros y hilarante de la saga. Si quieres morirte de risa con cada chiste políticamente incorrecto y situación absurda en una resolución impecable, en Movie Days tenemos esta comedia de terror lista para ti. Disfruta de Scary Movie 6 película completa HD y observa cómo el rodaje se sale totalmente de control. Te ofrecemos Scary Movie 6 en español latino con servidores de alta velocidad para que las carcajadas no se corten por la carga del video. El caos en el set es solo el comienzo. Lo que empieza como una película de terror barata se transforma rápidamente en una cadena de eventos ridículos y humor negro extremo que nadie se atrevería a mostrar en televisión. Al decidir mirar Scary Movie 6 gratis online en 2026, te sumergirás en la sátira más afilada y terroríficamente incorrecta del año. Prepárate para ver Scary Movie 6 sin cortes y descubre si estos locos lograrán terminar su película&#8230; o sobrevivir a ella. ¿Con ganas de más comedias alocadas y sin censura?Explora nuestro catálogo para más risas en la sección de Películas de Comedia. Consulta más detalles sobre el reparto y la producción en la ficha técnica oficial.",
     "genres": [
       "Comedia",
@@ -134,80 +209,31 @@
     ]
   },
   {
-    "title": "Scary Movie 5",
-    "url": "https://zonaaps.com/movies/scary-movie-5/",
-    "image": "https://image.tmdb.org/t/p/w185/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
-    "rating": "0",
-    "description": "Hogar con su familia recién formada, los padres felices Dan y Jody son frecuentados por actividades siniestras, paranormales. Decididos a expulsar a la fuerza insidiosa, instalan cámaras de seguridad y descubren que su familia está siendo acosada por un demonio muerto malvado.",
+    "title": "Royalteen: El heredero",
+    "image": "https://image.tmdb.org/t/p/w185/n7ptP3khuhWHrTvFO0VCVPs6EVY.jpg",
+    "rating": "5.3",
+    "year": "Aug. 17, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando empiezan a surgir sentimientos entre el príncipe Karl Johan (Mathias Storhøi), Kalle para los amigos, y la recién llegada Lena (Ines Høysæter Asserson), esta se siente encantada, pero también es escéptica, y por muchas razones. Kalle es un príncipe amigo de las fiestas y un habitual de la prensa rosa y los blogs de cotilleos, uno de ellos publicado por la propia Lena de forma anónima hasta que la descubrieron. Lena es dolorosamente consciente de que salir con el futuro rey podría dejarlos en una situación imposible, y no le ha contado ni a Kalle ni a nadie un secreto aún mayor, que también es el motivo de que se fuera de su ciudad natal.",
     "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/62/s8/2/4/K/V/6/4KV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=695765504-695818531"
-      }
-    ]
-  },
-  {
-    "title": "Saw V",
-    "url": "https://zonaaps.com/movies/saw-v/",
-    "image": "https://image.tmdb.org/t/p/w185/1kxceLYLH3QB8QgtJeTDAQm1fjP.jpg",
-    "rating": "5.8",
-    "description": "Hoffman (Costas Mandylor) es la última persona viva para heredar el legado de Jigsaw (Tobin Bell). Pero cuando su secreto se ve amenazado, Hoffman debe iniciar la caza para eliminar todos los cabos sueltos. Nueva entrega de la saga dirigida por el mismo productor de diseño de las tres entregas anteriores.",
-    "genres": [
-      "Crimen",
-      "Suspense",
-      "Terror"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/5/f/X/f5fXs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Saw VII",
-    "url": "https://zonaaps.com/movies/saw-vii/",
-    "image": "https://image.tmdb.org/t/p/w185/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
-    "rating": "5.5",
-    "description": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
-    "genres": [
-      "Crimen",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/i/e/X/HieXs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Scooby-Doo 2: Desatado",
-    "url": "https://zonaaps.com/movies/scooby-doo-2-desatado/",
-    "image": "https://image.tmdb.org/t/p/w185/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg",
-    "rating": "5.2",
-    "description": "Continuación de las aventuras de Scooby y su pandilla de amigos, que en esta ocasión se enfrentan a un anónimo enmascarado con malvados planes para aterrorizar a la ciudad de Coolsville.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/H/O/v/cHOvt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/6/a/f/5/6af5n.caa.mp4"
       }
     ]
   },
   {
     "title": "Scream (Vigila quién llama)",
-    "url": "https://zonaaps.com/movies/scream-vigila-quien-llama/",
     "image": "https://image.tmdb.org/t/p/w185/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
     "rating": "7.4",
+    "year": "Dec. 20, 1996",
+    "quality": "",
+    "languages": [],
     "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
     "genres": [
       "Crimen",
@@ -222,27 +248,33 @@
     ]
   },
   {
-    "title": "Scream 4",
-    "url": "https://zonaaps.com/movies/scream-4/",
-    "image": "https://image.tmdb.org/t/p/w185/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
-    "rating": "6.2",
-    "description": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+    "title": "Scooby-Doo 2: Desatado",
+    "image": "https://image.tmdb.org/t/p/w185/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg",
+    "rating": "5.2",
+    "year": "Mar. 24, 2004",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Continuación de las aventuras de Scooby y su pandilla de amigos, que en esta ocasión se enfrentan a un anónimo enmascarado con malvados planes para aterrorizar a la ciudad de Coolsville.",
     "genres": [
-      "Misterio",
-      "Terror"
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Misterio"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/v/J/Y/QvJYs.aaa.mp4?u=0&b=0"
+        "url": "https://1a-1791.com/video/s8/2/c/H/O/v/cHOvt.aaa.mp4"
       }
     ]
   },
   {
     "title": "Scream 3: La Máscara de la Muerte",
-    "url": "https://zonaaps.com/movies/scream-3-la-mascara-de-la-muerte/",
     "image": "https://image.tmdb.org/t/p/w185/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg",
     "rating": "5.7",
+    "year": "Feb. 04, 2000",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de «Puñaladas 3», película basada en los hechos de los que ella fue protagonista.",
     "genres": [
       "Misterio",
@@ -256,10 +288,76 @@
     ]
   },
   {
+    "title": "Sangre por Sangre",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/Wc4S6rFHKJ7jyghOdZVWVVC49j-185x278.jpg",
+    "rating": "0",
+    "year": "Feb. 05, 1993",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tres primos crecen como hermanos en medio de la violencia de las bandas del este de Los Ángeles. Con el tiempo sus vidas siguen caminos muy diferentes: uno trabaja para la brigada antidroga de la Policía, otro cae en las redes de las brutales bandas de San Quintín y el tercero se deja arrastrar por el sórdido mundo de la drogadiccion. Pero el sentido del honor y sobre todo los lazos de sangre los mantendrán siempre unidos.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDA2L3RqNDRkeHN0c204eV9uL2luZGV4LXYxLWEyLm0zdTg_dD01anBGUjBQU1N3WGU0eXNBZTExTnFVR19ZVF9pSVVqajlxSTdfS0pVeng0JnM9MTc4NzM2MDc5NyZlPTQzMjAwJnY9MzMwMDcwNzYyJmk9MC4zJnNwPTAmZnI9dGo0NGR4c3RzbTh5JnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Ruby: Aventuras de una kraken adolescente",
+    "image": "https://image.tmdb.org/t/p/w185/qRAEgGfwVDJoJ5Ydq50WcOdmrxX.jpg",
+    "rating": "5.8",
+    "year": "Jun. 28, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/u/r/-/-ur-k.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Scream 4",
+    "image": "https://image.tmdb.org/t/p/w185/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+    "rating": "6.2",
+    "year": "Apr. 13, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/v/J/Y/QvJYs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
     "title": "Scream 5",
-    "url": "https://zonaaps.com/movies/scream-5/",
     "image": "https://image.tmdb.org/t/p/w185/ujkrAnzySfxIY4hZkNWxTlwVPI7.jpg",
     "rating": "6.3",
+    "year": "Jan. 12, 2022",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Una nueva entrega de la saga de terror ‘Scream’ que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.",
     "genres": [
       "Misterio",
@@ -274,30 +372,12 @@
     ]
   },
   {
-    "title": "Río &#8211; Rio &#8211; Loro xd : pelicula",
-    "url": "https://zonaaps.com/movies/rio/",
-    "image": "https://image.tmdb.org/t/p/w185/ydExhIrbFvPedN9tSIHzzniU1Dd.jpg",
-    "rating": "6.9",
-    "description": "Blu es un guacamayo que ha crecido en un pequeño pueblo de Minnesota en EEUU, un buen día se entera que es el último espécimen macho de su especie. Es entonces cuando Blu y su dueña, compañera y protectora Linda, deciden tomar rumbo a Rio de Janeiro para conocer a Tulio, un excéntrico experto en pájaros, y a Perla, quien es la última hembra de su especie. Juntos se embarcan en una serie de aventuras para sobrevivir junto a otros amigos que conocen a medida que se desarrolla la historia",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Rio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/6/d/K/A6dKr.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Scream 2: Grita y vuelve a Gritar",
-    "url": "https://zonaaps.com/movies/scream-2-grita-y-vuelve-a-gritar/",
     "image": "https://image.tmdb.org/t/p/w185/hMDrWCUqxc7BfQcseT427znCDta.jpg",
     "rating": "6.3",
+    "year": "Dec. 12, 1997",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película «Stab» (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
     "genres": [
       "Misterio",
@@ -311,67 +391,15 @@
     ]
   },
   {
-    "title": "Saltburn",
-    "url": "https://zonaaps.com/movies/saltburn/",
-    "image": "https://image.tmdb.org/t/p/w185/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
-    "rating": "7.1",
-    "description": "Mientras lucha por encontrar su lugar en la Universidad de Oxford, el estudiante Oliver Quick (Barry Keoghan) se ve arrastrado al mundo del encantador y aristocrático Felix Catton (Jacob Elordi), que le invita a Saltburn, la extensa finca de su excéntrica familia, para pasar un verano inolvidable.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/e/S/Q/l/eSQlp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/e/S/Q/l/eSQlp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Scream 6",
-    "url": "https://zonaaps.com/movies/scream-6/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/dvvfHkEinSUWUPtJeWvxOx5hozm-185x278.jpg",
-    "rating": "6.8",
-    "description": "Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/00/s8/2/0/h/y/i/0hyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3782278656-3782353663"
-      }
-    ]
-  },
-  {
-    "title": "Se busca novia",
-    "url": "https://zonaaps.com/movies/se-busca-novia/",
-    "image": "https://image.tmdb.org/t/p/w185/u7n7r47vbmxTICAGfH6qmvCdkwr.jpg",
-    "rating": "5.1",
-    "description": "",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/76/s8/2/8/e/G/w/8eGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=805366272-805427767"
-      }
-    ]
-  },
-  {
-    "title": "Scream 7 &#8211; Película 2026",
-    "url": "https://zonaaps.com/movies/scream-pelicula-7/",
+    "title": "Scream 7 ; Película 2026",
     "image": "https://zonaaps.com/wp-content/uploads/2026/04/5XhV5Sk7w4h2tCNvXovkFfTNRli-185x278.jpg",
     "rating": "6.0",
+    "year": "Feb. 25, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "La tranquila y rehecha vida Sidney Prescott se cae a pedazos cuando Ghostface llega al pueblo. Sin embargo, sus peores temores se hacen realidad cuando su hija Tatum se convierte en la próxima víctima.",
     "genres": [
       "Crimen",
@@ -386,10 +414,57 @@
     ]
   },
   {
+    "title": "Río ; Rio ; Loro xd : pelicula",
+    "image": "https://image.tmdb.org/t/p/w185/ydExhIrbFvPedN9tSIHzzniU1Dd.jpg",
+    "rating": "6.9",
+    "year": "Apr. 03, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Blu es un guacamayo que ha crecido en un pequeño pueblo de Minnesota en EEUU, un buen día se entera que es el último espécimen macho de su especie. Es entonces cuando Blu y su dueña, compañera y protectora Linda, deciden tomar rumbo a Rio de Janeiro para conocer a Tulio, un excéntrico experto en pájaros, y a Perla, quien es la última hembra de su especie. Juntos se embarcan en una serie de aventuras para sobrevivir junto a otros amigos que conocen a medida que se desarrolla la historia",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Rio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/6/d/K/A6dKr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Se busca novia",
+    "image": "https://image.tmdb.org/t/p/w185/u7n7r47vbmxTICAGfH6qmvCdkwr.jpg",
+    "rating": "5.1",
+    "year": "Nov. 05, 1999",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/76/s8/2/8/e/G/w/8eGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=805366272-805427767"
+      }
+    ]
+  },
+  {
     "title": "Scary Movie 2",
-    "url": "https://zonaaps.com/movies/scary-movie-2/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/08/r4qTydYjntbb5TfZKV229NpSaCt-185x278.jpg",
     "rating": "5.3",
+    "year": "Jul. 04, 2001",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
     "genres": [
       "Comedia",
@@ -398,34 +473,19 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zOC52aW1lb3MubmV0L2hsczIvMDMvMDAwMTAvOTQ2aGJyNGJ6eXVyX24vaW5kZXgtdjEtYTIubTN1OD90PVQ5ZHpzaER1cnh3QnYyUlp0UlJVZGVfVi1Rcy1aQ2pjRlRVa2FUbWlqcXMmcz0xNzg3MzM4NjM4JmU9NDMyMDAmdj0zMjU0MDM2NjEmaT0wLjAmc3A9MCZmcj05NDZoYnI0Ynp5dXImcj1l"
-      }
-    ]
-  },
-  {
-    "title": "Ruby: Aventuras de una kraken adolescente",
-    "url": "https://zonaaps.com/movies/ruby-aventuras-de-una-kraken-adolescente/",
-    "image": "https://image.tmdb.org/t/p/w185/qRAEgGfwVDJoJ5Ydq50WcOdmrxX.jpg",
-    "rating": "5.8",
-    "description": "Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/-/u/r/-/-ur-k.caa.mp4"
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDMvMDAwMTAvOTQ2aGJyNGJ6eXVyX24vaW5kZXgtdjEtYTIubTN1OD90PU52RDFOX3lFUHlGTXNRcy00Tjl3bjVwdG4tN1NXaXhsUlp2T3A0bFRNV1Emcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMjU0MDM2NjEmc3J2PXM4Jmk9MC4zJnNwPTAmZnI9OTQ2aGJyNGJ6eXVyJnI9ZQ"
       }
     ]
   },
   {
     "title": "Scary Movie",
-    "url": "https://zonaaps.com/movies/scary-movie/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/08/fHWR3YplPQWciYzxEity2kyDoDn-185x278.jpg",
     "rating": "6.2",
+    "year": "Jul. 07, 2000",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
     "genres": [
       "Comedia"
@@ -433,182 +493,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMTAvZ2tvbG5qNHpicm12X24vaW5kZXgtdjEtYTIubTN1OD90PThNYjlsUllLUU45dFMzXzBSdmxCcEQ2V2VzTURUbTJCX29QSnJadWZqdkkmcz0xNzg3MzM4NjM0JmU9NDMyMDAmdj0zMzAwMDE2NjEmc3J2PXMxMSZpPTAuMyZzcD0wJmZyPWdrb2xuajR6YnJtdiZyPWU"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDEwL2drb2xuajR6YnJtdl9uL2luZGV4LXYxLWEyLm0zdTg_dD1Fb3FlNmZsQU16cTRPZFl2M3lJSUVnS1pTWXA5dmJpMU1uZVVsVThPTGtNJnM9MTc4NzM2MDc4MSZlPTQzMjAwJnY9MzMwMDAxNjYxJmk9MC4zJnNwPTAmZnI9Z2tvbG5qNHpicm12JnI9ZQ"
       }
     ]
   },
   {
-    "title": "Se levanta el viento",
-    "url": "https://zonaaps.com/movies/se-levanta-el-viento/",
-    "image": "https://image.tmdb.org/t/p/w185/yskGUS6anyiHx2e2FsCB1fKbupD.jpg",
-    "rating": "7.8",
-    "description": "Una mirada a la vida de Jirō Horikoshi, el hombre que diseñó los aviones de combate japoneses durante la Segunda Guerra Mundial.",
-    "genres": [
-      "Animación",
-      "Animes",
-      "Drama",
-      "Historia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/89/s8/2/0/b/J/8/0bJ8z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3900401152-3900478583"
-      }
-    ]
-  },
-  {
-    "title": "Sector 9",
-    "url": "https://zonaaps.com/movies/sector-9/",
-    "image": "https://image.tmdb.org/t/p/w185/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg",
-    "rating": "7.9",
-    "description": "La violencia se produce después de que una raza extraterrestre obligada a vivir en condiciones parecidas a las de los barrios bajos de la Tierra encuentra un alma gemela en un agente del gobierno expuesto a su biotecnología.",
-    "genres": [
-      "Ciencia ficción",
-      "2023"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/s/n/2/p/sn2py.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Río 2 &#8211; Rio 2",
-    "url": "https://zonaaps.com/movies/rio-2/",
-    "image": "https://image.tmdb.org/t/p/w185/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
-    "rating": "6.3",
-    "description": "Secuela de la película «Río» (2010) dirigida por Carlos Saldanha, encargado también de esta segunda parte.. Blu, Perla y sus pequeños disfrutan de una vida cómoda, alegre y perfecta en la ciudad de Río de Janeiro, Brasil. Pero Perla tiene muy claro que sus hijos deben aprender a vivir como los pájaros libres y salvajes que son, y para ello está convencida de que lo mejor es trasladarse al Amazonas. Una vez allí, Blu tendrá que enfrentarse a sus nuevos vecinos y a la idea terrible de perder a Perla y a sus hijos porque decidan vivir en la naturaleza salvaje para siempre.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/s/G/4/QsG4q.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Seguridad nacional",
-    "url": "https://zonaaps.com/movies/seguridad-nacional/",
-    "image": "https://image.tmdb.org/t/p/w185/kSUI6xl9mHLRGxRgmJTJ4WbftID.jpg",
-    "rating": "5.6",
-    "description": "Earl Montgomery (Lawrence) es un engreído e hiperactivo cadete de la Policía de Los Ángeles que, a causa de su mala actitud, es expulsado de la academia. Tras ser arrestado en un incidente con su vehículo por el policía Hank Rafferty (Zahn), Earl lo acusa de acoso y, como consecuencia, el agente ingresa en prisión durante seis meses. En ese tiempo, Earl acepta un humilde puesto de trabajo como guardia de seguridad en Seguridad Nacional, el mismo empleo que consigue Hank tras abandonar la cárcel. Es entonces cuando Earl descubre una sofisticada operación de contrabando que ya le costó la vida a su compañero meses atrás y en la que podría estar implicado el propio Departamento de Policía.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/C/B/3/8CB3s.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sangre, Sudor y Gloria &#8211; Dolor y dinero",
-    "url": "https://zonaaps.com/movies/sangre-sudor-y-gloria-dolor-y-dinero/",
-    "image": "https://image.tmdb.org/t/p/w185/65bDKGakIDaBcJ5lhitHKNGOpO5.jpg",
-    "rating": "6.4",
-    "description": "Miami, años noventa. Dos culturistas (Mark Wahlberg &amp; Dwayne «The Rock» Johnson) planean el secuestro de un rico empresario. En el transcurso de la operación creen que han matado a su víctima, pero no es así. Una vez recuperado, el empresario contrata a un detective privado (Ed Harris) para que localice a sus captores con el propósito de vengarse de ellos.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/b/y/t/wbyts.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Shaolin Soccer",
-    "url": "https://zonaaps.com/movies/shaolin-soccer/",
-    "image": "https://image.tmdb.org/t/p/w185/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
-    "rating": "7.3",
-    "description": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
-    "genres": [
-      "Acción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/W/o/B/pWoBv.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sherlock Holmes",
-    "url": "https://zonaaps.com/movies/sherlock-holmes/",
-    "image": "https://image.tmdb.org/t/p/w185/sr3zPbuLLAJOqPZr54r2ntYExvj.jpg",
-    "rating": "7.6",
-    "description": "Mostrando unas habilidades para luchar tan letales como su legendaria agudeza intelectual, Holmes peleará como nunca para acabar con un nuevo enemigo y desenmarañar así un complot mortal que podría destruir el país.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Crimen",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/Y/Z/U/TYZUu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sherlock Holmes: Juego de sombras",
-    "url": "https://zonaaps.com/movies/sherlock-holmes-juego-de-sombras/",
-    "image": "https://image.tmdb.org/t/p/w185/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
-    "rating": "7.4",
-    "description": "Sherlock Holmes siempre ha sido el tipo más listo de la habitación… hasta ahora. El Profesor Moriarty, un genio del crimen, hace acto de aparición, y no sólo es el símil intelectual de Holmes, pero su capacidad para el mal, junto con una falta total de conciencia, en realidad puede darle una ventaja sobre el reconocido detective. Cuando encuentran muerto al príncipe heredero de Austria, la evidencia, según lo interpretado por el Inspector Lestrade, apunta al suicidio. Pero Sherlock Holmes deduce que el príncipe ha sido víctima de un asesinato, un crimen que sólo es una pieza de un rompecabezas mucho más grande y portentoso diseñado por Moriarty. Mezclando los negocios con el placer, las pistas conducen a Holmes a un club de caballeros donde él y su hermano, Mycroft Holmes brindan por la despedida de soltero del Dr. Watson.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Crimen",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/m/M/5/m/mM5mv.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Shrek tercero",
-    "url": "https://zonaaps.com/movies/shrek-tercero/",
-    "image": "https://image.tmdb.org/t/p/w185/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
-    "rating": "6.1",
-    "description": "Shrek se casó con Fiona, pero lo que no tuvo en cuenta es que al casarse con una princesa… tarde o temprano uno termina siendo rey. Cuando su suegro, el Rey Harold, cae enfermo, Shrek se encuentra en riesgo de tener que abandonar su amado pantano por el trono. A menos claro que encuentre un heredero. Junto con Asno y el Gato con Botas, Shrek viaja para en busca del primo de Fiona, Arturo. Mientras, en Muy Muy Lejano, el Principe Encantador recluta un ejército de villanos de cuento para tomar el trono por la fuerza. Pero no cuentan con que Fiona y la Reina Lillian también han reunido su grupo de heroínas de cuento para hacerles frente…",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/p/O/r/5/pOr5r.aaa.MP4"
-      }
-    ]
-  },
-  {
-    "title": "Serpientes en el avión &#8211; Terror a Bordo &#8211; Serpientes a Bordo",
-    "url": "https://zonaaps.com/movies/serpientes-en-el-avion-terror-a-bordo-serpientes-a-bordo/",
+    "title": "Serpientes en el avión ; Terror a Bordo ; Serpientes a Bordo",
     "image": "https://image.tmdb.org/t/p/w185/wWiIguZpbAHrKIMQAYGpztqNGlP.jpg",
     "rating": "5.5",
+    "year": "Aug. 17, 2006",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un agente del FBI tiene que escoltar a un testigo desde Hawaii a Los Ángeles. Para intentar que dicho testigo testifique, un asesino libera cientos de serpientes venenosas en el avión comercial en pleno vuelo. El agente del FBI, un piloto novato y una tripulación aterrorizada intentarán sobrevivir como sea a la mortal invasión",
     "genres": [
       "Acción",
@@ -625,10 +520,165 @@
     ]
   },
   {
+    "title": "Sector 9",
+    "image": "https://image.tmdb.org/t/p/w185/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg",
+    "rating": "7.9",
+    "year": "Aug. 05, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La violencia se produce después de que una raza extraterrestre obligada a vivir en condiciones parecidas a las de los barrios bajos de la Tierra encuentra un alma gemela en un agente del gobierno expuesto a su biotecnología.",
+    "genres": [
+      "Ciencia ficción",
+      "2023"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/s/n/2/p/sn2py.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Saltburn",
+    "image": "https://image.tmdb.org/t/p/w185/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
+    "rating": "7.1",
+    "year": "Nov. 16, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mientras lucha por encontrar su lugar en la Universidad de Oxford, el estudiante Oliver Quick (Barry Keoghan) se ve arrastrado al mundo del encantador y aristocrático Felix Catton (Jacob Elordi), que le invita a Saltburn, la extensa finca de su excéntrica familia, para pasar un verano inolvidable.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Se levanta el viento",
+    "image": "https://image.tmdb.org/t/p/w185/yskGUS6anyiHx2e2FsCB1fKbupD.jpg",
+    "rating": "7.8",
+    "year": "Jul. 20, 2013",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Una mirada a la vida de Jirō Horikoshi, el hombre que diseñó los aviones de combate japoneses durante la Segunda Guerra Mundial.",
+    "genres": [
+      "Animación",
+      "Animes",
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/89/s8/2/0/b/J/8/0bJ8z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3900401152-3900478583"
+      }
+    ]
+  },
+  {
+    "title": "Scream 6",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/04/dvvfHkEinSUWUPtJeWvxOx5hozm-185x278.jpg",
+    "rating": "6.8",
+    "year": "Mar. 08, 2023",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/00/s8/2/0/h/y/i/0hyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3782278656-3782353663"
+      }
+    ]
+  },
+  {
+    "title": "Shaolin Soccer",
+    "image": "https://image.tmdb.org/t/p/w185/gMqHA1CoURwncG1iKBukFtTCSrG.jpg",
+    "rating": "7.3",
+    "year": "Jul. 05, 2001",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/W/o/B/pWoBv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sherlock Holmes",
+    "image": "https://image.tmdb.org/t/p/w185/sr3zPbuLLAJOqPZr54r2ntYExvj.jpg",
+    "rating": "7.6",
+    "year": "Dec. 23, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Mostrando unas habilidades para luchar tan letales como su legendaria agudeza intelectual, Holmes peleará como nunca para acabar con un nuevo enemigo y desenmarañar así un complot mortal que podría destruir el país.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Crimen",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/Y/Z/U/TYZUu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sherlock Holmes: Juego de sombras",
+    "image": "https://image.tmdb.org/t/p/w185/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
+    "rating": "7.4",
+    "year": "Nov. 22, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sherlock Holmes siempre ha sido el tipo más listo de la habitación… hasta ahora. El Profesor Moriarty, un genio del crimen, hace acto de aparición, y no sólo es el símil intelectual de Holmes, pero su capacidad para el mal, junto con una falta total de conciencia, en realidad puede darle una ventaja sobre el reconocido detective. Cuando encuentran muerto al príncipe heredero de Austria, la evidencia, según lo interpretado por el Inspector Lestrade, apunta al suicidio. Pero Sherlock Holmes deduce que el príncipe ha sido víctima de un asesinato, un crimen que sólo es una pieza de un rompecabezas mucho más grande y portentoso diseñado por Moriarty. Mezclando los negocios con el placer, las pistas conducen a Holmes a un club de caballeros donde él y su hermano, Mycroft Holmes brindan por la despedida de soltero del Dr. Watson.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Crimen",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/m/M/5/m/mM5mv.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Shooter: El tirador",
-    "url": "https://zonaaps.com/movies/shooter-el-tirador/",
     "image": "https://image.tmdb.org/t/p/w185/1M300Yg1ccr0xGgTO4bpK9uKI7X.jpg",
     "rating": "7.1",
+    "year": "Mar. 22, 2007",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Bob Lee Swagger (Mark Whalberg) es un ex-tirador de élite del ejército de los Estados Unidos que abandona las fuerzas armadas después del fracaso de una misión extraoficial. Cuando le piden que se reincorpore, regresa al servicio a regañadientes, pero vuelven a engañarlo. A pesar de llevar dos balas en el cuerpo y de ser el objetivo de una caza a nivel nacional, Swagger planea su venganza…",
     "genres": [
       "Acción",
@@ -643,10 +693,12 @@
     ]
   },
   {
-    "title": "Si fuera amor &#8211; Más que un sueño",
-    "url": "https://zonaaps.com/movies/si-fuera-amor-mas-que-un-sueno/",
+    "title": "Si fuera amor ; Más que un sueño",
     "image": "https://image.tmdb.org/t/p/w185/cLtZupSOrfNrv1qxFzqkf9HYE6x.jpg",
     "rating": "5.4",
+    "year": "Feb. 17, 2022",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una joven poco ortodoxa que abre su propia floristería puramente por intuición, conoce al hombre con el que -literalmente- siempre ha soñado. Pero luego se presenta un nuevo hombre soñado.",
     "genres": [
       "Comedia",
@@ -660,28 +712,73 @@
     ]
   },
   {
-    "title": "Sicario: Día del soldado",
-    "url": "https://zonaaps.com/movies/sicario-dia-del-soldado/",
-    "image": "https://image.tmdb.org/t/p/w185/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg",
-    "rating": "0",
-    "description": "La guerra contra las drogas en la frontera de EUA y México ha escalado y los carteles están pasando terroristas a través de la frontera. Para luchar en esta guerra, el agente federal Matt Graver debe trabajar con el volátil Alejandro.",
+    "title": "Seguridad nacional",
+    "image": "https://image.tmdb.org/t/p/w185/kSUI6xl9mHLRGxRgmJTJ4WbftID.jpg",
+    "rating": "5.6",
+    "year": "Jan. 17, 2003",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Earl Montgomery (Lawrence) es un engreído e hiperactivo cadete de la Policía de Los Ángeles que, a causa de su mala actitud, es expulsado de la academia. Tras ser arrestado en un incidente con su vehículo por el policía Hank Rafferty (Zahn), Earl lo acusa de acoso y, como consecuencia, el agente ingresa en prisión durante seis meses. En ese tiempo, Earl acepta un humilde puesto de trabajo como guardia de seguridad en Seguridad Nacional, el mismo empleo que consigue Hank tras abandonar la cárcel. Es entonces cuando Earl descubre una sofisticada operación de contrabando que ya le costó la vida a su compañero meses atrás y en la que podría estar implicado el propio Departamento de Policía.",
     "genres": [
       "Acción",
-      "Crimen",
-      "Suspense"
+      "Comedia",
+      "Crimen"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/ab/s8/2/N/0/t/W/N0tWy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/C/B/3/8CB3s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sangre, Sudor y Gloria ; Dolor y dinero",
+    "image": "https://image.tmdb.org/t/p/w185/65bDKGakIDaBcJ5lhitHKNGOpO5.jpg",
+    "rating": "6.4",
+    "year": "Apr. 18, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Miami, años noventa. Dos culturistas (Mark Wahlberg &amp; Dwayne «The Rock» Johnson) planean el secuestro de un rico empresario. En el transcurso de la operación creen que han matado a su víctima, pero no es así. Una vez recuperado, el empresario contrata a un detective privado (Ed Harris) para que localice a sus captores con el propósito de vengarse de ellos.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/b/y/t/wbyts.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Río 2 ; Rio 2",
+    "image": "https://image.tmdb.org/t/p/w185/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
+    "rating": "6.3",
+    "year": "Mar. 19, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Secuela de la película «Río» (2010) dirigida por Carlos Saldanha, encargado también de esta segunda parte.. Blu, Perla y sus pequeños disfrutan de una vida cómoda, alegre y perfecta en la ciudad de Río de Janeiro, Brasil. Pero Perla tiene muy claro que sus hijos deben aprender a vivir como los pájaros libres y salvajes que son, y para ello está convencida de que lo mejor es trasladarse al Amazonas. Una vez allí, Blu tendrá que enfrentarse a sus nuevos vecinos y a la idea terrible de perder a Perla y a sus hijos porque decidan vivir en la naturaleza salvaje para siempre.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/s/G/4/QsG4q.aaa.mp4"
       }
     ]
   },
   {
     "title": "Siempre a tu lado",
-    "url": "https://zonaaps.com/movies/siempre-a-tu-lado/",
     "image": "https://image.tmdb.org/t/p/w185/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
     "rating": "8.1",
+    "year": "Jun. 08, 2009",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
     "genres": [
       "Drama",
@@ -695,10 +792,32 @@
     ]
   },
   {
-    "title": "Siete hermanas &#8211; ¿Qué le pasó a Lunes?",
-    "url": "https://zonaaps.com/movies/siete-hermanas-que-le-paso-a-lunes/",
+    "title": "Sigue el ritmo",
+    "image": "https://image.tmdb.org/t/p/w185/myPSIe9QGUcpKi0WmOi3BcjhKxy.jpg",
+    "rating": "6.3",
+    "year": "Jun. 19, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Después de la búsqueda infructuosa del triunfo en Broadway como bailarina, April (Sofia Carson) regresa a su pequeño pueblo natal donde se convierte, a regañadientes, en la profesora de un grupo de niñas que busca participar en una importante competición de baile en Atlantic City.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/1/n/7/s/1n7st.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Siete hermanas ; ¿Qué le pasó a Lunes?",
     "image": "https://image.tmdb.org/t/p/w185/At07X7YA9O8LSKhhtm82oCR9eTP.jpg",
     "rating": "6.8",
+    "year": "Aug. 18, 2017",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En un futuro distópico en el que la sobrepoblación y la hambruna han obligado al gobierno a implantar una política de un único hijo, siete hermanas, cada una con el nombre de un día de la semana, luchan por sobrevivir y pasar inadvertidas haciéndose pasar por una sola persona cuando salen a la calle: Karen Settman. Pero un día una de ella, Lunes, desaparece sin dejar rastro. Las otras hermanas intentarán encontrarla.",
     "genres": [
       "Acción",
@@ -710,24 +829,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/26/s8/2/g/s/c/q/gscqw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Silencio",
-    "url": "https://zonaaps.com/movies/silencio/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/wYHfD8izsrr12KNxh1Y4T1OnrTh-185x278.jpg",
-    "rating": "6.6",
-    "description": "Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/04/s8/2/q/C/G/f/qCGfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310592512-1310642043"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/g/s/c/q/gscqw.aaa.mp4"
       }
     ]
   }

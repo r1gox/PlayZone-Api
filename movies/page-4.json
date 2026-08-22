@@ -1,28 +1,13 @@
 [
   {
-    "title": "Avalancha, desastre en la montaña",
-    "url": "https://zonaaps.com/movies/avalancha-desastre-en-la-montana/",
-    "image": "https://image.tmdb.org/t/p/w185/iT84QV70fF4WfMM1UERJI3QWb7A.jpg",
-    "rating": "0",
-    "description": "Mayo 1960. Cuatro miembros del China Everest Climbing Commando quieren abordar el complicado «segundo paso». Están en su quinto intento y sus fracasos anteriores les han dejado con poca fuerza.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/d2/s8/2/K/g/f/_/Kgf_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3577631232-3577702220"
-      }
-    ]
-  },
-  {
     "title": "Avatar 3: Fuego y ceniza",
-    "url": "https://zonaaps.com/movies/avatar-fuego-y-ceniza/",
     "image": "https://image.tmdb.org/t/p/w185/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
     "rating": "7.6",
+    "year": "Dec. 17, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Avatar: Fuego y Ceniza expande el mundo de Pandora con un tono más oscuro e intenso. Nuevas tribus Na’vi, conflictos internos y una amenaza devastadora pondrán a prueba la lealtad, el equilibrio natural y el destino del planeta, llevando la saga a su capítulo más épico y emocional. Puedes ver más detalles oficiales en IMDb.Si disfrutas las historias de terror, también puedes visitar nuestra sección de Aventura.",
     "genres": [
       "Aventura",
@@ -37,28 +22,37 @@
     ]
   },
   {
-    "title": "Asesino solitario",
-    "url": "https://zonaaps.com/movies/asesino-solitario/",
-    "image": "https://image.tmdb.org/t/p/w185/gg2XIPNeOu6MWw5FBnhQugZj5KU.jpg",
-    "rating": "6.2",
-    "description": "Después de que su socio haya sido violentamente asesinado por el temido asesino profesional Rogue (Jet Li), el agente del FBI Jack Crawford (Jason Statham) jura dar caza al esquivo criminal y encargarse personalmente de la venganza de su compañero. Sin embargo, Rogue demuestra ser muy bueno en el arte de desaparecer sin rastro, y no es hasta que han transcurrido tres años que se le vuelve a ver, encendiendo la mecha de una sangrienta guerra entre el líder de las mafias chinas, Chang (John Lone), y el jefe de los yakuza, Shiro (Ryo Ishibashi). Ansioso por capturar a Rogue de una vez por todas, Crawford mete a su equipo especial en el meollo del conflicto. No obstante, la sed de sangre de Crawford nubla su juicio profesional, y según se acentúa la violencia, Crawford por fin se encuentra cara a cara con su enemigo para descubrir que nada es lo que parece en lo que respecta a Rogue o a su propio plan.",
+    "title": "Antz (Hormigaz)",
+    "image": "https://image.tmdb.org/t/p/w185/kFDqymFtThCysdUsCywYD8wj7nf.jpg",
+    "rating": "6.5",
+    "year": "Oct. 02, 1998",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Z-4196 es tan sólo una neurótica hormiga obrera macho, una más entre sus millones de hermanas. Después de bailar con la princesa Bala, se enamora de ella, pero se trata de un amor imposible. Convence, sin embargo, a un amigo para que le ceda su puesto en un desfile militar para poder estar cerca de la princesa. La excavación de un nuevo túnel es supervisada por el general Mandible, una hormiga ambiciosa que convence a la reina de la necesidad de enviar al batallón del hormiguero a la guerra contra las termitas. Y en ese batallón se encuentra el asustadizo y cobarde Z…",
     "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/08/s8/2/S/y/Q/t/SyQty.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/D/L/J/WDLJp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/D/L/J/WDLJp.caa.mp4"
       }
     ]
   },
   {
     "title": "Avatar: Aang, El último Maestro Aire",
-    "url": "https://zonaaps.com/movies/avatar-aang-el-ultimo-maestro-aire/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/avatar.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/e2VzQmZufeY3BPH0zWtIyr07Z7w-185x278.jpg",
     "rating": "9.3",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
     "description": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
     "genres": [
       "Acción",
@@ -74,10 +68,70 @@
     ]
   },
   {
+    "title": "Annabelle 2 ; Anabelle 2",
+    "image": "https://image.tmdb.org/t/p/w185/qIPmOu09U3KrUTMncw8A52ilgDT.jpg",
+    "rating": "6.5",
+    "year": "Aug. 03, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de «Annabelle» (2014).",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/5/p/V/0/5pV0n.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Avatar: El sentido del agua",
+    "image": "https://image.tmdb.org/t/p/w185/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg",
+    "rating": "7.7",
+    "year": "Dec. 14, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ambientada más de una década después de los acontecimientos de la primera película, ‘Avatar: The Way of Water’ empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/H/V/U/DHVUt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Annabelle ; Anabelle",
+    "image": "https://image.tmdb.org/t/p/w185/jNFqmsulwUrhYQW3MvqzfMc7SdS.jpg",
+    "rating": "5.4",
+    "year": "Oct. 02, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/0/7/Z/Z07Zn.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Azrael",
-    "url": "https://zonaaps.com/movies/azrael/",
     "image": "https://image.tmdb.org/t/p/w185/2EE5MSu2R8IiCpB8KzNgZgoahAG.jpg",
     "rating": "5.4",
+    "year": "Sep. 27, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean. &nbsp; ⬇⬇⬇⬇⬇",
     "genres": [
       "Acción",
@@ -87,51 +141,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/4/M/-/c/4M-cx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Baby Blue",
-    "url": "https://zonaaps.com/movies/baby-blue/",
-    "image": "https://image.tmdb.org/t/p/w185/pC6j3tSoneNbe4pjjtGOcWWxGMU.jpg",
-    "rating": "4.9",
-    "description": "",
-    "genres": [
-      "Comedia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/u/I/O/u/uIOuy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Baby Shark: La gran película",
-    "url": "https://zonaaps.com/movies/baby-shark-la-gran-pelicula/",
-    "image": "https://image.tmdb.org/t/p/w185/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg",
-    "rating": "4",
-    "description": "Baby Shark se muda, despidiéndose de su mejor amigo. Una malvada estrella de mar busca usar la magia para robar su canción y eliminar toda la música. Baby Shark debe restaurar el equilibrio en el océano y salvar a su amigo.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/14/s8/2/M/k/B/c/MkBcx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/7d/s8/2/4/M/-/c/4M-cx.aaa.mp4"
       }
     ]
   },
   {
     "title": "Babe, el cerdito valiente",
-    "url": "https://zonaaps.com/movies/babe-el-cerdito-valiente/",
     "image": "https://image.tmdb.org/t/p/w185/16MP5FV7zZqVdky5QVR8NbI2Nc7.jpg",
     "rating": "6.9",
+    "year": "Jul. 18, 1995",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En la granja Hogget vive toda clase de animales. Cada animal atiene un trabajo que sabe como hacer y cada uno intenta hacerlo bien, porque sabe cual es su sitio. A la granja llega Babe, un cerdito que el granjero ha ganado en un concurso. Hogget siente que hay algo especial en Babe y decide enseñarle el oficio de perro pastor y de esta forma tan peculiar, Babe evita ser la cena de Navidad.",
     "genres": [
       "Comedia",
@@ -147,45 +167,52 @@
     ]
   },
   {
-    "title": "Avatar: El sentido del agua",
-    "url": "https://zonaaps.com/movies/avatar-el-sentido-del-agua/",
-    "image": "https://image.tmdb.org/t/p/w185/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg",
-    "rating": "7.7",
-    "description": "Ambientada más de una década después de los acontecimientos de la primera película, ‘Avatar: The Way of Water’ empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.",
+    "title": "Baby Blue",
+    "image": "https://image.tmdb.org/t/p/w185/pC6j3tSoneNbe4pjjtGOcWWxGMU.jpg",
+    "rating": "4.9",
+    "year": "Jan. 23, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/H/V/U/DHVUt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Así en la Tierra como en el Infierno",
-    "url": "https://zonaaps.com/movies/asi-en-la-tierra-como-en-el-infierno/",
-    "image": "https://image.tmdb.org/t/p/w185/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
-    "rating": "6.3",
-    "description": "A lo largo de los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar y acaba averiguando cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror.",
-    "genres": [
-      "Suspense",
+      "Comedia",
       "Terror"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/fd/s8/2/q/I/3/3/qI33y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=733659648-733715597"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/15/s8/2/u/I/O/u/uIOuy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Babygirl",
+    "image": "https://image.tmdb.org/t/p/w185/fJslf7ydQ9Sz3p3fK9FZQT8BvuX.jpg",
+    "rating": "6.6",
+    "year": "Dec. 25, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/2/N/w/M/r/NwMrx.aaa.mp4"
       }
     ]
   },
   {
     "title": "Backrooms: Sin salida (2026)",
-    "url": "https://zonaaps.com/movies/backrooms-sin-salida-2026/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/backrooms.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/w8nrM9hCTxoeX96HmTQpC0HbkMY-185x278.jpg",
     "rating": "7.1",
+    "year": "May. 27, 2026",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
     "genres": [
       "Ciencia ficción",
@@ -200,46 +227,72 @@
     ]
   },
   {
-    "title": "Babygirl",
-    "url": "https://zonaaps.com/movies/babygirl/",
-    "image": "https://image.tmdb.org/t/p/w185/fJslf7ydQ9Sz3p3fK9FZQT8BvuX.jpg",
-    "rating": "6.6",
-    "description": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
+    "title": "Baby Shark: La gran película",
+    "image": "https://image.tmdb.org/t/p/w185/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg",
+    "rating": "4",
+    "year": "Feb. 07, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Baby Shark se muda, despidiéndose de su mejor amigo. Una malvada estrella de mar busca usar la magia para robar su canción y eliminar toda la música. Baby Shark debe restaurar el equilibrio en el océano y salvar a su amigo.",
     "genres": [
-      "Drama"
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/e8/s8/2/N/w/M/r/NwMrx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/14/s8/2/M/k/B/c/MkBcx.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Ataque de los Titanes 2: El fin del mundo",
-    "url": "https://zonaaps.com/movies/ataque-de-los-titanes-2-el-fin-del-mundo/",
-    "image": "https://image.tmdb.org/t/p/w185/ihc4f4Lciem81mo64FUADZXauyM.jpg",
-    "rating": "4.7",
-    "description": "Eren (Haruma Miura) se va para restaurar un descanso en la pared destruida por un Titán. Él está bajo el ataque de los Titanes y está acorralado. Shikishima (Hiroki Hasegawa) viene en su ayuda. Los titanes nunca dejan de atacar. Eren ahora está herido e intenta proteger a Armin (Kanata Hongo), pero es tragado por un titán. Aparece un titán con cabello negro y comienza a expulsar a los otros titanes.",
+    "title": "Annabelle 3: Vuelve a casa ; Anabelle 3",
+    "image": "https://image.tmdb.org/t/p/w185/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg",
+    "rating": "5.9",
+    "year": "Jun. 26, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Annabelle Vuelve a Casa es la tercera entrega de la saga «Annabelle» de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo «Expediente Warren». Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan «a salvo» en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
     "genres": [
-      "Acción",
-      "Animes",
-      "Ciencia ficción",
-      "Terror",
-      "anime"
+      "Misterio",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/47/s8/2/G/4/d/d/G4ddz.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/x/T/r/1/xTr1n.caa.mp4"
       }
     ]
   },
   {
-    "title": "Bailarina &#8211; Del Universo De John Wick &#8211; Ballerina",
-    "url": "https://zonaaps.com/movies/bailarina-2/",
+    "title": "Bagman: Espíritu Del Mal",
+    "image": "https://image.tmdb.org/t/p/w185/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
+    "rating": "4.6",
+    "year": "Sep. 20, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante siglos, los padres han advertido a sus hijos sobre el temible Hombre del Saco, un ser maligno que rapta a niños inocentes y los aparta para siempre de sus familias. Patrick (Sam Claflin) escapó de sus garras por los pelos en su infancia, pero el trauma que le generó aquel encuentro le ha perseguido desde entonces. Tras mudarse a su antigua casa familiar con su esposa e hijo, Patrick descubrirá que la tenebrosa criatura continúa allí, acechando sus pesadillas y amenazando con arrebatarle aquello que más quiere en el mundo.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/2c/s8/2/2/T/d/s/2Tdsy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Bailarina ; Del Universo De John Wick ; Ballerina",
     "image": "https://image.tmdb.org/t/p/w185/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
     "rating": "7.3",
+    "year": "Jun. 04, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Eve Macarro intenta por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado. La trama tiene lugar durante los eventos de John Wick: Capítulo 3 – Parabellum y muestra a Eve Macarro entrenando en las tradiciones asesinas de los Ruska Roma.",
     "genres": [
       "Acción",
@@ -254,84 +307,12 @@
     ]
   },
   {
-    "title": "Ape vs. Mecha Ape",
-    "url": "https://zonaaps.com/movies/ape-vs-mecha-ape/",
-    "image": "https://image.tmdb.org/t/p/w185/ohlZkxCjQ8Ua3Up9TuH7gAVV9ZF.jpg",
-    "rating": "2.8",
-    "description": "",
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/V/8/W/i/V8Wir.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bagman: Espíritu Del Mal",
-    "url": "https://zonaaps.com/movies/bagman-espiritu-del-mal/",
-    "image": "https://image.tmdb.org/t/p/w185/mpdSrcuGctWLdHsuil27x58VAWI.jpg",
-    "rating": "4.6",
-    "description": "Durante siglos, los padres han advertido a sus hijos sobre el temible Hombre del Saco, un ser maligno que rapta a niños inocentes y los aparta para siempre de sus familias. Patrick (Sam Claflin) escapó de sus garras por los pelos en su infancia, pero el trauma que le generó aquel encuentro le ha perseguido desde entonces. Tras mudarse a su antigua casa familiar con su esposa e hijo, Patrick descubrirá que la tenebrosa criatura continúa allí, acechando sus pesadillas y amenazando con arrebatarle aquello que más quiere en el mundo.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/2c/s8/2/2/T/d/s/2Tdsy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Arthur Christmas: Operación regalo",
-    "url": "https://zonaaps.com/movies/arthur-christmas-operacion-regalo/",
-    "image": "https://image.tmdb.org/t/p/w185/xP70Ue7gqD9xrjj5ly55Mhx3HQ1.jpg",
-    "rating": "7.1",
-    "description": "Santa Claus cree que su reinado está llegando a su fin y que se acerca ya la hora de jubilarse. Confía en que su hijo Steven, que es muy eficiente y responsable, aunque no muy alegre, esté preparado para tomar el relevo inmediatamente. Sin embargo, esa Navidad surge un problema: uno de los 600 millones de niños a los que había que visitar se queda sin su regalo.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/P/Z/L/4PZLv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/P/Z/L/4PZLv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bajo la misma estrella",
-    "url": "https://zonaaps.com/movies/bajo-la-misma-estrella/",
-    "image": "https://image.tmdb.org/t/p/w185/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
-    "rating": "7.7",
-    "description": "A pesar de que un milagro médico ha conseguido reducir su tumor y darle unos años más de vida, la adolescente Hazel siempre se ha considerado una enferma terminal. Sin embargo, cuando el joven Gus entra a formar parte del grupo de ayuda para enfermos de cáncer juvenil, la vida de Hazel se transforma por completo.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/E/n/x/fEnxt.aaa.mp4?token=zonaaps.com"
-      }
-    ]
-  },
-  {
     "title": "Bajo Custodia",
-    "url": "https://zonaaps.com/movies/bajo-custodia/",
     "image": "https://image.tmdb.org/t/p/w185/76Yt2zwCjzMruHis18wWBE9J6eh.jpg",
     "rating": "4.9",
+    "year": "Aug. 08, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una mujer enigmática despierta dentro de una comisaría abandonada en medio de la noche sin recordar cómo llegó allí. Dos detectives intentan reconstruir sus pasos para acusarla de un atropello.",
     "genres": [
       "Crimen",
@@ -341,70 +322,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/25/s8/2/O/O/r/s/OOrsy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Ape X Mecha Ape: New World Order",
-    "url": "https://zonaaps.com/movies/ape-x-mecha-ape-new-world-order/",
-    "image": "https://image.tmdb.org/t/p/w185/mtab55cpOA5xq9OcW626oR8ZXyj.jpg",
-    "rating": "2",
-    "description": "",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/4/P/i/Q4Pir.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Annabelle 2 &#8211; Anabelle 2",
-    "url": "https://zonaaps.com/movies/annabelle-2/",
-    "image": "https://image.tmdb.org/t/p/w185/qIPmOu09U3KrUTMncw8A52ilgDT.jpg",
-    "rating": "6.5",
-    "description": "Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de «Annabelle» (2014).",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/5/p/V/0/5pV0n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bajo el muelle",
-    "url": "https://zonaaps.com/movies/bajo-el-muelle/",
-    "image": "https://image.tmdb.org/t/p/w185/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg",
-    "rating": "5.9",
-    "description": "La comedia musical sigue a los cangrejos ermitaños que viven bajo el paseo marítimo de la costa de Jersey. Cuando Armen (un habitante de la ciudad cangrejo de tierra) se enamora de Ramona (una turista cangrejo de mar), aumentan las tensiones entre sus amigos y familias. Pero cuando una tormenta arroja al dúo lejos de casa, su amor les llevará a una aventura épica que unirá a la dividida comunidad.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/b1/s8/2/Y/S/M/l/YSMlx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/25/s8/2/O/O/r/s/OOrsy.aaa.mp4"
       }
     ]
   },
   {
     "title": "Atrápame si puedes",
-    "url": "https://zonaaps.com/movies/atrapame-si-puedes/",
     "image": "https://image.tmdb.org/t/p/w185/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
     "rating": "8.1",
+    "year": "Dec. 16, 2002",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
     "genres": [
       "Crimen",
@@ -430,47 +358,52 @@
     ]
   },
   {
-    "title": "Anastasia",
-    "url": "https://zonaaps.com/movies/anastasia/",
-    "image": "https://image.tmdb.org/t/p/w185/tyJJXjM45Fbp8vCamJ1614rlVhE.jpg",
-    "rating": "7.1",
-    "description": "Cuando la sombra de la revolución se cierne sobre Rusia, Anastasia, la hija más joven de la familia real, apenas consigue escapar con vida. Años despúes conoce al joven Dimitri. Cuando se dirigen a París para reclamar los derechos del legado de Anastasia, se verán envueltos en una cruenta lucha contra el malvado monje Rasputín y su sicario, el murciélago Bartok.",
+    "title": "Bajo la misma estrella",
+    "image": "https://image.tmdb.org/t/p/w185/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
+    "rating": "7.7",
+    "year": "May. 16, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "A pesar de que un milagro médico ha conseguido reducir su tumor y darle unos años más de vida, la adolescente Hazel siempre se ha considerado una enferma terminal. Sin embargo, cuando el joven Gus entra a formar parte del grupo de ayuda para enfermos de cáncer juvenil, la vida de Hazel se transforma por completo.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/V/E/x/0VExq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/n/x/fEnxt.aaa.mp4?token=zonaaps.com"
       }
     ]
   },
   {
-    "title": "Bala Perdida 2",
-    "url": "https://zonaaps.com/movies/bala-perdida-2/",
-    "image": "https://image.tmdb.org/t/p/w185/p6HNFpXiXIdyMRJTrfkgaPkFCK.jpg",
-    "rating": "0",
-    "description": "Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.",
+    "title": "Bajo el muelle",
+    "image": "https://image.tmdb.org/t/p/w185/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg",
+    "rating": "5.9",
+    "year": "Oct. 27, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La comedia musical sigue a los cangrejos ermitaños que viven bajo el paseo marítimo de la costa de Jersey. Cuando Armen (un habitante de la ciudad cangrejo de tierra) se enamora de Ramona (una turista cangrejo de mar), aumentan las tensiones entre sus amigos y familias. Pero cuando una tormenta arroja al dúo lejos de casa, su amor les llevará a una aventura épica que unirá a la dividida comunidad.",
     "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Romance"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/90/s8/2/d/F/I/Z/dFIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=791001600-791061741"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/b1/s8/2/Y/S/M/l/YSMlx.aaa.mp4"
       }
     ]
   },
   {
     "title": "Bala Perdida",
-    "url": "https://zonaaps.com/movies/bala-perdida/",
     "image": "https://image.tmdb.org/t/p/w185/4F2lHozzpR6kzsKJluUidDsNfbY.jpg",
     "rating": "0",
+    "year": "Jun. 19, 2020",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un mecánico brillante con un pasado criminal es acusado de asesinato. Ahora, deberá dar con el coche que contiene la única prueba de su inocencia: una bala",
     "genres": [
       "Acción",
@@ -485,10 +418,77 @@
     ]
   },
   {
+    "title": "Ape X Mecha Ape: New World Order",
+    "image": "https://image.tmdb.org/t/p/w185/mtab55cpOA5xq9OcW626oR8ZXyj.jpg",
+    "rating": "2",
+    "year": "Apr. 05, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/4/P/i/Q4Pir.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Bala Perdida 2",
+    "image": "https://image.tmdb.org/t/p/w185/p6HNFpXiXIdyMRJTrfkgaPkFCK.jpg",
+    "rating": "0",
+    "year": "Nov. 10, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/90/s8/2/d/F/I/Z/dFIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=791001600-791061741"
+      }
+    ]
+  },
+  {
+    "title": "Arthur Christmas: Operación regalo",
+    "image": "https://image.tmdb.org/t/p/w185/xP70Ue7gqD9xrjj5ly55Mhx3HQ1.jpg",
+    "rating": "7.1",
+    "year": "Nov. 10, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Santa Claus cree que su reinado está llegando a su fin y que se acerca ya la hora de jubilarse. Confía en que su hijo Steven, que es muy eficiente y responsable, aunque no muy alegre, esté preparado para tomar el relevo inmediatamente. Sin embargo, esa Navidad surge un problema: uno de los 600 millones de niños a los que había que visitar se queda sin su regalo.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/P/Z/L/4PZLv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/P/Z/L/4PZLv.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Barbie y las zapatillas mágicas",
-    "url": "https://zonaaps.com/movies/barbie-y-las-zapatillas-magicas/",
     "image": "https://image.tmdb.org/t/p/w185/cL2SBmx7awgEjQgRXOaflqTVnbn.jpg",
     "rating": "5.7",
+    "year": "Feb. 14, 2013",
+    "quality": "720p HD",
+    "languages": [],
     "description": "La película comienza cuando se prueba un par de brillantes zapatillas de color rosa, ella y su mejor amiga, Hailey, son llevados a un mundo fantástico ballet. Allí, Kristyn descubre que ella tiene que bailar en sus ballets favoritos para derrotar a una malvada Reina de las Nieves.",
     "genres": [
       "Animación",
@@ -502,28 +502,12 @@
     ]
   },
   {
-    "title": "Batman El Inicio",
-    "url": "https://zonaaps.com/movies/batman-el-inicio/",
-    "image": "https://image.tmdb.org/t/p/w185/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
-    "rating": "8.2",
-    "description": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon – uno de los pocos buenos policías de las fuerzas del orden público de Gotham – y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/ba/s8/2/m/l/A/x/mlAxy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Barbie y Teresa: La receta de la amistad",
-    "url": "https://zonaaps.com/movies/barbie-y-teresa-la-receta-de-la-amistad/",
     "image": "https://image.tmdb.org/t/p/w185/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
     "rating": "7.2",
+    "year": "Mar. 06, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un grupo de amigas ayuda a Teresa a preparar la atesorada receta familiar de tamales para la apertura del restaurante de su prima en Nueva York.",
     "genres": [
       "Animación",
@@ -538,10 +522,51 @@
     ]
   },
   {
+    "title": "Batman El Inicio",
+    "image": "https://image.tmdb.org/t/p/w185/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
+    "rating": "8.2",
+    "year": "Jun. 10, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon – uno de los pocos buenos policías de las fuerzas del orden público de Gotham – y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/ba/s8/2/m/l/A/x/mlAxy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Batman Ninja vs La Liga Yakuza",
+    "image": "https://image.tmdb.org/t/p/w185/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg",
+    "rating": "0",
+    "year": "Mar. 17, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sólo un día después de regresar del pasado, Batman y sus aliados descubren que el mundo no es exactamente el mismo que dejaron. Toda la isla de Japón ya no existe y los héroes de la Liga de la Justicia tampoco. Pero antes de que puedan comprender lo que está pasando, los yakuza empiezan a llover literalmente del cielo. Secuela de la película anime 3D «Batman Ninja»",
+    "genres": [
+      "Acción",
+      "Animación"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/2a/s8/2/q/X/9/t/qX9ty.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Batman versus Superman: El Origen de la Justicia",
-    "url": "https://zonaaps.com/movies/batman-versus-superman-el-origen-de-la-justicia/",
     "image": "https://image.tmdb.org/t/p/w185/mS3t9puIjLKgoex82cu9d6G0835.jpg",
     "rating": "6.5",
+    "year": "Mar. 23, 2016",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Dos años después de la destrucción de Metrópolis, la humanidad aún intenta determinar el rol de Superman en el mundo. Para evitar que las acciones del Hombre de Acero pasen desapercibidas, Batman se enfrenta a Superman, mientras una amenaza surge de las sombras.",
     "genres": [
       "Acción",
@@ -551,49 +576,37 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/d3/s8/2/k/P/r/o/kProy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/d3/s8/2/k/P/r/o/kProy.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Batman Ninja vs La Liga Yakuza",
-    "url": "https://zonaaps.com/movies/batman-ninja-vs-la-liga-yakuza/",
-    "image": "https://image.tmdb.org/t/p/w185/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg",
-    "rating": "0",
-    "description": "Sólo un día después de regresar del pasado, Batman y sus aliados descubren que el mundo no es exactamente el mismo que dejaron. Toda la isla de Japón ya no existe y los héroes de la Liga de la Justicia tampoco. Pero antes de que puedan comprender lo que está pasando, los yakuza empiezan a llover literalmente del cielo. Secuela de la película anime 3D «Batman Ninja»",
+    "title": "Baywatch: Guardianes De La Bahía",
+    "image": "https://image.tmdb.org/t/p/w185/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
+    "rating": "5.5",
+    "year": "May. 25, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Mitch Buchannon, un estricto y esforzado socorrista de la antigua escuela, deberá trabajar codo con codo con el rebelde Matt Brody, un joven ex nadador olímpico caído en desgracia al que le gusta saltarse las normas. A pesar de tener personalidades opuestas, los dos socorristas deberán unir fuerzas y formar equipo. Juntos descubrirán una trama criminal, en torno a drogas y asesinos, que amenaza el futuro de la Bahía. Su objetivo será proteger la playa de su destrucción a manos de un magnate del petróleo.",
     "genres": [
       "Acción",
-      "Animación"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/q/X/9/t/qX9ty.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Baby el Aprendiz del Crimen",
-    "url": "https://zonaaps.com/movies/baby-el-aprendiz-del-crimen/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/baby.jpg",
-    "rating": "7.6",
-    "description": "Baby, un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños, Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de haber sido forzado a trabajar para un jefe del crimen, deberá dar la cara cuando un malogrado golpe amenaza su vida, su amor y su libertad.",
-    "genres": [
-      "Acción",
+      "Comedia",
       "Crimen"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkveHJ3bDdqdGpzdmp2X2gvaW5kZXgtdjEtYTEubTN1OD90PVZiWk9QeUY5cnNtMkF1bHlKT1pPU1JMTzI5cWZHZGk3TVlZOHYzZkd6X2Mmcz0xNzg3MzM4NjQ1JmU9NDMyMDAmdj0zMjMwNDQzNTQmc3J2PXMxMSZpPTAuMCZzcD0wJmZyPXhyd2w3anRqc3ZqdiZyPWU"
+        "url": "https://1a-1791.com/video/s8/2/y/7/u/q/y7uqv.aaa.mp4"
       }
     ]
   },
   {
     "title": "Bee Movie",
-    "url": "https://zonaaps.com/movies/bee-movie/",
     "image": "https://image.tmdb.org/t/p/w185/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg",
     "rating": "6.1",
+    "year": "Oct. 28, 2007",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una abeja llamada Barry B. Benson (Jerry Seinfeld) acaba de graduarse en la Universidad, pero le invade la desilusión cuando comprende que solo tiene una opción profesional, la miel. Sale por primera vez de la colmena y transgrede una de las reglas cardinales del mundo de las abejas al hablar con un ser humano, una florista de Nueva York llamada Vanessa (Renée Zellweger). Se queda atónito al descubrir que los humanos llevan siglos robando la miel de las abejas y entiende que su auténtica vocación es restablecer el orden de las cosas y demandar a las raza humana por robar la miel.",
     "genres": [
       "Animación",
@@ -604,56 +617,57 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/fc/s8/2/v/S/2/d/vS2dx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/fc/s8/2/v/S/2/d/vS2dx.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Aviones: Equipo de rescate",
-    "url": "https://zonaaps.com/movies/aviones-equipo-de-rescate/",
-    "image": "https://image.tmdb.org/t/p/w185/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg",
-    "rating": "5.9",
-    "description": "‘Aviones: Equipo de rescate’ sigue a una peculiar pandilla de aviones bombero de élite cuyo principal cometido es proteger el histórico Parque Nacional de Piston Peak de un atroz incendio. El popular avión de carreras Dusty descubre que su motor está estropeado, lo que le impide volver a competir. A pesar de la terrible noticia no se desanima y decide utilizar su experiencia para unirse al equipo anti incendios.",
+    "title": "Beetlejuice ; Bitelchús",
+    "image": "https://image.tmdb.org/t/p/w185/2LanWSlqSOtyvQiIaoYz448oBSl.jpg",
+    "rating": "7.5",
+    "year": "Mar. 30, 1988",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
     "genres": [
-      "Animación",
-      "Aventura",
       "Comedia",
-      "Familia"
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/7/r/A/N/7rANs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/7/r/A/N/7rANs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/0/w/B/10wBt.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Baywatch: Guardianes De La Bahía",
-    "url": "https://zonaaps.com/movies/baywatch-guardianes-de-la-bahia/",
-    "image": "https://image.tmdb.org/t/p/w185/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg",
-    "rating": "5.5",
-    "description": "Mitch Buchannon, un estricto y esforzado socorrista de la antigua escuela, deberá trabajar codo con codo con el rebelde Matt Brody, un joven ex nadador olímpico caído en desgracia al que le gusta saltarse las normas. A pesar de tener personalidades opuestas, los dos socorristas deberán unir fuerzas y formar equipo. Juntos descubrirán una trama criminal, en torno a drogas y asesinos, que amenaza el futuro de la Bahía. Su objetivo será proteger la playa de su destrucción a manos de un magnate del petróleo.",
+    "title": "Baby el Aprendiz del Crimen",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/o2YToge3eBhxC89m87zkWKVEx2O-185x278.jpg",
+    "rating": "7.6",
+    "year": "Jun. 28, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Baby, un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños, Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de haber sido forzado a trabajar para un jefe del crimen, deberá dar la cara cuando un malogrado golpe amenaza su vida, su amor y su libertad.",
     "genres": [
       "Acción",
-      "Comedia",
       "Crimen"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/7/u/q/y7uqv.aaa.mp4"
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDA5L3hyd2w3anRqc3Zqdl9oL2luZGV4LXYxLWExLm0zdTg_dD1LTnJZTlVPM2xQSFdrLWcwOFk2QnA3S1JQN2N2MFoyeW5SWlRqMlVIOWJNJnM9MTc4NzM2MDc5OSZlPTQzMjAwJnY9MzMxOTI0MjI0Jmk9MC4zJnNwPTAmZnI9eHJ3bDdqdGpzdmp2JnI9ZQ"
       }
     ]
   },
   {
-    "title": "Belle &#8211; Ryuu To Sobakasu No Hime",
-    "url": "https://zonaaps.com/movies/belle-ryuu-to-sobakasu-no-hime/",
+    "title": "Belle ; Ryuu To Sobakasu No Hime",
     "image": "https://image.tmdb.org/t/p/w185/uboCDV8S5qOfV1PLyKXb9Wc4EL0.jpg",
     "rating": "7.1",
+    "year": "Jul. 16, 2021",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En la vida real, Suzu es una adolescente acomplejada atrapada en su pequeño pueblo de montaña con su padre. Pero en el mundo virtual de “U”, Suzu se convierte en Belle, un icono musical con más de cinco mil millones de seguidores. Su vida tomará un giro inesperado cuando Belle conozca a Bestia, una criatura tan fascinante como aterradora.",
     "genres": [
       "Animación",
@@ -670,10 +684,37 @@
     ]
   },
   {
+    "title": "Aviones: Equipo de rescate",
+    "image": "https://image.tmdb.org/t/p/w185/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg",
+    "rating": "5.9",
+    "year": "Jul. 17, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "‘Aviones: Equipo de rescate’ sigue a una peculiar pandilla de aviones bombero de élite cuyo principal cometido es proteger el histórico Parque Nacional de Piston Peak de un atroz incendio. El popular avión de carreras Dusty descubre que su motor está estropeado, lo que le impide volver a competir. A pesar de la terrible noticia no se desanima y decide utilizar su experiencia para unirse al equipo anti incendios.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/7/r/A/N/7rANs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/7/r/A/N/7rANs.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Ben 10: Destrucción Alienígena",
-    "url": "https://zonaaps.com/movies/ben-10-la-destruccion-de-los-aliens/",
     "image": "https://image.tmdb.org/t/p/w185/kB0q3pXKRQ9f8IGzYrrM1qUXuuF.jpg",
     "rating": "5.9",
+    "year": "Mar. 11, 2012",
+    "quality": "720p HD",
+    "languages": [],
     "description": "En Ben 10: La destrucción de los aliens Ben tiene 10 años y tras regresar a casa de sus vacaciones de verano, su vida se convierte en una locura: agobiado por su profesor, perseguido por los matones del colegio, castigado por sus padres y encima con un Omnitrix roto ¡que le borra sus deberes! Ben caza al vuelo la oportunidad de escapar de todo esto explorando la galaxia con su amigo alienígena Tetrax. Sin embargo, pronto regresa a la Tierra de manera accidentada y convertido en alien, ¡y no puede volver a su forma humana!",
     "genres": [
       "Acción",
@@ -685,32 +726,20 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/j/3/5/_/j35_t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Beetlejuice &#8211; Bitelchús",
-    "url": "https://zonaaps.com/movies/beetlejuice-bitelchus/",
-    "image": "https://image.tmdb.org/t/p/w185/2LanWSlqSOtyvQiIaoYz448oBSl.jpg",
-    "rating": "7.5",
-    "description": "¿Qué debería hacer una pareja de fantasmas si su estrafalario hogar de Nueva Inglaterra se llenara de elegantes visitantes neoyorquinos? Pedir ayuda a un exorcista para aterrorizar a los intrusos con el fin de que abandonen la casa. Bitelchús es una criatura de ultratumba repugnante y terrorífica, un fenómeno asustando y bromeando que se gira y se transforma en grotescas formas, traga insectos y no puede dejar a las mujeres (vivas o muertas) en paz.",
-    "genres": [
-      "Comedia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/1/0/w/B/10wBt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/j/3/5/_/j35_t.aaa.mp4"
       }
     ]
   },
   {
     "title": "Ben 10: El secreto del Omnitrix",
-    "url": "https://zonaaps.com/movies/ben-10-el-secreto-del-omnitrix/",
-    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/ben-10.jpg",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/08/yFLKSodhcweIuLkpn0u5YMSaA6o-185x278.jpg",
     "rating": "7.3",
+    "year": "Aug. 10, 2007",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "Ben Tennyson es un chico de 10 años, más conocido por Ben 10. Un día normal en su vida consiste en transformarse en unos heroicos aliens que tratan de combatir el mal y mantener el equilibrio entre los bueno y lo malo en el universo. Pero cuando Ben 10 pulsa el detonador de Omnitrix, su día “normal” se convierte en una carrera intergaláctica para localizar al creador del Omnitrix antes de que se destruya todo el sistema solar.",
     "genres": [
       "Animación",
@@ -725,10 +754,37 @@
     ]
   },
   {
+    "title": "Aviones",
+    "image": "https://image.tmdb.org/t/p/w185/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
+    "rating": "5.7",
+    "year": "Aug. 09, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Película derivada de la exitosa de Disney/Pixar dirigida por John Lasseter, Cars. En esta ocasión no son coches sino aviones, los que van a sumergirse en una divertida historia de acción y aventuras. El protagonista, un avión llamado Dusty Crophopper, tiene verdadero terror a las alturas. Pero desafiará sus miedos para poder cumplir uno de sus grandes deseos: poder correr en la carrera más grandiosa que exiten en todo el mundo. Dusty sabe que este será el mayor reto de su vida, pero también será la experiencia más apasionante y sobrecogedora que va a vivir jamás.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Bernardo y Bianca",
-    "url": "https://zonaaps.com/movies/bernardo-y-bianca/",
     "image": "https://image.tmdb.org/t/p/w185/4Vi5VEkVWdqJgbG3pGdREFOwZdJ.jpg",
     "rating": "6.9",
+    "year": "Jun. 22, 1977",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Una niña huérfana que ha sido secuestrada envía una nota dentro de una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones, miembros de la Sociedad Internacional de Rescate, reciben el mensaje que los llevará al peligroso «Pantano del Diablo». Allí, ayudados por la libélula Evinrude y los habitantes del pantano, vivirán un sinfín de emocionantes aventuras luchando contra la malvada Madame Medusa ⬇⬇⬇⬇⬇",
     "genres": [
       "Animación",
@@ -740,6 +796,47 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/0f/s8/2/c/g/x/U/cgxUx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Better Man (2024)",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6Rf7kF0Np3mOa1KRo2a2KJZ7mIj-185x278.jpg",
+    "rating": "7.5",
+    "year": "Dec. 06, 2024",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Sigue el viaje de Robbie Williams desde su infancia, hasta convertirse en el miembro más joven de la exitosa banda de chicos Take That, hasta sus logros incomparables como artista solista que rompe récords, todo ello mientras enfrenta los desafíos que la fama y el éxito estratosférica pueden traer.",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/b4/s8/2/u/E/s/o/uEsoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4167933440-4168016267"
+      }
+    ]
+  },
+  {
+    "title": "Bienvenidos a Zombieland",
+    "image": "https://image.tmdb.org/t/p/w185/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
+    "rating": "7.5",
+    "year": "Oct. 02, 2009",
+    "quality": "BBRIP",
+    "languages": [],
+    "description": "En un mundo plagado de zombis, Columbus es un gallina, un joven que se encuentra aterrorizado por la situación, pero cuando te juegas el ser comido por los zombies, el miedo puede mantenerte vivo. De hecho su cobardía precisamente le ha permitido que sus sesos aún se mantengan en su cabeza. Entonces un día conoce a Tallahassse, un macarra caza zombies cuya única determinación en su vida es lograr el último Twinkie (dulce americano) en la tierra. Cuando ambos unen fuerzas con Wichita y Little Rock, que también han encontrado una manera original de sobrevivir en ese caos, tendrán que elegir qué es peor: si confiar los unos en los otros para sobrevivir o sucumbir ante los zombies.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/p/x/B/WpxBv.aaa.mp4"
       }
     ]
   }

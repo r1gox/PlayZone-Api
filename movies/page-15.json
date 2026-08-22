@@ -1,9 +1,52 @@
 [
   {
+    "title": "Ferrari",
+    "image": "https://image.tmdb.org/t/p/w185/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg",
+    "rating": "6.5",
+    "year": "Dec. 14, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/K/4/l/a/K4lar.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Godzilla Minus One",
+    "image": "https://image.tmdb.org/t/p/w185/AjbaIWNKMkXF7I29n20f7rYsEki.jpg",
+    "rating": "7.7",
+    "year": "Nov. 03, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas… y mucho menos defenderse?",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/s/Z/M/k/sZMky.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Godzilla vs. Kong",
-    "url": "https://zonaaps.com/movies/godzilla-vs-kong/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/05/yJTk4eqQd9Yo5REpFbTSOMkbSgn-185x278.jpg",
     "rating": "6.3",
+    "year": "Mar. 24, 2021",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra.",
     "genres": [
       "Acción",
@@ -19,9 +62,11 @@
   },
   {
     "title": "Godzilla: Rey de los Monstruos",
-    "url": "https://zonaaps.com/movies/godzilla-rey-de-los-monstruos/",
     "image": "https://image.tmdb.org/t/p/w185/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg",
     "rating": "6",
+    "year": "May. 29, 2019",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Los criptozoólogos de la agencia Monarch se enfrentan a un grupo de enormes monstruos: Godzilla, Mothra, Rodan y el enemigo de la humanidad, King Ghidorah. Estas ancianas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.",
     "genres": [
       "Acción",
@@ -31,51 +76,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/9/Q/r/X/9QrXt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Glass (Cristal)",
-    "url": "https://zonaaps.com/movies/glass-cristal/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/vYbLXENNUaNcHQl4Te94Msqn1oj-185x278.jpg",
-    "rating": "6.6",
-    "description": "Cristal sigue los pasos de David Dunn en su búsqueda de la figura superhumana de La Bestia. En la sombra, Elijah Price parece emerger como una figura clave que conoce los secretos de ambos.",
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/55/s8/2/y/Y/v/j/yYvjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3970033152-3970112104"
-      }
-    ]
-  },
-  {
-    "title": "Furia de titanes",
-    "url": "https://zonaaps.com/movies/furia-de-titanes/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/gn2q6HooPdGfFaOI2U2nbjw3BSZ-185x278.jpg",
-    "rating": "5.8",
-    "description": "Adaptación libre del mito de Perseo, hijo de Zeus, el padre de los dioses griegos. Perseo y su madre Dánae, son encerrados en un baúl por Acrisio, su abuelo, y arrojados al mar. Arrastrados por la corriente, llegan a la isla de Sérifos, donde Perseo alcanza la madurez. Cuando sepa cuál es la misión que le ha sido encomendada por el Destino, emprenderá un durísimo viaje, en el que tendrá que ir superando diversas pruebas.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zOC52aW1lb3MubmV0L2hsczIvMDMvMDAwMDMvcTA5c2xibTZueTE2X24vaW5kZXgtdjEtYTEubTN1OD90PWdmWXZQdTNEX3dQRzdJLWdQVVdtOVNkaGdTZ1NIUENMV2NXV3FycWF1SjQmcz0xNzg3MzM4NjM4JmU9NDMyMDAmdj0zMjU0MDQwMzImaT0wLjAmc3A9MCZyPWU"
+        "url": "https://1a-1791.com/video/fw/s8/2/9/Q/r/X/9QrXt.aaa.mp4"
       }
     ]
   },
   {
     "title": "Golpe de superación",
-    "url": "https://zonaaps.com/movies/golpe-de-superacion/",
     "image": "https://image.tmdb.org/t/p/w185/zv4jdLV7wuQGwhwAOeD7qzd8eSF.jpg",
     "rating": "3.5",
+    "year": "Jan. 23, 2025",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Ganador del Globo de Oro, Ving Rhames protagoniza una historia electrizante sobre Toni, una boxeadora decidida a derribar barreras. Cuando un ex campeón rudo acepta entrenarla, surge una alianza inesperada",
     "genres": [
       "Drama",
@@ -84,15 +95,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/c4/s8/2/-/A/v/w/-Avwy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c4/s8/2/-/A/v/w/-Avwy.aaa.mp4"
       }
     ]
   },
   {
     "title": "Gru 4. Mi villano favorito 4- Los Minions 4",
-    "url": "https://zonaaps.com/movies/gru-4-mi-villano-favorito/",
     "image": "https://image.tmdb.org/t/p/w185/6BcxgP05jDip4Zjh2P5Be2aNi0Z.jpg",
     "rating": "6.3",
+    "year": "Jun. 20, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de ‘Gru, mi villano favorito’.",
     "genres": [
       "Acción",
@@ -109,9 +122,13 @@
   },
   {
     "title": "Furiosa: de la saga Mad Max",
-    "url": "https://zonaaps.com/movies/furiosa-de-la-saga-mad-max/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/07/txUUoowOD2MrGXAtI3pWifLR9p6-185x278.jpg",
     "rating": "7.9",
+    "year": "May. 22, 2024",
+    "quality": "720 HD720p HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de ‘Mad Max: Furia en la carretera’ (2015).",
     "genres": [
       "Acción",
@@ -121,15 +138,17 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTAudmltZW9zLm5ldC9obHMyLzAzLzAwMDA5L21tNGNkbjBoNjFoOF9uL2luZGV4LXYxLWEyLm0zdTg_dD02X2daMnpBNUN1Qlh0UXpXN1lIN1FKeUp3dE80N1U2UGdKNzVGSnAzQTg0JnM9MTc4NzMzOTE0NCZlPTQzMjAwJnY9MzI1MzMzMzY2Jmk9MC4zJnNwPTAmZnI9bW00Y2RuMGg2MWg4JnI9ZQ"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNS52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvbW00Y2RuMGg2MWg4X24vaW5kZXgtdjEtYTIubTN1OD90PVNZS05TcjZPSi1vWmdaVWQ1X2w3eHEwamZOYzVkeUtqLW5YekdlZ213ZWcmcz0xNzg3MzYxMTgyJmU9NDMyMDAmdj0zMjUzMzMzNjYmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPW1tNGNkbjBoNjFoOCZyPWU"
       }
     ]
   },
   {
     "title": "GTMAX",
-    "url": "https://zonaaps.com/movies/gtmax/",
     "image": "https://image.tmdb.org/t/p/w185/qrWTjqbf4gzT8BkWqB7VceWJXVU.jpg",
     "rating": "0",
+    "year": "Nov. 19, 2024",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando una conocida banda de moteros reclutan a su hermano para un robo, una ex campeona de motocross debe enfrentarse a sus miedos más profundos para mantener a su familia a salvo.",
     "genres": [
       "Acción",
@@ -144,62 +163,15 @@
     ]
   },
   {
-    "title": "Gravity &#8211; Gravedad",
-    "url": "https://zonaaps.com/movies/gravity-gravedad/",
-    "image": "https://image.tmdb.org/t/p/w185/3CKbEXrw88LNvBU3baISh1I7JP4.jpg",
-    "rating": "7.7",
-    "description": "Durante un paseo espacial rutinario, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera en su primera misión espacial en la Shuttle. Su acompañante es el veterano astronauta Matt Kowalsky. Durante el paseo algo sale mal y ocurre el desastre: el shuttle queda destrozado, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarán por todos los medios volver a la Tierra.",
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/43/s8/2/-/q/A/n/-qAnw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Guerra de Papás 2",
-    "url": "https://zonaaps.com/movies/guerra-de-papas-2/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/aXpW8D8IMbeaRKvqvDt4K58mvv0-185x278.jpg",
-    "rating": "6.1",
-    "description": "Dusty y Brad se han unido para ofrecerle a sus hijos la Navidad perfecta. Este nuevo equipo se pone a prueba cuando el papá gruñón de Dusty y el papá ultra cariñoso y tierno de Brad llegan para convertir a las vacaciones decembrinas en un completo caos.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/f0/s8/2/o/x/z/D/oxzDA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3065548288-3065609288"
-      }
-    ]
-  },
-  {
-    "title": "Guardianes de la galaxia",
-    "url": "https://zonaaps.com/movies/guardianes-de-la-galaxia/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/rzEmtM8qrvRKNdJUUiizdNHTccV-185x278.jpg",
-    "rating": "8",
-    "description": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTAudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwLzU4OXc1NHA5ZWthZ19uL2luZGV4LXYxLWExLm0zdTg_dD1RVVdvT2NhRWdXbWtWaUwxU2w5bXlfdGc5eUtBbjFDcm9ydkJhM1FmNGpBJnM9MTc4NzMzOTczNiZlPTQzMjAwJnY9MzI1MjkzMTQzJmk9MC4wJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
     "title": "Guerra de Papás",
-    "url": "https://zonaaps.com/movies/guerra-de-papas/",
     "image": "https://zonaaps.com/wp-content/uploads/2026/07/stFOBXXoEMeGm7S5z7nTNGXJZ4G-185x278.jpg",
     "rating": "6.2",
+    "year": "Dec. 25, 2015",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
     "description": "La historia de un ejecutivo radiofónico de clase media (Ferrell) que se esfuerza por convertirse en el mejor padrastro de los dos hijos de su esposa, pero las complicaciones se producen cuando llega su padre libre y libre, forzando a un padrastro a competir por el cariño de los niños.",
     "genres": [
       "Comedia"
@@ -212,50 +184,57 @@
     ]
   },
   {
-    "title": "Garfield: la película",
-    "url": "https://zonaaps.com/movies/garfield-la-pelicula-2/",
-    "image": "https://image.tmdb.org/t/p/w185/6QR2FOCQr41gSduN70WulRIhJb7.jpg",
-    "rating": "5.9",
-    "description": "El mundialmente famoso Garfield, el gato casero que odia los lunes y que adora la lasaña, está a punto de vivir una aventura ¡en el salvaje mundo exterior! Tras una inesperada reunión con su largamente perdido padre – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven forzados a abandonar sus perfectas y consentidas vidas al unirse a Vic en un hilarante y muy arriesgado atraco.",
+    "title": "Guerra de Papás 2",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/07/aXpW8D8IMbeaRKvqvDt4K58mvv0-185x278.jpg",
+    "rating": "6.1",
+    "year": "Nov. 09, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Dusty y Brad se han unido para ofrecerle a sus hijos la Navidad perfecta. Este nuevo equipo se pone a prueba cuando el papá gruñón de Dusty y el papá ultra cariñoso y tierno de Brad llegan para convertir a las vacaciones decembrinas en un completo caos.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
+      "Comedia"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/T/2/4/MT24r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/T/2/4/MT24r.caa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/f0/s8/2/o/x/z/D/oxzDA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3065548288-3065609288"
       }
     ]
   },
   {
-    "title": "Halloween",
-    "url": "https://zonaaps.com/movies/halloween/",
-    "image": "https://image.tmdb.org/t/p/w185/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
-    "rating": "6.5",
-    "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie «Halloween», ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
+    "title": "Ghost Rider ; El Vengador Fantasma",
+    "image": "https://image.tmdb.org/t/p/w185/cuYXqugYkJdfIJxCAXlgZjwnuF0.jpg",
+    "rating": "5.3",
+    "year": "Jan. 15, 2007",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Adaptación del famoso cómic de la Marvel. Hace mucho tiempo, la superestrella de las acrobacias en moto, Johnny Blaze (Nicolas Cage) hizo un trato con el diablo para proteger a los que más quería: su padre y su novia de la juventud, Roxanne (Eva Mendes). Ahora, el diablo ha venido a cobrar su deuda. De día, Johnny es un motero acróbata temerario… pero de noche, en presencia del diablo, se convierte en Ghost Rider, un cazarecompensas de demonios deshonestos. Obligado a hacer la voluntad del diablo, Johnny está decidido a enfrentarse a su destino y utilizar su maldición y sus poderes para defender al inocente…",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Acción",
+      "Fantasía",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/c1/s8/2/7/w/E/9/7wE9x.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/-/9/t/a/-9taq.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/-/9/t/a/-9taq.caa.mp4"
       }
     ]
   },
   {
     "title": "Ghost Rider: Espíritu de venganza",
-    "url": "https://zonaaps.com/movies/ghost-rider-espiritu-de-venganza/",
     "image": "https://image.tmdb.org/t/p/w185/yokkUoswEXgPiNRZvQ2XrYCEbVp.jpg",
     "rating": "4.3",
+    "year": "Dec. 10, 2011",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Nueva adaptación del cómic «El motorista fantasma». Con el fin de controlar sus deseos de venganza, Johnny Blaze (Nicolas Cage), que ve sus poderes como una maldición, vive apartado del mundo y sin relacionarse con nadie, pero acaba siendo localizado por el monje Moreau, que necesita su ayuda para buscar a Nadya y a su hijo Danny antes de que los encuentre Roarke, un viejo conocido de Blaze.",
     "genres": [
       "Acción",
@@ -265,240 +244,21 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/5/Z/W/H5ZWp.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/5/Z/W/H5ZWp.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/5/Z/W/H5ZWp.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/5/Z/W/H5ZWp.caa.mp4"
       }
     ]
   },
   {
-    "title": "Halloween 1 &#8211; 1978",
-    "url": "https://zonaaps.com/movies/halloween-1-1978/",
-    "image": "https://image.tmdb.org/t/p/w185/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-    "rating": "7.7",
-    "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/R/m/P/5/RmP5t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween 2: Sanguinario",
-    "url": "https://zonaaps.com/movies/halloween-2-sanguinario/",
-    "image": "https://image.tmdb.org/t/p/w185/apMPhXFMkqfBHx8ltZKMDB9JuAi.jpg",
-    "rating": "6.5",
-    "description": "El psicópata Michael Myers sigue vivo y vuelve a ponerse en acción. Ahora se dirige a un pequeño hospital donde se encuentra Laurie Strode, la única víctima que logró sobrevivir a su primer ataque. Mientras tanto, el doctor Loomis sigue buscando a su sanguinario paciente.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/O/P/5/1OP5t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween 3: El día de la bruja",
-    "url": "https://zonaaps.com/movies/halloween-3-el-dia-de-la-bruja/",
-    "image": "https://image.tmdb.org/t/p/w185/e5ljbU8azw2SY8qV19E67wJ2UGv.jpg",
-    "rating": "5.2",
-    "description": "Las pesadillas se vuelven realidad cuando un maníaco y propietario de una tienda de juguetes, Conal Cochran, empieza a fabricar unas máscaras que convierten las almas y los cuerpos de los niños en seres diabólicos.",
-    "genres": [
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/P/S/7/ZPS7t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "GirlHouse",
-    "url": "https://zonaaps.com/movies/girlhouse/",
-    "image": "https://image.tmdb.org/t/p/w185/s4nMZQVegmgWzj0V7UUUPFqgwCt.jpg",
-    "rating": "5.5",
-    "description": "Una joven universitaria, necesitando dinero para la matrícula, se muda sola a una casa, donde puede subir tranquilamente material porno a un sitio web. Unos desquiciados hackers determinan la ubicación de la casa, y a partir de ese momento ella se encuentra en una aterradora lucha por salvar su vida.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Guardianes de la Galaxia: Volumen 3",
-    "url": "https://zonaaps.com/movies/guardianes-de-la-galaxia-volumen-3/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/voAxRv011XHK2qFBXmZKXPj2wWB-185x278.jpg",
-    "rating": "8.3",
-    "description": "Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zOC52aW1lb3MubmV0L2hsczIvMDIvMDAwMDAvcjl3OGtxamlxM3BiX24vaW5kZXgtdjEtYTEubTN1OD90PVpCWUhEQVhybENjRGZNdDdpRkRIS3J2X1BTX2VDV3FDbmpQT0JNVVR0MDAmcz0xNzg3MzM4NjU3JmU9NDMyMDAmdj0zMjk5Nzk5NzUmaT0wLjAmc3A9MCZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "Gladiator II &#8211; Gladiador 2",
-    "url": "https://zonaaps.com/movies/gladiator-ii/",
-    "image": "https://image.tmdb.org/t/p/w185/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg",
-    "rating": "7.1",
-    "description": "Años después de presenciar la muerte del admirado héroe Máximo a manos de su tío, Lucio se ve forzado a entrar en el Coliseo tras ser testigo de la conquista de su hogar por parte de los tiránicos emperadores que dirigen Roma con puño de hierro. Con un corazón desbordante de furia y el futuro del imperio en juego, Lucio debe rememorar su pasado en busca de la fuerza y el honor que devuelvan al pueblo la gloria perdida de Roma.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Green Lantern: Cuidado con mi poder",
-    "url": "https://zonaaps.com/movies/green-lantern-cuidado-con-mi-poder/",
-    "image": "https://image.tmdb.org/t/p/w185/jkXGB3K0m0VgqHjO7u5rWjDzYca.jpg",
-    "rating": "6.2",
-    "description": "El francotirador de la Marina recién dado de baja, John Stewart, se encuentra en una encrucijada en su vida, que solo se complica al recibir un anillo extraterrestre que le otorga los poderes de la Linterna Verde de la Tierra. Desafortunadamente, el anillo no viene con instrucciones, pero sí con equipaje, como una horda de asesinos interplanetarios empeñados en eliminar a todos los Green Lantern del universo. Ahora, con la ayuda del alegre Green Arrow, Adam Strange y Hawkgirl, este soldado reacio debe viajar al corazón de una guerra galáctica entre Rann y Thanagar y de alguna manera tener éxito donde todos los demás Green Lanterns han fracasado.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Ciencia ficción",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/z/E/B/DzEBp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/z/E/B/DzEBp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween Kills: La Noche Aún No Termina",
-    "url": "https://zonaaps.com/movies/halloween-kills-la-noche-aun-no-termina/",
-    "image": "https://image.tmdb.org/t/p/w185/j1Jf5OCpjCDBCp4K7Nnh8JlvNUJ.jpg",
-    "rating": "5.5",
-    "description": "Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de supervivientes de la primera masacre de Michael quienes deciden hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/a0/s8/2/w/B/j/_/wBj_x.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween 5: La venganza de Michael Myers",
-    "url": "https://zonaaps.com/movies/halloween-5-la-venganza-de-michael-myers/",
-    "image": "https://image.tmdb.org/t/p/w185/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg",
-    "rating": "4.9",
-    "description": "Michael Myers, el psicópata asesino ha vuelto a sobrevivir a las heridas de bala después de la persecución policial y, obsesionado por la venganza, continua buscando a su pequeña sobrina para asesinarla. Jamie ha sido hospitalizada y debido a un shock traumático ha perdido la capacidad del habla. Sin embargo ha desarrollado un vínculo telepático con su tío Michael y sabe que sigue vivo y que la está buscando para vengarse.",
-    "genres": [
-      "Fantasía",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/X/Z/7/TXZ7t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween 4: El regreso de Michael Myers",
-    "url": "https://zonaaps.com/movies/halloween-4-el-regreso-de-michael-myers/",
-    "image": "https://image.tmdb.org/t/p/w185/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
-    "rating": "5.8",
-    "description": "Michael Myers, un psicópata que mató a dieciséis personas, acabó siendo capturado por su propio médico, el doctor Lomis. Tras pasar diez años encarcelado en una prisión de máxima seguridad, Myers es trasladado, en estado catatónico, al Instituto Mental de Richmond. Pero inexplicablemente se vuelve a escapar con el fin de asesinar a su único familiar vivo, su sobrina Jamie Lloyd. De nuevo el doctor Lomis intentará atraparlo.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/F/T/7/QFT7t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Hachiko 2",
-    "url": "https://zonaaps.com/movies/hachiko-2/",
-    "image": "https://image.tmdb.org/t/p/w185/uTETTVc9ghtGwKMvHpsJJMe46Xe.jpg",
-    "rating": "0",
-    "description": "Hachiko (Batong) es un lindo perro pastor chino. Conoce a su dueño Chen Jingxiu entre la gran multitud y se convierte en miembro de la familia Chen. Con el paso del tiempo, la casa que alguna vez fue hermosa ya no está allí, pero Batong espera y espera, sabiendo que su destino está estrechamente ligado a su familia.",
-    "genres": [
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/p/r/5/vpr5s.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Harold y Kumar 2: Dos Tontos en Fuga",
-    "url": "https://zonaaps.com/movies/harold-y-kumar-2-dos-tontos-en-fuga/",
-    "image": "https://image.tmdb.org/t/p/w185/kEbdjdXUzj1g3Kg6cBStQJ3CHfK.jpg",
-    "rating": "6.5",
-    "description": "Después de haber satisfecho su deseo de ir a White Castle, Harold y Kumar se suben a un avión para alcanzar a la chica a la que Harold quiere conquistar, quien se dirige a los Países Bajos. Pero la pareja debe cambiar sus planes cuando acusan a Kumar de ser un terrorista.",
-    "genres": [
-      "Aventura",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/ed/s8/2/Y/9/d/h/Y9dhz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=849792000-849856793"
-      }
-    ]
-  },
-  {
-    "title": "Gatúbela &#8211; Catwoman",
-    "url": "https://zonaaps.com/movies/gatubela-catwoman/",
+    "title": "Gatúbela ; Catwoman",
     "image": "https://image.tmdb.org/t/p/w185/l40ot7UBtLOmse1qn4NI97w3ve3.jpg",
     "rating": "3.4",
+    "year": "Jul. 22, 2004",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Patience Philips (Halle Berry) es una mujer sumisa y siempre dispuesta a agradar a la gente, que trabaja como diseñadora gráfica para el gigantesco laboratorio de cosméticos Hedare Beauty, dirigido por el despótico George Hedare (Lambert Wilson) y su esposa, la supermodelo Laurel (Sharon Stone). La tímida Patience se entera por casualidad de un siniestro secreto sobre un revolucionario producto antienvejecimiento de la compañía que pronto va a salir a la venta y se ve envuelta en una conspiración. Justo entonces es salvada de la muerte al renacer con la fuerza, la velocidad, la agilidad y los agudísimos sentidos de un gato. En su nueva vida de venganzas como Catwoman la guiará una misteriosa mujer llamada Ophelia Powers (Frances Conroy).",
     "genres": [
       "Acción",
@@ -517,46 +277,32 @@
     ]
   },
   {
-    "title": "Godzilla y Kong: El nuevo imperio",
-    "url": "https://zonaaps.com/movies/godzilla-y-kong-el-nuevo-imperio/",
-    "image": "https://image.tmdb.org/t/p/w185/iLa15KURiosRmvtWP6vKqBT11Le.jpg",
+    "title": "Hachiko 2",
+    "image": "https://image.tmdb.org/t/p/w185/uTETTVc9ghtGwKMvHpsJJMe46Xe.jpg",
     "rating": "0",
-    "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+    "year": "Mar. 31, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Hachiko (Batong) es un lindo perro pastor chino. Conoce a su dueño Chen Jingxiu entre la gran multitud y se convierte en miembro de la familia Chen. Con el paso del tiempo, la casa que alguna vez fue hermosa ya no está allí, pero Batong espera y espera, sabiendo que su destino está estrechamente ligado a su familia.",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Drama",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/E/q/I/fEqIr.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/v/p/r/5/vpr5s.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Harold y Kumar 1: Aventura nocturna",
-    "url": "https://zonaaps.com/movies/harold-y-kumar-1-aventura-nocturna/",
-    "image": "https://image.tmdb.org/t/p/w185/hEtVCnV6T2YpyOGZfWVY1QnMQgL.jpg",
-    "rating": "7.0",
-    "description": "El nerd contable Harold y su irreprimible amigo Kumar se drogan viendo la televisión y quedan completamente hechizados por un anuncio de White Castle. Convencidos de que debe haber uno cerca, los dos se embarcan en una odisea nocturna que los lleva a lo profundo de Nueva Jersey.",
-    "genres": [
-      "Aventura",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/a2/s8/2/-/7/d/h/-7dhz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=697793024-697846247"
-      }
-    ]
-  },
-  {
-    "title": "Good Boy",
-    "url": "https://zonaaps.com/movies/good-boy/",
-    "image": "https://image.tmdb.org/t/p/w185/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg",
-    "rating": "5.8",
-    "description": "Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.",
+    "title": "Halloween 1 ; 1978",
+    "image": "https://image.tmdb.org/t/p/w185/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+    "rating": "7.7",
+    "year": "Oct. 24, 1978",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
     "genres": [
       "Suspense",
       "Terror"
@@ -564,39 +310,141 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/3/T/e/L/3TeLp.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/m/P/5/RmP5t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "GirlHouse",
+    "image": "https://image.tmdb.org/t/p/w185/s4nMZQVegmgWzj0V7UUUPFqgwCt.jpg",
+    "rating": "5.5",
+    "year": "Oct. 16, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una joven universitaria, necesitando dinero para la matrícula, se muda sola a una casa, donde puede subir tranquilamente material porno a un sitio web. Unos desquiciados hackers determinan la ubicación de la casa, y a partir de ese momento ella se encuentra en una aterradora lucha por salvar su vida.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/3/T/e/L/3TeLp.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.caa.mp4"
       }
     ]
   },
   {
-    "title": "Guerra Mundial Z",
-    "url": "https://zonaaps.com/movies/guerra-mundial-z/",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/a8ogjWFd0QS6BzBkzfDMWukc26i-185x278.jpg",
-    "rating": "7",
-    "description": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. La destrucción a la que se ve sometida la raza humana lo lleva a recorrer el mundo entero buscando la solución para frenar esa horrible epidemia.",
+    "title": "Halloween 2: Sanguinario",
+    "image": "https://image.tmdb.org/t/p/w185/apMPhXFMkqfBHx8ltZKMDB9JuAi.jpg",
+    "rating": "6.5",
+    "year": "Oct. 30, 1981",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El psicópata Michael Myers sigue vivo y vuelve a ponerse en acción. Ahora se dirige a un pequeño hospital donde se encuentra Laurie Strode, la única víctima que logró sobrevivir a su primer ataque. Mientras tanto, el doctor Loomis sigue buscando a su sanguinario paciente.",
     "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Drama",
       "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/M/r/K/t/MrKtq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/O/P/5/1OP5t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween 4: El regreso de Michael Myers",
+    "image": "https://image.tmdb.org/t/p/w185/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
+    "rating": "5.8",
+    "year": "Oct. 21, 1988",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Michael Myers, un psicópata que mató a dieciséis personas, acabó siendo capturado por su propio médico, el doctor Lomis. Tras pasar diez años encarcelado en una prisión de máxima seguridad, Myers es trasladado, en estado catatónico, al Instituto Mental de Richmond. Pero inexplicablemente se vuelve a escapar con el fin de asesinar a su único familiar vivo, su sobrina Jamie Lloyd. De nuevo el doctor Lomis intentará atraparlo.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/F/T/7/QFT7t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween 3: El día de la bruja",
+    "image": "https://image.tmdb.org/t/p/w185/e5ljbU8azw2SY8qV19E67wJ2UGv.jpg",
+    "rating": "5.2",
+    "year": "Oct. 22, 1982",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Las pesadillas se vuelven realidad cuando un maníaco y propietario de una tienda de juguetes, Conal Cochran, empieza a fabricar unas máscaras que convierten las almas y los cuerpos de los niños en seres diabólicos.",
+    "genres": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/P/S/7/ZPS7t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Gladiator II ; Gladiador 2",
+    "image": "https://image.tmdb.org/t/p/w185/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg",
+    "rating": "7.1",
+    "year": "Nov. 13, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Años después de presenciar la muerte del admirado héroe Máximo a manos de su tío, Lucio se ve forzado a entrar en el Coliseo tras ser testigo de la conquista de su hogar por parte de los tiránicos emperadores que dirigen Roma con puño de hierro. Con un corazón desbordante de furia y el futuro del imperio en juego, Lucio debe rememorar su pasado en busca de la fuerza y el honor que devuelvan al pueblo la gloria perdida de Roma.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween 5: La venganza de Michael Myers",
+    "image": "https://image.tmdb.org/t/p/w185/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg",
+    "rating": "4.9",
+    "year": "Oct. 12, 1989",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Michael Myers, el psicópata asesino ha vuelto a sobrevivir a las heridas de bala después de la persecución policial y, obsesionado por la venganza, continua buscando a su pequeña sobrina para asesinarla. Jamie ha sido hospitalizada y debido a un shock traumático ha perdido la capacidad del habla. Sin embargo ha desarrollado un vínculo telepático con su tío Michael y sabe que sigue vivo y que la está buscando para vengarse.",
+    "genres": [
+      "Fantasía",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/T/X/Z/7/TXZ7t.aaa.mp4"
       }
     ]
   },
   {
     "title": "Halloween 6: La maldición de Michael Myers (Halloween 6)",
-    "url": "https://zonaaps.com/movies/halloween-6-la-maldicion-de-michael-myers-halloween-6/",
     "image": "https://image.tmdb.org/t/p/w185/gZTdirlRJUAJz36ex46VF1kUrpJ.jpg",
     "rating": "4.7",
+    "year": "Sep. 29, 1995",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Cuando Michael Myers tenía seis años, apuñaló a su hermana hasta la muerte. Durante muchos años fue encerrado en el centro psiquiátrico Smiths Groves, pero logró escapar y, súbitamente, Halloween se convirtió en un sinónimo de locura. Uno a uno, cada miembro de su familia fue asesinado hasta que sólo quedó Jamie Lloyd, su sobrina de nueve años. En Haddonfield, la noche de Halloween no es una fiesta cualquiera porque siempre durante dicha celebración, Michael decide visitar su pueblo natal con un único objetivo; el asesinato premeditado. Ya han pasado seis años desde que Michael muriera, presumiblemente, consumido por las llamas. Haddonfield, por fin, puede celebrar Halloween… pero Michael Myers también está listo para la fiesta.",
     "genres": [
       "Suspense",
@@ -610,10 +458,181 @@
     ]
   },
   {
+    "title": "Halloween Kills: La Noche Aún No Termina",
+    "image": "https://image.tmdb.org/t/p/w185/j1Jf5OCpjCDBCp4K7Nnh8JlvNUJ.jpg",
+    "rating": "5.5",
+    "year": "Oct. 14, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de supervivientes de la primera masacre de Michael quienes deciden hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/a0/s8/2/w/B/j/_/wBj_x.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Good Boy",
+    "image": "https://image.tmdb.org/t/p/w185/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg",
+    "rating": "5.8",
+    "year": "Jun. 03, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/T/e/L/3TeLp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/T/e/L/3TeLp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Gravity ; Gravedad",
+    "image": "https://image.tmdb.org/t/p/w185/3CKbEXrw88LNvBU3baISh1I7JP4.jpg",
+    "rating": "7.7",
+    "year": "Oct. 03, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante un paseo espacial rutinario, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera en su primera misión espacial en la Shuttle. Su acompañante es el veterano astronauta Matt Kowalsky. Durante el paseo algo sale mal y ocurre el desastre: el shuttle queda destrozado, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarán por todos los medios volver a la Tierra.",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/43/s8/2/-/q/A/n/-qAnw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween",
+    "image": "https://image.tmdb.org/t/p/w185/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
+    "rating": "6.5",
+    "year": "Oct. 18, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie «Halloween», ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/c1/s8/2/7/w/E/9/7wE9x.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Harold y Kumar 1: Aventura nocturna",
+    "image": "https://image.tmdb.org/t/p/w185/hEtVCnV6T2YpyOGZfWVY1QnMQgL.jpg",
+    "rating": "7.0",
+    "year": "Jul. 02, 2004",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "El nerd contable Harold y su irreprimible amigo Kumar se drogan viendo la televisión y quedan completamente hechizados por un anuncio de White Castle. Convencidos de que debe haber uno cerca, los dos se embarcan en una odisea nocturna que los lleva a lo profundo de Nueva Jersey.",
+    "genres": [
+      "Aventura",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/a2/s8/2/-/7/d/h/-7dhz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=697793024-697846247"
+      }
+    ]
+  },
+  {
+    "title": "Godzilla y Kong: El nuevo imperio",
+    "image": "https://image.tmdb.org/t/p/w185/iLa15KURiosRmvtWP6vKqBT11Le.jpg",
+    "rating": "0",
+    "year": "Mar. 27, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/q/I/fEqIr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Harold y Kumar 2: Dos Tontos en Fuga",
+    "image": "https://image.tmdb.org/t/p/w185/kEbdjdXUzj1g3Kg6cBStQJ3CHfK.jpg",
+    "rating": "6.5",
+    "year": "Apr. 25, 2008",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Después de haber satisfecho su deseo de ir a White Castle, Harold y Kumar se suben a un avión para alcanzar a la chica a la que Harold quiere conquistar, quien se dirige a los Países Bajos. Pero la pareja debe cambiar sus planes cuando acusan a Kumar de ser un terrorista.",
+    "genres": [
+      "Aventura",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/ed/s8/2/Y/9/d/h/Y9dhz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=849792000-849856793"
+      }
+    ]
+  },
+  {
+    "title": "Guardianes de la galaxia",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/rzEmtM8qrvRKNdJUUiizdNHTccV-185x278.jpg",
+    "rating": "8",
+    "year": "Jul. 30, 2014",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTAudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwLzU4OXc1NHA5ZWthZ19uL2luZGV4LXYxLWExLm0zdTg_dD1vNlUxNVZ5VGx2UVhzS1hpNUZKbUFnS0V5ek5hVHpuSkZsMWgxVHNZM2pjJnM9MTc4NzM2MTczOSZlPTQzMjAwJnY9MzI1MjkzMTQzJmk9MC4zJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
     "title": "Harry Potter y la piedra filosofal",
-    "url": "https://zonaaps.com/movies/harry-potter-y-la-piedra-filosofal/",
     "image": "https://image.tmdb.org/t/p/w185/7xXJ15VEf7G9GdAuV1dO769yC73.jpg",
     "rating": "7.6",
+    "year": "Nov. 16, 2001",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
     "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
     "genres": [
       "Aventura",
@@ -622,32 +641,78 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/Y/J/V/NYJVp.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Hablame &#8211; Talk To Me",
-    "url": "https://zonaaps.com/movies/hablame/",
-    "image": "https://image.tmdb.org/t/p/w185/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
-    "rating": "7.2",
-    "description": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+    "title": "Guardianes de la Galaxia: Volumen 3",
+    "image": "https://zonaaps.com/wp-content/uploads/2026/06/voAxRv011XHK2qFBXmZKXPj2wWB-185x278.jpg",
+    "rating": "8.3",
+    "year": "May. 03, 2023",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.",
     "genres": [
-      "Suspense",
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvcjl3OGtxamlxM3BiX24vaW5kZXgtdjEtYTEubTN1OD90PWNEOFZwekdSaW1vSUkxbmtkUWl0OG1VZmpiak9wNmtoeTMzNVJfSnMyVVkmcz0xNzg3MzYwODExJmU9NDMyMDAmdj0zMjk5Nzk5NzUmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Green Book",
+    "image": "https://image.tmdb.org/t/p/w185/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
+    "rating": "8.2",
+    "year": "Nov. 16, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en «El libro verde», una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/c/o/M/2/coM2n.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Heart Eyes",
+    "image": "https://image.tmdb.org/t/p/w185/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg",
+    "rating": "6.7",
+    "year": "Feb. 06, 2025",
+    "quality": "CAM-HDTS",
+    "languages": [],
+    "description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+    "genres": [
+      "Comedia",
+      "Romance",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/J/V/3/F/JV3Fn.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/ec/s8/2/0/B/i/J/0BiJx.aaa.mp4"
       }
     ]
   },
   {
     "title": "Headless Horseman",
-    "url": "https://zonaaps.com/movies/headless-horseman/",
     "image": "https://image.tmdb.org/t/p/w185/epDv0AW4qUbxqVHCiX1M5tzwxfn.jpg",
     "rating": "3.9",
+    "year": "Oct. 27, 2007",
+    "quality": "720p HD",
+    "languages": [],
     "description": "Un grupo de jóvenes perdidos, pasan la noche de Halloween en un pequeño pueblo, con una leyenda oscura. Pronto se encontrarán con que les persigue un jinete sin cabeza, para intentar conseguir las suyas. Basada en la historia de Washington Irving, «La leyenda de Sleepy Hollow».",
     "genres": [
       "Terror"
@@ -660,28 +725,78 @@
     ]
   },
   {
-    "title": "Heart Eyes",
-    "url": "https://zonaaps.com/movies/heart-eyes/",
-    "image": "https://image.tmdb.org/t/p/w185/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg",
-    "rating": "6.7",
-    "description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+    "title": "Green Lantern: Cuidado con mi poder",
+    "image": "https://image.tmdb.org/t/p/w185/jkXGB3K0m0VgqHjO7u5rWjDzYca.jpg",
+    "rating": "6.2",
+    "year": "May. 19, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "El francotirador de la Marina recién dado de baja, John Stewart, se encuentra en una encrucijada en su vida, que solo se complica al recibir un anillo extraterrestre que le otorga los poderes de la Linterna Verde de la Tierra. Desafortunadamente, el anillo no viene con instrucciones, pero sí con equipaje, como una horda de asesinos interplanetarios empeñados en eliminar a todos los Green Lantern del universo. Ahora, con la ayuda del alegre Green Arrow, Adam Strange y Hawkgirl, este soldado reacio debe viajar al corazón de una guerra galáctica entre Rann y Thanagar y de alguna manera tener éxito donde todos los demás Green Lanterns han fracasado.",
     "genres": [
-      "Comedia",
-      "Romance",
+      "Acción",
+      "Animación",
+      "Ciencia ficción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Hellboy 4: The Crooked Man",
+    "image": "https://image.tmdb.org/t/p/w185/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg",
+    "rating": "4.5",
+    "year": "Aug. 29, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
+    "genres": [
+      "Acción",
+      "Fantasía",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/ec/s8/2/0/B/i/J/0BiJx.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/j/L/y/g/jLygu.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Guardianes de la noche: Kimetsu no Yaiba &#8211; Rumbo al Entrenamiento de los Pilares",
-    "url": "https://zonaaps.com/movies/guardianes-de-la-noche-kimetsu-no-yaiba-rumbo-al-entrenamiento-de-los-pilares/",
+    "title": "Henry Danger: La Pelicula",
+    "image": "https://image.tmdb.org/t/p/w185/ihlbMTiPXsuVofTnThdj4Yl4I7p.jpg",
+    "rating": "5",
+    "year": "Jan. 17, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Henry Hart se convierte en un héroe local en Dystopia después de dejar atrás Swellview. Cuando las trampas de la fama comienzan a pasar factura, se produce un giro con la presentación de Missy, una superfan que pone su mundo patas arriba.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/a2/s8/2/G/6/V/b/G6Vby.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Guardianes de la noche: Kimetsu no Yaiba ; Rumbo al Entrenamiento de los Pilares",
     "image": "https://image.tmdb.org/t/p/w185/8g56u2k9CvMHP5IG257QVj9gj1b.jpg",
     "rating": "6.6",
+    "year": "Feb. 02, 2024",
+    "quality": "720 HD",
+    "languages": [],
     "description": "Tanjiro se somete a un riguroso entrenamiento con el Hashira de Piedra, Himejima, en su búsqueda por convertirse en un Hashira. Mientras tanto, Muzan sigue buscando a Nezuko y Ubuyashiki.",
     "genres": [
       "Acción",
@@ -691,33 +806,18 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/I/5/b/m/I5bmq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/5/b/m/I5bmq.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Green Book",
-    "url": "https://zonaaps.com/movies/green-book/",
-    "image": "https://image.tmdb.org/t/p/w185/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
-    "rating": "8.2",
-    "description": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en «El libro verde», una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
-    "genres": [
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/o/M/2/coM2n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Heretic &#8211; Hereje",
-    "url": "https://zonaaps.com/movies/heretic-hereje/",
-    "image": "https://image.tmdb.org/t/p/w185/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg",
+    "title": "Hablame ; Talk To Me",
+    "image": "https://image.tmdb.org/t/p/w185/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
     "rating": "7.2",
-    "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
+    "year": "Jul. 26, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
     "genres": [
       "Suspense",
       "Terror"
@@ -725,7 +825,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/7/B/2/B/7B2Bv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/V/3/F/JV3Fn.caa.mp4"
       }
     ]
   }
