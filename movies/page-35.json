@@ -1,23 +1,66 @@
 [
   {
-    "title": "Un hombre por semana",
-    "image": "https://image.tmdb.org/t/p/w185/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
-    "rating": "4.9",
-    "year": "Jan. 08, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Ha pasado un año desde que Mónica se divorció. Sus mejores amigas, Martha y Paula, deciden hacerle una intervención para que salga con un hombre por semana, se divierta y, tal vez, encuentre un nuevo amor.",
+    "title": "Tortugas Ninja (2014)",
+    "image": "https://image.tmdb.org/t/p/w185/kmrgjJT6SvIr6WmZVwrqc44rSfy.jpg",
+    "rating": "5.8",
+    "year": "Aug. 07, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Nueva York está en peligro debido a que Shredder y El Clan del Pie, dominan la ciudad y ejercen un férreo control sobre todo, incluyendo policía y políticos. Pero cuatro héroes, Leonardo, Michelangelo, Donatello y Raphael, saldrán de las alcantarillas y con la ayuda de la reportera April y su compañero Vern Fenwick intentarán salvar la ciudad.",
     "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
+      "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/a0/s8/2/0/w/y/b/0wybA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2624766464-2624818521"
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/a/L/T/saLTq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Toy Story 2: los juguetes vuelven a la carga",
+    "image": "https://image.tmdb.org/t/p/w185/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
+    "rating": "7.9",
+    "year": "Oct. 30, 1999",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuando Andy se va de campamento dejando solos a los juguetes, Al McWhiggin, un compulsivo coleccionista de juguetes valiosos, secuestra a Woody. Buzz Lightyear y el resto de los juguetes de Andy deberán actuar con rapidez para rescatarlo, poniéndose al frente de una operación de rescate durante la cual se enfrentarán a múltiples peligros y divertidas situaciones.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/4/P/Y/x4PYq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Toy Story 3",
+    "image": "https://image.tmdb.org/t/p/w185/pb547eLMX6XBV5U98BSGRYmM2VW.jpg",
+    "rating": "8.3",
+    "year": "Jun. 16, 2010",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/M/m/N/Y/MmNYq.aaa.mp4"
       }
     ]
   },
@@ -61,6 +104,50 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/s/z/Y/-/szY-k.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Un monstruo en París",
+    "image": "https://image.tmdb.org/t/p/w185/eVEJypxPzc1Tox9BGVhgmrCaCbh.jpg",
+    "rating": "6.7",
+    "year": "Oct. 12, 2011",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Raoul y Emile accidentalmente liberan a un monstruo del excéntrico invernadero de un científico e intentan atraparlo. Pronto descubren que la bestia podría no ser tan amenazante como aparenta e intentan salvarla de un corrupto jefe de policía.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/7e/s8/2/y/m/e/a/ymeaz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=707114496-707168439"
+      }
+    ]
+  },
+  {
+    "title": "Un Mundo Magico ; Un puente hacia Terabithia",
+    "image": "https://image.tmdb.org/t/p/w185/mL5Tpzxqr9hb5zwbnN3DRzVKyuY.jpg",
+    "rating": "7.2",
+    "year": "Feb. 15, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jess Aarons, un chico que se siente extraño tanto en el colegio como en su propia casa, se ha entrenado durante todo el verano para correr una carrera; pero llega al colegio Leslie Burke y le gana. A pesar de ello, pronto se hacen amigos. Leslie, aficionada a contar fantásticas y mágicas historias, le abre a Jess las puertas de un mundo dominado por la imaginación. A Jess le gusta dibujar, pero nunca había compartido esa afición con nadie. Los dos crean el reino secreto de Terabithia, un lugar mágico cuya entrada sólo ellos conocen. Allí reinan, luchan contra el Maestro Oscuro y sus criaturas y trazan planes para vengarse de los compañeros prepotentes del colegio.",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/3/v/H/R3vHt.aaa.mp4"
       }
     ]
   },
@@ -110,72 +197,6 @@
     ]
   },
   {
-    "title": "Toy Story 3",
-    "image": "https://image.tmdb.org/t/p/w185/pb547eLMX6XBV5U98BSGRYmM2VW.jpg",
-    "rating": "8.3",
-    "year": "Jun. 16, 2010",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/M/m/N/Y/MmNYq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Un monstruo en París",
-    "image": "https://image.tmdb.org/t/p/w185/eVEJypxPzc1Tox9BGVhgmrCaCbh.jpg",
-    "rating": "6.7",
-    "year": "Oct. 12, 2011",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Raoul y Emile accidentalmente liberan a un monstruo del excéntrico invernadero de un científico e intentan atraparlo. Pronto descubren que la bestia podría no ser tan amenazante como aparenta e intentan salvarla de un corrupto jefe de policía.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/7e/s8/2/y/m/e/a/ymeaz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=707114496-707168439"
-      }
-    ]
-  },
-  {
-    "title": "Un Mundo Magico ; Un puente hacia Terabithia",
-    "image": "https://image.tmdb.org/t/p/w185/mL5Tpzxqr9hb5zwbnN3DRzVKyuY.jpg",
-    "rating": "7.2",
-    "year": "Feb. 15, 2007",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jess Aarons, un chico que se siente extraño tanto en el colegio como en su propia casa, se ha entrenado durante todo el verano para correr una carrera; pero llega al colegio Leslie Burke y le gana. A pesar de ello, pronto se hacen amigos. Leslie, aficionada a contar fantásticas y mágicas historias, le abre a Jess las puertas de un mundo dominado por la imaginación. A Jess le gusta dibujar, pero nunca había compartido esa afición con nadie. Los dos crean el reino secreto de Terabithia, un lugar mágico cuya entrada sólo ellos conocen. Allí reinan, luchan contra el Maestro Oscuro y sus criaturas y trazan planes para vengarse de los compañeros prepotentes del colegio.",
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/3/v/H/R3vHt.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Un muñeco de nieve para derretirse",
     "image": "https://image.tmdb.org/t/p/w185/iEh7c4tOZMmUQmfvpoRxPfY7tR3.jpg",
     "rating": "N/A",
@@ -213,6 +234,25 @@
     ]
   },
   {
+    "title": "Un vecino Gruñon ; El peor vecino del mundo",
+    "image": "https://image.tmdb.org/t/p/w185/8bNLrZt9lrmnt6LsaGG8GfDfgYR.jpg",
+    "rating": "7.5",
+    "year": "Dec. 28, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Otto Anderson es un viudo cascarrabias y muy obstinado. Cuando una alegre joven familia se muda a la casa de al lado, Otto encuentra la horma de su zapato en la espabilada, y muy embarazada, Marisol, lo que conlleva a una muy improbable amistad que pondrá su mundo patas arriba.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Y/D/k/b/YDkbu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Un viernes de Loco ; Ponte en mi lugar",
     "image": "https://image.tmdb.org/t/p/w185/sJMcDqDkFxJHcntXcIMthpUCrs8.jpg",
     "rating": "6.3",
@@ -229,25 +269,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/r/8/C/1r8Ct.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Un vecino Gruñon ; El peor vecino del mundo",
-    "image": "https://image.tmdb.org/t/p/w185/8bNLrZt9lrmnt6LsaGG8GfDfgYR.jpg",
-    "rating": "7.5",
-    "year": "Dec. 28, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Otto Anderson es un viudo cascarrabias y muy obstinado. Cuando una alegre joven familia se muda a la casa de al lado, Otto encuentra la horma de su zapato en la espabilada, y muy embarazada, Marisol, lo que conlleva a una muy improbable amistad que pondrá su mundo patas arriba.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Y/D/k/b/YDkbu.aaa.mp4"
       }
     ]
   },
@@ -269,6 +290,25 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/1/5/T/1/15T1s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Una Esposa de Mentira",
+    "image": "https://image.tmdb.org/t/p/w185/rCpABsHAJz7eKDNgPiAxl6nSFjU.jpg",
+    "rating": "6.4",
+    "year": "Feb. 10, 2011",
+    "quality": "",
+    "languages": [],
+    "description": "Danny Maccabee es un cirujano plástico que siempre finge estar casado para así no comprometerse con ninguna mujer. Pero un día conoce a la despampanante Palmer, una joven con la que quiere algo más serio. El problema es que cuando Palmer descubre su anillo de casado, piensa que lo está, así que Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/7e/s8/2/s/K/t/u/sKtuy.aaa.mp4"
       }
     ]
   },
@@ -295,44 +335,6 @@
     ]
   },
   {
-    "title": "Una Esposa de Mentira",
-    "image": "https://image.tmdb.org/t/p/w185/rCpABsHAJz7eKDNgPiAxl6nSFjU.jpg",
-    "rating": "6.4",
-    "year": "Feb. 10, 2011",
-    "quality": "",
-    "languages": [],
-    "description": "Danny Maccabee es un cirujano plástico que siempre finge estar casado para así no comprometerse con ninguna mujer. Pero un día conoce a la despampanante Palmer, una joven con la que quiere algo más serio. El problema es que cuando Palmer descubre su anillo de casado, piensa que lo está, así que Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/7e/s8/2/s/K/t/u/sKtuy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Una luz en el Infierno ; Un Cuento en el Bronx",
-    "image": "https://image.tmdb.org/t/p/w185/mwW3SOA1SSxySZQRI7tx7Wo3kLy.jpg",
-    "rating": "7.8",
-    "year": "Oct. 01, 1993",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Años 60. El gángster Sonny es el rey del barrio del Bronx, donde vive el pequeño Calogero. Un tiroteo, presenciado por el niño, es el punto de partida de una duradera relación entre el gángster y el pequeño. Lorenzo Anello, padre del chico y un honrado conductor de autobuses, desaprueba esta relación. A pesar de ello, el muchacho crece bajo la protección de los dos hombres, dividido entre su honradez natural y su fascinación por Sonny. Sin embargo, llegará un momento en el que Calogero no tendrá más remedio que tomar una decisión sobre el camino que debe seguir.",
-    "genres": [
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/11/s8/2/U/L/R/1/ULR1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=960296960-960370209"
-      }
-    ]
-  },
-  {
     "title": "Una muerte antes de una boda",
     "image": "https://image.tmdb.org/t/p/w185/bOVmksfmax1kA7FF0pmCq89TrF4.jpg",
     "rating": "4.6",
@@ -348,6 +350,46 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/59/s8/2/P/g/l/R/PglRx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Una pandilla de pequeños traviesos",
+    "image": "https://image.tmdb.org/t/p/w185/mKHvAWXSpVZ8io6CMoEGyZe7VNJ.jpg",
+    "rating": "6.3",
+    "year": "Aug. 05, 1994",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Spanky y los miembros del «Club de machotes odia-mujeres» se reúnen. Alfalfa se ha enamorado de Darla, amenazando la existencia del gran club “solo para chicos”. Futuros problemas se avecinarán cuando destruyen su centro de operaciones, y los matones del barrio roban su coche, «The Blur». ¿Cómo podrán ganar la carrera y el gran trofeo? Además de esta serie de infortunios aparece un nuevo chico en el barrio, Waldo, que es un refinado niño rico, interesado también en Darla. A través de las travesuras y el jaleo, trucos e ingenuidad, los pillos aprenderán el valor de la verdadera amistad… e incluso el gusto por las chicas.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/09/s8/2/F/w/J/q/FwJqx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Una niñera a prueba de balas",
+    "image": "https://image.tmdb.org/t/p/w185/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
+    "rating": "5.6",
+    "year": "Mar. 04, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El deshonrado SEAL de la Armada Shane Wolfe recibe una nueva tarea: proteger a los cinco niños Plummer de los enemigos de su padre recientemente fallecido, un científico del gobierno cuyo experimento de alto secreto permanece oculto en la casa de los niños.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/68/s8/2/q/k/D/w/qkDwy.aaa.mp4"
       }
     ]
   },
@@ -377,46 +419,6 @@
     ]
   },
   {
-    "title": "Una niñera a prueba de balas",
-    "image": "https://image.tmdb.org/t/p/w185/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
-    "rating": "5.6",
-    "year": "Mar. 04, 2005",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El deshonrado SEAL de la Armada Shane Wolfe recibe una nueva tarea: proteger a los cinco niños Plummer de los enemigos de su padre recientemente fallecido, un científico del gobierno cuyo experimento de alto secreto permanece oculto en la casa de los niños.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/68/s8/2/q/k/D/w/qkDwy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Una pandilla de pequeños traviesos",
-    "image": "https://image.tmdb.org/t/p/w185/mKHvAWXSpVZ8io6CMoEGyZe7VNJ.jpg",
-    "rating": "6.3",
-    "year": "Aug. 05, 1994",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Spanky y los miembros del «Club de machotes odia-mujeres» se reúnen. Alfalfa se ha enamorado de Darla, amenazando la existencia del gran club “solo para chicos”. Futuros problemas se avecinarán cuando destruyen su centro de operaciones, y los matones del barrio roban su coche, «The Blur». ¿Cómo podrán ganar la carrera y el gran trofeo? Además de esta serie de infortunios aparece un nuevo chico en el barrio, Waldo, que es un refinado niño rico, interesado también en Darla. A través de las travesuras y el jaleo, trucos e ingenuidad, los pillos aprenderán el valor de la verdadera amistad… e incluso el gusto por las chicas.",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/09/s8/2/F/w/J/q/FwJqx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Una película de huevos",
     "image": "https://image.tmdb.org/t/p/w185/sWl9Qhv8PZyq6gviDeT88kBU3tI.jpg",
     "rating": "6.5",
@@ -433,6 +435,101 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/s/6/d/cs6du.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Una luz en el Infierno ; Un Cuento en el Bronx",
+    "image": "https://image.tmdb.org/t/p/w185/mwW3SOA1SSxySZQRI7tx7Wo3kLy.jpg",
+    "rating": "7.8",
+    "year": "Oct. 01, 1993",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Años 60. El gángster Sonny es el rey del barrio del Bronx, donde vive el pequeño Calogero. Un tiroteo, presenciado por el niño, es el punto de partida de una duradera relación entre el gángster y el pequeño. Lorenzo Anello, padre del chico y un honrado conductor de autobuses, desaprueba esta relación. A pesar de ello, el muchacho crece bajo la protección de los dos hombres, dividido entre su honradez natural y su fascinación por Sonny. Sin embargo, llegará un momento en el que Calogero no tendrá más remedio que tomar una decisión sobre el camino que debe seguir.",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/11/s8/2/U/L/R/1/ULR1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=960296960-960370209"
+      }
+    ]
+  },
+  {
+    "title": "Una vida mejor ; A Better Life",
+    "image": "https://image.tmdb.org/t/p/w185/eY9wOw5PjrRXUTLgNmqWb60it10.jpg",
+    "rating": "7.2",
+    "year": "Jun. 24, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Carlos Galindo, mexicano de cuarenta años, es un trabajador inmigrante ilegal que reside en la ciudad de Los Ángeles. Como hombre honrado y decente, lo único que Carlos persigue es esforzarse al máximo para dar la mejor calidad de vida posible a su hijo Luis, y ofrecerle una vida que él nunca tuvo.",
+    "genres": [
+      "Drama",
+      "1023"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/5b/s8/2/Q/R/1/p/QR1py.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Un don excepcional ; Gifted",
+    "image": "https://image.tmdb.org/t/p/w185/jGDbXh7GjoQrh6fnmN7fmvJ7lLw.jpg",
+    "rating": "7.6",
+    "year": "Apr. 12, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ambientada en un pueblo costero de Florida, Gifted cuenta la historia de Frank Adler, un hombre soltero que cría a su sobrina Mary tras el fallecimiento de su madre. La niña tiene una gran habilidad para las matemáticas y su abuela Evelyn lo sabe bien. Mientras que su tío intenta que la vida de la pequeña sea lo más normal posible y que disfrute de su infancia, Evelyn tiene otros planes para ella. Como consecuencia, Frank se verá obligado a luchar desesperadamente por su custodia.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/M/d/m/6Mdmm.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Upgrade: Primera clase",
+    "image": "https://image.tmdb.org/t/p/w185/kXWcet0VjW9yFXFqwwtAzljJTTf.jpg",
+    "rating": "6.1",
+    "year": "Feb. 07, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ana, aspirante a becaria en una galería de arte, acaba en primera clase de forma inesperada en un vuelo de trabajo a Londres con su jefa. Mientras se acostumbra a un estilo de vida más cómodo en el avión, conoce al rico y apuesto William y decide alargar la fantasía un poco más de lo que debería.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/H/F/h/Z/HFhZs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Utoya. 22 de julio",
+    "image": "https://image.tmdb.org/t/p/w185/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg",
+    "rating": "7.2",
+    "year": "Mar. 09, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Conocemos a Kaja, una joven de 18 años, apenas 12 minutos antes de que comience la matanza en el campamento de verano de la isla noruega de Utøya, el 22 de julio del 2011, en el que fue el peor día de la historia moderna de Noruega. Los jóvenes acampados saben de la bomba explosionada por un terrorista en Oslo, pero desconocen que Anders Breivik se encuentra en la isla con la intención de matar a cuantas más personas mejor.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/V/b/F/bVbFv.aaa.mp4"
       }
     ]
   },
@@ -461,104 +558,22 @@
     ]
   },
   {
-    "title": "Shrek: Felices para siempre",
-    "image": "https://image.tmdb.org/t/p/w185/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
-    "rating": "6.3",
-    "year": "May. 16, 2010",
+    "title": "V de Vendetta ; V de Venganza",
+    "image": "https://image.tmdb.org/t/p/w185/yJea98u5qGwRoKlWhUXZw5rUaqo.jpg",
+    "rating": "8.1",
+    "year": "Feb. 23, 2006",
     "quality": "720p HD",
     "languages": [],
-    "description": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un «ogro real», Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+    "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Una vida mejor ; A Better Life",
-    "image": "https://image.tmdb.org/t/p/w185/eY9wOw5PjrRXUTLgNmqWb60it10.jpg",
-    "rating": "7.2",
-    "year": "Jun. 24, 2011",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Carlos Galindo, mexicano de cuarenta años, es un trabajador inmigrante ilegal que reside en la ciudad de Los Ángeles. Como hombre honrado y decente, lo único que Carlos persigue es esforzarse al máximo para dar la mejor calidad de vida posible a su hijo Luis, y ofrecerle una vida que él nunca tuvo.",
-    "genres": [
-      "Drama",
-      "1023"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/5b/s8/2/Q/R/1/p/QR1py.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Upgrade: Primera clase",
-    "image": "https://image.tmdb.org/t/p/w185/kXWcet0VjW9yFXFqwwtAzljJTTf.jpg",
-    "rating": "6.1",
-    "year": "Feb. 07, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Ana, aspirante a becaria en una galería de arte, acaba en primera clase de forma inesperada en un vuelo de trabajo a Londres con su jefa. Mientras se acostumbra a un estilo de vida más cómodo en el avión, conoce al rico y apuesto William y decide alargar la fantasía un poco más de lo que debería.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/F/h/Z/HFhZs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Un don excepcional ; Gifted",
-    "image": "https://image.tmdb.org/t/p/w185/jGDbXh7GjoQrh6fnmN7fmvJ7lLw.jpg",
-    "rating": "7.6",
-    "year": "Apr. 12, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ambientada en un pueblo costero de Florida, Gifted cuenta la historia de Frank Adler, un hombre soltero que cría a su sobrina Mary tras el fallecimiento de su madre. La niña tiene una gran habilidad para las matemáticas y su abuela Evelyn lo sabe bien. Mientras que su tío intenta que la vida de la pequeña sea lo más normal posible y que disfrute de su infancia, Evelyn tiene otros planes para ella. Como consecuencia, Frank se verá obligado a luchar desesperadamente por su custodia.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/M/d/m/6Mdmm.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Utoya. 22 de julio",
-    "image": "https://image.tmdb.org/t/p/w185/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg",
-    "rating": "7.2",
-    "year": "Mar. 09, 2018",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Conocemos a Kaja, una joven de 18 años, apenas 12 minutos antes de que comience la matanza en el campamento de verano de la isla noruega de Utøya, el 22 de julio del 2011, en el que fue el peor día de la historia moderna de Noruega. Los jóvenes acampados saben de la bomba explosionada por un terrorista en Oslo, pero desconocen que Anders Breivik se encuentra en la isla con la intención de matar a cuantas más personas mejor.",
-    "genres": [
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/V/b/F/bVbFv.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/3e/s8/2/f/8/1/S/f81Sw.aaa.mp4"
       }
     ]
   },
@@ -578,6 +593,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/0/G/P/7/0GP7n.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Vacaciones de verano",
+    "image": "https://image.tmdb.org/t/p/w185/14SsotUuzTYKmPRxvIoFgHzwegf.jpg",
+    "rating": "5",
+    "year": "Jul. 06, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Dos amigos, Oscar y Félix, pierden su trabajo y se ven obligados a aceptar un trabajo temporal como animadores infantiles en un hotel de lujo. Al ser ambos divorciados, les tocan sus hijos un mes de verano y les es imposible compaginarlo con el trabajo, con lo cual deciden llevarse a los niños y ocultarlos en el hotel, escondidos en la zona de empleados… pero el plan resulta ser un desastre.",
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/i/t/Y/fitYs.aaa.mp4"
       }
     ]
   },
@@ -606,86 +640,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/K/u/k/G/KukGv.Faa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Un paseo para recordar ; Un amor para recorda",
-    "image": "https://image.tmdb.org/t/p/w185/ud1yId0IvFKBseGf4KXwmjShwsN.jpg",
-    "rating": "7.3",
-    "year": "Jan. 25, 2002",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jamie era la última persona de la que se enamoraría Landon. Demasiado seria y conservadora para su gusto. Hija de un pastor de la iglesia baptista, Jamie no tenía miedo de manifestar que la fe era lo más importante en su vida, aunque ello le costara las críticas de sus compañeros. Landon y su pandilla mandaban en la escuela, pero su reinado terminaría en cuanto salieran del instituto y tuvieran que afrontar las responsabilidades de la vida.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/W/F/2/L/WF2Lv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/W/F/2/L/WF2Lv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "V de Vendetta ; V de Venganza",
-    "image": "https://image.tmdb.org/t/p/w185/yJea98u5qGwRoKlWhUXZw5rUaqo.jpg",
-    "rating": "8.1",
-    "year": "Feb. 23, 2006",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En un futuro no muy lejano, Gran Bretaña es un país totalitario dirigido con mano de hierro por un tirano (John Hurt). Una tarde, tras el toque de queda nocturno, la joven Evey (Natalie Portman) es rescatada en plena calle por un misterioso enmascarado cuyo nombre es V (Hugo Weaving). El extraño personaje le explica cuáles son sus planes para combatir la falta de libertad. A partir de ese momento, las acciones de V tendrán como objetivo hacer estallar en todo el país una revolución contra el gobierno fascista.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/3e/s8/2/f/8/1/S/f81Sw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Vacaciones de verano",
-    "image": "https://image.tmdb.org/t/p/w185/14SsotUuzTYKmPRxvIoFgHzwegf.jpg",
-    "rating": "5",
-    "year": "Jul. 06, 2023",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Dos amigos, Oscar y Félix, pierden su trabajo y se ven obligados a aceptar un trabajo temporal como animadores infantiles en un hotel de lujo. Al ser ambos divorciados, les tocan sus hijos un mes de verano y les es imposible compaginarlo con el trabajo, con lo cual deciden llevarse a los niños y ocultarlos en el hotel, escondidos en la zona de empleados… pero el plan resulta ser un desastre.",
-    "genres": [
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/i/t/Y/fitYs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Un mal día lo tiene cualquiera",
-    "image": "https://image.tmdb.org/t/p/w185/uL8C0mvkwr9N13GOr9OtblyWez4.jpg",
-    "rating": "6.1",
-    "year": "Jan. 26, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuenta la historia de Sonia, una mujer responsable, ordenada y con el sentido de la norma muy integrada. Sin embargo en una sola noche esta controladora de manual se verá obligada a hacer todo aquello que no se ha atrevido a hacer en treinta y seis años.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/Q/A/B/vQABq.aaa.mp4"
       }
     ]
   },
@@ -752,24 +706,43 @@
     ]
   },
   {
-    "title": "Venganza",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/8VypPpIvtHfYCeA4iwshnd35vbm-185x278.jpg",
-    "rating": "5.6",
-    "year": "Feb. 26, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+    "title": "Un mal día lo tiene cualquiera",
+    "image": "https://image.tmdb.org/t/p/w185/uL8C0mvkwr9N13GOr9OtblyWez4.jpg",
+    "rating": "6.1",
+    "year": "Jan. 26, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuenta la historia de Sonia, una mujer responsable, ordenada y con el sentido de la norma muy integrada. Sin embargo en una sola noche esta controladora de manual se verá obligada a hacer todo aquello que no se ha atrevido a hacer en treinta y seis años.",
     "genres": [
-      "Acción",
-      "Suspense"
+      "Comedia"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/a4/s8/2/M/U/Y/i/MUYiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3195795968-3195859337"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/v/Q/A/B/vQABq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Un paseo para recordar ; Un amor para recorda",
+    "image": "https://image.tmdb.org/t/p/w185/ud1yId0IvFKBseGf4KXwmjShwsN.jpg",
+    "rating": "7.3",
+    "year": "Jan. 25, 2002",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jamie era la última persona de la que se enamoraría Landon. Demasiado seria y conservadora para su gusto. Hija de un pastor de la iglesia baptista, Jamie no tenía miedo de manifestar que la fe era lo más importante en su vida, aunque ello le costara las críticas de sus compañeros. Landon y su pandilla mandaban en la escuela, pero su reinado terminaría en cuanto salieran del instituto y tuvieran que afrontar las responsabilidades de la vida.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/W/F/2/L/WF2Lv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/W/F/2/L/WF2Lv.caa.mp4"
       }
     ]
   },
@@ -793,6 +766,47 @@
     ]
   },
   {
+    "title": "Venganza",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0206.jpg",
+    "rating": "5.6",
+    "year": "Feb. 26, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/a4/s8/2/M/U/Y/i/MUYiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3195795968-3195859337"
+      }
+    ]
+  },
+  {
+    "title": "Un vecino con pocas luces ; Una navidad muy prendida",
+    "image": "https://image.tmdb.org/t/p/w185/icToXS9r12hEXERVBYHBR0kKCeO.jpg",
+    "rating": "5",
+    "year": "Nov. 22, 2006",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Para Steve Finch (Matthew Broderick), un optometrista de Massachussetts, la mejor época del año es la Navidad. Durante muchos años, ha conservado tradiciones que su mujer y sus hijos ya no pueden soportar. A pesar de ello, sigue teniendo un calendario del mes de diciembre repleto de actividades: la foto para la felicitación navideña, el ritual del árbol, los villancicos… Pero la felicidad de Steve se ve perturbada de repente por Buddy Hall (Danny DeVito), un astuto vendedor de coches que se instala en la casa de al lado.",
+    "genres": [
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/P/Q/F/BPQFn.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Venganza Despiadada ; Colombiana ; Kataleya",
     "image": "https://image.tmdb.org/t/p/w185/vUbVAT8CS6b4r7ZWQ6GpCj1qvGI.jpg",
     "rating": "6.4",
@@ -810,26 +824,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/C/m/1/2/Cm12u.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Viaje 2: La Isla Misteriosa",
-    "image": "https://image.tmdb.org/t/p/w185/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
-    "rating": "5.7",
-    "year": "Jan. 19, 2012",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Sean recibe una llamada de socorro desde una misteriosa isla, que no aparece en los mapas. Se trata de un lugar con extrañas formas de vida. Sean emprenderá la búsqueda acompañado de su padrastro, de un piloto de helicóptero y su hermosa y temperamental hija. Secuela de «Viaje al centro de la tierra",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/ce/s8/2/I/9/f/t/I9fty.aaa.mp4"
       }
     ]
   }

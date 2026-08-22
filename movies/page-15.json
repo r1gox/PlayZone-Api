@@ -1,46 +1,7 @@
 [
   {
-    "title": "Ferrari",
-    "image": "https://image.tmdb.org/t/p/w185/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg",
-    "rating": "6.5",
-    "year": "Dec. 14, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.",
-    "genres": [
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/K/4/l/a/K4lar.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Godzilla Minus One",
-    "image": "https://image.tmdb.org/t/p/w185/AjbaIWNKMkXF7I29n20f7rYsEki.jpg",
-    "rating": "7.7",
-    "year": "Nov. 03, 2023",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas… y mucho menos defenderse?",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/s/Z/M/k/sZMky.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Godzilla vs. Kong",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/yJTk4eqQd9Yo5REpFbTSOMkbSgn-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0098.jpg",
     "rating": "6.3",
     "year": "Mar. 24, 2021",
     "quality": "720p HD",
@@ -81,6 +42,25 @@
     ]
   },
   {
+    "title": "Ferrari",
+    "image": "https://image.tmdb.org/t/p/w185/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg",
+    "rating": "6.5",
+    "year": "Dec. 14, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/K/4/l/a/K4lar.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Golpe de superación",
     "image": "https://image.tmdb.org/t/p/w185/zv4jdLV7wuQGwhwAOeD7qzd8eSF.jpg",
     "rating": "3.5",
@@ -96,6 +76,48 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fww1/c4/s8/2/-/A/v/w/-Avwy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Furia de titanes",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0093.jpg",
+    "rating": "5.8",
+    "year": "Mar. 26, 2010",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Adaptación libre del mito de Perseo, hijo de Zeus, el padre de los dioses griegos. Perseo y su madre Dánae, son encerrados en un baúl por Acrisio, su abuelo, y arrojados al mar. Arrastrados por la corriente, llegan a la isla de Sérifos, donde Perseo alcanza la madurez. Cuando sepa cuál es la misión que le ha sido encomendada por el Destino, emprenderá un durísimo viaje, en el que tendrá que ir superando diversas pruebas.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvcTA5c2xibTZueTE2X24vaW5kZXgtdjEtYTEubTN1OD90PUNQZ0syUnZLVE9fQUp6MGc3US10aWtPZzFyamQ3UURHWUhubWZQREFkUlUmcz0xNzg3MzYwNzg0JmU9NDMyMDAmdj0zMjU0MDQwMzImc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Gravity ; Gravedad",
+    "image": "https://image.tmdb.org/t/p/w185/3CKbEXrw88LNvBU3baISh1I7JP4.jpg",
+    "rating": "7.7",
+    "year": "Oct. 03, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante un paseo espacial rutinario, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera en su primera misión espacial en la Shuttle. Su acompañante es el veterano astronauta Matt Kowalsky. Durante el paseo algo sale mal y ocurre el desastre: el shuttle queda destrozado, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarán por todos los medios volver a la Tierra.",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/43/s8/2/-/q/A/n/-qAnw.aaa.mp4"
       }
     ]
   },
@@ -121,28 +143,6 @@
     ]
   },
   {
-    "title": "Furiosa: de la saga Mad Max",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/txUUoowOD2MrGXAtI3pWifLR9p6-185x278.jpg",
-    "rating": "7.9",
-    "year": "May. 22, 2024",
-    "quality": "720 HD720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de ‘Mad Max: Furia en la carretera’ (2015).",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNS52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvbW00Y2RuMGg2MWg4X24vaW5kZXgtdjEtYTIubTN1OD90PVNZS05TcjZPSi1vWmdaVWQ1X2w3eHEwamZOYzVkeUtqLW5YekdlZ213ZWcmcz0xNzg3MzYxMTgyJmU9NDMyMDAmdj0zMjUzMzMzNjYmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPW1tNGNkbjBoNjFoOCZyPWU"
-      }
-    ]
-  },
-  {
     "title": "GTMAX",
     "image": "https://image.tmdb.org/t/p/w185/qrWTjqbf4gzT8BkWqB7VceWJXVU.jpg",
     "rating": "0",
@@ -163,8 +163,32 @@
     ]
   },
   {
+    "title": "Gatúbela ; Catwoman",
+    "image": "https://image.tmdb.org/t/p/w185/l40ot7UBtLOmse1qn4NI97w3ve3.jpg",
+    "rating": "3.4",
+    "year": "Jul. 22, 2004",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Patience Philips (Halle Berry) es una mujer sumisa y siempre dispuesta a agradar a la gente, que trabaja como diseñadora gráfica para el gigantesco laboratorio de cosméticos Hedare Beauty, dirigido por el despótico George Hedare (Lambert Wilson) y su esposa, la supermodelo Laurel (Sharon Stone). La tímida Patience se entera por casualidad de un siniestro secreto sobre un revolucionario producto antienvejecimiento de la compañía que pronto va a salir a la venta y se ve envuelta en una conspiración. Justo entonces es salvada de la muerte al renacer con la fuerza, la velocidad, la agilidad y los agudísimos sentidos de un gato. En su nueva vida de venganzas como Catwoman la guiará una misteriosa mujer llamada Ophelia Powers (Frances Conroy).",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/n/1/S/T/n1STv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/n/1/S/T/n1STv.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Guerra de Papás",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/stFOBXXoEMeGm7S5z7nTNGXJZ4G-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0102.jpg",
     "rating": "6.2",
     "year": "Dec. 25, 2015",
     "quality": "720p HD",
@@ -185,7 +209,7 @@
   },
   {
     "title": "Guerra de Papás 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/aXpW8D8IMbeaRKvqvDt4K58mvv0-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0103.jpg",
     "rating": "6.1",
     "year": "Nov. 09, 2017",
     "quality": "720p HD",
@@ -253,30 +277,6 @@
     ]
   },
   {
-    "title": "Gatúbela ; Catwoman",
-    "image": "https://image.tmdb.org/t/p/w185/l40ot7UBtLOmse1qn4NI97w3ve3.jpg",
-    "rating": "3.4",
-    "year": "Jul. 22, 2004",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Patience Philips (Halle Berry) es una mujer sumisa y siempre dispuesta a agradar a la gente, que trabaja como diseñadora gráfica para el gigantesco laboratorio de cosméticos Hedare Beauty, dirigido por el despótico George Hedare (Lambert Wilson) y su esposa, la supermodelo Laurel (Sharon Stone). La tímida Patience se entera por casualidad de un siniestro secreto sobre un revolucionario producto antienvejecimiento de la compañía que pronto va a salir a la venta y se ve envuelta en una conspiración. Justo entonces es salvada de la muerte al renacer con la fuerza, la velocidad, la agilidad y los agudísimos sentidos de un gato. En su nueva vida de venganzas como Catwoman la guiará una misteriosa mujer llamada Ophelia Powers (Frances Conroy).",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/n/1/S/T/n1STv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/n/1/S/T/n1STv.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Hachiko 2",
     "image": "https://image.tmdb.org/t/p/w185/uTETTVc9ghtGwKMvHpsJJMe46Xe.jpg",
     "rating": "0",
@@ -315,13 +315,13 @@
     ]
   },
   {
-    "title": "GirlHouse",
-    "image": "https://image.tmdb.org/t/p/w185/s4nMZQVegmgWzj0V7UUUPFqgwCt.jpg",
-    "rating": "5.5",
-    "year": "Oct. 16, 2014",
-    "quality": "720 HD",
+    "title": "Halloween",
+    "image": "https://image.tmdb.org/t/p/w185/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
+    "rating": "6.5",
+    "year": "Oct. 18, 2018",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Una joven universitaria, necesitando dinero para la matrícula, se muda sola a una casa, donde puede subir tranquilamente material porno a un sitio web. Unos desquiciados hackers determinan la ubicación de la casa, y a partir de ese momento ella se encuentra en una aterradora lucha por salvar su vida.",
+    "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie «Halloween», ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
     "genres": [
       "Suspense",
       "Terror"
@@ -329,11 +329,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.caa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/c1/s8/2/7/w/E/9/7wE9x.aaa.mp4"
       }
     ]
   },
@@ -357,13 +353,13 @@
     ]
   },
   {
-    "title": "Halloween 4: El regreso de Michael Myers",
-    "image": "https://image.tmdb.org/t/p/w185/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
-    "rating": "5.8",
-    "year": "Oct. 21, 1988",
-    "quality": "720p HD",
+    "title": "GirlHouse",
+    "image": "https://image.tmdb.org/t/p/w185/s4nMZQVegmgWzj0V7UUUPFqgwCt.jpg",
+    "rating": "5.5",
+    "year": "Oct. 16, 2014",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Michael Myers, un psicópata que mató a dieciséis personas, acabó siendo capturado por su propio médico, el doctor Lomis. Tras pasar diez años encarcelado en una prisión de máxima seguridad, Myers es trasladado, en estado catatónico, al Instituto Mental de Richmond. Pero inexplicablemente se vuelve a escapar con el fin de asesinar a su único familiar vivo, su sobrina Jamie Lloyd. De nuevo el doctor Lomis intentará atraparlo.",
+    "description": "Una joven universitaria, necesitando dinero para la matrícula, se muda sola a una casa, donde puede subir tranquilamente material porno a un sitio web. Unos desquiciados hackers determinan la ubicación de la casa, y a partir de ese momento ella se encuentra en una aterradora lucha por salvar su vida.",
     "genres": [
       "Suspense",
       "Terror"
@@ -371,7 +367,11 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/F/T/7/QFT7t.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/r/f/p/xrfps.caa.mp4"
       }
     ]
   },
@@ -391,6 +391,45 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/Z/P/S/7/ZPS7t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween 4: El regreso de Michael Myers",
+    "image": "https://image.tmdb.org/t/p/w185/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
+    "rating": "5.8",
+    "year": "Oct. 21, 1988",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Michael Myers, un psicópata que mató a dieciséis personas, acabó siendo capturado por su propio médico, el doctor Lomis. Tras pasar diez años encarcelado en una prisión de máxima seguridad, Myers es trasladado, en estado catatónico, al Instituto Mental de Richmond. Pero inexplicablemente se vuelve a escapar con el fin de asesinar a su único familiar vivo, su sobrina Jamie Lloyd. De nuevo el doctor Lomis intentará atraparlo.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/F/T/7/QFT7t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halloween 5: La venganza de Michael Myers",
+    "image": "https://image.tmdb.org/t/p/w185/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg",
+    "rating": "4.9",
+    "year": "Oct. 12, 1989",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Michael Myers, el psicópata asesino ha vuelto a sobrevivir a las heridas de bala después de la persecución policial y, obsesionado por la venganza, continua buscando a su pequeña sobrina para asesinarla. Jamie ha sido hospitalizada y debido a un shock traumático ha perdido la capacidad del habla. Sin embargo ha desarrollado un vínculo telepático con su tío Michael y sabe que sigue vivo y que la está buscando para vengarse.",
+    "genres": [
+      "Fantasía",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/T/X/Z/7/TXZ7t.aaa.mp4"
       }
     ]
   },
@@ -419,22 +458,21 @@
     ]
   },
   {
-    "title": "Halloween 5: La venganza de Michael Myers",
-    "image": "https://image.tmdb.org/t/p/w185/aYW5YLdTQQ8taHCo8ezblLATCOB.jpg",
-    "rating": "4.9",
-    "year": "Oct. 12, 1989",
+    "title": "Halloween Kills: La Noche Aún No Termina",
+    "image": "https://image.tmdb.org/t/p/w185/j1Jf5OCpjCDBCp4K7Nnh8JlvNUJ.jpg",
+    "rating": "5.5",
+    "year": "Oct. 14, 2021",
     "quality": "720p HD",
     "languages": [],
-    "description": "Michael Myers, el psicópata asesino ha vuelto a sobrevivir a las heridas de bala después de la persecución policial y, obsesionado por la venganza, continua buscando a su pequeña sobrina para asesinarla. Jamie ha sido hospitalizada y debido a un shock traumático ha perdido la capacidad del habla. Sin embargo ha desarrollado un vínculo telepático con su tío Michael y sabe que sigue vivo y que la está buscando para vengarse.",
+    "description": "Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de supervivientes de la primera masacre de Michael quienes deciden hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas.",
     "genres": [
-      "Fantasía",
       "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/T/X/Z/7/TXZ7t.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/a0/s8/2/w/B/j/_/wBj_x.aaa.mp4"
       }
     ]
   },
@@ -454,25 +492,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/B/S/C/b/BSCbu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween Kills: La Noche Aún No Termina",
-    "image": "https://image.tmdb.org/t/p/w185/j1Jf5OCpjCDBCp4K7Nnh8JlvNUJ.jpg",
-    "rating": "5.5",
-    "year": "Oct. 14, 2021",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de supervivientes de la primera masacre de Michael quienes deciden hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/a0/s8/2/w/B/j/_/wBj_x.aaa.mp4"
       }
     ]
   },
@@ -500,45 +519,6 @@
     ]
   },
   {
-    "title": "Gravity ; Gravedad",
-    "image": "https://image.tmdb.org/t/p/w185/3CKbEXrw88LNvBU3baISh1I7JP4.jpg",
-    "rating": "7.7",
-    "year": "Oct. 03, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Durante un paseo espacial rutinario, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera en su primera misión espacial en la Shuttle. Su acompañante es el veterano astronauta Matt Kowalsky. Durante el paseo algo sale mal y ocurre el desastre: el shuttle queda destrozado, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarán por todos los medios volver a la Tierra.",
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/43/s8/2/-/q/A/n/-qAnw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Halloween",
-    "image": "https://image.tmdb.org/t/p/w185/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
-    "rating": "6.5",
-    "year": "Oct. 18, 2018",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas. Esta película, la undécima película de la serie «Halloween», ignorará los eventos de todas las secuelas anteriores, retomando 40 años después de los eventos de la película original.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/c1/s8/2/7/w/E/9/7wE9x.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Harold y Kumar 1: Aventura nocturna",
     "image": "https://image.tmdb.org/t/p/w185/hEtVCnV6T2YpyOGZfWVY1QnMQgL.jpg",
     "rating": "7.0",
@@ -557,26 +537,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/a2/s8/2/-/7/d/h/-7dhz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=697793024-697846247"
-      }
-    ]
-  },
-  {
-    "title": "Godzilla y Kong: El nuevo imperio",
-    "image": "https://image.tmdb.org/t/p/w185/iLa15KURiosRmvtWP6vKqBT11Le.jpg",
-    "rating": "0",
-    "year": "Mar. 27, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/q/I/fEqIr.aaa.mp4"
       }
     ]
   },
@@ -603,8 +563,50 @@
     ]
   },
   {
+    "title": "Godzilla y Kong: El nuevo imperio",
+    "image": "https://image.tmdb.org/t/p/w185/iLa15KURiosRmvtWP6vKqBT11Le.jpg",
+    "rating": "0",
+    "year": "Mar. 27, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/q/I/fEqIr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Guardianes de la Galaxia: Volumen 3",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0101.jpg",
+    "rating": "8.3",
+    "year": "May. 03, 2023",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvcjl3OGtxamlxM3BiX24vaW5kZXgtdjEtYTEubTN1OD90PWNEOFZwekdSaW1vSUkxbmtkUWl0OG1VZmpiak9wNmtoeTMzNVJfSnMyVVkmcz0xNzg3MzYwODExJmU9NDMyMDAmdj0zMjk5Nzk5NzUmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
     "title": "Guardianes de la galaxia",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/rzEmtM8qrvRKNdJUUiizdNHTccV-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0099.jpg",
     "rating": "8",
     "year": "Jul. 30, 2014",
     "quality": "720 HD",
@@ -646,43 +648,45 @@
     ]
   },
   {
-    "title": "Guardianes de la Galaxia: Volumen 3",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/voAxRv011XHK2qFBXmZKXPj2wWB-185x278.jpg",
-    "rating": "8.3",
-    "year": "May. 03, 2023",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se completa, podría llevar al final de los Guardianes tal como los conocemos.",
+    "title": "Green Lantern: Cuidado con mi poder",
+    "image": "https://image.tmdb.org/t/p/w185/jkXGB3K0m0VgqHjO7u5rWjDzYca.jpg",
+    "rating": "6.2",
+    "year": "May. 19, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "El francotirador de la Marina recién dado de baja, John Stewart, se encuentra en una encrucijada en su vida, que solo se complica al recibir un anillo extraterrestre que le otorga los poderes de la Linterna Verde de la Tierra. Desafortunadamente, el anillo no viene con instrucciones, pero sí con equipaje, como una horda de asesinos interplanetarios empeñados en eliminar a todos los Green Lantern del universo. Ahora, con la ayuda del alegre Green Arrow, Adam Strange y Hawkgirl, este soldado reacio debe viajar al corazón de una guerra galáctica entre Rann y Thanagar y de alguna manera tener éxito donde todos los demás Green Lanterns han fracasado.",
     "genres": [
       "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Animación",
+      "Ciencia ficción",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvcjl3OGtxamlxM3BiX24vaW5kZXgtdjEtYTEubTN1OD90PWNEOFZwekdSaW1vSUkxbmtkUWl0OG1VZmpiak9wNmtoeTMzNVJfSnMyVVkmcz0xNzg3MzYwODExJmU9NDMyMDAmdj0zMjk5Nzk5NzUmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
+        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.caa.mp4"
       }
     ]
   },
   {
-    "title": "Green Book",
-    "image": "https://image.tmdb.org/t/p/w185/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
-    "rating": "8.2",
-    "year": "Nov. 16, 2018",
-    "quality": "720 HD",
+    "title": "Headless Horseman",
+    "image": "https://image.tmdb.org/t/p/w185/epDv0AW4qUbxqVHCiX1M5tzwxfn.jpg",
+    "rating": "3.9",
+    "year": "Oct. 27, 2007",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en «El libro verde», una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
+    "description": "Un grupo de jóvenes perdidos, pasan la noche de Halloween en un pequeño pueblo, con una leyenda oscura. Pronto se encontrarán con que les persigue un jinete sin cabeza, para intentar conseguir las suyas. Basada en la historia de Washington Irving, «La leyenda de Sleepy Hollow».",
     "genres": [
-      "Drama",
-      "Familia"
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/c/o/M/2/coM2n.caa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/3b/s8/2/v/r/Y/q/vrYqx.aaa.mp4"
       }
     ]
   },
@@ -707,45 +711,21 @@
     ]
   },
   {
-    "title": "Headless Horseman",
-    "image": "https://image.tmdb.org/t/p/w185/epDv0AW4qUbxqVHCiX1M5tzwxfn.jpg",
-    "rating": "3.9",
-    "year": "Oct. 27, 2007",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un grupo de jóvenes perdidos, pasan la noche de Halloween en un pequeño pueblo, con una leyenda oscura. Pronto se encontrarán con que les persigue un jinete sin cabeza, para intentar conseguir las suyas. Basada en la historia de Washington Irving, «La leyenda de Sleepy Hollow».",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/3b/s8/2/v/r/Y/q/vrYqx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Green Lantern: Cuidado con mi poder",
-    "image": "https://image.tmdb.org/t/p/w185/jkXGB3K0m0VgqHjO7u5rWjDzYca.jpg",
-    "rating": "6.2",
-    "year": "May. 19, 2022",
+    "title": "Green Book",
+    "image": "https://image.tmdb.org/t/p/w185/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
+    "rating": "8.2",
+    "year": "Nov. 16, 2018",
     "quality": "720 HD",
     "languages": [],
-    "description": "El francotirador de la Marina recién dado de baja, John Stewart, se encuentra en una encrucijada en su vida, que solo se complica al recibir un anillo extraterrestre que le otorga los poderes de la Linterna Verde de la Tierra. Desafortunadamente, el anillo no viene con instrucciones, pero sí con equipaje, como una horda de asesinos interplanetarios empeñados en eliminar a todos los Green Lantern del universo. Ahora, con la ayuda del alegre Green Arrow, Adam Strange y Hawkgirl, este soldado reacio debe viajar al corazón de una guerra galáctica entre Rann y Thanagar y de alguna manera tener éxito donde todos los demás Green Lanterns han fracasado.",
+    "description": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en «El libro verde», una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
     "genres": [
-      "Acción",
-      "Animación",
-      "Ciencia ficción",
-      "Fantasía"
+      "Drama",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/z/E/B/DzEBp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/c/o/M/2/coM2n.caa.mp4"
       }
     ]
   },
@@ -791,6 +771,25 @@
     ]
   },
   {
+    "title": "Hablame ; Talk To Me",
+    "image": "https://image.tmdb.org/t/p/w185/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+    "rating": "7.2",
+    "year": "Jul. 26, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/V/3/F/JV3Fn.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Guardianes de la noche: Kimetsu no Yaiba ; Rumbo al Entrenamiento de los Pilares",
     "image": "https://image.tmdb.org/t/p/w185/8g56u2k9CvMHP5IG257QVj9gj1b.jpg",
     "rating": "6.6",
@@ -811,13 +810,13 @@
     ]
   },
   {
-    "title": "Hablame ; Talk To Me",
-    "image": "https://image.tmdb.org/t/p/w185/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+    "title": "Heretic ; Hereje",
+    "image": "https://image.tmdb.org/t/p/w185/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg",
     "rating": "7.2",
-    "year": "Jul. 26, 2023",
-    "quality": "720 HD",
+    "year": "Oct. 31, 2024",
+    "quality": "720p HD",
     "languages": [],
-    "description": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+    "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
     "genres": [
       "Suspense",
       "Terror"
@@ -825,7 +824,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/V/3/F/JV3Fn.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/7/B/2/B/7B2Bv.aaa.mp4"
       }
     ]
   }

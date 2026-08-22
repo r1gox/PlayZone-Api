@@ -1,50 +1,25 @@
 [
   {
-    "title": "Misión: Imposible ; La sentencia final",
-    "image": "https://image.tmdb.org/t/p/w185/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
-    "rating": "7.6",
-    "year": "May. 17, 2025",
-    "quality": "CAM-HDTS",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La Entidad, la IA experimental que se ha convertido en el villano de la historia, sigue activa y cuenta con el apoyo del malvado Gabriel en el mundo de los cárnicos. Por suerte, Ethan y su equipo tienen la llave que les podría dar el control de la Entidad, algo que les obligará a arriesgarse para eliminar a esa IA que descansa en el fondo del mar.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/93/s8/2/D/I/P/N/DIPNy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278755328-1278853266"
-      }
-    ]
-  },
-  {
-    "title": "Mi amiga la Sirena ; Aquamarine",
-    "image": "https://image.tmdb.org/t/p/w185/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg",
-    "rating": "5.4",
-    "year": "Mar. 03, 2006",
+    "title": "Mi novia otaku",
+    "image": "https://image.tmdb.org/t/p/w185/z6SPMcFwhaegPqsIXku3osqRcYX.jpg",
+    "rating": "7.1",
+    "year": "Sep. 28, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Claire y Hailey son dos grandes amigas de trece años de edad que se embarcan en la aventura de sus vidas cuando descubren a una sirena llamada Aquamarine dentro de una piscina. Aquamarine ha aparecido en tierra tras una gran tormenta que ha golpeado duramente el club de playa de una pequeña ciudad de Florida, en la que Claire vive con sus padres. La sirena, guapa y de pelo azul, de dieciocho años, ha abandonado su hogar justo antes de su matrimonio arreglado, en busca del amor verdadero. Si logra demostrar a su padre que ese tipo de amor no es un mito, la dejará cancelar la boda bajo el agua; pero sólo le ha dado tres días. Aqua reclama la ayuda de Claire y Hailey, quienes supuestamente son dos grandes expertas en el tema, las cuales se han instruido a través de las páginas de las revistas que leen y citan a diario.",
+    "description": "Manuel debe elegir entre el deseo de su madre de que estudie en Oxford o su pasión por el manga. Cuando conoce a Eugenia, una fan del manga que ama su trabajo, se enfrenta a un dilema: seguir sus sueños o su deber.",
     "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía",
-      "Romance"
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/C/M/L/HCMLr.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/a/M/l/DaMln.caa.mp4"
       }
     ]
   },
   {
     "title": "Moana (2026)",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/iq7yh7zOLGLp4TGNCYmd29FVy8H-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0144.jpg",
     "rating": "8",
     "year": "2026",
     "quality": "",
@@ -64,29 +39,8 @@
     ]
   },
   {
-    "title": "Monster House",
-    "image": "https://image.tmdb.org/t/p/w185/AiwWH826I8a1dYTRMDFZEXsw9E3.jpg",
-    "rating": "6.7",
-    "year": "Jun. 30, 2006",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/X/Q/D/fXQDv.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Milagro en la celda 7",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/scxBIHaT1ZiPDPJu3vKd9Yn5gBA-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0141.jpg",
     "rating": "8.2",
     "year": "Oct. 10, 2019",
     "quality": "720 HD",
@@ -101,70 +55,6 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDEwLzlsMDUxc2NoZmw3a19uL2luZGV4LXYxLWExLm0zdTg_dD1EQ3FpcHpyM3REQWpmRFFmMVRQOTYtQW8yVHRtMnlWU2tqcUhibjhUTVJZJnM9MTc4NzM2MDc5OSZlPTQzMjAwJnY9MzI1MzMwOTg5Jmk9MC4zJnNwPTAmZnI9OWwwNTFzY2hmbDdrJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Milagros Inesperados",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/7ezlnHDn6clFku58TmFmpKUQUqf-185x278.jpg",
-    "rating": "8.6",
-    "year": "Dec. 10, 1999",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA2LzJrdXB4dTc2Mnd6ZV9uL2luZGV4LXYxLWExLm0zdTg_dD1XeWZQMEJudHVJVWtkcnEwaVpoRGZIbFI5ZjlpdzdHTnJ0VVZNTTg2N2J3JnM9MTc4NzM2MDc4NCZlPTQzMjAwJnY9MzMxOTE5MTY0Jmk9MC4zJnNwPTAmZnI9Mmt1cHh1NzYyd3plJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Monsters of Man",
-    "image": "https://image.tmdb.org/t/p/w185/sztMkFpWTZIGVHNQhnlXpRlbXLq.jpg",
-    "rating": "5.4",
-    "year": "Nov. 19, 2020",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Una empresa de robótica que compite para ganar un lucrativo contrato militar se une a un agente corrupto de la CIA para realizar una prueba de campo en vivo ilegal. Desplegan cuatro prototipos de robots armados en un supuesto campo de fabricación de drogas en el Triángulo Dorado, asumiendo que estarían matando a traficantes de drogas que nadie se perdería. Seis médicos en misión humanitaria son testigos de la brutal matanza y se convierten en objetivos principales.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/c1/s8/2/8/E/0/2/8E02z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1044375040-1044454472"
-      }
-    ]
-  },
-  {
-    "title": "Mortal Kombat II ; Mortal Kombat 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/ivVKHht5jutNGnObn1y5sSDrAXn-185x278.jpg",
-    "rating": "9.8",
-    "year": "2026",
-    "quality": "",
-    "languages": [],
-    "description": "Los campeones favoritos de los fans —ahora acompañados por el mismísimo Johnny Cage— se enfrentan entre sí en la batalla definitiva, sangrienta y sin reglas, para derrotar el oscuro dominio de Shao Kahn, que amenaza con destruir el Reino de la Tierra y a sus defensores.",
-    "genres": [
-      "4k",
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/4f/s8/2/-/3/I/I/-3IIA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5539706880-5539777781"
       }
     ]
   },
@@ -195,58 +85,86 @@
     ]
   },
   {
-    "title": "Mr. Deeds",
-    "image": "https://image.tmdb.org/t/p/w185/8ZIQnONPyM7dS1mc7N2LSpsyiVU.jpg",
-    "rating": "5.8",
-    "year": "Jun. 28, 2002",
-    "quality": "BBRIP",
+    "title": "Monster House",
+    "image": "https://image.tmdb.org/t/p/w185/AiwWH826I8a1dYTRMDFZEXsw9E3.jpg",
+    "rating": "6.7",
+    "year": "Jun. 30, 2006",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Deeds (Adam Sandler) es un ingenuo provinciano que vive en un pueblo de New Hampshire. Como propietario de «Deeds’ Pizza», la única pizzeria del pueblo, se ha hecho muy popular por su particular manera de entretener a los clientes recitándoles sus insólitos poemas. La vida transcurre plácidamente hasta que recibe la noticia de que un pariente lejano le ha dejado una herencia de cuarenta billones de dólares, una cadena de medios de comunicación, un equipo de fútbol, un equipo de baloncesto y un helicóptero privado.",
+    "description": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/X/Q/D/fXQDv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mi amiga la Sirena ; Aquamarine",
+    "image": "https://image.tmdb.org/t/p/w185/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg",
+    "rating": "5.4",
+    "year": "Mar. 03, 2006",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Claire y Hailey son dos grandes amigas de trece años de edad que se embarcan en la aventura de sus vidas cuando descubren a una sirena llamada Aquamarine dentro de una piscina. Aquamarine ha aparecido en tierra tras una gran tormenta que ha golpeado duramente el club de playa de una pequeña ciudad de Florida, en la que Claire vive con sus padres. La sirena, guapa y de pelo azul, de dieciocho años, ha abandonado su hogar justo antes de su matrimonio arreglado, en busca del amor verdadero. Si logra demostrar a su padre que ese tipo de amor no es un mito, la dejará cancelar la boda bajo el agua; pero sólo le ha dado tres días. Aqua reclama la ayuda de Claire y Hailey, quienes supuestamente son dos grandes expertas en el tema, las cuales se han instruido a través de las páginas de las revistas que leen y citan a diario.",
     "genres": [
       "Comedia",
+      "Familia",
+      "Fantasía",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/G/O/K/kGOKt.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/H/C/M/L/HCMLr.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Muchas mas hormigas entre las piernas ; Hammerharte Jungs",
-    "image": "https://image.tmdb.org/t/p/w185/9PuK45DWcRlp47v7hbOO0IZZSi6.jpg",
-    "rating": "4.8",
-    "year": "May. 24, 2023",
+    "title": "Monsters of Man",
+    "image": "https://image.tmdb.org/t/p/w185/sztMkFpWTZIGVHNQhnlXpRlbXLq.jpg",
+    "rating": "5.4",
+    "year": "Nov. 19, 2020",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Dos mejores amigos intentan salir adelante en el instituto mientras se enfrentan a nuevos y vergonzosos impulsos y a sus muy inconvenientes sentimientos el uno por la otra. ⬇⬇⬇⬇⬇",
-    "genres": [
-      "Comedia"
+    "languages": [
+      "Latino"
     ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/8b/s8/2/7/J/t/a/7Jtax.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Muerte En La Granja ; Ovejas Asesinas",
-    "image": "https://image.tmdb.org/t/p/w185/puho52FiV6ASI5wgNB8jwfCHUOV.jpg",
-    "rating": "5.8",
-    "year": "Mar. 29, 2007",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un experimento de ingeniería genética que sale terriblemente mal convierte a un gran rebaño de dóciles ovejas en implacables máquinas de matar.",
+    "description": "Una empresa de robótica que compite para ganar un lucrativo contrato militar se une a un agente corrupto de la CIA para realizar una prueba de campo en vivo ilegal. Desplegan cuatro prototipos de robots armados en un supuesto campo de fabricación de drogas en el Triángulo Dorado, asumiendo que estarían matando a traficantes de drogas que nadie se perdería. Seis médicos en misión humanitaria son testigos de la brutal matanza y se convierten en objetivos principales.",
     "genres": [
-      "Comedia",
-      "Terror"
+      "Acción",
+      "Ciencia ficción"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/ff/s8/2/o/1/N/1/o1N1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=680582656-680634686"
+        "url": "https://1a-1791.com/video/fwe2/c1/s8/2/8/E/0/2/8E02z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1044375040-1044454472"
+      }
+    ]
+  },
+  {
+    "title": "Mortal Kombat II ; Mortal Kombat 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0145.jpg",
+    "rating": "9.8",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Los campeones favoritos de los fans —ahora acompañados por el mismísimo Johnny Cage— se enfrentan entre sí en la batalla definitiva, sangrienta y sin reglas, para derrotar el oscuro dominio de Shao Kahn, que amenaza con destruir el Reino de la Tierra y a sus defensores.",
+    "genres": [
+      "4k",
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/4f/s8/2/-/3/I/I/-3IIA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5539706880-5539777781"
       }
     ]
   },
@@ -267,6 +185,48 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/c4/s8/2/u/b/T/3/ubT3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=735156224-735212386"
+      }
+    ]
+  },
+  {
+    "title": "Mujer Policia 3",
+    "image": "https://image.tmdb.org/t/p/w185/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+    "rating": "0",
+    "year": "Jan. 30, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/30/s8/2/W/Y/w/a/WYwaA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4008192512-4008272086"
+      }
+    ]
+  },
+  {
+    "title": "Mujer Maravilla ; Wonder Woman",
+    "image": "https://image.tmdb.org/t/p/w185/tp3FVzADUWl5dlfdc1cEVCLhgMG.jpg",
+    "rating": "7.3",
+    "year": "May. 30, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible, fue criada en una isla paradisíaca protegida, hasta que un día, un piloto norteamericano, que tuvo un accidente y acabó en sus costas, le habló de un gran conflicto existente en el mundo, la Primera Guerra Mundial. Diana decidió salir de la isla, convencida de que podía detener la terrible amenaza. Ahora lucha como Wonder Woman, junto a los hombres, en la guerra que acabará con todas las guerras y descubre todos sus poderes y su verdadero destino.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/S/j/q/8/Sjq8t.aaa.mp4"
       }
     ]
   },
@@ -294,26 +254,6 @@
     ]
   },
   {
-    "title": "Mujer Maravilla ; Wonder Woman",
-    "image": "https://image.tmdb.org/t/p/w185/tp3FVzADUWl5dlfdc1cEVCLhgMG.jpg",
-    "rating": "7.3",
-    "year": "May. 30, 2017",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible, fue criada en una isla paradisíaca protegida, hasta que un día, un piloto norteamericano, que tuvo un accidente y acabó en sus costas, le habló de un gran conflicto existente en el mundo, la Primera Guerra Mundial. Diana decidió salir de la isla, convencida de que podía detener la terrible amenaza. Ahora lucha como Wonder Woman, junto a los hombres, en la guerra que acabará con todas las guerras y descubre todos sus poderes y su verdadero destino.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/S/j/q/8/Sjq8t.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Mujercitas",
     "image": "https://image.tmdb.org/t/p/w185/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg",
     "rating": "7.8",
@@ -336,139 +276,21 @@
     ]
   },
   {
-    "title": "Mujer Policia 3",
-    "image": "https://image.tmdb.org/t/p/w185/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
-    "rating": "0",
-    "year": "Jan. 30, 2026",
+    "title": "Muerte En La Granja ; Ovejas Asesinas",
+    "image": "https://image.tmdb.org/t/p/w185/puho52FiV6ASI5wgNB8jwfCHUOV.jpg",
+    "rating": "5.8",
+    "year": "Mar. 29, 2007",
     "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/30/s8/2/W/Y/w/a/WYwaA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4008192512-4008272086"
-      }
-    ]
-  },
-  {
-    "title": "Mune, el guardián de la luna",
-    "image": "https://image.tmdb.org/t/p/w185/1tJdze0OyNmIHlxE7P2rSM9vtA8.jpg",
-    "rating": "7.1",
-    "year": "Feb. 05, 2015",
-    "quality": "480p SD",
     "languages": [],
-    "description": "Mune tiene una enorme responsabilidad: para sorpresa de todos, ha sido designado guardián de la luna. Sin embargo, una cadena de accidentes provocados por Mune termina con el guardián de las tinieblas robando el Sol. Con la ayuda de Sohone, el guardián del sol, y de Cire, una frágil criatura, Mune se embarca en una extraordinaria aventura para recuperar el astro.",
+    "description": "Un experimento de ingeniería genética que sale terriblemente mal convierte a un gran rebaño de dóciles ovejas en implacables máquinas de matar.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/59/s8/2/a/8/M/1/a8M1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=674813440-674864843"
-      }
-    ]
-  },
-  {
-    "title": "Monster INC ; Monstruos, S.A.",
-    "image": "https://image.tmdb.org/t/p/w185/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
-    "rating": "8.1",
-    "year": "Nov. 01, 2001",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
-    "genres": [
-      "Animación",
       "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.oaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "My Hero Academia: Tú eres el siguiente",
-    "image": "https://image.tmdb.org/t/p/w185/tyenhgr4OuwcvdgbNg5avhHG00n.jpg",
-    "rating": "7",
-    "year": "Aug. 02, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En una sociedad en la que héroes y villanos luchan continuamente en nombre de la paz y el caos, Deku, un estudiante de U.A. High School que aspira a ser el mejor héroe posible, se enfrenta al villano que imita al héroe al que admira desde hace tiempo. ¿Podrán Deku y el resto de la clase 1-A del instituto U.A. proteger el mundo acabando con Dark Might, el hombre que pretende ser el nuevo Símbolo de la Paz?",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Animes",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/m/m/-/Dmm-t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "MXP: Jack, un mono muy intrépido",
-    "image": "https://image.tmdb.org/t/p/w185/6PYoddlzl4vh3frMu1n2YpFAE4Z.jpg",
-    "rating": "4.3",
-    "year": "Jan. 20, 2004",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jack no es un mono común y le entristece estar en una reserva natural. Es por ello que su cuidadora decide organizar un viaje con los animales. Durante las vacaciones, los mejores amigos de Jack se pierden en las montañas de Colorado y Jack no duda en ir en su busca, demostrando sus dotes sobre la tabla de snowboard. Comedia infantil canadiense que repite la fórmula de un mono, con destrezas más que humanas, como protagonista. El filme da una lección sobre el trabajo en equipo y la lealtad a los amigos, siendo capaz de hacer disfrutar a la familia al completo. Como curiosidad, la película cuenta con la aparición especial del famoso experto en snowboard, Bjorn Leines. (FILMAFFINITY) Titulo Original: MXP: Jack, un mono muy intrépido País: Canada Duración: 1 h 27 min Año de Lanzamiento: (2003) Género: Infantil. Comedia | Simios. Cine familiar Formato: MKV (Matroska) Calidad: WEB-DL 1080p H264 &nbsp; Audio: Latino (AC3 5.1) | Inglés (AC3 5.1) Subtítulos: Español |Portuguese| Inglés | Français Calidad: Full HD 1080p Resolución: 1920 x 1080 Códec: H.264 Tamaño:3.84 GB &nbsp;",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9b/s8/2/m/1/g/9/m1g9w.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Máquina de guerra",
-    "image": "https://image.tmdb.org/t/p/w185/aq2vbzxcG5K3SSLReMqO5TettmE.jpg",
-    "rating": "0",
-    "year": "Feb. 12, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En su última misión de entrenamiento, un ingeniero de combate debe liderar a su unidad en una lucha por sobrevivir ante una amenaza inimaginable.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
+      "Terror"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/76/s8/2/e/k/W/8/ekW8z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1750090752-1750157238"
+        "url": "https://1a-1791.com/video/fww1/ff/s8/2/o/1/N/1/o1N1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=680582656-680634686"
       }
     ]
   },
@@ -504,6 +326,82 @@
     ]
   },
   {
+    "title": "Mune, el guardián de la luna",
+    "image": "https://image.tmdb.org/t/p/w185/1tJdze0OyNmIHlxE7P2rSM9vtA8.jpg",
+    "rating": "7.1",
+    "year": "Feb. 05, 2015",
+    "quality": "480p SD",
+    "languages": [],
+    "description": "Mune tiene una enorme responsabilidad: para sorpresa de todos, ha sido designado guardián de la luna. Sin embargo, una cadena de accidentes provocados por Mune termina con el guardián de las tinieblas robando el Sol. Con la ayuda de Sohone, el guardián del sol, y de Cire, una frágil criatura, Mune se embarca en una extraordinaria aventura para recuperar el astro.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/59/s8/2/a/8/M/1/a8M1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=674813440-674864843"
+      }
+    ]
+  },
+  {
+    "title": "Muchas mas hormigas entre las piernas ; Hammerharte Jungs",
+    "image": "https://image.tmdb.org/t/p/w185/9PuK45DWcRlp47v7hbOO0IZZSi6.jpg",
+    "rating": "4.8",
+    "year": "May. 24, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Dos mejores amigos intentan salir adelante en el instituto mientras se enfrentan a nuevos y vergonzosos impulsos y a sus muy inconvenientes sentimientos el uno por la otra. ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/8b/s8/2/7/J/t/a/7Jtax.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "MXP: Jack, un mono muy intrépido",
+    "image": "https://image.tmdb.org/t/p/w185/6PYoddlzl4vh3frMu1n2YpFAE4Z.jpg",
+    "rating": "4.3",
+    "year": "Jan. 20, 2004",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jack no es un mono común y le entristece estar en una reserva natural. Es por ello que su cuidadora decide organizar un viaje con los animales. Durante las vacaciones, los mejores amigos de Jack se pierden en las montañas de Colorado y Jack no duda en ir en su busca, demostrando sus dotes sobre la tabla de snowboard. Comedia infantil canadiense que repite la fórmula de un mono, con destrezas más que humanas, como protagonista. El filme da una lección sobre el trabajo en equipo y la lealtad a los amigos, siendo capaz de hacer disfrutar a la familia al completo. Como curiosidad, la película cuenta con la aparición especial del famoso experto en snowboard, Bjorn Leines. (FILMAFFINITY) Titulo Original: MXP: Jack, un mono muy intrépido País: Canada Duración: 1 h 27 min Año de Lanzamiento: (2003) Género: Infantil. Comedia | Simios. Cine familiar Formato: MKV (Matroska) Calidad: WEB-DL 1080p H264 &nbsp; Audio: Latino (AC3 5.1) | Inglés (AC3 5.1) Subtítulos: Español |Portuguese| Inglés | Français Calidad: Full HD 1080p Resolución: 1920 x 1080 Códec: H.264 Tamaño:3.84 GB &nbsp;",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9b/s8/2/m/1/g/9/m1g9w.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mr. Deeds",
+    "image": "https://image.tmdb.org/t/p/w185/8ZIQnONPyM7dS1mc7N2LSpsyiVU.jpg",
+    "rating": "5.8",
+    "year": "Jun. 28, 2002",
+    "quality": "BBRIP",
+    "languages": [],
+    "description": "Deeds (Adam Sandler) es un ingenuo provinciano que vive en un pueblo de New Hampshire. Como propietario de «Deeds’ Pizza», la única pizzeria del pueblo, se ha hecho muy popular por su particular manera de entretener a los clientes recitándoles sus insólitos poemas. La vida transcurre plácidamente hasta que recibe la noticia de que un pariente lejano le ha dejado una herencia de cuarenta billones de dólares, una cadena de medios de comunicación, un equipo de fútbol, un equipo de baloncesto y un helicóptero privado.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/G/O/K/kGOKt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Miller&#8217;s Girl",
     "image": "https://image.tmdb.org/t/p/w185/p49MEOKe1myBhqcnSc6TcOIwXve.jpg",
     "rating": "5.5",
@@ -523,6 +421,74 @@
     ]
   },
   {
+    "title": "My Hero Academia: Tú eres el siguiente",
+    "image": "https://image.tmdb.org/t/p/w185/tyenhgr4OuwcvdgbNg5avhHG00n.jpg",
+    "rating": "7",
+    "year": "Aug. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En una sociedad en la que héroes y villanos luchan continuamente en nombre de la paz y el caos, Deku, un estudiante de U.A. High School que aspira a ser el mejor héroe posible, se enfrenta al villano que imita al héroe al que admira desde hace tiempo. ¿Podrán Deku y el resto de la clase 1-A del instituto U.A. proteger el mundo acabando con Dark Might, el hombre que pretende ser el nuevo Símbolo de la Paz?",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Animes",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/m/m/-/Dmm-t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Máquina de guerra",
+    "image": "https://image.tmdb.org/t/p/w185/aq2vbzxcG5K3SSLReMqO5TettmE.jpg",
+    "rating": "0",
+    "year": "Feb. 12, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En su última misión de entrenamiento, un ingeniero de combate debe liderar a su unidad en una lucha por sobrevivir ante una amenaza inimaginable.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/76/s8/2/e/k/W/8/ekW8z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1750090752-1750157238"
+      }
+    ]
+  },
+  {
+    "title": "MiniCampeones ; Una pandilla de altura",
+    "image": "https://image.tmdb.org/t/p/w185/mYwV45UpHZgRHvCgMRggDnHoWJb.jpg",
+    "rating": "5.4",
+    "year": "Jul. 03, 2002",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Calvin es un niño huérfano de 14 años que encuentra unas zapatillas que pertenecieron a Michael Jordan. No son unas zapatillas cualquiera ya que poseen poderes mágicos que le convertirán en una estrella de la NBA. Una comedia fantástica dirigida al publico infantil y juvenil. A pesar de la ausencia de nombres conocidos en sus títulos de crédito, un filme patrocinado por la NBA que consiguió alcanzar los primeros puestos de la taquilla americana",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/8/d/1/k8d1r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/8/d/1/k8d1r.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Mátalos a todos 2",
     "image": "https://image.tmdb.org/t/p/w185/wCESzMHGkQoVTUNCpH72zuIewWH.jpg",
     "rating": "N/A",
@@ -538,6 +504,38 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/C/w/P/uCwPt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Monster INC ; Monstruos, S.A.",
+    "image": "https://image.tmdb.org/t/p/w185/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+    "rating": "8.1",
+    "year": "Nov. 01, 2001",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/6/L/o/u/6Lour.oaa.mp4"
       }
     ]
   },
@@ -576,6 +574,30 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fw/s8/2/f/Y/D/X/fYDXt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mortal Kombat",
+    "image": "https://image.tmdb.org/t/p/w185/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg",
+    "rating": "6",
+    "year": "Apr. 07, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/m/Q/N/QmQNp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/m/Q/N/QmQNp.caa.mp4"
       }
     ]
   },
@@ -670,32 +692,8 @@
     ]
   },
   {
-    "title": "MiniCampeones ; Una pandilla de altura",
-    "image": "https://image.tmdb.org/t/p/w185/mYwV45UpHZgRHvCgMRggDnHoWJb.jpg",
-    "rating": "5.4",
-    "year": "Jul. 03, 2002",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Calvin es un niño huérfano de 14 años que encuentra unas zapatillas que pertenecieron a Michael Jordan. No son unas zapatillas cualquiera ya que poseen poderes mágicos que le convertirán en una estrella de la NBA. Una comedia fantástica dirigida al publico infantil y juvenil. A pesar de la ausencia de nombres conocidos en sus títulos de crédito, un filme patrocinado por la NBA que consiguió alcanzar los primeros puestos de la taquilla americana",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/8/d/1/k8d1r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/8/d/1/k8d1r.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Need for Speed",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/mbVd0dXD21BxVGlmW4GyeGIR01l-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0148.jpg",
     "rating": "6.4",
     "year": "Mar. 12, 2014",
     "quality": "720 HD",
@@ -734,6 +732,29 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/P/z/g/ZPzgu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mortal Kombat",
+    "image": "https://image.tmdb.org/t/p/w185/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg",
+    "rating": "5.8",
+    "year": "Aug. 18, 1995",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+    "genres": [
+      "Acción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/5/_/S/z5_Sp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/5/_/S/z5_Sp.caa.mp4"
       }
     ]
   },
@@ -797,30 +818,6 @@
     ]
   },
   {
-    "title": "Mortal Kombat",
-    "image": "https://image.tmdb.org/t/p/w185/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg",
-    "rating": "6",
-    "year": "Apr. 07, 2021",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/m/Q/N/QmQNp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/m/Q/N/QmQNp.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Monkey Man",
     "image": "https://image.tmdb.org/t/p/w185/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
     "rating": "6.9",
@@ -840,25 +837,26 @@
     ]
   },
   {
-    "title": "Mortal Kombat",
-    "image": "https://image.tmdb.org/t/p/w185/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg",
-    "rating": "5.8",
-    "year": "Aug. 18, 1995",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+    "title": "No Game No Life: Zero",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0149.jpg",
+    "rating": "7.3",
+    "year": "Jul. 15, 2017",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Es una precuela situada 6000 años antes de la historia de Sora y Shiro, en el mundo Disboard. En esta era de guerra, todas las razas estaban peleándose entre sí, propagando una muerte irracional a los humanos que no tienen el poder para luchar. Riku es el líder de la colonia humana que trata de sobrevivir día a día. Riku, termina conociendo a Shuvi una ex-Machina (raza androide), rechazada por su gente debido a su obsesión no calculada por comprender el corazón humano. Juntos, emprenden una aventura para salvar a la raza humana.Esta historia fue un hecho de hace más de seis mil años. El «mito más antiguo» que conduce al «mito más nuevo». Sin registro ni memoria. Ahora comienza una historia que no se puede contar a nadie",
     "genres": [
       "Acción",
-      "Fantasía"
+      "Animación",
+      "Animes",
+      "Drama"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/5/_/S/z5_Sp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/5/_/S/z5_Sp.caa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/G/s/L/O/GsLOA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3270514176-3270579166"
       }
     ]
   }

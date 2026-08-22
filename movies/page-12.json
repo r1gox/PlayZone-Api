@@ -1,22 +1,25 @@
 [
   {
-    "title": "El Oso Yogui",
-    "image": "https://image.tmdb.org/t/p/w185/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
-    "rating": "4.6",
-    "year": "Dec. 17, 2010",
-    "quality": "720p HD",
+    "title": "EL Huesped ; The guest",
+    "image": "https://image.tmdb.org/t/p/w185/cG2ueipc7UPHgSk6zxXprjeFc5k.jpg",
+    "rating": "6.7",
+    "year": "Sep. 05, 2014",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Adaptación al cine de la famosa serie infantil -en una mezcla de cine de animación y personajes reales-. Una directora de documentales (Anna Faris) viaja al Parque Jellystone para filmar un proyecto. Allí no tardará en encontrarse con el Oso Yogui, su inseparable amio Boo-Boo y el guardabosques Smith",
+    "description": "Los Peterson siguen llorando el fallecimiento de su hijo Caleb en Afganistán. En pleno duelo, David (Dan Stevens), irrumpe en el hogar familiar y conquista a cada uno de sus miembros hasta que uno de ellos comienza a intuir que David no es quien parece ser.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
+      "Acción",
+      "Misterio",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/80/s8/2/M/W/Y/6/MWY6y.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/F/N/q/dFNqo.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/F/N/q/dFNqo.caa.mp4"
       }
     ]
   },
@@ -40,21 +43,21 @@
     ]
   },
   {
-    "title": "El Padrino 2 ; Parte II",
-    "image": "https://image.tmdb.org/t/p/w185/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-    "rating": "9",
-    "year": "Dec. 20, 1974",
+    "title": "El Mono ; The Monkey",
+    "image": "https://image.tmdb.org/t/p/w185/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
+    "rating": "6.6",
+    "year": "Feb. 14, 2025",
     "quality": "720p HD",
     "languages": [],
-    "description": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+    "description": "Cuando los gemelos Hal y Bill descubren el antiguo mono de juguete de su padre en el ático, una serie de truculentas muertes comienzan a ocurrir a su alrededor. Los hermanos deciden tirar el mono y continuar con sus vidas, distanciándose con el paso de los años.",
     "genres": [
-      "Crimen",
-      "Drama"
+      "Comedia",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/44/s8/2/h/j/O/p/hjOpx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fww1/21/s8/2/L/w/F/G/LwFGy.aaa.mp4"
       }
     ]
   },
@@ -75,6 +78,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/23/s8/2/9/T/P/o/9TPox.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El Padrino 2 ; Parte II",
+    "image": "https://image.tmdb.org/t/p/w185/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+    "rating": "9",
+    "year": "Dec. 20, 1974",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/44/s8/2/h/j/O/p/hjOpx.aaa.mp4"
       }
     ]
   },
@@ -138,30 +160,6 @@
     ]
   },
   {
-    "title": "EL Huesped ; The guest",
-    "image": "https://image.tmdb.org/t/p/w185/cG2ueipc7UPHgSk6zxXprjeFc5k.jpg",
-    "rating": "6.7",
-    "year": "Sep. 05, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Los Peterson siguen llorando el fallecimiento de su hijo Caleb en Afganistán. En pleno duelo, David (Dan Stevens), irrumpe en el hogar familiar y conquista a cada uno de sus miembros hasta que uno de ellos comienza a intuir que David no es quien parece ser.",
-    "genres": [
-      "Acción",
-      "Misterio",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/F/N/q/dFNqo.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/F/N/q/dFNqo.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "El reino del planeta de los simios",
     "image": "https://image.tmdb.org/t/p/w185/r8L3fUvftNeqPMCITdXJfiXbFBU.jpg",
     "rating": "7.4",
@@ -220,6 +218,47 @@
     ]
   },
   {
+    "title": "El rey escorpión",
+    "image": "https://image.tmdb.org/t/p/w185/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg",
+    "rating": "5.5",
+    "year": "Apr. 18, 2002",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia se sitúa hace 5000 años en la célebre ciudad de Gomorrah, en la cual un malvado gobernador decide arrasar con todas las tribus nómadas del desierto. Las pocas tribús que sobreviven, que por naturaleza nunca han sido aliadas, deben unirse o morir. Sabiendo que su enemigo confía en las predicciones de un brujo, contratan a un afamado asesino, Mathayus, para que liquide al vidente. Tras infiltrarse en el campamento enemigo, Mathayus descubre que el brujo es una bella mujer. En lugar de asesinarla la conduce a los páramos del desierto profundo, sabiendo que los hombres del gobernador harán cualquier cosa con tal de rescatarla y llevarla de nuevo a su campamento. Gravemente herido tras la batalla, Mathayus debe encontrar la fuerza para llevar a sus exhautos aliados de vuelta a Gomorrah para luchar en la batalla final.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/v/M/R/LvMRt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El rey león",
+    "image": "https://image.tmdb.org/t/p/w185/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+    "rating": "8.5",
+    "year": "Jun. 24, 1994",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/93/s8/2/c/i/H/M/ciHMw.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "El rey león 2: El tesoro de Simba",
     "image": "https://image.tmdb.org/t/p/w185/zdD5VcvTD43p048ueswYdgLJZh.jpg",
     "rating": "6.4",
@@ -262,54 +301,6 @@
     ]
   },
   {
-    "title": "El laberinto del fauno",
-    "image": "https://image.tmdb.org/t/p/w185/Ao83nMqYIYUsD2Q3lNsz6176MlC.jpg",
-    "rating": "8.2",
-    "year": "Oct. 10, 2006",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Año 1944, tras la victoria de Franco. La niña Ofelia (Ivana Baquero) y su madre, Carmen (Ariadna Gil), convaleciente a causa de un avanzado estado de gestación, se trasladan hasta un pequeño pueblo en el que se encuentra destacado el nuevo marido de ésta, Vidal (Sergi López), un cruel capitán del ejército franquista por el que la niña no siente ningún afecto. La misión de Vidal es acabar con los últimos vestigios de la resistencia republicana que permanecen escondidos en los montes de la zona.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/C/X/r/OCXrk.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El país de los sueños",
-    "image": "https://image.tmdb.org/t/p/w185/xvsftW0ai916VTtH2gPjSFC7mGN.jpg",
-    "rating": "6.7",
-    "year": "Nov. 18, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una niña busca a su padre, desaparecido en un místico país de los sueños, con la ayuda de una gran criatura mitad hombre y mitad monstruo.",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.Faa.mp4"
-      }
-    ]
-  },
-  {
     "title": "El ritual",
     "image": "https://image.tmdb.org/t/p/w185/vbV1kW0jQIhslHjThGqny93Cdfs.jpg",
     "rating": "6.3",
@@ -346,47 +337,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/d3/s8/2/T/t/y/F/TtyFy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1136355840-1136442940"
-      }
-    ]
-  },
-  {
-    "title": "El rey escorpión",
-    "image": "https://image.tmdb.org/t/p/w185/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg",
-    "rating": "5.5",
-    "year": "Apr. 18, 2002",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La historia se sitúa hace 5000 años en la célebre ciudad de Gomorrah, en la cual un malvado gobernador decide arrasar con todas las tribus nómadas del desierto. Las pocas tribús que sobreviven, que por naturaleza nunca han sido aliadas, deben unirse o morir. Sabiendo que su enemigo confía en las predicciones de un brujo, contratan a un afamado asesino, Mathayus, para que liquide al vidente. Tras infiltrarse en el campamento enemigo, Mathayus descubre que el brujo es una bella mujer. En lugar de asesinarla la conduce a los páramos del desierto profundo, sabiendo que los hombres del gobernador harán cualquier cosa con tal de rescatarla y llevarla de nuevo a su campamento. Gravemente herido tras la batalla, Mathayus debe encontrar la fuerza para llevar a sus exhautos aliados de vuelta a Gomorrah para luchar en la batalla final.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/v/M/R/LvMRt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El rey león",
-    "image": "https://image.tmdb.org/t/p/w185/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
-    "rating": "8.5",
-    "year": "Jun. 24, 1994",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
-    "genres": [
-      "Animación",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/93/s8/2/c/i/H/M/ciHMw.aaa.mp4"
       }
     ]
   },
@@ -473,23 +423,50 @@
     ]
   },
   {
-    "title": "El sicario de Dios",
-    "image": "https://image.tmdb.org/t/p/w185/iUeucJ9xJObQDrlGtXMEx84Vfve.jpg",
-    "rating": "5.7",
-    "year": "May. 05, 2011",
-    "quality": "720p HD",
+    "title": "El laberinto del fauno",
+    "image": "https://image.tmdb.org/t/p/w185/Ao83nMqYIYUsD2Q3lNsz6176MlC.jpg",
+    "rating": "8.2",
+    "year": "Oct. 10, 2006",
+    "quality": "720 HD",
     "languages": [],
-    "description": "En un mundo asolado por siglos de guerra entre el hombre y los vampiros, Paul Bettany es un legendario guerrero que destacó durante la última Guerra del Vampiro, pero ahora es sólo un sacerdote que vive en compañía de otros hombres en las amuralladas ciudades distópicas controladas por la Iglesia. Sin embargo, cuando su joven sobrina es secuestrada por un grupo de vampiros asesinos que viven en los páramos desolados del exterior, el sacerdote rompe sus sagrados votos y emprende su búsqueda decidido a vengarse de los secuestradores, especialmente de su brutal líder. En esta aventura le acompaña Hicks, el novio de la chica, un sheriff y una sacerdotisa, miembro de la legión de asesinos de vampiros y poseedora de habilidades de combate sobrenaturales.",
+    "description": "Año 1944, tras la victoria de Franco. La niña Ofelia (Ivana Baquero) y su madre, Carmen (Ariadna Gil), convaleciente a causa de un avanzado estado de gestación, se trasladan hasta un pequeño pueblo en el que se encuentra destacado el nuevo marido de ésta, Vidal (Sergi López), un cruel capitán del ejército franquista por el que la niña no siente ningún afecto. La misión de Vidal es acabar con los últimos vestigios de la resistencia republicana que permanecen escondidos en los montes de la zona.",
     "genres": [
-      "Acción",
-      "Fantasía",
-      "Suspense",
-      "Terror"
+      "Bélica",
+      "Drama",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/r/X/q/k/rXqkv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/C/X/r/OCXrk.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El país de los sueños",
+    "image": "https://image.tmdb.org/t/p/w185/xvsftW0ai916VTtH2gPjSFC7mGN.jpg",
+    "rating": "6.7",
+    "year": "Nov. 18, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una niña busca a su padre, desaparecido en un místico país de los sueños, con la ayuda de una gran criatura mitad hombre y mitad monstruo.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/G/F/p/G/GFpGv.Faa.mp4"
       }
     ]
   },
@@ -514,22 +491,41 @@
     ]
   },
   {
-    "title": "El lobo de Wall Street",
-    "image": "https://image.tmdb.org/t/p/w185/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg",
-    "rating": "8.2",
-    "year": "Dec. 25, 2013",
-    "quality": "720 HD",
+    "title": "El silencio de las palabras",
+    "image": "https://image.tmdb.org/t/p/w185/wLx4hKEln8fEUKL3mJu3CCsp1Uz.jpg",
+    "rating": "7.1",
+    "year": "Jan. 19, 2024",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de «El lobo de Wall Street». Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+    "description": "Melody Brooks es una estudiante de secundaria con parálisis cerebral que es muy ingeniosa e inteligente, pero, como no puede expresarse con palabras y se desplaza en una silla de ruedas, no tiene las mismas oportunidades que sus compañeros. Cuando una joven profesora se fija en el potencial de Melody y participa en un programa de integración escolar, Melody demuestra que lo que tiene que decir es más importante que su forma de expresarse.",
     "genres": [
-      "Comedia",
-      "Crimen",
       "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/D/J/H/xDJHn.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/a/z/V/5/azV5u.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El sicario de Dios",
+    "image": "https://image.tmdb.org/t/p/w185/iUeucJ9xJObQDrlGtXMEx84Vfve.jpg",
+    "rating": "5.7",
+    "year": "May. 05, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En un mundo asolado por siglos de guerra entre el hombre y los vampiros, Paul Bettany es un legendario guerrero que destacó durante la última Guerra del Vampiro, pero ahora es sólo un sacerdote que vive en compañía de otros hombres en las amuralladas ciudades distópicas controladas por la Iglesia. Sin embargo, cuando su joven sobrina es secuestrada por un grupo de vampiros asesinos que viven en los páramos desolados del exterior, el sacerdote rompe sus sagrados votos y emprende su búsqueda decidido a vengarse de los secuestradores, especialmente de su brutal líder. En esta aventura le acompaña Hicks, el novio de la chica, un sheriff y una sacerdotisa, miembro de la legión de asesinos de vampiros y poseedora de habilidades de combate sobrenaturales.",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/r/X/q/k/rXqkv.aaa.mp4"
       }
     ]
   },
@@ -555,20 +551,22 @@
     ]
   },
   {
-    "title": "El silencio de las palabras",
-    "image": "https://image.tmdb.org/t/p/w185/wLx4hKEln8fEUKL3mJu3CCsp1Uz.jpg",
-    "rating": "7.1",
-    "year": "Jan. 19, 2024",
-    "quality": "720p HD",
+    "title": "El lobo de Wall Street",
+    "image": "https://image.tmdb.org/t/p/w185/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg",
+    "rating": "8.2",
+    "year": "Dec. 25, 2013",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Melody Brooks es una estudiante de secundaria con parálisis cerebral que es muy ingeniosa e inteligente, pero, como no puede expresarse con palabras y se desplaza en una silla de ruedas, no tiene las mismas oportunidades que sus compañeros. Cuando una joven profesora se fija en el potencial de Melody y participa en un programa de integración escolar, Melody demuestra que lo que tiene que decir es más importante que su forma de expresarse.",
+    "description": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de «El lobo de Wall Street». Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
     "genres": [
+      "Comedia",
+      "Crimen",
       "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/z/V/5/azV5u.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/x/D/J/H/xDJHn.caa.mp4"
       }
     ]
   },
@@ -592,25 +590,6 @@
     ]
   },
   {
-    "title": "El ultimo disparo",
-    "image": "https://image.tmdb.org/t/p/w185/i6ZO28AmFatUHKwW3LYzBsJvUSs.jpg",
-    "rating": "4.8",
-    "year": "Sep. 08, 2023",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Al regresar de Afganistán, Jessica, una marine de Spec OPS, se encuentra en una guerra que nunca imaginó y descubre que los suburbios del centro de Estados Unidos han cambiado cuando su hermana de trece años, Aimee, es secuestrada por traficantes sexuales.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/4/E/5/u/4E5uy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "El sótano de Ma",
     "image": "https://image.tmdb.org/t/p/w185/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg",
     "rating": "5.6",
@@ -627,6 +606,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/d/D/j/D/dDjDt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El ultimo disparo",
+    "image": "https://image.tmdb.org/t/p/w185/i6ZO28AmFatUHKwW3LYzBsJvUSs.jpg",
+    "rating": "4.8",
+    "year": "Sep. 08, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Al regresar de Afganistán, Jessica, una marine de Spec OPS, se encuentra en una guerra que nunca imaginó y descubre que los suburbios del centro de Estados Unidos han cambiado cuando su hermana de trece años, Aimee, es secuestrada por traficantes sexuales.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/65/s8/2/4/E/5/u/4E5uy.aaa.mp4"
       }
     ]
   },
@@ -692,6 +690,88 @@
     ]
   },
   {
+    "title": "El último aliento",
+    "image": "https://image.tmdb.org/t/p/w185/n44YznljRnYMHbocsHQi62FDLaX.jpg",
+    "rating": "4.7",
+    "year": "Jun. 28, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cinco amigos de la universidad van a bucear a un naufragio de la Segunda Guerra Mundial recientemente descubierto en las Islas Vírgenes Británicas, donde se encuentran atrapados por grandes tiburones blancos.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/cc/s8/2/Y/B/M/t/YBMty.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El último tango en París",
+    "image": "https://image.tmdb.org/t/p/w185/2G1j1RWBvmWc8f0HXjRZnn0ZlgD.jpg",
+    "rating": "6.8",
+    "year": "Dec. 15, 1972",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una mañana de invierno un hombre y una muchacha se encuentran casualmente mientras visitan un piso de alquiler en París. La pasión se apodera de ellos y hacen el amor violentamente en el piso vacío. Cuando abandonan el edificio, se ponen de acuerdo para volver a encontrarse allí, en soledad, sin preguntarse ni siquiera sus nombres.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/4f/s8/2/p/x/r/q/pxrqx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El rey león",
+    "image": "https://image.tmdb.org/t/p/w185/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
+    "rating": "6.8",
+    "year": "Jul. 12, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Simba es el hijo del rey de los leones, Mufasa, y heredero de todo el reino. Pero cuando su padre es brutalmente asesinado por su tío Scar, decidirá huir, dejando vía libre para que su tío tome el puesto de su padre como líder de la manada. En su camino, Simba se encuentra con el suricato Timón y el jabalí Pumba, que le enseñarán a vivir la vida sin preocupaciones. Pero el joven león se verá obligado a decidir entre su vida libre de problemas o su destino como rey .",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/w/J/x/fwJxq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El único",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0070.jpg",
+    "rating": "5.9",
+    "year": "Nov. 02, 2001",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "En un mundo futuro se ha descubierto que existen vidas alternas en universos alternos, un hecho que los agentes del Departamento Multiverse defienden, excepto el investigador Yulaw. Yulaw ha atravesado 123 universos persiguiendo y destruyendo sus vidas alternas. A medida que las mata, absorbe la fuerza de esas vidas alternas, ganando habilidades sobrehumanas. La magnitud de tal fenómeno puede desequilibrar el delicado equilibrio de todos los universos, sobre todo cuando a Yulaw ya sólo le queda eliminar a la última de sus vidas alternas. Ese personaje, Gabriel Yulaw, es agente de policía honesto y buen marido, y su vida se ve alterada cuando el otro Yulaw entra en su universo. Para salvarse a sí mismo, la única alternativa que le queda es la de matar a su yo malvado del otro universo.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/50/s8/2/-/x/Q/o/-xQoA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1400687104-1400739999"
+      }
+    ]
+  },
+  {
     "title": "El señor de los anillos: La guerra de los Rohirrim",
     "image": "https://image.tmdb.org/t/p/w185/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg",
     "rating": "6.6",
@@ -718,104 +798,23 @@
     ]
   },
   {
-    "title": "El último tango en París",
-    "image": "https://image.tmdb.org/t/p/w185/2G1j1RWBvmWc8f0HXjRZnn0ZlgD.jpg",
-    "rating": "6.8",
-    "year": "Dec. 15, 1972",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una mañana de invierno un hombre y una muchacha se encuentran casualmente mientras visitan un piso de alquiler en París. La pasión se apodera de ellos y hacen el amor violentamente en el piso vacío. Cuando abandonan el edificio, se ponen de acuerdo para volver a encontrarse allí, en soledad, sin preguntarse ni siquiera sus nombres.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/4f/s8/2/p/x/r/q/pxrqx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El salario del miedo",
-    "image": "https://image.tmdb.org/t/p/w185/6cKzsWfDtGj5BMHi1dN9EkGz4lJ.jpg",
-    "rating": "4.5",
-    "year": "Mar. 28, 2024",
+    "title": "El retorno de los Thunderman",
+    "image": "https://image.tmdb.org/t/p/w185/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
+    "rating": "5.5",
+    "year": "Mar. 07, 2024",
     "quality": "720 HD",
     "languages": [],
-    "description": "Para salvar a cientos de personas de la explosión de un pozo petrolífero, un equipo de expertos emprende una peligrosa travesía por el desierto con una carga de nitroglicerina.",
+    "description": "Cuando comienzan una nueva era de lucha contra el crimen pero un salvamento sale mal, los Thundermans son enviados de vuelta a Hiddenville.",
     "genres": [
       "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/N/M/U/LNMUq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El señor de la guerra",
-    "image": "https://image.tmdb.org/t/p/w185/5hgYRfZzXGJLj0ANzjfFVSTIUlr.jpg",
-    "rating": "7.6",
-    "year": "Sep. 16, 2005",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Basada en una historia real, situada en el mundo internacional de la trata de armas. La película explora una consecuencia poco conocida del final de la Guerra Fría, la enorme cantidad de armas que de repente quedó disponible en los antiguos estados soviéticos para vender a los países en desarrollo (sobre todo de África) y las inmensas sumas de dinero amasadas por los traficantes de armas que las vendieron. Muchos piensan que es el mayor atraco del siglo 20. Sólo en Ucrania, entre 1982 y 1992 se robaron más de treinta y dos mil millones de dólares en armas. Ningún culpable ha sido jamás atrapado ni procesado.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/Q/4/E/wQ4Es.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/Q/4/E/wQ4Es.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El último aliento",
-    "image": "https://image.tmdb.org/t/p/w185/n44YznljRnYMHbocsHQi62FDLaX.jpg",
-    "rating": "4.7",
-    "year": "Jun. 28, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cinco amigos de la universidad van a bucear a un naufragio de la Segunda Guerra Mundial recientemente descubierto en las Islas Vírgenes Británicas, donde se encuentran atrapados por grandes tiburones blancos.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/cc/s8/2/Y/B/M/t/YBMty.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El rey león",
-    "image": "https://image.tmdb.org/t/p/w185/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg",
-    "rating": "6.8",
-    "year": "Jul. 12, 2019",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Simba es el hijo del rey de los leones, Mufasa, y heredero de todo el reino. Pero cuando su padre es brutalmente asesinado por su tío Scar, decidirá huir, dejando vía libre para que su tío tome el puesto de su padre como líder de la manada. En su camino, Simba se encuentra con el suricato Timón y el jabalí Pumba, que le enseñarán a vivir la vida sin preocupaciones. Pero el joven león se verá obligado a decidir entre su vida libre de problemas o su destino como rey .",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Drama",
+      "Ciencia ficción",
+      "Comedia",
       "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/w/J/x/fwJxq.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/N/h/V/t/NhVtq.aaa.mp4"
       }
     ]
   }

@@ -1,51 +1,5 @@
 [
   {
-    "title": "The Alto Knights: Mafia y poder",
-    "image": "https://image.tmdb.org/t/p/w185/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg",
-    "rating": "5.7",
-    "year": "Mar. 14, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Dos de los jefes del crimen organizado más conocidos de Nueva York, Frank Costello y Vito Genovese, compiten por el control de las calles de la ciudad. Aunque eran mejores amigos, los celos mezquinos y una serie de traiciones los colocan en una carrera mortal que cambiará la Mafia (y Estados Unidos) para siempre.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/42/s8/2/x/C/m/I/xCmIy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=969988608-970062652"
-      }
-    ]
-  },
-  {
-    "title": "Súper Mario Bros: La película",
-    "image": "https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-    "rating": "7.4",
-    "year": "Apr. 05, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "The Crow",
     "image": "https://image.tmdb.org/t/p/w185/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
     "rating": "4.7",
@@ -85,6 +39,27 @@
     ]
   },
   {
+    "title": "The Dirt",
+    "image": "https://image.tmdb.org/t/p/w185/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
+    "rating": "7",
+    "year": "Mar. 22, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En esta cruda biografía basada en el libro superventas de Mötley Crüe, cuatro inadaptados de Los Ángeles disfrutan de grandes éxitos y sufren las desgracias más atroces.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Historia",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ec/s8/2/b/w/q/K/bwqKw.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "The Damned",
     "image": "https://image.tmdb.org/t/p/w185/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",
     "rating": "6.1",
@@ -105,23 +80,45 @@
     ]
   },
   {
-    "title": "The Dirt",
-    "image": "https://image.tmdb.org/t/p/w185/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
-    "rating": "7",
-    "year": "Mar. 22, 2019",
+    "title": "Ted 1",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0191.jpg",
+    "rating": "6.9",
+    "year": "Jun. 29, 2012",
     "quality": "720p HD",
-    "languages": [],
-    "description": "En esta cruda biografía basada en el libro superventas de Mötley Crüe, cuatro inadaptados de Los Ángeles disfrutan de grandes éxitos y sufren las desgracias más atroces.",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
     "genres": [
       "Comedia",
-      "Drama",
-      "Historia",
-      "Música"
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ec/s8/2/b/w/q/K/bwqKw.aaa.mp4"
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvN2Y5cm15YXJscTg5X24vaW5kZXgtdjEtYTEubTN1OD90PUhuMlNuZ05rSFozNGtlaXhubWtySDYwNmR2X09YRXVBQlNTeFJlQkF1OHMmcz0xNzg3MzYwODAzJmU9NDMyMDAmdj0zMjUyNjgxNzkmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Superman Regresa",
+    "image": "https://image.tmdb.org/t/p/w185/oD94EXP5UDpzhZGhaGslDv6H8pR.jpg",
+    "rating": "6.1",
+    "year": "Jun. 28, 2006",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/h/_/q/ph_qo.caa.mp4"
       }
     ]
   },
@@ -165,28 +162,6 @@
     ]
   },
   {
-    "title": "Suzume",
-    "image": "https://image.tmdb.org/t/p/w185/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
-    "rating": "7.7",
-    "year": "Nov. 11, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Suzume, una joven chica de 17 años que vive en un pueblo tranquilo en la región de Kyushu, en el suroeste de Japón. La historia comienza cuando Suzume conoce a un misterioso joven que busca una «puerta». Los dos viajan juntos y encuentran una puerta vieja en una casa abandonada en las montañas. Como si algo tirara de ella, Suzume extiende su mano hacia la puerta, lo que comienza una serie de eventos desafortunados en todo Japón.",
-    "genres": [
-      "Animación",
-      "Animes",
-      "Aventura",
-      "Drama",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/p/G/z/DpGzo.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "The Strangers: Chapter 3 ; Los Extraños 3",
     "image": "https://image.tmdb.org/t/p/w185/yPegTig8dQNYiW2UW21LTNChGkK.jpg",
     "rating": "4.1",
@@ -208,6 +183,32 @@
     ]
   },
   {
+    "title": "Súper Mario Bros: La película",
+    "image": "https://image.tmdb.org/t/p/w185/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+    "rating": "7.4",
+    "year": "Apr. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/2/7/_/n/27_ns.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "The Truman Show: Historia de una Vida",
     "image": "https://image.tmdb.org/t/p/w185/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg",
     "rating": "8.2",
@@ -223,6 +224,46 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fww1/9b/s8/2/Y/B/v/w/YBvwy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Stopmotion",
+    "image": "https://image.tmdb.org/t/p/w185/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+    "rating": "5.6",
+    "year": "Feb. 22, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/9/L/N/D9LNq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Suzume",
+    "image": "https://image.tmdb.org/t/p/w185/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
+    "rating": "7.7",
+    "year": "Nov. 11, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Suzume, una joven chica de 17 años que vive en un pueblo tranquilo en la región de Kyushu, en el suroeste de Japón. La historia comienza cuando Suzume conoce a un misterioso joven que busca una «puerta». Los dos viajan juntos y encuentran una puerta vieja en una casa abandonada en las montañas. Como si algo tirara de ella, Suzume extiende su mano hacia la puerta, lo que comienza una serie de eventos desafortunados en todo Japón.",
+    "genres": [
+      "Animación",
+      "Animes",
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/p/G/z/DpGzo.aaa.mp4"
       }
     ]
   },
@@ -267,26 +308,6 @@
     ]
   },
   {
-    "title": "Tierra de Osos 2",
-    "image": "https://image.tmdb.org/t/p/w185/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
-    "rating": "6.1",
-    "year": "Aug. 17, 2006",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura…",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/6e/s8/2/U/D/w/F/UDwFx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "TAYLOR SWIFT | THE ERAS TOUR",
     "image": "https://image.tmdb.org/t/p/w185/a5EreVlyB9fXzZ2Rf9ugOLrW5YI.jpg",
     "rating": "8.4",
@@ -321,6 +342,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/R/9/c/F/R9cFx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tierra de Osos 2",
+    "image": "https://image.tmdb.org/t/p/w185/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
+    "rating": "6.1",
+    "year": "Aug. 17, 2006",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura…",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/6e/s8/2/U/D/w/F/UDwFx.aaa.mp4"
       }
     ]
   },
@@ -365,6 +406,25 @@
     ]
   },
   {
+    "title": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w185/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg",
+    "rating": "0",
+    "year": "Nov. 18, 1997",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante las labores de recuperación de los restos del famoso Titanic, una anciana norteamericana se pone en contacto con la expedición para acudir a una plataforma flotante instalada en el Mar del Norte y asistir ‘in situ’ a la recuperación de sus recuerdos. A través de su memoria reviviremos los acontecimientos que marcaron el siniestro más famoso del siglo XX: el hundimiento del trasatlántico más lujoso del mundo, la máquina más sofisticada de su tiempo, considerada «insumergible», que sucumbió a las heladas aguas del Atlántico en abril de 1912, llevándose consigo la vida de mil quinientas personas, más de la mitad del pasaje. En los recueros de la anciana hay cabida para algo más que la tragedia, la historia de amor que vivió con un joven pasajero de tercera clase, un pintor aficionado que había ganado su pasaje en una partida las cartas en una taberna de Southampton.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6a/s8/2/P/8/5/p/P85px.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Tengo ganas de ti",
     "image": "https://image.tmdb.org/t/p/w185/z13I3sWzOoKBDAEpJ7iK9bSznQn.jpg",
     "rating": "6.8",
@@ -385,7 +445,7 @@
   },
   {
     "title": "Thor",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/qFAVW4XJaxhj7PcpiUI5hhO9bOX-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0194.jpg",
     "rating": "7",
     "year": "Apr. 21, 2011",
     "quality": "720p HD",
@@ -406,13 +466,13 @@
     ]
   },
   {
-    "title": "Titanic",
-    "image": "https://image.tmdb.org/t/p/w185/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg",
-    "rating": "0",
-    "year": "Nov. 18, 1997",
+    "title": "Todo Por Amor",
+    "image": "https://image.tmdb.org/t/p/w185/fjR7Cl752iPw959smkNq6nRsJGx.jpg",
+    "rating": "6",
+    "year": "Jun. 20, 1991",
     "quality": "720p HD",
     "languages": [],
-    "description": "Durante las labores de recuperación de los restos del famoso Titanic, una anciana norteamericana se pone en contacto con la expedición para acudir a una plataforma flotante instalada en el Mar del Norte y asistir ‘in situ’ a la recuperación de sus recuerdos. A través de su memoria reviviremos los acontecimientos que marcaron el siniestro más famoso del siglo XX: el hundimiento del trasatlántico más lujoso del mundo, la máquina más sofisticada de su tiempo, considerada «insumergible», que sucumbió a las heladas aguas del Atlántico en abril de 1912, llevándose consigo la vida de mil quinientas personas, más de la mitad del pasaje. En los recueros de la anciana hay cabida para algo más que la tragedia, la historia de amor que vivió con un joven pasajero de tercera clase, un pintor aficionado que había ganado su pasaje en una partida las cartas en una taberna de Southampton.",
+    "description": "Hilary (Julia Roberts) es una atractiva joven que ya casi ha renunciado al amor, pero es que además el resto de su vida tampoco marcha bien. Un día decide contestar al anuncio de un periódico, en el que se solicita una chica atenta y servicial. Acude a una lujosa mansión, donde conoce a Victor (Campbell Scott), un joven de buena familia que padece una leucemia que todos creen incurable, incluido su dominante padre (David Selby).",
     "genres": [
       "Drama",
       "Romance"
@@ -420,7 +480,29 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6a/s8/2/P/8/5/p/P85px.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/3c/s8/2/w/8/8/w/w88wy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "The Fallout",
+    "image": "https://image.tmdb.org/t/p/w185/fOJwjsJNtQlDhBanJSouGDwQfvP.jpg",
+    "rating": "7",
+    "year": "Mar. 17, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Vada es una adolescente que trata de superar los efectos secundarios que sufre tras vivir una tragedia en su instituto. Tras esta experiencia, la relación con su familia y sus amigos, así como su forma de ver el mundo, cambiarán para siempre.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/H/u/p/_Hupo.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/H/u/p/_Hupo.caa.mp4"
       }
     ]
   },
@@ -450,51 +532,8 @@
     ]
   },
   {
-    "title": "The Duff ; El último baile",
-    "image": "https://image.tmdb.org/t/p/w185/nDfF22C1ZxX0QX7lW16YYstru8l.jpg",
-    "rating": "6.4",
-    "year": "Feb. 20, 2015",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Bianca es una alumna de instituto de último curso a quien se le viene el mundo encima al enterarse de que sus compañeros se refieren a ella como la MAF (La amiga maja y fea) de sus amigas más guapas y más populares. Con su universo patas arriba, ignora los consejos de su profesor favorito y ficha a Wesley, un deportista pillo pero encantador, para que la ayude a separarse del grupo y borrar esa etiqueta para siempre. En el proceso, espera ligarse a su amor platónico, Toby, y encontrar la confianza para tumbar a la cruel etiquetadora del instituto, Madison, recordándole que, al margen del aspecto o la conducta de la gente, todos somos el MAF de alguien… y que no pasa absolutamente nada.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/D/V/L/KDVLq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Thor: Ragnarok",
-    "image": "https://image.tmdb.org/t/p/w185/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
-    "rating": "7.9",
-    "year": "Oct. 02, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Thor: el mundo oscuro",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/gPAmH41VpK5UPaNhAiNJePzrL8z-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0195.jpg",
     "rating": "6.8",
     "year": "Oct. 30, 2013",
     "quality": "720 HD",
@@ -539,47 +578,6 @@
     ]
   },
   {
-    "title": "The Fallout",
-    "image": "https://image.tmdb.org/t/p/w185/fOJwjsJNtQlDhBanJSouGDwQfvP.jpg",
-    "rating": "7",
-    "year": "Mar. 17, 2021",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Vada es una adolescente que trata de superar los efectos secundarios que sufre tras vivir una tragedia en su instituto. Tras esta experiencia, la relación con su familia y sus amigos, así como su forma de ver el mundo, cambiarán para siempre.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/H/u/p/_Hupo.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/H/u/p/_Hupo.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Todo Por Amor",
-    "image": "https://image.tmdb.org/t/p/w185/fjR7Cl752iPw959smkNq6nRsJGx.jpg",
-    "rating": "6",
-    "year": "Jun. 20, 1991",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Hilary (Julia Roberts) es una atractiva joven que ya casi ha renunciado al amor, pero es que además el resto de su vida tampoco marcha bien. Un día decide contestar al anuncio de un periódico, en el que se solicita una chica atenta y servicial. Acude a una lujosa mansión, donde conoce a Victor (Campbell Scott), un joven de buena familia que padece una leucemia que todos creen incurable, incluido su dominante padre (David Selby).",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/3c/s8/2/w/8/8/w/w88wy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Todos los hombres del Rey ; All the King&#8217;s Men",
     "image": "https://image.tmdb.org/t/p/w185/tqsvfwXKAKQ8WHohAzoulQ6WcCh.jpg",
     "rating": "6.1",
@@ -597,6 +595,69 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/a9/s8/2/2/6/I/i/26Iiz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=986669056-986744494"
+      }
+    ]
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "image": "https://image.tmdb.org/t/p/w185/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+    "rating": "7.9",
+    "year": "Oct. 02, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/M/k/W/5/MkW5r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Tom y Jerry",
+    "image": "https://image.tmdb.org/t/p/w185/VpyHJgtihILK3QYa3erNuaWxzQ.jpg",
+    "rating": "5.3",
+    "year": "Feb. 10, 2021",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/C/D/c/CCDcu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Todos queremos a alguien",
+    "image": "https://image.tmdb.org/t/p/w185/zTzU0OP80TPYiGTZJkyMfVCitOv.jpg",
+    "rating": "6.4",
+    "year": "Feb. 10, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor. Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su exnovio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida. Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/de/s8/2/n/F/u/e/nFuex.aaa.mp4"
       }
     ]
   },
@@ -621,13 +682,13 @@
     ]
   },
   {
-    "title": "Todos queremos a alguien",
-    "image": "https://image.tmdb.org/t/p/w185/zTzU0OP80TPYiGTZJkyMfVCitOv.jpg",
+    "title": "The Duff ; El último baile",
+    "image": "https://image.tmdb.org/t/p/w185/nDfF22C1ZxX0QX7lW16YYstru8l.jpg",
     "rating": "6.4",
-    "year": "Feb. 10, 2017",
-    "quality": "720p HD",
+    "year": "Feb. 20, 2015",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Parecería que la joven y hermosa Clara Barrón (Karla Souza) lo tiene todo, un gran trabajo; una gran casa en Los Angeles y una amorosa familia que ama la diversión. Lo que no tiene claro en su vida es el amor. Presionada en asistir a una boda en México, Clara pide a un compañero de trabajo que la acompañe y se haga pasar por su novio cuando es sorprendida por su exnovio (Chema Yazpik), muy querido por su familia, quien aparece después de haber estado ausente por completo de su vida. Confundida, Clara tiene que decidir entre regresar al pasado o abrir su corazón para nuevas e inesperadas posibilidades. En una aventura llena de risas, ella aprende que a veces su loca familia puede ayudarla a encontrar el amor.",
+    "description": "Bianca es una alumna de instituto de último curso a quien se le viene el mundo encima al enterarse de que sus compañeros se refieren a ella como la MAF (La amiga maja y fea) de sus amigas más guapas y más populares. Con su universo patas arriba, ignora los consejos de su profesor favorito y ficha a Wesley, un deportista pillo pero encantador, para que la ayude a separarse del grupo y borrar esa etiqueta para siempre. En el proceso, espera ligarse a su amor platónico, Toby, y encontrar la confianza para tumbar a la cruel etiquetadora del instituto, Madison, recordándole que, al margen del aspecto o la conducta de la gente, todos somos el MAF de alguien… y que no pasa absolutamente nada.",
     "genres": [
       "Comedia",
       "Romance"
@@ -635,27 +696,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/de/s8/2/n/F/u/e/nFuex.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Tom y Jerry",
-    "image": "https://image.tmdb.org/t/p/w185/VpyHJgtihILK3QYa3erNuaWxzQ.jpg",
-    "rating": "5.3",
-    "year": "Feb. 10, 2021",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/C/D/c/CCDcu.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/D/V/L/KDVLq.aaa.mp4"
       }
     ]
   },
@@ -705,27 +746,6 @@
     ]
   },
   {
-    "title": "Tomorrowland ; El mundo del Mañana",
-    "image": "https://image.tmdb.org/t/p/w185/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg",
-    "rating": "0",
-    "year": "May. 19, 2015",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Atado por un destino compartido, un adolescente brillante y optimista lleno de curiosidad científica y un ex inventor genio de niño, hastiado de la desilusión, embarcarse en una misión llena de peligros para descubrir los secretos de un lugar enigmático en algún lugar del tiempo y espacio que existe en su comunidad la memoria como «Tomorrowland».",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Familia",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/79/s8/2/V/m/J/Z/VmJZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1026374144-1026452564"
-      }
-    ]
-  },
-  {
     "title": "Tonterías de amor",
     "image": "https://image.tmdb.org/t/p/w185/nAI8kxnjQS0YBj0EBy2yYkadM6K.jpg",
     "rating": "0",
@@ -746,21 +766,23 @@
     ]
   },
   {
-    "title": "Time Trap",
-    "image": "https://image.tmdb.org/t/p/w185/8w0hBC9kLy56F7rjwGIe8JtIrHS.jpg",
-    "rating": "6.2",
-    "year": "May. 19, 2017",
-    "quality": "720 HD",
+    "title": "Tomorrowland ; El mundo del Mañana",
+    "image": "https://image.tmdb.org/t/p/w185/go6qA8ksn5gkXcDnW3WtMeqzAg8.jpg",
+    "rating": "0",
+    "year": "May. 19, 2015",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Un grupo de estudiantes queda atrapado dentro de una cueva misteriosa donde descubren que el tiempo pasa de forma diferente bajo tierra que en la superficie.",
+    "description": "Atado por un destino compartido, un adolescente brillante y optimista lleno de curiosidad científica y un ex inventor genio de niño, hastiado de la desilusión, embarcarse en una misión llena de peligros para descubrir los secretos de un lugar enigmático en algún lugar del tiempo y espacio que existe en su comunidad la memoria como «Tomorrowland».",
     "genres": [
       "Aventura",
-      "Ciencia ficción"
+      "Ciencia ficción",
+      "Familia",
+      "Misterio"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/d/0/u/-d0uq.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/79/s8/2/V/m/J/Z/VmJZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1026374144-1026452564"
       }
     ]
   },
@@ -804,28 +826,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/74/s8/2/g/-/I/Z/g-IZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=626893312-626941133"
-      }
-    ]
-  },
-  {
-    "title": "Tortugas Ninjas 2: Fuera de las sombras",
-    "image": "https://image.tmdb.org/t/p/w185/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
-    "rating": "5.9",
-    "year": "Jun. 01, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Michelangelo, Donatello, Leonardo y Raphael regresan junto con April O’Neil, Vern Fenwick y un nuevo vigilante enmascarado, Casey Jones, para combatir a unos villanos aún más malignos y poderosos. El súper villano Shredder escapa de prisión y une sus fuerzas con el científico loco Baxter Stockman y sus dos secuaces, Bebob y Rocksteady, para llevar a cabo un diabólico plan para conquistar el mundo. Mientras las Tortugas se preparan para enfrentarse a Shredder y su banda, tendrán que luchar también con un nuevo enemigo, incluso más poderoso, y también con intenciones malignas: El General Krang.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/d0/s8/2/m/8/p/D/m8pDx.aaa.mp4"
       }
     ]
   }

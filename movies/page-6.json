@@ -1,27 +1,5 @@
 [
   {
-    "title": "Camino hacia el terror 7: La Fundación",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/cny2yzaSZGMQ1bSLsLNVm67mIvI-185x278.jpg",
-    "rating": "0",
-    "year": "Jan. 26, 2021",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados «The Foundation».",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/27/s8/2/k/t/h/N/kthNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3385563136-3385630362"
-      }
-    ]
-  },
-  {
     "title": "Camp Rock 2: El Concierto Final 2",
     "image": "https://image.tmdb.org/t/p/w185/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg",
     "rating": "5.2",
@@ -40,6 +18,28 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/b0/s8/2/A/w/J/c/AwJcz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=821204992-821267659"
+      }
+    ]
+  },
+  {
+    "title": "Camino hacia el terror 7: La Fundación",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0032.jpg",
+    "rating": "0",
+    "year": "Jan. 26, 2021",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Un grupo de amigos que hace senderismo por el Sendero de los Apalaches se ven cara a cara con los miembros de una comunidad de habitantes de las montañas llamados «The Foundation».",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/27/s8/2/k/t/h/N/kthNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3385563136-3385630362"
       }
     ]
   },
@@ -103,8 +103,28 @@
     ]
   },
   {
+    "title": "Capitana Marvel",
+    "image": "https://image.tmdb.org/t/p/w185/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+    "rating": "6.8",
+    "year": "Mar. 06, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, ‘Capitana Marvel’ es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/i/u/E/o/iuEow.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Capitán América 2: El soldado de invierno",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6QBRnyvJHD7slOlX6aukvMwcEu-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0034.jpg",
     "rating": "7.8",
     "year": "Mar. 20, 2014",
     "quality": "720p HD",
@@ -122,26 +142,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/25/s8/2/C/L/h/l/CLhlA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2177786880-2177869691"
-      }
-    ]
-  },
-  {
-    "title": "Capitana Marvel",
-    "image": "https://image.tmdb.org/t/p/w185/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
-    "rating": "6.8",
-    "year": "Mar. 06, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, ‘Capitana Marvel’ es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/i/u/E/o/iuEow.aaa.mp4"
       }
     ]
   },
@@ -197,26 +197,6 @@
     ]
   },
   {
-    "title": "Black Friday",
-    "image": "https://image.tmdb.org/t/p/w185/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
-    "rating": "6.6",
-    "year": "Nov. 16, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para «Grindhouse».",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/O/m/E/Y/OmEYo.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Caracortada ; Scarface ; Tony Montana",
     "image": "https://image.tmdb.org/t/p/w185/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
     "rating": "8.3",
@@ -257,6 +237,47 @@
     ]
   },
   {
+    "title": "Black Friday",
+    "image": "https://image.tmdb.org/t/p/w185/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
+    "rating": "6.6",
+    "year": "Nov. 16, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para «Grindhouse».",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/O/m/E/Y/OmEYo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Camino hacia el terror 5: Linaje sangriento",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0031.jpg",
+    "rating": "4.1",
+    "year": "Oct. 23, 2012",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En una pequeña ciudad de Virginia Occidental, tiene lugar el Mountain Man Festival el día de Halloween, donde una multitud de excursionistas acuden a la fiesta, disfrazados y listos para pasar una noche salvaje con música y diversión. Pero una familia endogámica de caníbales les aguará la fiesta. Quinta entrega de la saga KM 666",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDYvM3B2cG1rNzUzYm54X24vaW5kZXgtdjEtYTEubTN1OD90PUd2Q2xCNXFyZUdiblFiRHZ1bTBleTBKbXZnVmh2a1FuTHdmZ1BlQmJkczQmcz0xNzg3MzYwNzgwJmU9NDMyMDAmdj0zMzE5MjM4MjAmc3J2PXMxMiZpPTAuMCZzcD0wJmZyPTNwdnBtazc1M2JueCZyPWU"
+      }
+    ]
+  },
+  {
     "title": "Blue Lock la película -episodio Nagi-",
     "image": "https://image.tmdb.org/t/p/w185/kYk0yppy0To0WxjP2MMI4wdvYjD.jpg",
     "rating": "6.6",
@@ -278,44 +299,22 @@
     ]
   },
   {
-    "title": "Bolt",
-    "image": "https://image.tmdb.org/t/p/w185/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
-    "rating": "6.8",
-    "year": "Nov. 21, 2008",
-    "quality": "720 HD",
+    "title": "Casino Royale",
+    "image": "https://image.tmdb.org/t/p/w185/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg",
+    "rating": "8",
+    "year": "Nov. 14, 2006",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
+    "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
     "genres": [
-      "Animación",
+      "Acción",
       "Aventura",
-      "Comedia",
-      "Familia"
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/G/1/b/GG1br.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Camino hacia el terror 5: Linaje sangriento",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/8rCVdIzSIDIALXArSjLyw44teD0-185x278.jpg",
-    "rating": "4.1",
-    "year": "Oct. 23, 2012",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En una pequeña ciudad de Virginia Occidental, tiene lugar el Mountain Man Festival el día de Halloween, donde una multitud de excursionistas acuden a la fiesta, disfrazados y listos para pasar una noche salvaje con música y diversión. Pero una familia endogámica de caníbales les aguará la fiesta. Quinta entrega de la saga KM 666",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDYvM3B2cG1rNzUzYm54X24vaW5kZXgtdjEtYTEubTN1OD90PUd2Q2xCNXFyZUdiblFiRHZ1bTBleTBKbXZnVmh2a1FuTHdmZ1BlQmJkczQmcz0xNzg3MzYwNzgwJmU9NDMyMDAmdj0zMzE5MjM4MjAmc3J2PXMxMiZpPTAuMCZzcD0wJmZyPTNwdnBtazc1M2JueCZyPWU"
+        "url": "https://1a-1791.com/video/s8/2/r/K/J/P/rKJPu.aaa.mp4"
       }
     ]
   },
@@ -343,26 +342,6 @@
     ]
   },
   {
-    "title": "Casino Royale",
-    "image": "https://image.tmdb.org/t/p/w185/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg",
-    "rating": "8",
-    "year": "Nov. 14, 2006",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/r/K/J/P/rKJPu.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Cazadores en tierra inhóspita",
     "image": "https://image.tmdb.org/t/p/w185/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
     "rating": "5.9",
@@ -378,6 +357,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/h/i/L/zhiLs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Cazafantasmas",
+    "image": "https://image.tmdb.org/t/p/w185/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",
+    "rating": "6.8",
+    "year": "Jul. 14, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de Cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/bf/s8/2/M/3/E/y/M3Eyw.aaa.mp4"
       }
     ]
   },
@@ -405,22 +404,22 @@
     ]
   },
   {
-    "title": "Cazafantasmas",
-    "image": "https://image.tmdb.org/t/p/w185/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",
-    "rating": "6.8",
-    "year": "Jul. 14, 2016",
-    "quality": "720p HD",
+    "title": "Cazafantasmas: Imperio helado",
+    "image": "https://image.tmdb.org/t/p/w185/zsbne3czz9lrVyOvGfFDB9Io45x.jpg",
+    "rating": "6.5",
+    "year": "Mar. 20, 2024",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de Cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral.",
+    "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.",
     "genres": [
-      "Acción",
+      "Aventura",
       "Comedia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/bf/s8/2/M/3/E/y/M3Eyw.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/6/j/f/V/6jfVs.aaa.mp4"
       }
     ]
   },
@@ -448,28 +447,8 @@
     ]
   },
   {
-    "title": "Cazafantasmas: Imperio helado",
-    "image": "https://image.tmdb.org/t/p/w185/zsbne3czz9lrVyOvGfFDB9Io45x.jpg",
-    "rating": "6.5",
-    "year": "Mar. 20, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/6/j/f/V/6jfVs.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Capitán América: El primer vengador",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/82ucHZ4ioVGiweT1XMl1mUZaodq-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0035.jpg",
     "rating": "6.9",
     "year": "Jul. 22, 2011",
     "quality": "720p HD",
@@ -486,31 +465,6 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAzL3lieWUzNXI1bWVtZV9uL2luZGV4LXYxLWExLm0zdTg_dD1jd3VYbXQzS2RRSThjZmpvLUpmcEl6REkyWVZaRUhqdTUwV2dGU0puYXdJJnM9MTc4NzM2MDgyMSZlPTQzMjAwJnY9MzI1Mjc3NjQ3Jmk9MC4zJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
-    "title": "Campanilla: El secreto de las hadas ; Tinker bell y el secreto de las hadas ; Tinkerbell",
-    "image": "https://image.tmdb.org/t/p/w185/soPOZlksVHcumHnhyRlI3XtAVyx.jpg",
-    "rating": "7",
-    "year": "Aug. 17, 2012",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Para Campanilla y el resto de las hadas de la temporada cálida, el Bosque del Invierno sigue siendo un lugar misterioso y prohibido. Con «Campanilla: El Secreto de las Hadas», el público acompañará a Campanilla en un increíble viaje a ese mundo prohibido donde descubrirá un secreto mágico que cambiará su vida para siempre.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/j/8/v/4j8vp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/j/8/v/4j8vp.caa.mp4"
       }
     ]
   },
@@ -551,56 +505,48 @@
     ]
   },
   {
-    "title": "Chang machaca ; Puedes hacerlo Chang",
-    "image": "https://image.tmdb.org/t/p/w185/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg",
-    "rating": "6.3",
-    "year": "Mar. 09, 2023",
-    "quality": "720p HD",
+    "title": "Campanilla: El secreto de las hadas ; Tinker bell y el secreto de las hadas ; Tinkerbell",
+    "image": "https://image.tmdb.org/t/p/w185/soPOZlksVHcumHnhyRlI3XtAVyx.jpg",
+    "rating": "7",
+    "year": "Aug. 17, 2012",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Chang, un chaval asiático-estadounidense de 16 años, le apuesta al as del baloncesto de su instituto que podrá hacer un mate la noche del último partido de fútbol. Chang, que mide 1,72 m, se propone aprender a encestar un mate, no solo para impresionar a Kristy, la chica que le gusta, sino también para ganarse el respeto de sus compañeros. Pero, antes de que pueda saltar hasta el aro y encestar, le tocará replantearse todo lo que cree sobre sí mismo, sus amistades y su familia. &nbsp; ⬇⬇⬇⬇⬇",
+    "description": "Para Campanilla y el resto de las hadas de la temporada cálida, el Bosque del Invierno sigue siendo un lugar misterioso y prohibido. Con «Campanilla: El Secreto de las Hadas», el público acompañará a Campanilla en un increíble viaje a ese mundo prohibido donde descubrirá un secreto mágico que cambiará su vida para siempre.",
     "genres": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/j/8/v/4j8vp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/j/8/v/4j8vp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Bolt",
+    "image": "https://image.tmdb.org/t/p/w185/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+    "rating": "6.8",
+    "year": "Nov. 21, 2008",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales.",
+    "genres": [
+      "Animación",
+      "Aventura",
       "Comedia",
-      "Drama",
       "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/9a/s8/2/h/i/4/9/hi49w.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Charlie y la fábrica de chocolate",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/x2x8Ud3xtPmQO0niQ8qlosTmLpR-185x278.jpg",
-    "rating": "6.7",
-    "year": "Jul. 13, 2005",
-    "quality": "720 HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía",
-      "charlie y la fabrica de chocolate español latino",
-      "charlie y la fabrica de chocolate pelicula completa en español latino hd",
-      "descargar charlie y la fabrica de chocolate 2005 mega",
-      "donde ver charlie y la fabrica de chocolate 2026",
-      "johnny dep willy wonka gratis",
-      "mirar charlie y la fábrica de chocolate gratis online 2026",
-      "pelicula de la fabrica de dulces gratis",
-      "ver charlie y la fábrica de chocolate online gratis",
-      "ver charlie y la fabrica de chocolate sin cortes",
-      "ver pelicula charlie y la fabrica de chocolate 1080p"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/aa/s8/2/w/Z/J/k/wZJkA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3556772864-3556843483"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/G/1/b/GG1br.aaa.mp4"
       }
     ]
   },
@@ -629,42 +575,56 @@
     ]
   },
   {
-    "title": "Carrie: un extraño presentimiento",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/6JTL8AQ4jGFmFMTA6H7oVGGKaPp-185x278.jpg",
-    "rating": "0",
-    "year": "Nov. 03, 1976",
+    "title": "Chang machaca ; Puedes hacerlo Chang",
+    "image": "https://image.tmdb.org/t/p/w185/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg",
+    "rating": "6.3",
+    "year": "Mar. 09, 2023",
     "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Carrie White, una tímida adolescente que vive con su madre, una fanática religiosa, es objeto de las burlas constantes de sus compañeros de instituto. Cuando, en las duchas del gimnasio, la chica sufre un ataque de histeria al tener su primera menstruación, a una de sus compañeras se le ocurre gastarle una broma macabra durante la fiesta de graduación. Lo que todos ignoran es que Carrie posee poderes telequinésicos. Adaptación de la novela homónima de Stephen King.",
+    "languages": [],
+    "description": "Chang, un chaval asiático-estadounidense de 16 años, le apuesta al as del baloncesto de su instituto que podrá hacer un mate la noche del último partido de fútbol. Chang, que mide 1,72 m, se propone aprender a encestar un mate, no solo para impresionar a Kristy, la chica que le gusta, sino también para ganarse el respeto de sus compañeros. Pero, antes de que pueda saltar hasta el aro y encestar, le tocará replantearse todo lo que cree sobre sí mismo, sus amistades y su familia. &nbsp; ⬇⬇⬇⬇⬇",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Comedia",
+      "Drama",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5L2h4am9kZGc1OXYxal9oL2luZGV4LXYxLWExLm0zdTg_dD11a3BpaldOREo0U01rWXdGaFJvQVpJblNUSVJ6Z0lzZXFRSzEySnB5SFBzJnM9MTc4NzM2MDc4MCZlPTQzMjAwJnY9MzI3NzI1Mzc2Jmk9MC4wJnNwPTAmZnI9aHhqb2RkZzU5djFqJnI9ZQ"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/9a/s8/2/h/i/4/9/hi49w.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Chiquito pero Peligroso",
-    "image": "https://image.tmdb.org/t/p/w185/7oWhgp3SHexU9Byx97U7Sc8uroW.jpg",
-    "rating": "4.5",
-    "year": "Aug. 31, 2006",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un hombre desesperado por ser padre creerá lo que sea, incluso que un ladrón de joyas con cara de bebé es un niño abandonado.",
+    "title": "Charlie y la fábrica de chocolate",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0037.jpg",
+    "rating": "6.7",
+    "year": "Jul. 13, 2005",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
     "genres": [
+      "Aventura",
       "Comedia",
-      "Crimen"
+      "Familia",
+      "Fantasía",
+      "charlie y la fabrica de chocolate español latino",
+      "charlie y la fabrica de chocolate pelicula completa en español latino hd",
+      "descargar charlie y la fabrica de chocolate 2005 mega",
+      "donde ver charlie y la fabrica de chocolate 2026",
+      "johnny dep willy wonka gratis",
+      "mirar charlie y la fábrica de chocolate gratis online 2026",
+      "pelicula de la fabrica de dulces gratis",
+      "ver charlie y la fábrica de chocolate online gratis",
+      "ver charlie y la fabrica de chocolate sin cortes",
+      "ver pelicula charlie y la fabrica de chocolate 1080p"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/F/_/S/TF_Ss.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/aa/s8/2/w/Z/J/k/wZJkA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3556772864-3556843483"
       }
     ]
   },
@@ -724,6 +684,25 @@
     ]
   },
   {
+    "title": "Chiquito pero Peligroso",
+    "image": "https://image.tmdb.org/t/p/w185/7oWhgp3SHexU9Byx97U7Sc8uroW.jpg",
+    "rating": "4.5",
+    "year": "Aug. 31, 2006",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un hombre desesperado por ser padre creerá lo que sea, incluso que un ladrón de joyas con cara de bebé es un niño abandonado.",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/F/_/S/TF_Ss.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Christiane F. ; Wir Kinder vom Bahnhof Zoo",
     "image": "https://image.tmdb.org/t/p/w185/p79zGPQ2SdVuLZlE6K1f00mab7w.jpg",
     "rating": "7.5",
@@ -763,27 +742,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/8/x/5/3/8x53r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Ciudad de Dios",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/wmvT5l8kXXy36SA4CPbSEJ0302S-185x278.jpg",
-    "rating": "8.6",
-    "year": "Aug. 30, 2002",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Buscapé, de 11 años, vive en la famosa favela «Ciudad de Dios» y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes.",
-    "genres": [
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/22/s8/2/C/g/B/o/CgBoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3999913472-3999992922"
       }
     ]
   },
@@ -829,6 +787,27 @@
     ]
   },
   {
+    "title": "Ciudad de Dios",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0038.jpg",
+    "rating": "8.6",
+    "year": "Aug. 30, 2002",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Buscapé, de 11 años, vive en la famosa favela «Ciudad de Dios» y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes.",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/22/s8/2/C/g/B/o/CgBoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3999913472-3999992922"
+      }
+    ]
+  },
+  {
     "title": "Cars 3",
     "image": "https://image.tmdb.org/t/p/w185/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
     "rating": "6.7",
@@ -854,8 +833,29 @@
     ]
   },
   {
+    "title": "Codigos de Guerra ; Windtalkers",
+    "image": "https://image.tmdb.org/t/p/w185/nDVe8IpViR0bdFrraEN2IZnBanN.jpg",
+    "rating": "6.1",
+    "year": "Jun. 14, 2002",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Durante la Segunda Guerra Mundial (1939-1945) el avance de las tropas estadounidenses en la campaña del Pacífico se ve seriamente obstaculizado por la capacidad de los servicios de inteligencia japoneses para descifrar los mensajes militares. A finales de 1942, son entrenados varios centenares de indios navajos para emplear un código secreto basado en su lengua materna, el único que no pudo ser descifrado por los japoneses. Los protagonistas son dos oficiales cuya misión es proteger a dos indios navajos enrolados en la Marina. Basada en hechos reales.",
+    "genres": [
+      "Acción",
+      "Bélica",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/o/d/T/ZodTs.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Coco",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/lUZZhYLLDU4g4XGQ5tvjYNVytxc-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0040.jpg",
     "rating": "8.4",
     "year": "Oct. 27, 2017",
     "quality": "720p HD",

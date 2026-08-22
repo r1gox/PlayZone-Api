@@ -1,23 +1,5 @@
 [
   {
-    "title": "Hijo de Dios",
-    "image": "https://image.tmdb.org/t/p/w185/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
-    "rating": "5.7",
-    "year": "Feb. 28, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "El actor portugués Diogo Morgalo, que ya protagonizó la adaptación televisiva “La Biblia” para History Channel, vuelve a encarnar a Jesucristo en esta biografía que cuenta la historia de Jesús de Nazaret desde su nacimiento hasta su resurrección.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/8/G/P/28GPq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Historias Cruzadas ; Criadas y señoras",
     "image": "https://image.tmdb.org/t/p/w185/7V5sfN6fNNXvDdr9BPIIIOtPWOp.jpg",
     "rating": "8.1",
@@ -41,7 +23,7 @@
   },
   {
     "title": "Hombres de negro: Internacional",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/ewPz4CtrgyQZaCRpubtG5IedIkp-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0107.jpg",
     "rating": "0",
     "year": "Jun. 12, 2019",
     "quality": "720p HD",
@@ -64,7 +46,7 @@
   },
   {
     "title": "Intercambiados",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/cFMqLI43ybVFyarJTnfV9YO9KUC-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0110.jpg",
     "rating": "N/A",
     "year": "May. 01, 2026",
     "quality": "720p HD",
@@ -84,6 +66,48 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/a4/s8/2/e/N/-/j/eN-jA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3133219840-3133282076"
+      }
+    ]
+  },
+  {
+    "title": "Herencia Siniestra",
+    "image": "https://image.tmdb.org/t/p/w185/unpFLaxiqbCjQLssTZLVuws6t43.jpg",
+    "rating": "5.3",
+    "year": "Jan. 18, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/G/Q/n/L/GQnLs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Interestelar",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0111.jpg",
+    "rating": "8.7",
+    "year": "Nov. 05, 2014",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/43/s8/2/E/3/A/m/E3AmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5204348416-5204452068"
       }
     ]
   },
@@ -108,49 +132,25 @@
     ]
   },
   {
-    "title": "Interestelar",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/nrSaXF39nDfAAeLKksRCyvSzI2a-185x278.jpg",
-    "rating": "8.7",
-    "year": "Nov. 05, 2014",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/43/s8/2/E/3/A/m/E3AmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5204348416-5204452068"
-      }
-    ]
-  },
-  {
-    "title": "Homero Santa",
-    "image": "https://image.tmdb.org/t/p/w185/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
-    "rating": "6.8",
-    "year": "Dec. 16, 2024",
-    "quality": "720p HD",
+    "title": "Hotel para perros",
+    "image": "https://image.tmdb.org/t/p/w185/5YRcVjYVDaFdgqdnqvryLLDrkAm.jpg",
+    "rating": "5.5",
+    "year": "Jan. 16, 2009",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Las cosas se tuercen cuando el famoso mentalista británico Derren Brown llega a Springfield, Homer es hipnotizado y se cree Santa Claus, lo que desata una festiva reacción en cadena.",
+    "description": "Narra la historia de dos huérfanos adolescentes que esconden docenas de perros que viven sin dueño en la calle en un hotel abandonado. Cuando sus nuevos tutores prohíben tener una mascota a la chica de 16 años Andi (Emma Roberts) y a su hermano menor Bruce (Jake T. Austin), Andi tiene que usar su agudeza para encontrar una casa para su perro «Viernes». Los ingeniosos muchachos tropiezan con un hotel abandonado y, utilizando el talento genial de Bruce para la mecánica, lo transforman en un mágico paraíso perruno para Viernes y, al final, para todos los amigos de Viernes. Cuando los ladridos de los perros hacen sospechar a los vecinos, Andi y Bruce emplean toda su astucia para evitar que alguien descubra «quién dejó entrar a los perros».",
     "genres": [
-      "Animación",
       "Comedia",
-      "Kids"
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/0/9/T/p09Tv.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/p/7/P/S/p7PSp.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/0/9/T/p09Tv.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/p/7/P/S/p7PSp.caa.mp4"
       }
     ]
   },
@@ -175,25 +175,26 @@
     ]
   },
   {
-    "title": "Hotel para perros",
-    "image": "https://image.tmdb.org/t/p/w185/5YRcVjYVDaFdgqdnqvryLLDrkAm.jpg",
-    "rating": "5.5",
-    "year": "Jan. 16, 2009",
-    "quality": "720 HD",
+    "title": "Homero Santa",
+    "image": "https://image.tmdb.org/t/p/w185/q4nny4lnjnLYzN10EvBBRsJComp.jpg",
+    "rating": "6.8",
+    "year": "Dec. 16, 2024",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Narra la historia de dos huérfanos adolescentes que esconden docenas de perros que viven sin dueño en la calle en un hotel abandonado. Cuando sus nuevos tutores prohíben tener una mascota a la chica de 16 años Andi (Emma Roberts) y a su hermano menor Bruce (Jake T. Austin), Andi tiene que usar su agudeza para encontrar una casa para su perro «Viernes». Los ingeniosos muchachos tropiezan con un hotel abandonado y, utilizando el talento genial de Bruce para la mecánica, lo transforman en un mágico paraíso perruno para Viernes y, al final, para todos los amigos de Viernes. Cuando los ladridos de los perros hacen sospechar a los vecinos, Andi y Bruce emplean toda su astucia para evitar que alguien descubra «quién dejó entrar a los perros».",
+    "description": "Las cosas se tuercen cuando el famoso mentalista británico Derren Brown llega a Springfield, Homer es hipnotizado y se cree Santa Claus, lo que desata una festiva reacción en cadena.",
     "genres": [
+      "Animación",
       "Comedia",
-      "Familia"
+      "Kids"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/7/P/S/p7PSp.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/p/0/9/T/p09Tv.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/7/P/S/p7PSp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/p/0/9/T/p09Tv.caa.mp4"
       }
     ]
   },
@@ -223,8 +224,31 @@
     ]
   },
   {
+    "title": "Iron Man 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0113.jpg",
+    "rating": "6.9",
+    "year": "Apr. 28, 2010",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "El mundo sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa información pueda caer en manos indeseables.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/3e/s8/2/U/d/w/j/UdwjA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1995822080-1995897977"
+      }
+    ]
+  },
+  {
     "title": "Iron Man 3",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/cW0fOIZONkgeiMJDYzqUcgl4MUn-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0114.jpg",
     "rating": "7.1",
     "year": "Apr. 18, 2013",
     "quality": "720 HD",
@@ -245,25 +269,24 @@
     ]
   },
   {
-    "title": "Iron Man 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/3TVd7B5JFB8MtVQ2CvWnOQ3HKem-185x278.jpg",
-    "rating": "6.9",
-    "year": "Apr. 28, 2010",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "El mundo sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa información pueda caer en manos indeseables.",
+    "title": "Hotel Transilvania 4: Transformanía ; Hotel Transylvania 4: Transformanía",
+    "image": "https://image.tmdb.org/t/p/w185/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg",
+    "rating": "6",
+    "year": "Jan. 31, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el «Rayo Monstrificador», se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
     "genres": [
-      "Acción",
+      "Animación",
       "Aventura",
-      "Ciencia ficción"
+      "Comedia",
+      "Familia",
+      "Fantasía"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/3e/s8/2/U/d/w/j/UdwjA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1995822080-1995897977"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/1/L/U/O/1LUOq.aaa.mp4"
       }
     ]
   },
@@ -309,43 +332,53 @@
     ]
   },
   {
-    "title": "Hotel Transilvania 4: Transformanía ; Hotel Transylvania 4: Transformanía",
-    "image": "https://image.tmdb.org/t/p/w185/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg",
-    "rating": "6",
-    "year": "Jan. 31, 2022",
-    "quality": "720 HD",
+    "title": "Hulk",
+    "image": "https://image.tmdb.org/t/p/w185/scLV1AO6TLi45N7AJanjYR48i78.jpg",
+    "rating": "5.6",
+    "year": "Jun. 19, 2003",
+    "quality": "",
     "languages": [],
-    "description": "Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el «Rayo Monstrificador», se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
+    "description": "Bruce Banner un brillante investigador en el campo de la tecnología genética, oculta un pasado doloroso que lo ha dejado estigmatizado. Su antigua novia, la investigadora Betty Ross (Jennifer Connelly), que perdió la paciencia esperando que recuperara la estabilidad emocional, fue testigo de un grave accidente sufrido por Banner en el laboratorio: debido a una explosión el cuerpo del científico absorbió una dosis letal de rayos gamma; desde entonces, Banner empezó a sentir en su interior la presencia de un ente peligroso y, a la vez, oscuramente atractivo. Mientras tanto, Hulk, una criatura salvaje y prodigiosamente fuerte aparece esporádicamente, dejando tras de sí una estela de destrucción. Se trata de una situación de emergencia que exige la intervención del ejército, encabezado por el padre de Betty, el general «Thunderbolt» Ross. Betty es la única que sospecha que Bruce tiene algo que ver con Hulk.",
     "genres": [
-      "Animación",
+      "Acción",
       "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Ciencia ficción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/1/L/U/O/1LUOq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/m/Q/h/h/mQhhl.caa.mp4"
       }
     ]
   },
   {
-    "title": "Jack: El ganador ; Most Valuable Primate ; ¡Cómo mola ser mono!",
-    "image": "https://image.tmdb.org/t/p/w185/zNGy1GFzqoYlnukdQ2Vw6RKMpAQ.jpg",
-    "rating": "4.2",
-    "year": "Aug. 11, 2000",
-    "quality": "720p HD",
+    "title": "Invicto 1",
+    "image": "https://image.tmdb.org/t/p/w185/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg",
+    "rating": "6.1",
+    "year": "Jul. 17, 2002",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Un chimpancé superinteligente logra escapar del laboratorio donde está recluido, con tal de ayudar a dos hermanos a ganar el Torneo Nacional de hockey sobre hielo",
+    "description": "Cuando el campeón de los pesos pesados George Iceman Chambers ingresa en prisión, el gánster residente organiza un combate de boxeo con el actual campeón de la cárcel.",
     "genres": [
-      "Comedia",
-      "Familia"
+      "Crimen",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/s/P/6/K/sP6Kw.aaa.mp4"
+        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.oaa.mp4"
       }
     ]
   },
@@ -391,42 +424,20 @@
     ]
   },
   {
-    "title": "Imaginary",
-    "image": "https://image.tmdb.org/t/p/w185/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
-    "rating": "4.8",
-    "year": "Mar. 06, 2024",
-    "quality": "720 HD",
+    "title": "Jake Paul vs. Mike Tyson",
+    "image": "https://image.tmdb.org/t/p/w185/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg",
+    "rating": "3.2",
+    "year": "Nov. 15, 2024",
+    "quality": "720p HDSub Español",
     "languages": [],
-    "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.",
+    "description": "Jake Paul se enfrenta a Mike Tyson en este megaevento de boxeo imprescindible que se emitirá en directo en cinco idiomas desde el AT&amp;T Stadium de Arlington.",
     "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
+      "Acción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/S/_/v/T/S_vTq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Hulk",
-    "image": "https://image.tmdb.org/t/p/w185/scLV1AO6TLi45N7AJanjYR48i78.jpg",
-    "rating": "5.6",
-    "year": "Jun. 19, 2003",
-    "quality": "",
-    "languages": [],
-    "description": "Bruce Banner un brillante investigador en el campo de la tecnología genética, oculta un pasado doloroso que lo ha dejado estigmatizado. Su antigua novia, la investigadora Betty Ross (Jennifer Connelly), que perdió la paciencia esperando que recuperara la estabilidad emocional, fue testigo de un grave accidente sufrido por Banner en el laboratorio: debido a una explosión el cuerpo del científico absorbió una dosis letal de rayos gamma; desde entonces, Banner empezó a sentir en su interior la presencia de un ente peligroso y, a la vez, oscuramente atractivo. Mientras tanto, Hulk, una criatura salvaje y prodigiosamente fuerte aparece esporádicamente, dejando tras de sí una estela de destrucción. Se trata de una situación de emergencia que exige la intervención del ejército, encabezado por el padre de Betty, el general «Thunderbolt» Ross. Betty es la única que sospecha que Bruce tiene algo que ver con Hulk.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/m/Q/h/h/mQhhl.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/C/X/m/U/CXmUu.aaa.mp4"
       }
     ]
   },
@@ -449,71 +460,59 @@
     ]
   },
   {
-    "title": "Jake Paul vs. Mike Tyson",
-    "image": "https://image.tmdb.org/t/p/w185/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg",
-    "rating": "3.2",
-    "year": "Nov. 15, 2024",
-    "quality": "720p HDSub Español",
+    "title": "Jack: El ganador ; Most Valuable Primate ; ¡Cómo mola ser mono!",
+    "image": "https://image.tmdb.org/t/p/w185/zNGy1GFzqoYlnukdQ2Vw6RKMpAQ.jpg",
+    "rating": "4.2",
+    "year": "Aug. 11, 2000",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Jake Paul se enfrenta a Mike Tyson en este megaevento de boxeo imprescindible que se emitirá en directo en cinco idiomas desde el AT&amp;T Stadium de Arlington.",
+    "description": "Un chimpancé superinteligente logra escapar del laboratorio donde está recluido, con tal de ayudar a dos hermanos a ganar el Torneo Nacional de hockey sobre hielo",
     "genres": [
-      "Acción"
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/C/X/m/U/CXmUu.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/s/P/6/K/sP6Kw.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Invicto 1",
-    "image": "https://image.tmdb.org/t/p/w185/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg",
-    "rating": "6.1",
-    "year": "Jul. 17, 2002",
-    "quality": "720 HD",
+    "title": "Jeepers Creepers 2",
+    "image": "https://image.tmdb.org/t/p/w185/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg",
+    "rating": "5.7",
+    "year": "Aug. 08, 2003",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Cuando el campeón de los pesos pesados George Iceman Chambers ingresa en prisión, el gánster residente organiza un combate de boxeo con el actual campeón de la cárcel.",
+    "description": "Hoy es el 22º día en el ritual alimenticio de la abominable criatura conocida como The Creeper, la cual se alimenta de los órganos arrancados vivos de sus víctimas. A este monstruo caníbal procedente de tiempos remotos le queda todavía un día más para hartarse de carne humana y desaparecer de nuevo, y aguardar en hibernación hasta su próxima temporada de caza dentro de 23 años. Taggart y sus hijos se hallan trabajando en los maizales de su propiedad cuando la bestia de enormes alas agarra al benjamín de la familia, transportándolo por los aires hacia un destino que se adivina horripilante…",
     "genres": [
-      "Crimen",
-      "Drama"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/T/z/h/C/TzhCr.oaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/v/I/P/8/vIP8t.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Infinite",
-    "image": "https://image.tmdb.org/t/p/w185/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
-    "rating": "5.5",
-    "year": "Sep. 09, 2021",
-    "quality": "720 HD",
+    "title": "Jason X (10) ; parte 10",
+    "image": "https://image.tmdb.org/t/p/w185/hvu9h9BlK3gJPuerFyQNR6zTvBD.jpg",
+    "rating": "4.5",
+    "year": "Nov. 09, 2001",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar «Infinitos» acuden a su rescate, revelando que sus recuerdos son reales.",
+    "description": "En el año 2445, la Tierra es un lugar contaminado al que regresan de vez en cuando los hombres para recoger residuos de la vieja civilización. Poco se imaginan los jóvenes e intrépidos exploradores que acaban de aterrizar en la Tierra el destino que les aguarda.",
     "genres": [
-      "Acción",
       "Ciencia ficción",
-      "Suspense"
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/9/a/O/H9aOq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/o/i/q/voiqu.aaa.mp4"
       }
     ]
   },
@@ -538,44 +537,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/g/0/u/8/g0u8r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jason X (10) ; parte 10",
-    "image": "https://image.tmdb.org/t/p/w185/hvu9h9BlK3gJPuerFyQNR6zTvBD.jpg",
-    "rating": "4.5",
-    "year": "Nov. 09, 2001",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En el año 2445, la Tierra es un lugar contaminado al que regresan de vez en cuando los hombres para recoger residuos de la vieja civilización. Poco se imaginan los jóvenes e intrépidos exploradores que acaban de aterrizar en la Tierra el destino que les aguarda.",
-    "genres": [
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/o/i/q/voiqu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jeepers Creepers 2",
-    "image": "https://image.tmdb.org/t/p/w185/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg",
-    "rating": "5.7",
-    "year": "Aug. 08, 2003",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Hoy es el 22º día en el ritual alimenticio de la abominable criatura conocida como The Creeper, la cual se alimenta de los órganos arrancados vivos de sus víctimas. A este monstruo caníbal procedente de tiempos remotos le queda todavía un día más para hartarse de carne humana y desaparecer de nuevo, y aguardar en hibernación hasta su próxima temporada de caza dentro de 23 años. Taggart y sus hijos se hallan trabajando en los maizales de su propiedad cuando la bestia de enormes alas agarra al benjamín de la familia, transportándolo por los aires hacia un destino que se adivina horripilante…",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/I/P/8/vIP8t.aaa.mp4"
       }
     ]
   },
@@ -607,7 +568,7 @@
   },
   {
     "title": "Jeepers Creepers 4: La Reencarnación del Demonio",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/kPlknIjzXkmhmR24NfXa4ECc5Wm-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0115.jpg",
     "rating": "2.6",
     "year": "Sep. 15, 2022",
     "quality": "720p HD",
@@ -623,6 +584,46 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/81/s8/2/o/H/I/I/oHIIA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2704061952-2704115662"
+      }
+    ]
+  },
+  {
+    "title": "Imaginary",
+    "image": "https://image.tmdb.org/t/p/w185/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
+    "rating": "4.8",
+    "year": "Mar. 06, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/S/_/v/T/S_vTq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "John Carter",
+    "image": "https://image.tmdb.org/t/p/w185/lRvQP1wLqyPJEgBjjn35bInO7it.jpg",
+    "rating": "6.6",
+    "year": "Mar. 07, 2012",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Adaptación de ‘Una princesa de Marte’, la primera novela fantástica de Edgar Rice Burroughs. La película lleva a la gran pantalla una aventura épica que se desarrolla en el devastado planeta Marte, un mundo habitado por tribus guerreras y seres salvajes. John Carter es un veterano de la Guerra Civil norteamericana (1861-1865) que se halla en el planeta Marte, se ve inmerso en una nueva y misteriosa guerra con un extraño ejército de marcianos, entre los que se encuentran Tars Tarkas y la princesa Dejah Thoris.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/W/r/3/vWr3u.aaa.mp4"
       }
     ]
   },
@@ -646,7 +647,7 @@
   },
   {
     "title": "Iron Man",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/tFCTNx7foAsUQpgu2x1KjAJD1wT-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0112.jpg",
     "rating": "7.9",
     "year": "Apr. 30, 2008",
     "quality": "720 HD",
@@ -667,22 +668,64 @@
     ]
   },
   {
-    "title": "John Carter",
-    "image": "https://image.tmdb.org/t/p/w185/lRvQP1wLqyPJEgBjjn35bInO7it.jpg",
-    "rating": "6.6",
-    "year": "Mar. 07, 2012",
-    "quality": "720p HD",
+    "title": "Infinite",
+    "image": "https://image.tmdb.org/t/p/w185/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
+    "rating": "5.5",
+    "year": "Sep. 09, 2021",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Adaptación de ‘Una princesa de Marte’, la primera novela fantástica de Edgar Rice Burroughs. La película lleva a la gran pantalla una aventura épica que se desarrolla en el devastado planeta Marte, un mundo habitado por tribus guerreras y seres salvajes. John Carter es un veterano de la Guerra Civil norteamericana (1861-1865) que se halla en el planeta Marte, se ve inmerso en una nueva y misteriosa guerra con un extraño ejército de marcianos, entre los que se encuentran Tars Tarkas y la princesa Dejah Thoris.",
+    "description": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar «Infinitos» acuden a su rescate, revelando que sus recuerdos son reales.",
     "genres": [
       "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Ciencia ficción",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/W/r/3/vWr3u.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/H/9/a/O/H9aOq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "John Wick 1 (Otro día para matar)",
+    "image": "https://image.tmdb.org/t/p/w185/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg",
+    "rating": "7.4",
+    "year": "Oct. 22, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/H/C/G/DHCGt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "John Wick 4",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0116.jpg",
+    "rating": "8.3",
+    "year": "Mar. 22, 2023",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/01/s8/2/4/t/-/L/4t-LA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5217312256-5217416033"
       }
     ]
   },
@@ -709,48 +752,6 @@
     ]
   },
   {
-    "title": "John Wick 1 (Otro día para matar)",
-    "image": "https://image.tmdb.org/t/p/w185/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg",
-    "rating": "7.4",
-    "year": "Oct. 22, 2014",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/H/C/G/DHCGt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "John Wick 4",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/gh2bmprLtUQ8oXCSluzfqaicyrm-185x278.jpg",
-    "rating": "8.3",
-    "year": "Mar. 22, 2023",
-    "quality": "1080p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/01/s8/2/4/t/-/L/4t-LA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=5217312256-5217416033"
-      }
-    ]
-  },
-  {
     "title": "John Wick 2: Pacto de sangre",
     "image": "https://image.tmdb.org/t/p/w185/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg",
     "rating": "7.4",
@@ -771,6 +772,25 @@
     ]
   },
   {
+    "title": "Invicto 3: Redención",
+    "image": "https://image.tmdb.org/t/p/w185/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg",
+    "rating": "7.3",
+    "year": "May. 22, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En esta película Scott Adkins vuelve a encarnar a Boyka (el malo de Undisputed 2), que busca la libertad. Cuando se le ofrece la oportunidad de participar en un campeonato clandestino entre los 8 mejores luchadores reclusos del mundo, ni lo dudará.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/M/v/E/9MvEr.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "John Wick: Capítulo 3 ; Parabellum",
     "image": "https://image.tmdb.org/t/p/w185/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
     "rating": "7.4",
@@ -787,26 +807,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/1/P/X/F/1PXFt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jovenes y brujas",
-    "image": "https://image.tmdb.org/t/p/w185/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg",
-    "rating": "4.6",
-    "year": "Oct. 28, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un ecléctico cuarteto de aspirantes a brujas adolescentes obtienen más de lo que esperaban mientras se inclinaban hacia sus nuevos poderes.",
-    "genres": [
-      "Drama",
-      "Fantasía",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/J/1/F/nJ1Fu.aaa.mp4"
       }
     ]
   },
@@ -834,21 +834,22 @@
     ]
   },
   {
-    "title": "Juego prohibido (The Forbidden Play)",
-    "image": "https://image.tmdb.org/t/p/w185/vEauIPchLaqdxfVnuT305oj8qpT.jpg",
-    "rating": "4.4",
-    "year": "Sep. 08, 2023",
+    "title": "Jovenes y brujas",
+    "image": "https://image.tmdb.org/t/p/w185/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg",
+    "rating": "4.6",
+    "year": "Oct. 28, 2020",
     "quality": "720p HD",
     "languages": [],
-    "description": "Cuando la directora de vídeos para internet Hiroko Kurasawa visita la casa de su antiguo colega Naoto Ihara, quien ha perdido a su esposa, ve a su hijo Haruto recitando un extraño hechizo en dirección a un montículo de tierra en su jardín. Un encantamiento misterioso, la cola de un lagarto, un dedo, una sombra pálida, un montón de tierra ondulante y una casa sellada… Alrededor de Hiroko comienzan a producirse fenómenos extraños y lo que comenzó como el deseo inocente de un niño se convierte en una maldad desatada.",
+    "description": "Un ecléctico cuarteto de aspirantes a brujas adolescentes obtienen más de lo que esperaban mientras se inclinaban hacia sus nuevos poderes.",
     "genres": [
-      "Suspense",
+      "Drama",
+      "Fantasía",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/6/-/x/v6-xt.aaa.mp4?u=0&b=0"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/J/1/F/nJ1Fu.aaa.mp4"
       }
     ]
   }

@@ -1,26 +1,31 @@
 [
   {
-    "title": "Extraordinario ; Wonder",
-    "image": "https://image.tmdb.org/t/p/w185/wowB0C4S5KX5SNbhGMkbZZEOqCR.jpg",
-    "rating": "7.9",
-    "year": "Nov. 13, 2017",
-    "quality": "720p HD",
+    "title": "El único superviviente",
+    "image": "https://image.tmdb.org/t/p/w185/f8SPUn6rMm36d8dbPCQytrcasr1.jpg",
+    "rating": "0",
+    "year": "Dec. 24, 2013",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Basada en el Bestseller del New York Times, Extraordinario cuenta la inspiradora y alentadora historia de Agust Pullman. Nacido con deformaciones faciales que hasta ahora le impedían ir a una escuela primaria, Auggie se convierte en un héroe poco común cuando entra al quinto grado. Tanto su familia como sus compañeros de clases y la comunidad en general luchan por encontrar la compasión y la aceptación, el extraordinario viaje de Auggie los unirá y les probará que no puedes mezclarte cuando naciste para sobresalir.",
+    "description": "Año 2005. A un equipo de élite de las fuerzas especiales SEAL del ejército norteamericano, liderados por Marcus Luttrell junto a otros tres soldados les es encomendada una peligrosa misión, la «Operación red wing»: capturar o matar a un líder terrorista talibán, Admad Shad, que se esconde en una zona boscosa de Afganistán. La llegada al punto donde localizaron el objetivo se realizó sin problemas, pero pronto la situación se complicó hasta extremos inimaginables.",
     "genres": [
-      "Drama",
-      "Familia"
+      "Acción",
+      "Bélica",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/4a/s8/2/z/F/d/4/zFd4x.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/G/R/9/_/GR9_r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/G/R/9/_/GR9_r.caa.mp4"
       }
     ]
   },
   {
     "title": "Fall ; Vértigo",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/aOidBN8Ch4LD6M9HyvDjTqM9fLF-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0085.jpg",
     "rating": "6.4",
     "year": "Aug. 11, 2022",
     "quality": "720p HD",
@@ -40,41 +45,42 @@
     ]
   },
   {
-    "title": "Entre dos mundos",
-    "image": "https://image.tmdb.org/t/p/w185/4LPgEgDdipSYSU4ABafINfyGWow.jpg",
+    "title": "Escuadrón suicida",
+    "image": "https://image.tmdb.org/t/p/w185/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
     "rating": "5.9",
-    "year": "Feb. 11, 2022",
+    "year": "Aug. 03, 2016",
     "quality": "720 HD",
     "languages": [],
-    "description": "Después de sobrevivir a un accidente automovilístico que le quitó la vida a su novio, una adolescente cree que él está intentando reconectarse con ella desde el más allá.",
+    "description": "Mientras el gobierno de EE.UU no tiene claro cómo responder a una visita alienígena a la Tierra con intenciones malignas, Amanda ‘El Muro’ Waller, la líder de la agencia secreta A.R.G.U.S., ofrece una curiosa solución: reclutar a los villanos más crueles, con habilidades letales e incluso mágicas, para que trabajen para ellos. Sin demasiadas opciones a dar una negativa, los ocho supervillanos más peligrosos del mundo acceden a colaborar con el Ejecutivo en peligrosas misiones secretas, casi suicidas, para así lograr limpiar su expediente.",
     "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Romance"
+      "Acción",
+      "Aventura",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/t/y/H/m/tyHmr.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/f/N/j/t/fNjtn.caa.mp4"
       }
     ]
   },
   {
-    "title": "Eres tú",
-    "image": "https://image.tmdb.org/t/p/w185/sKBWGgsUCjoc5x3zdQuJUvozqKh.jpg",
-    "rating": "5.7",
-    "year": "Mar. 03, 2023",
-    "quality": "720 HD",
+    "title": "Emoji: La película",
+    "image": "https://image.tmdb.org/t/p/w185/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
+    "rating": "3.4",
+    "year": "Jul. 23, 2017",
+    "quality": "720 HD720p HD",
     "languages": [],
-    "description": "Cuenta la historia de Javier, quien a los 16 años besó por primera vez a una chica y descubrió que tenía el don de la clarividencia, al menos de la clarividencia amorosa. Javier, con tan sólo un beso, es capaz de ver el futuro de esa relación. La historia se complica cuando en una noche de fiesta besa a Lucia, la novia de su mejor amigo.",
+    "description": "Los protagonistas habitarán la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen, un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo.",
     "genres": [
+      "Animación",
       "Comedia",
-      "Romance"
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/P/Z/D/2/PZD2q.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/d/d/c/v/ddcvq.aaa.mp4"
       }
     ]
   },
@@ -94,6 +100,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/A/F/C/_AFCq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "En la hierba alta",
+    "image": "https://image.tmdb.org/t/p/w185/hBq8SkRduhzF8B4nwBNbEE1zuOp.jpg",
+    "rating": "5.5",
+    "year": "Sep. 20, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Después de escuchar a un niño gritando pidiendo ayuda desde las verdes profundidades de un vasto campo de hierba alta, Becky, una mujer embarazada, y Cal, su hermano, aparcan su coche cerca de una misteriosa iglesia abandonada y entran imprudentemente en el campo, descubriendo que no están solos y que por alguna razón son incapaces de escapar de un laberinto vegetal completamente inextricable.",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/q/H/t/rqHtq.aaa.mp4"
       }
     ]
   },
@@ -118,22 +144,63 @@
     ]
   },
   {
-    "title": "Escuadrón suicida",
-    "image": "https://image.tmdb.org/t/p/w185/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
-    "rating": "5.9",
-    "year": "Aug. 03, 2016",
+    "title": "Estación Zombie",
+    "image": "https://image.tmdb.org/t/p/w185/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+    "rating": "7.6",
+    "year": "Jul. 20, 2016",
     "quality": "720 HD",
     "languages": [],
-    "description": "Mientras el gobierno de EE.UU no tiene claro cómo responder a una visita alienígena a la Tierra con intenciones malignas, Amanda ‘El Muro’ Waller, la líder de la agencia secreta A.R.G.U.S., ofrece una curiosa solución: reclutar a los villanos más crueles, con habilidades letales e incluso mágicas, para que trabajen para ellos. Sin demasiadas opciones a dar una negativa, los ocho supervillanos más peligrosos del mundo acceden a colaborar con el Ejecutivo en peligrosas misiones secretas, casi suicidas, para así lograr limpiar su expediente.",
+    "description": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
     "genres": [
       "Acción",
+      "Aventura",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/F/r/n/F/FrnFq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Flow",
+    "image": "https://image.tmdb.org/t/p/w185/enRimDhtFfb7hNTQlOjrgK8O8UO.jpg",
+    "rating": "8",
+    "year": "Aug. 30, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El mundo parece estar llegando a su fin, repleto de vestigios de presencia humana. Gato es un animal solitario, pero como su hogar es arrasado por una gran inundación, encuentra refugio en un barco poblado por varias especies, y tendrá que hacer equipo con ellas a pesar de sus diferencias. En el solitario barco que navega por místicos paisajes desbordados, navegan por los desafíos y peligros de adaptarse a este nuevo mundo..",
+    "genres": [
+      "Animación",
       "Aventura",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/N/j/t/fNjtn.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/e6/s8/2/R/Y/q/u/RYquw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Flow callejero 3",
+    "image": "https://image.tmdb.org/t/p/w185/dTCQ9KPhMWUM6mHWZzR4Ws1gl74.jpg",
+    "rating": "5.5",
+    "year": "Mar. 04, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Los hermanos Traoré, en duelo y frente a las consecuencias de sus actos, tienen una última oportunidad para forjarse un nuevo camino en la entrega final de la trilogía.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/1d/s8/2/y/v/j/5/yvj5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=882593792-882661223"
       }
     ]
   },
@@ -160,67 +227,6 @@
     ]
   },
   {
-    "title": "Flow callejero 3",
-    "image": "https://image.tmdb.org/t/p/w185/dTCQ9KPhMWUM6mHWZzR4Ws1gl74.jpg",
-    "rating": "5.5",
-    "year": "Mar. 04, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Los hermanos Traoré, en duelo y frente a las consecuencias de sus actos, tienen una última oportunidad para forjarse un nuevo camino en la entrega final de la trilogía.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/1d/s8/2/y/v/j/5/yvj5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=882593792-882661223"
-      }
-    ]
-  },
-  {
-    "title": "Flow",
-    "image": "https://image.tmdb.org/t/p/w185/enRimDhtFfb7hNTQlOjrgK8O8UO.jpg",
-    "rating": "8",
-    "year": "Aug. 30, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El mundo parece estar llegando a su fin, repleto de vestigios de presencia humana. Gato es un animal solitario, pero como su hogar es arrasado por una gran inundación, encuentra refugio en un barco poblado por varias especies, y tendrá que hacer equipo con ellas a pesar de sus diferencias. En el solitario barco que navega por místicos paisajes desbordados, navegan por los desafíos y peligros de adaptarse a este nuevo mundo..",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/e6/s8/2/R/Y/q/u/RYquw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Estación Zombie",
-    "image": "https://image.tmdb.org/t/p/w185/anomz7b3GQtHPFH34SODDBBIUad.jpg",
-    "rating": "7.6",
-    "year": "Jul. 20, 2016",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/F/r/n/F/FrnFq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Fractura",
     "image": "https://image.tmdb.org/t/p/w185/x70sRlURZdk8yHsctTBilQNKCls.jpg",
     "rating": "6.5",
@@ -235,28 +241,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/L/N/q/TLNqt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "F1 la película",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/yKIG63pXN89EfbTA7yKpwxAU1rf-185x278.jpg",
-    "rating": "0",
-    "year": "Jun. 23, 2025",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "El piloto legendario Sonny Hayes es convencido de salir de su retiro para liderar a un equipo de la Fórmula 1 en dificultades y ser mentor de un joven piloto talentoso, mientras se busca una última oportunidad de gloria.",
-    "genres": [
-      "Acción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDIvMDAwMDYvMGY1YjBkdmw0aWl4X24vaW5kZXgtdjEtYTEubTN1OD90PUVGTzRaSVc5eHowcmRpTHBoWXU4SGFsTFFoM0RSenVzS3dFc2RtQkFqUG8mcz0xNzg3MzYxMDk3JmU9NDMyMDAmdj0zMzAyNTM1ODMmc3J2PXM4Jmk9MC4wJnNwPTAmZnI9MGY1YjBkdmw0aWl4JnI9ZQ"
       }
     ]
   },
@@ -301,24 +285,44 @@
     ]
   },
   {
-    "title": "Frozen 2",
-    "image": "https://image.tmdb.org/t/p/w185/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
-    "rating": "6.8",
-    "year": "Nov. 20, 2019",
+    "title": "F1 la película",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0084.jpg",
+    "rating": "0",
+    "year": "Jun. 23, 2025",
     "quality": "720p HD",
-    "languages": [],
-    "description": "¿Por qué nació Elsa con poderes mágicos? La respuesta le está llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprenderá un viaje peligroso e inolvidable. En ‘Frozen: El Reino del Hielo’, Elsa temía que sus poderes fueran demasiado para el mundo. En ‘Frozen 2’, deseará que sean suficientes.",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "El piloto legendario Sonny Hayes es convencido de salir de su retiro para liderar a un equipo de la Fórmula 1 en dificultades y ser mentor de un joven piloto talentoso, mientras se busca una última oportunidad de gloria.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Acción",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/d/H/X/k/dHXkv.aaa.mp4"
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDIvMDAwMDYvMGY1YjBkdmw0aWl4X24vaW5kZXgtdjEtYTEubTN1OD90PUVGTzRaSVc5eHowcmRpTHBoWXU4SGFsTFFoM0RSenVzS3dFc2RtQkFqUG8mcz0xNzg3MzYxMDk3JmU9NDMyMDAmdj0zMzAyNTM1ODMmc3J2PXM4Jmk9MC4wJnNwPTAmZnI9MGY1YjBkdmw0aWl4JnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Exodus: Dioses y reyes",
+    "image": "https://image.tmdb.org/t/p/w185/c22euaIzC0Q3lYa14hiUUnPZObk.jpg",
+    "rating": "6",
+    "year": "Dec. 03, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Narra la historia de Moisés (Christian Bale), un hombre cuyo coraje desafió a un imperio cuando se rebela contra el todopoderoso faraón Ramsés (Joel Edgerton), liberando a 600.000 esclavos en una épica huida a través de Egipto, llena de peligros y mortíferas plagas, en busca de la Tierra Prometida.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/N/a/L/K/NaLKq.aaa.mp4"
       }
     ]
   },
@@ -340,6 +344,28 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fw/s8/2/6/C/S/k/6CSkv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Frozen 2",
+    "image": "https://image.tmdb.org/t/p/w185/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+    "rating": "6.8",
+    "year": "Nov. 20, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "¿Por qué nació Elsa con poderes mágicos? La respuesta le está llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprenderá un viaje peligroso e inolvidable. En ‘Frozen: El Reino del Hielo’, Elsa temía que sus poderes fueran demasiado para el mundo. En ‘Frozen 2’, deseará que sean suficientes.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/d/H/X/k/dHXkv.aaa.mp4"
       }
     ]
   },
@@ -384,26 +410,6 @@
     ]
   },
   {
-    "title": "Exodus: Dioses y reyes",
-    "image": "https://image.tmdb.org/t/p/w185/c22euaIzC0Q3lYa14hiUUnPZObk.jpg",
-    "rating": "6",
-    "year": "Dec. 03, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Narra la historia de Moisés (Christian Bale), un hombre cuyo coraje desafió a un imperio cuando se rebela contra el todopoderoso faraón Ramsés (Joel Edgerton), liberando a 600.000 esclavos en una épica huida a través de Egipto, llena de peligros y mortíferas plagas, en busca de la Tierra Prometida.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/a/L/K/NaLKq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Furioza 2",
     "image": "https://image.tmdb.org/t/p/w185/yOLnV1lM3NuMsgYwIhz454fQRgt.jpg",
     "rating": "0",
@@ -422,26 +428,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/90/s8/2/0/z/6/q/0z6qz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1319086592-1319187795"
-      }
-    ]
-  },
-  {
-    "title": "G.I. Joe 2: El Contraataque",
-    "image": "https://image.tmdb.org/t/p/w185/heX1PtYdzXgfYpEnuWtRqc4rH4x.jpg",
-    "rating": "5.7",
-    "year": "Mar. 27, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En esta ocasión, los G.I Joes no solo tendrán que luchar contra su enemigo mortal, Cobra, sino que además se verán obligados a lidiar con las amenazas de dentro del gobierno que ponen en peligro su propia existencia.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9b/s8/2/-/M/a/o/-Maoy.aaa.mp4"
       }
     ]
   },
@@ -466,6 +452,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/30/s8/2/G/0/l/5/G0l5v.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "G.I. Joe 2: El Contraataque",
+    "image": "https://image.tmdb.org/t/p/w185/heX1PtYdzXgfYpEnuWtRqc4rH4x.jpg",
+    "rating": "5.7",
+    "year": "Mar. 27, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En esta ocasión, los G.I Joes no solo tendrán que luchar contra su enemigo mortal, Cobra, sino que además se verán obligados a lidiar con las amenazas de dentro del gobierno que ponen en peligro su propia existencia.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9b/s8/2/-/M/a/o/-Maoy.aaa.mp4"
       }
     ]
   },
@@ -506,28 +512,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/15/s8/2/4/z/S/n/4zSny.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Flash",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/x9Qc86JEyYkAKsdzjDpS5kbaAB7-185x278.jpg",
-    "rating": "7.2",
-    "year": "Jun. 13, 2023",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvZjkzazc5Nm9mcHY2X24vaW5kZXgtdjEtYTEubTN1OD90PVktZ2JEc1dDeGpET0otSFNjWXZkM0NZRWRLanZtMmZVa1AzaGNSSVBjVGsmcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMzAwNTQxODcmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
@@ -574,47 +558,6 @@
     ]
   },
   {
-    "title": "Ford vs Ferrari ; Contra lo imposible",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/kFkZFPBU7vnDDu4m9eOgk7w9W7O-185x278.jpg",
-    "rating": "8.1",
-    "year": "Nov. 13, 2019",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby y su conductor británico Ken Miles. Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.",
-    "genres": [
-      "Acción",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvZmI0dGtzYW9rYWE2X24vaW5kZXgtdjEtYTEubTN1OD90PWZvMDloOGlaWUhyRF9qUllaS3drNjhqLUhPbUYwWHlDX1pnN0VaQ0ZBakEmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMzAwNTQ0NDEmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPWZiNHRrc2Fva2FhNiZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "Fabricante de lágrimas",
-    "image": "https://image.tmdb.org/t/p/w185/ymYU4PtvEU4kO7QEEGUfxfJ95Qk.jpg",
-    "rating": "5.5",
-    "year": "Apr. 04, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Adoptados juntos tras pasar una infancia difícil en un orfanato, Nica y Rigel se dan cuenta de que están unidos por unos sentimientos inesperados… e irrefrenables.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/W/L/Y/xWLYq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Ferry 2",
     "image": "https://image.tmdb.org/t/p/w185/oIeHeuhxUpU7wWDqqo769s8D91s.jpg",
     "rating": "5.8",
@@ -639,8 +582,52 @@
     ]
   },
   {
+    "title": "Ford vs Ferrari ; Contra lo imposible",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0087.jpg",
+    "rating": "8.1",
+    "year": "Nov. 13, 2019",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Se centra en un excéntrico y decidido equipo americano de ingenieros y diseñadores liderados por el visionario automovilístico Carroll Shelby y su conductor británico Ken Miles. Henry Ford II y Lee Iacocca les dan la misión de construir desde cero un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966.",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvZmI0dGtzYW9rYWE2X24vaW5kZXgtdjEtYTEubTN1OD90PWZvMDloOGlaWUhyRF9qUllaS3drNjhqLUhPbUYwWHlDX1pnN0VaQ0ZBakEmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMzAwNTQ0NDEmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPWZiNHRrc2Fva2FhNiZyPWU"
+      }
+    ]
+  },
+  {
+    "title": "Flash",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0086.jpg",
+    "rating": "7.2",
+    "year": "Jun. 13, 2023",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvZjkzazc5Nm9mcHY2X24vaW5kZXgtdjEtYTEubTN1OD90PVktZ2JEc1dDeGpET0otSFNjWXZkM0NZRWRLanZtMmZVa1AzaGNSSVBjVGsmcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMzAwNTQxODcmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Gigantes de Acero",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/gqjKG4Z24pjYxcOfCd9p6WAnYlG-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0096.jpg",
     "rating": "7.1",
     "year": "Sep. 28, 2011",
     "quality": "720p HD",
@@ -682,6 +669,48 @@
     ]
   },
   {
+    "title": "Furiosa: de la saga Mad Max",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0095.jpg",
+    "rating": "7.9",
+    "year": "May. 22, 2024",
+    "quality": "720 HD720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de ‘Mad Max: Furia en la carretera’ (2015).",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNS52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvbW00Y2RuMGg2MWg4X24vaW5kZXgtdjEtYTIubTN1OD90PVNZS05TcjZPSi1vWmdaVWQ1X2w3eHEwamZOYzVkeUtqLW5YekdlZ213ZWcmcz0xNzg3MzYxMTgyJmU9NDMyMDAmdj0zMjUzMzMzNjYmc3J2PXMxMCZpPTAuMCZzcD0wJmZyPW1tNGNkbjBoNjFoOCZyPWU"
+      }
+    ]
+  },
+  {
+    "title": "Gladiator Underground",
+    "image": "https://image.tmdb.org/t/p/w185/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+    "rating": "0",
+    "year": "Aug. 22, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Max y Wu, dos hermanos distanciados, compiten en el torneo clandestino de lucha más peligroso del mundo, donde los poderosos señores del crimen apuestan y dictan contra quién se lucha y qué armas se utilizan. En este deporte sangriento de alto riesgo, un paso en falso significa la muerte segura. Los hermanos deben decidir si seguir las reglas o dejar a un lado su honor y aliarse contra el sindicato que controla el sistema, arriesgándolo todo para acabar con él.",
+    "genres": [
+      "Acción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/ce/s8/2/o/z/D/4/ozD4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717623808-717678526"
+      }
+    ]
+  },
+  {
     "title": "Fighter",
     "image": "https://image.tmdb.org/t/p/w185/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
     "rating": "6.2",
@@ -698,28 +727,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/Z/G/r/HZGrr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Furia de titanes",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/gn2q6HooPdGfFaOI2U2nbjw3BSZ-185x278.jpg",
-    "rating": "5.8",
-    "year": "Mar. 26, 2010",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Adaptación libre del mito de Perseo, hijo de Zeus, el padre de los dioses griegos. Perseo y su madre Dánae, son encerrados en un baúl por Acrisio, su abuelo, y arrojados al mar. Arrastrados por la corriente, llegan a la isla de Sérifos, donde Perseo alcanza la madurez. Cuando sepa cuál es la misión que le ha sido encomendada por el Destino, emprenderá un durísimo viaje, en el que tendrá que ir superando diversas pruebas.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvcTA5c2xibTZueTE2X24vaW5kZXgtdjEtYTEubTN1OD90PUNQZ0syUnZLVE9fQUp6MGc3US10aWtPZzFyamQ3UURHWUhubWZQREFkUlUmcz0xNzg3MzYwNzg0JmU9NDMyMDAmdj0zMjU0MDQwMzImc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
       }
     ]
   },
@@ -746,28 +753,27 @@
     ]
   },
   {
-    "title": "Gladiator Underground",
-    "image": "https://image.tmdb.org/t/p/w185/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
-    "rating": "0",
-    "year": "Aug. 22, 2025",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Max y Wu, dos hermanos distanciados, compiten en el torneo clandestino de lucha más peligroso del mundo, donde los poderosos señores del crimen apuestan y dictan contra quién se lucha y qué armas se utilizan. En este deporte sangriento de alto riesgo, un paso en falso significa la muerte segura. Los hermanos deben decidir si seguir las reglas o dejar a un lado su honor y aliarse contra el sindicato que controla el sistema, arriesgándolo todo para acabar con él.",
+    "title": "Fabricante de lágrimas",
+    "image": "https://image.tmdb.org/t/p/w185/ymYU4PtvEU4kO7QEEGUfxfJ95Qk.jpg",
+    "rating": "5.5",
+    "year": "Apr. 04, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Adoptados juntos tras pasar una infancia difícil en un orfanato, Nica y Rigel se dan cuenta de que están unidos por unos sentimientos inesperados… e irrefrenables.",
     "genres": [
-      "Acción"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/ce/s8/2/o/z/D/4/ozD4z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717623808-717678526"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/x/W/L/Y/xWLYq.aaa.mp4"
       }
     ]
   },
   {
     "title": "Glass (Cristal)",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/vYbLXENNUaNcHQl4Te94Msqn1oj-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0097.jpg",
     "rating": "6.6",
     "year": "Jan. 16, 2019",
     "quality": "720p HD",
@@ -789,28 +795,6 @@
     ]
   },
   {
-    "title": "Furia de titanes 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/5b1y7Bbr8BxSK5luKMyiqIgdkNh-185x278.jpg",
-    "rating": "5.7",
-    "year": "Mar. 28, 2012",
-    "quality": "720 HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Diez años después de los sucesos de “Furia de titanes”, Perseo (Sam Worthington) está decidido a llevar una vida tranquila con su hijo Helio. Sin embargo, los dioses, debilitados por la falta de fe de la humanidad, pierden el control sobre los Titanes, cuyo líder no es otro que Kronos, el padre de Zeus (Liam Neeson), Hades (Ralph Fiennes) y Poseidón (Danny Huston). Cuando Hades y Ares (Edgar Ramírez) llegan a un acuerdo con Kronos para capturar a Zeus, entonces Perseo tendrá que abandonar su apacible vida para rescatarlo, misión en la que mcuenta con la ayuda de Andrómeda (Rosamund Pike), Agénor (Toby Kebbell) y Hefesto (Bill Nighy).",
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5LzM2aXdzNWF1bnFpZF9uL2luZGV4LXYxLWExLm0zdTg_dD1uTzN1cEFRY1VhNXlWRDRoRmY3ZDdtRjY2VnZTdlE3Z1V6bTVBSVpKU1RFJnM9MTc4NzM2MDc4NSZlPTQzMjAwJnY9MzI1Mjk3MTIzJmk9MC4zJnNwPTAmZnI9MzZpd3M1YXVucWlkJnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "Float",
     "image": "https://image.tmdb.org/t/p/w185/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg",
     "rating": "5.2",
@@ -826,6 +810,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/2/d/y/R/2dyRr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Godzilla Minus One",
+    "image": "https://image.tmdb.org/t/p/w185/AjbaIWNKMkXF7I29n20f7rYsEki.jpg",
+    "rating": "7.7",
+    "year": "Nov. 03, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas… y mucho menos defenderse?",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/s/Z/M/k/sZMky.aaa.mp4"
       }
     ]
   }

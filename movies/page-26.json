@@ -1,29 +1,5 @@
 [
   {
-    "title": "No Game No Life: Zero",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/nh9idfkptG4qMib1ObRmCuSMC8B-185x278.jpg",
-    "rating": "7.3",
-    "year": "Jul. 15, 2017",
-    "quality": "1080p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Es una precuela situada 6000 años antes de la historia de Sora y Shiro, en el mundo Disboard. En esta era de guerra, todas las razas estaban peleándose entre sí, propagando una muerte irracional a los humanos que no tienen el poder para luchar. Riku es el líder de la colonia humana que trata de sobrevivir día a día. Riku, termina conociendo a Shuvi una ex-Machina (raza androide), rechazada por su gente debido a su obsesión no calculada por comprender el corazón humano. Juntos, emprenden una aventura para salvar a la raza humana.Esta historia fue un hecho de hace más de seis mil años. El «mito más antiguo» que conduce al «mito más nuevo». Sin registro ni memoria. Ahora comienza una historia que no se puede contar a nadie",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Animes",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/G/s/L/O/GsLOA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3270514176-3270579166"
-      }
-    ]
-  },
-  {
     "title": "No hables con extraños",
     "image": "https://image.tmdb.org/t/p/w185/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg",
     "rating": "7.2",
@@ -43,8 +19,29 @@
     ]
   },
   {
+    "title": "Máquinas mortales",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0146.jpg",
+    "rating": "6.1",
+    "year": "Nov. 27, 2018",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Miles de años después de que la civilización haya sido destruida por un evento cataclísmico, la humanidad se ha adaptado a una nueva forma de vida. Enormes ciudades en movimiento deambulan por la Tierra depredando pueblos de tracción más pequeños. Tom Natsworthy (Robert Sheehan), que proviene de un nivel inferior de la gran ciudad de Londres, se encuentra luchando por su propia supervivencia después de que se topa con la peligrosa fugitiva Hester Shaw (Hera Hilmar). Dos opuestos, cuyos planes nunca debieron cruzarse, forjan una alianza que está destinada a cambiar el curso del futuro.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvaXB4OXdjZGFmcW1lX2gvaW5kZXgtdjEtYTEubTN1OD90PWdKUmU4cGRiWkU5eENMcTFXeW9VVGlEUVZ4VDV4UFo4cXVDcjlBMHVuVmcmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMjU0MDUxOTYmc3J2PXMxMSZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Más rápido, más furioso ; Rapidos y Furiosos 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/fZtSG5a6i5Ca39WQylLVmvWI5b-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0147.jpg",
     "rating": "0",
     "year": "Jun. 05, 2003",
     "quality": "",
@@ -65,27 +62,6 @@
     ]
   },
   {
-    "title": "Máquinas mortales",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/iGPYOL73rEr9jh5bLljVcIAHyFk-185x278.jpg",
-    "rating": "6.1",
-    "year": "Nov. 27, 2018",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Miles de años después de que la civilización haya sido destruida por un evento cataclísmico, la humanidad se ha adaptado a una nueva forma de vida. Enormes ciudades en movimiento deambulan por la Tierra depredando pueblos de tracción más pequeños. Tom Natsworthy (Robert Sheehan), que proviene de un nivel inferior de la gran ciudad de Londres, se encuentra luchando por su propia supervivencia después de que se topa con la peligrosa fugitiva Hester Shaw (Hera Hilmar). Dos opuestos, cuyos planes nunca debieron cruzarse, forjan una alianza que está destinada a cambiar el curso del futuro.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvaXB4OXdjZGFmcW1lX2gvaW5kZXgtdjEtYTEubTN1OD90PWdKUmU4cGRiWkU5eENMcTFXeW9VVGlEUVZ4VDV4UFo4cXVDcjlBMHVuVmcmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMjU0MDUxOTYmc3J2PXMxMSZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "No mires al demonio",
     "image": "https://image.tmdb.org/t/p/w185/sZeRVNcwBVAilbxXGtvGtyzwz68.jpg",
     "rating": "5.1",
@@ -100,6 +76,28 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/o/K/4/voK4s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "No respires",
+    "image": "https://image.tmdb.org/t/p/w185/3A5sAyP9iENTRL5X86FUeYmo0wZ.jpg",
+    "rating": "7.1",
+    "year": "Jun. 08, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de millones de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.",
+    "genres": [
+      "Crimen",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/74/s8/2/c/J/6/Z/cJ6Zz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=699145728-699199056"
       }
     ]
   },
@@ -123,13 +121,13 @@
     ]
   },
   {
-    "title": "Muñeco diabólico 2",
-    "image": "https://image.tmdb.org/t/p/w185/c87AJcGu8VKaVVeMLJmho8s0eU7.jpg",
-    "rating": "5.9",
-    "year": "Nov. 09, 1990",
-    "quality": "720 HD",
+    "title": "No respires 2",
+    "image": "https://image.tmdb.org/t/p/w185/o0kJOePRfC59exAb7e3wrCTSMbK.jpg",
+    "rating": "6",
+    "year": "Aug. 12, 2021",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Chucky ha vuelto. El famoso muñeco asesino de sonrisa satánica resucita en este nuevo episodio. A pesar de que en su última escapada quedó totalmente achicharrado, Chucky resurge de sus cenizas cuando una fábrica de juguetes decide reconstruirlo para acabar con la mala publicidad que la rodea. Chucky vuelve a estar entero y sigue la pista de su presa hasta una familia de acogida..",
+    "description": "El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla.",
     "genres": [
       "Suspense",
       "Terror"
@@ -137,7 +135,47 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/K/0/H/OK0Hq.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/A/2/P/d/A2Pdt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "No te muevas",
+    "image": "https://image.tmdb.org/t/p/w185/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
+    "rating": "5.9",
+    "year": "Oct. 24, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una mujer destrozada topa en un bosque apartado con un asesino que le inyecta una droga paralizante. Mientras su cuerpo sucumbe, empieza su lucha por sobrevivir.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/j/9/Q/g/j9Qgu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "No te olvidaré",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0150.jpg",
+    "rating": "6.4",
+    "year": "Mar. 11, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuando los abuelos de Diem, quienes tienen su custodia, rechazan con firmeza los intentos de Kenna por ver a su hija, ella encuentra una compasión inesperada —y luego algo más verdadero y profundo— en Ledger, exjugador de la NFL y dueño de un bar local. A medida que su romance secreto florece, también aumentan los peligros para ambos, llevando a Kenna hacia la desilusión y, finalmente, hacia la esperanza de una segunda oportunidad.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/a9/s8/2/M/Z/S/f/MZSfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1835510784-1835580637"
       }
     ]
   },
@@ -160,6 +198,37 @@
     ]
   },
   {
+    "title": "No cuelgues",
+    "image": "https://image.tmdb.org/t/p/w185/oQW9ZZe681McgrCzjbTSemSJEU2.jpg",
+    "rating": "5.5",
+    "year": "Oct. 22, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un grupo de adolescentes pasa parte de su tiempo libre gastando bromas telefónicas. Una noche, cuando Sam y Brady están haciendo su ronda de llamadas, una de las víctimas les planta cara y decide pagarles con su misma moneda. A partir de este momento; los roles cambiarán.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.oaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Muñeco diabólico 1 ; Chucky 1",
     "image": "https://image.tmdb.org/t/p/w185/lBYsWhfGm3tcOHBFITZ6KX5aM7m.jpg",
     "rating": "6.7",
@@ -174,47 +243,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/M/u/B/hMuBq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "No te olvidaré",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/a1SB2whRLcf7tveetg9NOP6CYkl-185x278.jpg",
-    "rating": "6.4",
-    "year": "Mar. 11, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Cuando los abuelos de Diem, quienes tienen su custodia, rechazan con firmeza los intentos de Kenna por ver a su hija, ella encuentra una compasión inesperada —y luego algo más verdadero y profundo— en Ledger, exjugador de la NFL y dueño de un bar local. A medida que su romance secreto florece, también aumentan los peligros para ambos, llevando a Kenna hacia la desilusión y, finalmente, hacia la esperanza de una segunda oportunidad.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/a9/s8/2/M/Z/S/f/MZSfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1835510784-1835580637"
-      }
-    ]
-  },
-  {
-    "title": "Noches de verano",
-    "image": "https://image.tmdb.org/t/p/w185/nDkB0alSlg7E4yvncGuhUsaudpg.jpg",
-    "rating": "6.4",
-    "year": "Jul. 26, 2018",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Daniel (Timothée Chalamet) es un tímido adolescente que comienza a vender marihuana, entrando en un mundo tentador pero problemático. Sus problemas se acentúan cuando tiene una aventura con la hermana (Maika Monroe) de su socio (Alex Roe).",
-    "genres": [
-      "Comedia",
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/J/H/7/fJH7s.aaa.mp4"
       }
     ]
   },
@@ -242,13 +270,13 @@
     ]
   },
   {
-    "title": "No te muevas",
-    "image": "https://image.tmdb.org/t/p/w185/5qqzdbfdp7LBL56WRW0RmSoEm12.jpg",
+    "title": "Muñeco diabólico 2",
+    "image": "https://image.tmdb.org/t/p/w185/c87AJcGu8VKaVVeMLJmho8s0eU7.jpg",
     "rating": "5.9",
-    "year": "Oct. 24, 2024",
-    "quality": "720p HD",
+    "year": "Nov. 09, 1990",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Una mujer destrozada topa en un bosque apartado con un asesino que le inyecta una droga paralizante. Mientras su cuerpo sucumbe, empieza su lucha por sobrevivir.",
+    "description": "Chucky ha vuelto. El famoso muñeco asesino de sonrisa satánica resucita en este nuevo episodio. A pesar de que en su última escapada quedó totalmente achicharrado, Chucky resurge de sus cenizas cuando una fábrica de juguetes decide reconstruirlo para acabar con la mala publicidad que la rodea. Chucky vuelve a estar entero y sigue la pista de su presa hasta una familia de acogida..",
     "genres": [
       "Suspense",
       "Terror"
@@ -256,7 +284,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/j/9/Q/g/j9Qgu.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/K/0/H/OK0Hq.aaa.mp4"
       }
     ]
   },
@@ -281,6 +309,46 @@
     ]
   },
   {
+    "title": "Nosferatu",
+    "image": "https://image.tmdb.org/t/p/w185/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+    "rating": "7.7",
+    "year": "Dec. 25, 2024",
+    "quality": "CAM.rip",
+    "languages": [],
+    "description": "Historia gótica de obsesión entre una joven hechizada y el aterrador vampiro encaprichado de ella, que causa un indescriptible terror a su paso. ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/1e/s8/2/e/s/4/S/es4Sx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Noches de verano",
+    "image": "https://image.tmdb.org/t/p/w185/nDkB0alSlg7E4yvncGuhUsaudpg.jpg",
+    "rating": "6.4",
+    "year": "Jul. 26, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Daniel (Timothée Chalamet) es un tímido adolescente que comienza a vender marihuana, entrando en un mundo tentador pero problemático. Sus problemas se acentúan cuando tiene una aventura con la hermana (Maika Monroe) de su socio (Alex Roe).",
+    "genres": [
+      "Comedia",
+      "Crimen",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/J/H/7/fJH7s.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Nacido para correr",
     "image": "https://image.tmdb.org/t/p/w185/azO3RdG0Q5DnlQoMOyDJXoncErW.jpg",
     "rating": "5.9",
@@ -299,22 +367,22 @@
     ]
   },
   {
-    "title": "Nosferatu",
-    "image": "https://image.tmdb.org/t/p/w185/jivUhECegXI3OYtPVflWoIDtENt.jpg",
-    "rating": "7.7",
-    "year": "Dec. 25, 2024",
-    "quality": "CAM.rip",
+    "title": "Nadie te salvará",
+    "image": "https://image.tmdb.org/t/p/w185/udniPSAJS6RDarNgSBK8IUsFthf.jpg",
+    "rating": "6.3",
+    "year": "Sep. 22, 2023",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Historia gótica de obsesión entre una joven hechizada y el aterrador vampiro encaprichado de ella, que causa un indescriptible terror a su paso. ⬇⬇⬇⬇⬇",
+    "description": "Brynn es una joven brillante que vive apartada de un vecindario que la ha aislado. Solitaria pero optimista, encuentra consuelo en el hogar donde creció, hasta que unos extraños ruidos la despiertan en mitad de la noche.",
     "genres": [
-      "Drama",
-      "Fantasía",
+      "Ciencia ficción",
+      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/1e/s8/2/e/s/4/S/es4Sx.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/x/J/r/_/xJr_n.aaa.mp4"
       }
     ]
   },
@@ -339,20 +407,81 @@
     ]
   },
   {
-    "title": "Nacido para Correr: Máxima velocidad",
-    "image": "https://image.tmdb.org/t/p/w185/sYYQ9kS6Twvt0UcjxGLmBcq5k11.jpg",
-    "rating": "5.2",
-    "year": "Mar. 20, 2014",
-    "quality": "720 HD",
+    "title": "Nahir",
+    "image": "https://images.justwatch.com/poster/313095504/s718/nahir.jpg",
+    "rating": "0",
+    "year": "May. 22, 2024",
+    "quality": "",
     "languages": [],
-    "description": "Danny Krueger es un corredor de 20 años que sólo sigue sus propias reglas. Después de ganar una beca para la prestigiosa Fast Lane Racing Academy, Danny se encuentra compitiendo contra algunos de los más feroces conductores del mundo.",
+    "description": "La historia del crimen que paralizó a todo un País, la adolescente que asesinó a su novio en circunstancias que aún no se saben a ciencia cierta. Basada en un hecho real.",
     "genres": [
-      "Acción"
+      "Crimen",
+      "Drama",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/9/u/NC9un.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/m/i/X/WmiXr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/m/i/X/WmiXr.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Obsesión",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0151.jpg",
+    "rating": "7.6",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Tras romper el misterioso «Sauce de un Deseo» para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/59/s8/2/M/z/I/K/MzIKA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3373006336-3373073306"
+      }
+    ]
+  },
+  {
+    "title": "Ocho apellidos marroquís",
+    "image": "https://image.tmdb.org/t/p/w185/aVP2kGJkT4VSTsZwyyapKPcg0IT.jpg",
+    "rating": "3.8",
+    "year": "Dec. 01, 2023",
+    "quality": "BBRIP",
+    "languages": [],
+    "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/A/M/F/Q/AMFQs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Nivel 16",
+    "image": "https://image.tmdb.org/t/p/w185/vCzadjVMGzVL8DafsozIegWlczr.jpg",
+    "rating": "6.1",
+    "year": "Feb. 20, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Level 16 se centra en Vivian, una joven de 16 años atrapada en la academia Vestalis, un internado que es lo más parecido a una prisión. Solo mira por si misma hasta que se reúne con Sophia, una antigua amiga que la traicionó. Juntas, se embarcarán en una peligrosa búsqueda para descubrir la terrible verdad que hay en su confinamiento.",
+    "genres": [
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/s/2/s/ws2sk.caa.mp4"
       }
     ]
   },
@@ -397,138 +526,6 @@
     ]
   },
   {
-    "title": "Obsesión",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/rmCkNtzYR2xTOO3ZXmIqB5zgYdE-185x278.jpg",
-    "rating": "7.6",
-    "year": "2026",
-    "quality": "",
-    "languages": [],
-    "description": "Tras romper el misterioso «Sauce de un Deseo» para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/59/s8/2/M/z/I/K/MzIKA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3373006336-3373073306"
-      }
-    ]
-  },
-  {
-    "title": "Ocho apellidos marroquís",
-    "image": "https://image.tmdb.org/t/p/w185/aVP2kGJkT4VSTsZwyyapKPcg0IT.jpg",
-    "rating": "3.8",
-    "year": "Dec. 01, 2023",
-    "quality": "BBRIP",
-    "languages": [],
-    "description": "La muerte del patriarca de los Díaz-Aguirre pone patas arriba el perfecto universo de la familia. En su testamento, pide a su mujer que recupere el Sardinete, el primer pesquero de su flota, con el que inició sus negocios y que está criando herrumbre en un puerto marroquí. A Begoña, la hija del empresario, ir a por esa “vieja lata de sardinas” le parecen delirios de un viejo chocheando. Así que Carmen, decidida a rescatar el barco, encuentra un aliado inesperado en Guillermo, el ex de Begoña, quien confía en que un viaje romántico al sur reavive la llama del amor. Sin saber cómo van a traerse la embarcación, ponen todos rumbo a Marruecos y allí descubren que en su universo nunca nada había estado en su sitio. Y es que don José María, el patriarca, guardaba un secreto: una hija llamada Hamida.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/M/F/Q/AMFQs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Nahir",
-    "image": "https://images.justwatch.com/poster/313095504/s718/nahir.jpg",
-    "rating": "0",
-    "year": "May. 22, 2024",
-    "quality": "",
-    "languages": [],
-    "description": "La historia del crimen que paralizó a todo un País, la adolescente que asesinó a su novio en circunstancias que aún no se saben a ciencia cierta. Basada en un hecho real.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/m/i/X/WmiXr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/m/i/X/WmiXr.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "No respires",
-    "image": "https://image.tmdb.org/t/p/w185/3A5sAyP9iENTRL5X86FUeYmo0wZ.jpg",
-    "rating": "7.1",
-    "year": "Jun. 08, 2016",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de millones de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.",
-    "genres": [
-      "Crimen",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/74/s8/2/c/J/6/Z/cJ6Zz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=699145728-699199056"
-      }
-    ]
-  },
-  {
-    "title": "No respires 2",
-    "image": "https://image.tmdb.org/t/p/w185/o0kJOePRfC59exAb7e3wrCTSMbK.jpg",
-    "rating": "6",
-    "year": "Aug. 12, 2021",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/2/P/d/A2Pdt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "No cuelgues",
-    "image": "https://image.tmdb.org/t/p/w185/oQW9ZZe681McgrCzjbTSemSJEU2.jpg",
-    "rating": "5.5",
-    "year": "Oct. 22, 2016",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un grupo de adolescentes pasa parte de su tiempo libre gastando bromas telefónicas. Una noche, cuando Sam y Brady están haciendo su ronda de llamadas, una de las víctimas les planta cara y decide pagarles con su misma moneda. A partir de este momento; los roles cambiarán.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/u/E/h/B/uEhBr.oaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Operacion Zombie: Resurrención",
     "image": "https://image.tmdb.org/t/p/w185/CmoQBKGLt8bWSlVjLL57TbQ3WR.jpg",
     "rating": "4.7",
@@ -550,21 +547,21 @@
     ]
   },
   {
-    "title": "Nivel 16",
-    "image": "https://image.tmdb.org/t/p/w185/vCzadjVMGzVL8DafsozIegWlczr.jpg",
-    "rating": "6.1",
-    "year": "Feb. 20, 2018",
+    "title": "No molestar",
+    "image": "https://image.tmdb.org/t/p/w185/hLf5Tq3ZvuTL8PCDgazCkBqSCUy.jpg",
+    "rating": "6.3",
+    "year": "Sep. 29, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Level 16 se centra en Vivian, una joven de 16 años atrapada en la academia Vestalis, un internado que es lo más parecido a una prisión. Solo mira por si misma hasta que se reúne con Sophia, una antigua amiga que la traicionó. Juntas, se embarcarán en una peligrosa búsqueda para descubrir la terrible verdad que hay en su confinamiento.",
+    "description": "Ayzek, que ha sido mesero en transbordadores durante años, se queda sin trabajo debido a la pandemia y finalmente encuentra trabajo en un hotel en el turno de noche. Sin embargo, quién sabe qué pasará con Ayzek en su primera noche.",
     "genres": [
-      "Ciencia ficción",
-      "Suspense"
+      "Comedia",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/s/2/s/ws2sk.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/L/d/5/VLd5n.caa.mp4"
       }
     ]
   },
@@ -591,43 +588,23 @@
     ]
   },
   {
-    "title": "No molestar",
-    "image": "https://image.tmdb.org/t/p/w185/hLf5Tq3ZvuTL8PCDgazCkBqSCUy.jpg",
-    "rating": "6.3",
-    "year": "Sep. 29, 2023",
-    "quality": "720 HD",
+    "title": "Orgullo + Prejuicio + Zombis",
+    "image": "https://image.tmdb.org/t/p/w185/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg",
+    "rating": "5.8",
+    "year": "Feb. 04, 2016",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Ayzek, que ha sido mesero en transbordadores durante años, se queda sin trabajo debido a la pandemia y finalmente encuentra trabajo en un hotel en el turno de noche. Sin embargo, quién sabe qué pasará con Ayzek en su primera noche.",
+    "description": "Adaptación cinematográfica de la novela gráfica homónima de Seth Grahame-Smith, basada en el clásico literario de Jane Austen, que se desarrolla en un universo alternativo a la Regencia Británica de 1819, donde una plaga de zombies invaden la apacible población inglesa de Meryton.",
     "genres": [
       "Comedia",
-      "Drama"
+      "Romance",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/L/d/5/VLd5n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "No manches Frida",
-    "image": "https://image.tmdb.org/t/p/w185/6HfyXfIEywLa2HvcswKi44dDKxL.jpg",
-    "rating": "5.5",
-    "year": "Sep. 02, 2016",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Es la historia de Zequi, un ladrón de bancos recientemente publicado que va a recuperar el dinero robado enterrado por su cómplice boba antes de ir a la cárcel. Vuelven al sitio sólo para encontrar que Frida Kahlo alta ha construido un gimnasio con el botín. Para conseguir el dinero, se hacen pasar por un maestro sustituto para una escuela que no puede estar al nivel de los maestros de todo. Zequi entra dispuesto a dar la ley pero rápidamente se da cuenta de que la vida en el interior puede haber sido más fácil de manejar que una escuela llena de adolescentes salvajes y rebeldes.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/o/s/z/Xoszs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/o/s/z/Xoszs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/G/Q/R/ZGQRt.aaa.mp4"
       }
     ]
   },
@@ -651,43 +628,20 @@
     ]
   },
   {
-    "title": "Orgullo + Prejuicio + Zombis",
-    "image": "https://image.tmdb.org/t/p/w185/b7U8g9mA7spCFnsdZSxcInD8A5q.jpg",
-    "rating": "5.8",
-    "year": "Feb. 04, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Adaptación cinematográfica de la novela gráfica homónima de Seth Grahame-Smith, basada en el clásico literario de Jane Austen, que se desarrolla en un universo alternativo a la Regencia Británica de 1819, donde una plaga de zombies invaden la apacible población inglesa de Meryton.",
-    "genres": [
-      "Comedia",
-      "Romance",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/G/Q/R/ZGQRt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Nadie te salvará",
-    "image": "https://image.tmdb.org/t/p/w185/udniPSAJS6RDarNgSBK8IUsFthf.jpg",
-    "rating": "6.3",
-    "year": "Sep. 22, 2023",
+    "title": "Nacido para Correr: Máxima velocidad",
+    "image": "https://image.tmdb.org/t/p/w185/sYYQ9kS6Twvt0UcjxGLmBcq5k11.jpg",
+    "rating": "5.2",
+    "year": "Mar. 20, 2014",
     "quality": "720 HD",
     "languages": [],
-    "description": "Brynn es una joven brillante que vive apartada de un vecindario que la ha aislado. Solitaria pero optimista, encuentra consuelo en el hogar donde creció, hasta que unos extraños ruidos la despiertan en mitad de la noche.",
+    "description": "Danny Krueger es un corredor de 20 años que sólo sigue sus propias reglas. Después de ganar una beca para la prestigiosa Fast Lane Racing Academy, Danny se encuentra compitiendo contra algunos de los más feroces conductores del mundo.",
     "genres": [
-      "Ciencia ficción",
-      "Suspense",
-      "Terror"
+      "Acción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/J/r/_/xJr_n.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/9/u/NC9un.caa.mp4"
       }
     ]
   },
@@ -732,6 +686,26 @@
     ]
   },
   {
+    "title": "Otro pequeño favor",
+    "image": "https://image.tmdb.org/t/p/w185/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
+    "rating": "3.1",
+    "year": "Mar. 07, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Stephanie Smothers y Emily Nelson se reúnen en la hermosa isla de Capri, Italia, para la extravagante boda entre Emily y un rico empresario italiano. Junto a los glamorosos invitados, el asesinato y la traición harán acto de presencia en una boda con más giros y vueltas que la carretera que va de Marina Grande a la plaza municipal de Capri.",
+    "genres": [
+      "Comedia",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/bd/s8/2/5/7/V/G/57VGy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=966835712-966909429"
+      }
+    ]
+  },
+  {
     "title": "Otra película de huevos y un pollo ; Una pelicula de huevos 2",
     "image": "https://image.tmdb.org/t/p/w185/c7LMN9NrJQ97RxYM33qu5ItcbCn.jpg",
     "rating": "6.1",
@@ -751,26 +725,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fww1/85/s8/2/E/8/9/j/E89jz.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Otro pequeño favor",
-    "image": "https://image.tmdb.org/t/p/w185/pZr2QCUbsekpiLnZ7788twcLpSn.jpg",
-    "rating": "3.1",
-    "year": "Mar. 07, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Stephanie Smothers y Emily Nelson se reúnen en la hermosa isla de Capri, Italia, para la extravagante boda entre Emily y un rico empresario italiano. Junto a los glamorosos invitados, el asesinato y la traición harán acto de presencia en una boda con más giros y vueltas que la carretera que va de Marina Grande a la plaza municipal de Capri.",
-    "genres": [
-      "Comedia",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/bd/s8/2/5/7/V/G/57VGy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=966835712-966909429"
       }
     ]
   },
@@ -795,25 +749,62 @@
     ]
   },
   {
-    "title": "Noche de paz",
-    "image": "https://image.tmdb.org/t/p/w185/u5rCDIvbAMlBr3fMt57tDfkrV1o.jpg",
-    "rating": "5.4",
-    "year": "Nov. 30, 2023",
-    "quality": "720 HD",
+    "title": "Paddington: Aventura en la selva",
+    "image": "https://image.tmdb.org/t/p/w185/q06UBJxcmnjDLVQTZZ3I9n2CTZH.jpg",
+    "rating": "6.8",
+    "year": "Jan. 18, 2025",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Un padre afligido representa su tan esperada venganza contra una pandilla despiadada en Nochebuena.",
+    "description": "Sigue a Paddington y la familia Brown mientras visitan a la tía Lucy en Perú, pero un misterio los envía a la selva amazónica y a las montañas peruanas.",
     "genres": [
-      "Acción",
-      "Crimen"
+      "Aventura",
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/S/C/6/5SC6o.aaa.mp4"
-      },
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9c/s8/2/4/C/t/s/4Ctsy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Paddington",
+    "image": "https://image.tmdb.org/t/p/w185/mJypxc7GFS98v4GvlS6Z8EcXc9F.jpg",
+    "rating": "7.3",
+    "year": "Nov. 24, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Paddington es un oso que ha crecido en las profundidades de la selva peruana junto a su tía Lucy quien, debido a un encuentro casual con un explorador inglés, ha inculcado en su sobrino el sueño de vivir en Londres. Cuando un terremoto destruye su hogar, la tía Lucy decide ocultar a su joven sobrino en un barco rumbo a Inglaterra en busca de una vida mejor. Cuando el pequeño llega solo a la estación londinense de Paddington, se da cuenta de que la vida de la ciudad no tiene nada que ver con lo que se había imaginado, hasta que conoce a los Brown, una bondadosa familia británica que se lo encuentra con una etiqueta alrededor del cuello en la que se puede leer: ‘Por favor, cuidad de este oso. Gracias’. Los Brown le acogen en su casa mientras Paddington busca al famoso explorador que dejó marcada a su tía Lucy muchos años atrás. Sin embargo, poco después, una siniestra y atractiva taxidermista se fija en él, lo que supone una amenaza para su hogar y para su propia vida.",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/S/C/6/5SC6o.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/14/s8/2/L/5/p/P/L5pPw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Paddington 2",
+    "image": "https://image.tmdb.org/t/p/w185/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+    "rating": "7.8",
+    "year": "Nov. 09, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El oso Paddington ya está felizmente integrado en casa de la familia Brown. Se ha convertido además en un miembro muy popular de la comunidad de Windsor Gardens. Su tía Lucy cumple 100 años y él tiene el regalo perfecto para ella: un maravilloso libro pop-up de la tienda de antigüedades de Mr. Gruber. Para poder comprar el libro, Paddington decidirá realizar una serie de extraños trabajos. Pero todo se complica cuando el libro es robado.",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/9f/s8/2/9/s/A/T/9sATw.aaa.mp4"
       }
     ]
   }

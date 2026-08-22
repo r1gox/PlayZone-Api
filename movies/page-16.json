@@ -1,7 +1,49 @@
 [
   {
+    "title": "Hermano naturaleza",
+    "image": "https://image.tmdb.org/t/p/w185/4CpJBQEM8KLujiLJVEdaW9IjEKR.jpg",
+    "rating": "4.9",
+    "year": "Sep. 09, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Roger (Taran Killam), un político conservador tiene grandes planes para proponerle matrimonio a la chica de sus sueños (Gillian Jacobs) en casa del lago de su familia. Pero todo sale mal cuando se encuentra con su futuro cuñado Todd (Bobby Moynihan): un consejero de campamento a tiempo completo con un corazón de oro y un sentido salvaje de la diversión, suspirando para convertirse en mejor amigo de Roger y en última instancia involucrandolo en una serie de desafortunados eventos. Roger intenta adoptar una postura en medio de excursiones de pesca extravagantes, jetpacks de propulsión de agua y musicales con temas de historia americana, él se da cuenta de que formar parte de una nueva familia puede ser más difícil de lo que habría imaginado.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/80/s8/2/i/T/q/o/iTqoy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Happy Feet 2",
+    "image": "https://image.tmdb.org/t/p/w185/kCGdzG0XUij3BqIsygdNEAuFM1Z.jpg",
+    "rating": "5.8",
+    "year": "Nov. 17, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El pingüino Mumble tiene un problema: su hijo Erik, que se resiste a bailar, se encuentra con El poderoso Sven, un pingüino que puede volar. Las cosas se ponen feas para Mumble cuando el mundo se ve sacudido por fuerzas poderosas, forzándole a reunir a los países de los pingüinos y sus aliados para intentar resolver los problemas.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/h/r/N/lhrNs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/h/r/N/lhrNs.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Guerra Mundial Z",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/a8ogjWFd0QS6BzBkzfDMWukc26i-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0104.jpg",
     "rating": "7",
     "year": "Jun. 20, 2013",
     "quality": "720 HD",
@@ -21,43 +63,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/M/r/K/t/MrKtq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Hermano naturaleza",
-    "image": "https://image.tmdb.org/t/p/w185/4CpJBQEM8KLujiLJVEdaW9IjEKR.jpg",
-    "rating": "4.9",
-    "year": "Sep. 09, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Roger (Taran Killam), un político conservador tiene grandes planes para proponerle matrimonio a la chica de sus sueños (Gillian Jacobs) en casa del lago de su familia. Pero todo sale mal cuando se encuentra con su futuro cuñado Todd (Bobby Moynihan): un consejero de campamento a tiempo completo con un corazón de oro y un sentido salvaje de la diversión, suspirando para convertirse en mejor amigo de Roger y en última instancia involucrandolo en una serie de desafortunados eventos. Roger intenta adoptar una postura en medio de excursiones de pesca extravagantes, jetpacks de propulsión de agua y musicales con temas de historia americana, él se da cuenta de que formar parte de una nueva familia puede ser más difícil de lo que habría imaginado.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/80/s8/2/i/T/q/o/iTqoy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Heretic ; Hereje",
-    "image": "https://image.tmdb.org/t/p/w185/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg",
-    "rating": "7.2",
-    "year": "Oct. 31, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/7/B/2/B/7B2Bv.aaa.mp4"
       }
     ]
   },
@@ -100,52 +105,6 @@
     ]
   },
   {
-    "title": "Halo: Nightfall",
-    "image": "https://www.themoviedb.org/t/p/w500/xaJtfesBGzQNrjsIhWfhqTkGshG.jpg",
-    "rating": "5.5",
-    "year": "Feb. 05, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ubicado entre los eventos de Halo 4 y Halo 5: Guardianes … Halo: Nightfall cuenta la dramática historia del legendario cazador de hombres y el oficial de inteligencia naval Jameson Locke y su equipo, ya que se encuentran atrapados en un horrible ataque biológico mientras investigan la actividad terrorista en la colonia lejana mundo de sedra. A medida que desenredan un complot que los atrae a un antiguo artefacto infernal, se verán obligados a luchar por su supervivencia, cuestionarse todo y, finalmente, elegir entre su lealtad y sus vidas.",
-    "genres": [
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/R/g/E/YRgEp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/R/g/E/YRgEp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Happy Feet 2",
-    "image": "https://image.tmdb.org/t/p/w185/kCGdzG0XUij3BqIsygdNEAuFM1Z.jpg",
-    "rating": "5.8",
-    "year": "Nov. 17, 2011",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El pingüino Mumble tiene un problema: su hijo Erik, que se resiste a bailar, se encuentra con El poderoso Sven, un pingüino que puede volar. Las cosas se ponen feas para Mumble cuando el mundo se ve sacudido por fuerzas poderosas, forzándole a reunir a los países de los pingüinos y sus aliados para intentar resolver los problemas.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/h/r/N/lhrNs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/h/r/N/lhrNs.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Hierarchy ; Jerarquía",
     "image": "https://image.tmdb.org/t/p/w185/bYGfAVW5Ae5pjChze39ZuL0ZmUD.jpg",
     "rating": "0",
@@ -164,6 +123,48 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/44/s8/2/w/y/0/5/wy05z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=786820096-786880036"
+      }
+    ]
+  },
+  {
+    "title": "Happy Feet: Rompiendo el hielo",
+    "image": "https://image.tmdb.org/t/p/w185/r6BZdJ8EgT956qyJnPksFuiZ4Xb.jpg",
+    "rating": "6.4",
+    "year": "Nov. 16, 2006",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mumble, un joven pingüino emperador, vive en la Antártida. Como otros animales de su especie, él necesita saber cantar para atraer a una pareja, pero tiene una voz horrible. En su lugar, Mumble debe expresarse, y atraer a las hembras a través de su increíble talento para bailar claqué.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/C/o/N/fCoNq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Halo: Nightfall",
+    "image": "https://www.themoviedb.org/t/p/w500/xaJtfesBGzQNrjsIhWfhqTkGshG.jpg",
+    "rating": "5.5",
+    "year": "Feb. 05, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ubicado entre los eventos de Halo 4 y Halo 5: Guardianes … Halo: Nightfall cuenta la dramática historia del legendario cazador de hombres y el oficial de inteligencia naval Jameson Locke y su equipo, ya que se encuentran atrapados en un horrible ataque biológico mientras investigan la actividad terrorista en la colonia lejana mundo de sedra. A medida que desenredan un complot que los atrae a un antiguo artefacto infernal, se verán obligados a luchar por su supervivencia, cuestionarse todo y, finalmente, elegir entre su lealtad y sus vidas.",
+    "genres": [
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/R/g/E/YRgEp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/R/g/E/YRgEp.caa.mp4"
       }
     ]
   },
@@ -207,22 +208,40 @@
     ]
   },
   {
-    "title": "Happy Feet: Rompiendo el hielo",
-    "image": "https://image.tmdb.org/t/p/w185/r6BZdJ8EgT956qyJnPksFuiZ4Xb.jpg",
-    "rating": "6.4",
-    "year": "Nov. 16, 2006",
-    "quality": "720 HD",
+    "title": "Harry Potter y las Reliquias de la Muerte ; Parte 1",
+    "image": "https://image.tmdb.org/t/p/w185/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",
+    "rating": "7.7",
+    "year": "Nov. 17, 2010",
+    "quality": "720 HD720p HD",
     "languages": [],
-    "description": "Mumble, un joven pingüino emperador, vive en la Antártida. Como otros animales de su especie, él necesita saber cantar para atraer a una pareja, pero tiene una voz horrible. En su lugar, Mumble debe expresarse, y atraer a las hembras a través de su increíble talento para bailar claqué.",
+    "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
     "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
+      "Aventura",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/C/o/N/fCoNq.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/b/b/2/e/bb2er.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter y la Orden del Fénix",
+    "image": "https://image.tmdb.org/t/p/w185/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
+    "rating": "7.5",
+    "year": "Jul. 08, 2007",
+    "quality": "720 HD720p HD",
+    "languages": [],
+    "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/x/A/U/8/xAU8q.aaa.mp4"
       }
     ]
   },
@@ -251,42 +270,21 @@
     ]
   },
   {
-    "title": "Hokum: La maldición de la bruja",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/hzOJEzqrOtwXbPw1U5nZMvTaljQ-185x278.jpg",
-    "rating": "7.3",
-    "year": "Apr. 29, 2026",
-    "quality": "CAM-HDTS",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Un escritor de terror visita una posada irlandesa para esparcir las cenizas de sus padres, sin saber que se dice que la propiedad está embrujada.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/e1/s8/2/q/I/8/o/qI8oA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3148960768-3149023211"
-      }
-    ]
-  },
-  {
-    "title": "Hombre lobo",
-    "image": "https://image.tmdb.org/t/p/w185/2UpFVg0fg5BsBX2mFOvaGUpbhcz.jpg",
-    "rating": "5.9",
-    "year": "Jan. 15, 2025",
-    "quality": "720p HD",
+    "title": "Harry Potter y el misterio del príncipe",
+    "image": "https://image.tmdb.org/t/p/w185/vvb9r7ZH4Zn35sXIwFTb08lMGaU.jpg",
+    "rating": "7.6",
+    "year": "Jul. 15, 2009",
+    "quality": "720 HD720p HD",
     "languages": [],
-    "description": "Blake es un hombre casado y padre de familia residente en San Francisco que hereda la remota casa donde creció en una zona rural de Oregón tras la desaparición de su propio padre, dado por muerto. En plena crisis de pareja con su enérgica esposa Charlotte, Blake la convence para tomarse un descanso de la gran ciudad y visitar la propiedad con su hija Ginger. Todo se tuerce cuando, de camino a la granja y en plena noche, la familia sufre el brutal ataque de un animal al que no consiguen ver y, en un intento desesperado por huir, se atrincheran dentro de la casa mientras la criatura merodea por la zona. Pero, con el paso de las horas, Blake comienza a comportarse de un modo extraño y a convertirse en algo irreconocible, y Charlotte se verá obligada a decidir si esa monstruosidad es más letal que el peligro que acecha en el exterior.",
+    "description": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Aventura",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/69/s8/2/U/f/x/v/Ufxvx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/o/o/e/eooer.aaa.mp4"
       }
     ]
   },
@@ -306,6 +304,86 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/k/a/0/4/ka04q.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Furia de titanes 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0094.jpg",
+    "rating": "5.7",
+    "year": "Mar. 28, 2012",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Diez años después de los sucesos de “Furia de titanes”, Perseo (Sam Worthington) está decidido a llevar una vida tranquila con su hijo Helio. Sin embargo, los dioses, debilitados por la falta de fe de la humanidad, pierden el control sobre los Titanes, cuyo líder no es otro que Kronos, el padre de Zeus (Liam Neeson), Hades (Ralph Fiennes) y Poseidón (Danny Huston). Cuando Hades y Ares (Edgar Ramírez) llegan a un acuerdo con Kronos para capturar a Zeus, entonces Perseo tendrá que abandonar su apacible vida para rescatarlo, misión en la que mcuenta con la ayuda de Andrómeda (Rosamund Pike), Agénor (Toby Kebbell) y Hefesto (Bill Nighy).",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5LzM2aXdzNWF1bnFpZF9uL2luZGV4LXYxLWExLm0zdTg_dD1uTzN1cEFRY1VhNXlWRDRoRmY3ZDdtRjY2VnZTdlE3Z1V6bTVBSVpKU1RFJnM9MTc4NzM2MDc4NSZlPTQzMjAwJnY9MzI1Mjk3MTIzJmk9MC4zJnNwPTAmZnI9MzZpd3M1YXVucWlkJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter y la cámara secreta",
+    "image": "https://image.tmdb.org/t/p/w185/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+    "rating": "7.4",
+    "year": "Nov. 13, 2002",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/F/A/3/L/FA3Lq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Hokum: La maldición de la bruja",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0106.jpg",
+    "rating": "7.3",
+    "year": "Apr. 29, 2026",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Un escritor de terror visita una posada irlandesa para esparcir las cenizas de sus padres, sin saber que se dice que la propiedad está embrujada.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/e1/s8/2/q/I/8/o/qI8oA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3148960768-3149023211"
+      }
+    ]
+  },
+  {
+    "title": "Hasta los huesos",
+    "image": "https://image.tmdb.org/t/p/w185/tImAdFTG6EYjZFamOYVUc9rRKpB.jpg",
+    "rating": "6.8",
+    "year": "Jan. 22, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una joven anoréxica (Lily Collins) empieza un tratamiento poco convencional en un centro donde crea lazos con otros internos que también sufren trastornos alimentarios.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/b/D/F/pbDFr.aaa.mp4"
       }
     ]
   },
@@ -331,7 +409,7 @@
   },
   {
     "title": "Honey Bunch",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/rR6zS2sPpcjND92cCLmsuMNok7M-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0108.jpg",
     "rating": "5.8",
     "year": "Jan. 23, 2026",
     "quality": "720p HD",
@@ -354,21 +432,21 @@
     ]
   },
   {
-    "title": "Harry Potter y la Orden del Fénix",
-    "image": "https://image.tmdb.org/t/p/w185/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
-    "rating": "7.5",
-    "year": "Jul. 08, 2007",
-    "quality": "720 HD720p HD",
+    "title": "Hombre lobo",
+    "image": "https://image.tmdb.org/t/p/w185/2UpFVg0fg5BsBX2mFOvaGUpbhcz.jpg",
+    "rating": "5.9",
+    "year": "Jan. 15, 2025",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+    "description": "Blake es un hombre casado y padre de familia residente en San Francisco que hereda la remota casa donde creció en una zona rural de Oregón tras la desaparición de su propio padre, dado por muerto. En plena crisis de pareja con su enérgica esposa Charlotte, Blake la convence para tomarse un descanso de la gran ciudad y visitar la propiedad con su hija Ginger. Todo se tuerce cuando, de camino a la granja y en plena noche, la familia sufre el brutal ataque de un animal al que no consiguen ver y, en un intento desesperado por huir, se atrincheran dentro de la casa mientras la criatura merodea por la zona. Pero, con el paso de las horas, Blake comienza a comportarse de un modo extraño y a convertirse en algo irreconocible, y Charlotte se verá obligada a decidir si esa monstruosidad es más letal que el peligro que acecha en el exterior.",
     "genres": [
-      "Aventura",
-      "Fantasía"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/A/U/8/xAU8q.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/69/s8/2/U/f/x/v/Ufxvx.aaa.mp4"
       }
     ]
   },
@@ -411,105 +489,6 @@
     ]
   },
   {
-    "title": "Harry Potter y las Reliquias de la Muerte ; Parte 1",
-    "image": "https://image.tmdb.org/t/p/w185/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",
-    "rating": "7.7",
-    "year": "Nov. 17, 2010",
-    "quality": "720 HD720p HD",
-    "languages": [],
-    "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/b/2/e/bb2er.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Harry Potter y el misterio del príncipe",
-    "image": "https://image.tmdb.org/t/p/w185/vvb9r7ZH4Zn35sXIwFTb08lMGaU.jpg",
-    "rating": "7.6",
-    "year": "Jul. 15, 2009",
-    "quality": "720 HD720p HD",
-    "languages": [],
-    "description": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/o/o/e/eooer.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Hoppers: Operación castor",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/7NRpCaksHX0FEsXCNITOvhq7cZ3-185x278.jpg",
-    "rating": "0",
-    "year": "Mar. 04, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para «transmitir» la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
-    "genres": [
-      "Animación",
-      "Ciencia ficción",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/d7/s8/2/U/-/z/j/U-zjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3216584704-3216648602"
-      }
-    ]
-  },
-  {
-    "title": "Hasta los huesos",
-    "image": "https://image.tmdb.org/t/p/w185/tImAdFTG6EYjZFamOYVUc9rRKpB.jpg",
-    "rating": "6.8",
-    "year": "Jan. 22, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una joven anoréxica (Lily Collins) empieza un tratamiento poco convencional en un centro donde crea lazos con otros internos que también sufren trastornos alimentarios.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/b/D/F/pbDFr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Harry Potter y la cámara secreta",
-    "image": "https://image.tmdb.org/t/p/w185/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
-    "rating": "7.4",
-    "year": "Nov. 13, 2002",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/F/A/3/L/FA3Lq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Horror Park ; Horrorland",
     "image": "https://image.tmdb.org/t/p/w185/bCw8DnIGtpDysqolmfWacBoiNtJ.jpg",
     "rating": "4.7",
@@ -530,23 +509,26 @@
     ]
   },
   {
-    "title": "Hotel Transilvania 1 ; Hotel Transylvania 1",
-    "image": "https://image.tmdb.org/t/p/w185/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
-    "rating": "7",
-    "year": "Sep. 20, 2012",
+    "title": "Hoppers: Operación castor",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0109.jpg",
+    "rating": "0",
+    "year": "Mar. 04, 2026",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo… El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para «transmitir» la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
     "genres": [
       "Animación",
+      "Ciencia ficción",
       "Comedia",
-      "Familia",
-      "Fantasía"
+      "Familia"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/E/4/B/EE4Bv.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/d7/s8/2/U/-/z/j/U-zjA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3216584704-3216648602"
       }
     ]
   },
@@ -587,6 +569,27 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/9/h/0/v/9h0vt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Hotel Transilvania 1 ; Hotel Transylvania 1",
+    "image": "https://image.tmdb.org/t/p/w185/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
+    "rating": "7",
+    "year": "Sep. 20, 2012",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo… El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/E/4/B/EE4Bv.aaa.mp4"
       }
     ]
   },
@@ -697,6 +700,25 @@
     ]
   },
   {
+    "title": "Hellraiser",
+    "image": "https://image.tmdb.org/t/p/w185/gEFoo66nTFdF8YB79CQurtUyJfj.jpg",
+    "rating": "5.9",
+    "year": "Sep. 28, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una joven que lucha contra la adicción se apodera de una antigua caja de rompecabezas, sin saber que su propósito es convocar a los Cenobitas, un grupo de sádicos seres sobrenaturales de otra dimensión.",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/J/u/D/_JuDr.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Incitadores",
     "image": "https://image.tmdb.org/t/p/w185/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg",
     "rating": "6.2",
@@ -774,40 +796,20 @@
     ]
   },
   {
-    "title": "Hellraiser",
-    "image": "https://image.tmdb.org/t/p/w185/gEFoo66nTFdF8YB79CQurtUyJfj.jpg",
-    "rating": "5.9",
-    "year": "Sep. 28, 2022",
+    "title": "Hijo de Dios",
+    "image": "https://image.tmdb.org/t/p/w185/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
+    "rating": "5.7",
+    "year": "Feb. 28, 2014",
     "quality": "720 HD",
     "languages": [],
-    "description": "Una joven que lucha contra la adicción se apodera de una antigua caja de rompecabezas, sin saber que su propósito es convocar a los Cenobitas, un grupo de sádicos seres sobrenaturales de otra dimensión.",
+    "description": "El actor portugués Diogo Morgalo, que ya protagonizó la adaptación televisiva “La Biblia” para History Channel, vuelve a encarnar a Jesucristo en esta biografía que cuenta la historia de Jesús de Nazaret desde su nacimiento hasta su resurrección.",
     "genres": [
-      "Misterio",
-      "Terror"
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/J/u/D/_JuDr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Herencia Siniestra",
-    "image": "https://image.tmdb.org/t/p/w185/unpFLaxiqbCjQLssTZLVuws6t43.jpg",
-    "rating": "5.3",
-    "year": "Jan. 18, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/G/Q/n/L/GQnLs.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/2/8/G/P/28GPq.aaa.mp4"
       }
     ]
   }

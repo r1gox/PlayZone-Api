@@ -1,23 +1,124 @@
 [
   {
-    "title": "Avatar 3: Fuego y ceniza",
-    "image": "https://image.tmdb.org/t/p/w185/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
-    "rating": "7.6",
-    "year": "Dec. 17, 2025",
+    "title": "Avatar",
+    "image": "https://image.tmdb.org/t/p/w185/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg",
+    "rating": "7.9",
+    "year": "Dec. 15, 2009",
     "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Avatar: Fuego y Ceniza expande el mundo de Pandora con un tono más oscuro e intenso. Nuevas tribus Na’vi, conflictos internos y una amenaza devastadora pondrán a prueba la lealtad, el equilibrio natural y el destino del planeta, llevando la saga a su capítulo más épico y emocional. Puedes ver más detalles oficiales en IMDb.Si disfrutas las historias de terror, también puedes visitar nuestra sección de Aventura.",
+    "languages": [],
+    "description": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
     "genres": [
+      "Acción",
       "Aventura",
       "Ciencia ficción",
       "Fantasía"
     ],
     "sources": [
       {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/T/n/0/R/Tn0Rt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Avalancha, desastre en la montaña",
+    "image": "https://image.tmdb.org/t/p/w185/iT84QV70fF4WfMM1UERJI3QWb7A.jpg",
+    "rating": "0",
+    "year": "Sep. 30, 2019",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Mayo 1960. Cuatro miembros del China Everest Climbing Commando quieren abordar el complicado «segundo paso». Están en su quinto intento y sus fracasos anteriores les han dejado con poca fuerza.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/63/s8/2/C/j/4/a/Cj4aA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3152820736-3152941400"
+        "url": "https://1a-1791.com/video/fwe2/d2/s8/2/K/g/f/_/Kgf_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3577631232-3577702220"
+      }
+    ]
+  },
+  {
+    "title": "Avatar: Aang, El último Maestro Aire",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0019.jpg",
+    "rating": "9.3",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/d7/s8/2/-/J/I/K/-JIKA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4793185792-4793247242"
+      }
+    ]
+  },
+  {
+    "title": "Annabelle ; Anabelle",
+    "image": "https://image.tmdb.org/t/p/w185/jNFqmsulwUrhYQW3MvqzfMc7SdS.jpg",
+    "rating": "5.4",
+    "year": "Oct. 02, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/0/7/Z/Z07Zn.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Avatar: El sentido del agua",
+    "image": "https://image.tmdb.org/t/p/w185/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg",
+    "rating": "7.7",
+    "year": "Dec. 14, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Ambientada más de una década después de los acontecimientos de la primera película, ‘Avatar: The Way of Water’ empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/H/V/U/DHVUt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Azrael",
+    "image": "https://image.tmdb.org/t/p/w185/2EE5MSu2R8IiCpB8KzNgZgoahAG.jpg",
+    "rating": "5.4",
+    "year": "Sep. 27, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean. &nbsp; ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/7d/s8/2/4/M/-/c/4M-cx.aaa.mp4"
       }
     ]
   },
@@ -47,105 +148,6 @@
     ]
   },
   {
-    "title": "Avatar: Aang, El último Maestro Aire",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/e2VzQmZufeY3BPH0zWtIyr07Z7w-185x278.jpg",
-    "rating": "9.3",
-    "year": "2026",
-    "quality": "",
-    "languages": [],
-    "description": "Avatar Aang, el último Maestro Aire del mundo, se entera de un antiguo poder que podría salvar a su cultura de la extinción. Con la ayuda de sus amigos, se embarca en una búsqueda global para encontrarlo antes de que caiga en las manos equivocadas y amenace con deshacer la paz por la que lo sacrificaron todo.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/d7/s8/2/-/J/I/K/-JIKA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4793185792-4793247242"
-      }
-    ]
-  },
-  {
-    "title": "Annabelle 2 ; Anabelle 2",
-    "image": "https://image.tmdb.org/t/p/w185/qIPmOu09U3KrUTMncw8A52ilgDT.jpg",
-    "rating": "6.5",
-    "year": "Aug. 03, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de «Annabelle» (2014).",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/5/p/V/0/5pV0n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Avatar: El sentido del agua",
-    "image": "https://image.tmdb.org/t/p/w185/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg",
-    "rating": "7.7",
-    "year": "Dec. 14, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Ambientada más de una década después de los acontecimientos de la primera película, ‘Avatar: The Way of Water’ empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/H/V/U/DHVUt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Annabelle ; Anabelle",
-    "image": "https://image.tmdb.org/t/p/w185/jNFqmsulwUrhYQW3MvqzfMc7SdS.jpg",
-    "rating": "5.4",
-    "year": "Oct. 02, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/0/7/Z/Z07Zn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Azrael",
-    "image": "https://image.tmdb.org/t/p/w185/2EE5MSu2R8IiCpB8KzNgZgoahAG.jpg",
-    "rating": "5.4",
-    "year": "Sep. 27, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En un mundo del que nadie habla, una devota persigue a una joven que ha escapado de su encierro. Recapturada por sus despiadados líderes, Azrael debe ser sacrificada para apaciguar un antiguo mal en lo más profundo de las tierras salvajes que la rodean. &nbsp; ⬇⬇⬇⬇⬇",
-    "genres": [
-      "Acción",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/7d/s8/2/4/M/-/c/4M-cx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Babe, el cerdito valiente",
     "image": "https://image.tmdb.org/t/p/w185/16MP5FV7zZqVdky5QVR8NbI2Nc7.jpg",
     "rating": "6.9",
@@ -167,6 +169,26 @@
     ]
   },
   {
+    "title": "Annabelle 3: Vuelve a casa ; Anabelle 3",
+    "image": "https://image.tmdb.org/t/p/w185/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg",
+    "rating": "5.9",
+    "year": "Jun. 26, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Annabelle Vuelve a Casa es la tercera entrega de la saga «Annabelle» de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo «Expediente Warren». Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan «a salvo» en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/x/T/r/1/xTr1n.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Baby Blue",
     "image": "https://image.tmdb.org/t/p/w185/pC6j3tSoneNbe4pjjtGOcWWxGMU.jpg",
     "rating": "4.9",
@@ -182,47 +204,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fww1/15/s8/2/u/I/O/u/uIOuy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Babygirl",
-    "image": "https://image.tmdb.org/t/p/w185/fJslf7ydQ9Sz3p3fK9FZQT8BvuX.jpg",
-    "rating": "6.6",
-    "year": "Dec. 25, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/2/N/w/M/r/NwMrx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Backrooms: Sin salida (2026)",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/w8nrM9hCTxoeX96HmTQpC0HbkMY-185x278.jpg",
-    "rating": "7.1",
-    "year": "May. 27, 2026",
-    "quality": "CAM-HDTS",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
-    "genres": [
-      "Ciencia ficción",
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/3e/s8/2/W/2/0/x/W20xA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3331924992-3331991205"
       }
     ]
   },
@@ -248,22 +229,43 @@
     ]
   },
   {
-    "title": "Annabelle 3: Vuelve a casa ; Anabelle 3",
-    "image": "https://image.tmdb.org/t/p/w185/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg",
-    "rating": "5.9",
-    "year": "Jun. 26, 2019",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Annabelle Vuelve a Casa es la tercera entrega de la saga «Annabelle» de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo «Expediente Warren». Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan «a salvo» en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
+    "title": "Backrooms: Sin salida (2026)",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0021.jpg",
+    "rating": "7.1",
+    "year": "May. 27, 2026",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
     "genres": [
+      "Ciencia ficción",
       "Misterio",
-      "Suspense",
       "Terror"
     ],
     "sources": [
       {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/3e/s8/2/W/2/0/x/W20xA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3331924992-3331991205"
+      }
+    ]
+  },
+  {
+    "title": "Babygirl",
+    "image": "https://image.tmdb.org/t/p/w185/fJslf7ydQ9Sz3p3fK9FZQT8BvuX.jpg",
+    "rating": "6.6",
+    "year": "Dec. 25, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/T/r/1/xTr1n.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/2/N/w/M/r/NwMrx.aaa.mp4"
       }
     ]
   },
@@ -327,6 +329,25 @@
     ]
   },
   {
+    "title": "Bajo la misma estrella",
+    "image": "https://image.tmdb.org/t/p/w185/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
+    "rating": "7.7",
+    "year": "May. 16, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "A pesar de que un milagro médico ha conseguido reducir su tumor y darle unos años más de vida, la adolescente Hazel siempre se ha considerado una enferma terminal. Sin embargo, cuando el joven Gus entra a formar parte del grupo de ayuda para enfermos de cáncer juvenil, la vida de Hazel se transforma por completo.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/n/x/fEnxt.aaa.mp4?token=zonaaps.com"
+      }
+    ]
+  },
+  {
     "title": "Atrápame si puedes",
     "image": "https://image.tmdb.org/t/p/w185/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
     "rating": "8.1",
@@ -358,25 +379,6 @@
     ]
   },
   {
-    "title": "Bajo la misma estrella",
-    "image": "https://image.tmdb.org/t/p/w185/wWtK2Kg4afUaQ2LVzQKsdcvJnLa.jpg",
-    "rating": "7.7",
-    "year": "May. 16, 2014",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "A pesar de que un milagro médico ha conseguido reducir su tumor y darle unos años más de vida, la adolescente Hazel siempre se ha considerado una enferma terminal. Sin embargo, cuando el joven Gus entra a formar parte del grupo de ayuda para enfermos de cáncer juvenil, la vida de Hazel se transforma por completo.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/E/n/x/fEnxt.aaa.mp4?token=zonaaps.com"
-      }
-    ]
-  },
-  {
     "title": "Bajo el muelle",
     "image": "https://image.tmdb.org/t/p/w185/1CjHGpYxtE8ZhLnHh6KN9BqzppR.jpg",
     "rating": "5.9",
@@ -394,66 +396,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/b1/s8/2/Y/S/M/l/YSMlx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bala Perdida",
-    "image": "https://image.tmdb.org/t/p/w185/4F2lHozzpR6kzsKJluUidDsNfbY.jpg",
-    "rating": "0",
-    "year": "Jun. 19, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un mecánico brillante con un pasado criminal es acusado de asesinato. Ahora, deberá dar con el coche que contiene la única prueba de su inocencia: una bala",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/fd/s8/2/D/5/E/Z/D5EZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=733361152-733417184"
-      }
-    ]
-  },
-  {
-    "title": "Ape X Mecha Ape: New World Order",
-    "image": "https://image.tmdb.org/t/p/w185/mtab55cpOA5xq9OcW626oR8ZXyj.jpg",
-    "rating": "2",
-    "year": "Apr. 05, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/4/P/i/Q4Pir.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bala Perdida 2",
-    "image": "https://image.tmdb.org/t/p/w185/p6HNFpXiXIdyMRJTrfkgaPkFCK.jpg",
-    "rating": "0",
-    "year": "Nov. 10, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/90/s8/2/d/F/I/Z/dFIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=791001600-791061741"
       }
     ]
   },
@@ -483,6 +425,46 @@
     ]
   },
   {
+    "title": "Bala Perdida",
+    "image": "https://image.tmdb.org/t/p/w185/4F2lHozzpR6kzsKJluUidDsNfbY.jpg",
+    "rating": "0",
+    "year": "Jun. 19, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un mecánico brillante con un pasado criminal es acusado de asesinato. Ahora, deberá dar con el coche que contiene la única prueba de su inocencia: una bala",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/fd/s8/2/D/5/E/Z/D5EZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=733361152-733417184"
+      }
+    ]
+  },
+  {
+    "title": "Bala Perdida 2",
+    "image": "https://image.tmdb.org/t/p/w185/p6HNFpXiXIdyMRJTrfkgaPkFCK.jpg",
+    "rating": "0",
+    "year": "Nov. 10, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/90/s8/2/d/F/I/Z/dFIZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=791001600-791061741"
+      }
+    ]
+  },
+  {
     "title": "Barbie y las zapatillas mágicas",
     "image": "https://image.tmdb.org/t/p/w185/cL2SBmx7awgEjQgRXOaflqTVnbn.jpg",
     "rating": "5.7",
@@ -498,26 +480,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6e/s8/2/_/M/y/z/_Myzw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Barbie y Teresa: La receta de la amistad",
-    "image": "https://image.tmdb.org/t/p/w185/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
-    "rating": "7.2",
-    "year": "Mar. 06, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un grupo de amigas ayuda a Teresa a preparar la atesorada receta familiar de tamales para la apertura del restaurante de su prima en Nueva York.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/M/f/D/r/MfDry.aaa.mp4"
       }
     ]
   },
@@ -542,6 +504,26 @@
     ]
   },
   {
+    "title": "Barbie y Teresa: La receta de la amistad",
+    "image": "https://image.tmdb.org/t/p/w185/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg",
+    "rating": "7.2",
+    "year": "Mar. 06, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un grupo de amigas ayuda a Teresa a preparar la atesorada receta familiar de tamales para la apertura del restaurante de su prima en Nueva York.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/M/f/D/r/MfDry.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Batman Ninja vs La Liga Yakuza",
     "image": "https://image.tmdb.org/t/p/w185/y2mQtPz6uDdw4CRpSdU5tlGB2MA.jpg",
     "rating": "0",
@@ -557,6 +539,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fww1/2a/s8/2/q/X/9/t/qX9ty.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Ape X Mecha Ape: New World Order",
+    "image": "https://image.tmdb.org/t/p/w185/mtab55cpOA5xq9OcW626oR8ZXyj.jpg",
+    "rating": "2",
+    "year": "Apr. 05, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/4/P/i/Q4Pir.aaa.mp4"
       }
     ]
   },
@@ -601,27 +603,6 @@
     ]
   },
   {
-    "title": "Bee Movie",
-    "image": "https://image.tmdb.org/t/p/w185/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg",
-    "rating": "6.1",
-    "year": "Oct. 28, 2007",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una abeja llamada Barry B. Benson (Jerry Seinfeld) acaba de graduarse en la Universidad, pero le invade la desilusión cuando comprende que solo tiene una opción profesional, la miel. Sale por primera vez de la colmena y transgrede una de las reglas cardinales del mundo de las abejas al hablar con un ser humano, una florista de Nueva York llamada Vanessa (Renée Zellweger). Se queda atónito al descubrir que los humanos llevan siglos robando la miel de las abejas y entiende que su auténtica vocación es restablecer el orden de las cosas y demandar a las raza humana por robar la miel.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/fc/s8/2/v/S/2/d/vS2dx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Beetlejuice ; Bitelchús",
     "image": "https://image.tmdb.org/t/p/w185/2LanWSlqSOtyvQiIaoYz448oBSl.jpg",
     "rating": "7.5",
@@ -641,23 +622,23 @@
     ]
   },
   {
-    "title": "Baby el Aprendiz del Crimen",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/o2YToge3eBhxC89m87zkWKVEx2O-185x278.jpg",
-    "rating": "7.6",
-    "year": "Jun. 28, 2017",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Baby, un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños, Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de haber sido forzado a trabajar para un jefe del crimen, deberá dar la cara cuando un malogrado golpe amenaza su vida, su amor y su libertad.",
+    "title": "Bee Movie",
+    "image": "https://image.tmdb.org/t/p/w185/AiaVAIc9KsYsNkAFNGiHtmmoZ2d.jpg",
+    "rating": "6.1",
+    "year": "Oct. 28, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una abeja llamada Barry B. Benson (Jerry Seinfeld) acaba de graduarse en la Universidad, pero le invade la desilusión cuando comprende que solo tiene una opción profesional, la miel. Sale por primera vez de la colmena y transgrede una de las reglas cardinales del mundo de las abejas al hablar con un ser humano, una florista de Nueva York llamada Vanessa (Renée Zellweger). Se queda atónito al descubrir que los humanos llevan siglos robando la miel de las abejas y entiende que su auténtica vocación es restablecer el orden de las cosas y demandar a las raza humana por robar la miel.",
     "genres": [
-      "Acción",
-      "Crimen"
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDA5L3hyd2w3anRqc3Zqdl9oL2luZGV4LXYxLWExLm0zdTg_dD1LTnJZTlVPM2xQSFdrLWcwOFk2QnA3S1JQN2N2MFoyeW5SWlRqMlVIOWJNJnM9MTc4NzM2MDc5OSZlPTQzMjAwJnY9MzMxOTI0MjI0Jmk9MC4zJnNwPTAmZnI9eHJ3bDdqdGpzdmp2JnI9ZQ"
+        "url": "https://1a-1791.com/video/fwe1/fc/s8/2/v/S/2/d/vS2dx.aaa.mp4"
       }
     ]
   },
@@ -680,6 +661,27 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/ca/s8/2/m/r/r/p/mrrpy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Baby el Aprendiz del Crimen",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0020.jpg",
+    "rating": "7.6",
+    "year": "Jun. 28, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Baby, un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños, Baby ve una oportunidad de abandonar su vida criminal y realizar una huida limpia. Pero después de haber sido forzado a trabajar para un jefe del crimen, deberá dar la cara cuando un malogrado golpe amenaza su vida, su amor y su libertad.",
+    "genres": [
+      "Acción",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTEudmltZW9zLm5ldC9obHMyLzAzLzAwMDA5L3hyd2w3anRqc3Zqdl9oL2luZGV4LXYxLWExLm0zdTg_dD1LTnJZTlVPM2xQSFdrLWcwOFk2QnA3S1JQN2N2MFoyeW5SWlRqMlVIOWJNJnM9MTc4NzM2MDc5OSZlPTQzMjAwJnY9MzMxOTI0MjI0Jmk9MC4zJnNwPTAmZnI9eHJ3bDdqdGpzdmp2JnI9ZQ"
       }
     ]
   },
@@ -731,8 +733,32 @@
     ]
   },
   {
+    "title": "Bad Boys 3 for Life",
+    "image": "https://image.tmdb.org/t/p/w185/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg",
+    "rating": "6.5",
+    "year": "Jan. 15, 2020",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "El Departamento de Policía de Miami y su equipo de élite AMMO intentan derribar a Armando Armas, jefe de un cartel de la droga. Armando es un asesino de sangre fría con una naturaleza viciosa y contaminante. Él está comprometido con el trabajo del cartel y es enviado por su madre Isabel, para matar a Mike.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/b/M/g/8bMgs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/b/M/g/8bMgs.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Ben 10: El secreto del Omnitrix",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/yFLKSodhcweIuLkpn0u5YMSaA6o-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0023.jpg",
     "rating": "7.3",
     "year": "Aug. 10, 2007",
     "quality": "720 HD",
@@ -750,31 +776,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/b7/s8/2/e/Y/g/N/eYgNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2180120576-2180163717"
-      }
-    ]
-  },
-  {
-    "title": "Aviones",
-    "image": "https://image.tmdb.org/t/p/w185/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
-    "rating": "5.7",
-    "year": "Aug. 09, 2013",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Película derivada de la exitosa de Disney/Pixar dirigida por John Lasseter, Cars. En esta ocasión no son coches sino aviones, los que van a sumergirse en una divertida historia de acción y aventuras. El protagonista, un avión llamado Dusty Crophopper, tiene verdadero terror a las alturas. Pero desafiará sus miedos para poder cumplir uno de sus grandes deseos: poder correr en la carrera más grandiosa que exiten en todo el mundo. Dusty sabe que este será el mayor reto de su vida, pero también será la experiencia más apasionante y sobrecogedora que va a vivir jamás.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.caa.mp4"
       }
     ]
   },
@@ -800,24 +801,33 @@
     ]
   },
   {
-    "title": "Better Man (2024)",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6Rf7kF0Np3mOa1KRo2a2KJZ7mIj-185x278.jpg",
-    "rating": "7.5",
-    "year": "Dec. 06, 2024",
-    "quality": "1080p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Sigue el viaje de Robbie Williams desde su infancia, hasta convertirse en el miembro más joven de la exitosa banda de chicos Take That, hasta sus logros incomparables como artista solista que rompe récords, todo ello mientras enfrenta los desafíos que la fama y el éxito estratosférica pueden traer.",
+    "title": "Beekeeper: El protector",
+    "image": "https://image.tmdb.org/t/p/w185/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+    "rating": "6.7",
+    "year": "Jan. 10, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como «Beekeeper».",
     "genres": [
-      "Drama",
-      "Música"
+      "Acción",
+      "Suspense"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/b4/s8/2/u/E/s/o/uEsoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4167933440-4168016267"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.oaa.mp4"
       }
     ]
   },

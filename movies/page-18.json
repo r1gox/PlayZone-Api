@@ -1,25 +1,5 @@
 [
   {
-    "title": "Ip Man 3",
-    "image": "https://image.tmdb.org/t/p/w185/1wBnEGU0OXtgtDvTtgvYEODwcwi.jpg",
-    "rating": "7",
-    "year": "Dec. 24, 2015",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.",
-    "genres": [
-      "Acción",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/O/i/1/M/Oi1Mr.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Juego de ladrones 1: El atraco perfecto ; El robo perfecto 1",
     "image": "https://image.tmdb.org/t/p/w185/4OAnIfMibW3GeNNItTqL2ynuJqj.jpg",
     "rating": "7",
@@ -40,21 +20,41 @@
     ]
   },
   {
-    "title": "Invicto 3: Redención",
-    "image": "https://image.tmdb.org/t/p/w185/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg",
-    "rating": "7.3",
-    "year": "May. 22, 2010",
-    "quality": "720 HD",
+    "title": "Juego prohibido (The Forbidden Play)",
+    "image": "https://image.tmdb.org/t/p/w185/vEauIPchLaqdxfVnuT305oj8qpT.jpg",
+    "rating": "4.4",
+    "year": "Sep. 08, 2023",
+    "quality": "720p HD",
     "languages": [],
-    "description": "En esta película Scott Adkins vuelve a encarnar a Boyka (el malo de Undisputed 2), que busca la libertad. Cuando se le ofrece la oportunidad de participar en un campeonato clandestino entre los 8 mejores luchadores reclusos del mundo, ni lo dudará.",
+    "description": "Cuando la directora de vídeos para internet Hiroko Kurasawa visita la casa de su antiguo colega Naoto Ihara, quien ha perdido a su esposa, ve a su hijo Haruto recitando un extraño hechizo en dirección a un montículo de tierra en su jardín. Un encantamiento misterioso, la cola de un lagarto, un dedo, una sombra pálida, un montón de tierra ondulante y una casa sellada… Alrededor de Hiroko comienzan a producirse fenómenos extraños y lo que comenzó como el deseo inocente de un niño se convierte en una maldad desatada.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/v/6/-/x/v6-xt.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Jugando con la muerte ; Game of Death",
+    "image": "https://image.tmdb.org/t/p/w185/iaF3ln0xzbam2QfeFQTKpTVCPHy.jpg",
+    "rating": "4.7",
+    "year": "Mar. 31, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El agente de operaciones secretas, Marcus, es enviado a Detroit para atrapar a un traficante de armas y a su proveedor. El refuerzo de la CIA tendrá otros planes para él.",
     "genres": [
       "Acción",
+      "Aventura",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/M/v/E/9MvEr.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/c3/s8/2/E/z/c/o/Ezcox.aaa.mp4"
       }
     ]
   },
@@ -73,26 +73,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/51/s8/2/o/4/A/l/o4Alx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Invicto 2",
-    "image": "https://image.tmdb.org/t/p/w185/nSGlv1yJxEewtf44bo0CUgHSNHW.jpg",
-    "rating": "7",
-    "year": "Apr. 11, 2006",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un boxeador ex campeón del mundo, pero venido a menos y lleno de deudas viaja a Rusia con su agente para ganarse unos pesos grabando comerciales de Vodka, pero una vez allá caerá en manos de la mafia, que desea meterlo preso y enfrentarlo al campeón reinante de un torneo para reclusos que mueve muchísimo dinero. Es así como “Ice man” deberá vérselas con todos los reclusos y el corrupto mundo que ahí se vive.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/F/q/T/D/FqTDr.aaa.mp4"
       }
     ]
   },
@@ -118,46 +98,6 @@
     ]
   },
   {
-    "title": "Jugando con la muerte ; Game of Death",
-    "image": "https://image.tmdb.org/t/p/w185/iaF3ln0xzbam2QfeFQTKpTVCPHy.jpg",
-    "rating": "4.7",
-    "year": "Mar. 31, 2011",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El agente de operaciones secretas, Marcus, es enviado a Detroit para atrapar a un traficante de armas y a su proveedor. El refuerzo de la CIA tendrá otros planes para él.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/c3/s8/2/E/z/c/o/Ezcox.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Jumanji: Bienvenidos a la jungla",
-    "image": "https://image.tmdb.org/t/p/w185/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
-    "rating": "7",
-    "year": "Dec. 09, 2017",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuatro estudiantes de secundaria se quedan atrapados en la selva dentro de un videojuego, donde viven una aventura convertidos en avatares adultos arquetípicos.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/2/_/B/c2_Bv.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Ip Man 2",
     "image": "https://image.tmdb.org/t/p/w185/ype1J4olDfeQpseCiQob5I74oqg.jpg",
     "rating": "7.5",
@@ -178,42 +118,42 @@
     ]
   },
   {
-    "title": "Jurado Nº 2",
-    "image": "https://image.tmdb.org/t/p/w185/nk2fxww83vynfSXFuWC6qMGyag.jpg",
-    "rating": "7.3",
-    "year": "Oct. 30, 2024",
-    "quality": "720p HDCAM.rip",
+    "title": "Invicto 2",
+    "image": "https://image.tmdb.org/t/p/w185/nSGlv1yJxEewtf44bo0CUgHSNHW.jpg",
+    "rating": "7",
+    "year": "Apr. 11, 2006",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Sigue a Justin Kemp, un hombre de familia que, mientras forma parte de un jurado en un juicio por asesinato de alto perfil, se encuentra luchando con un serio dilema moral… uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
+    "description": "Un boxeador ex campeón del mundo, pero venido a menos y lleno de deudas viaja a Rusia con su agente para ganarse unos pesos grabando comerciales de Vodka, pero una vez allá caerá en manos de la mafia, que desea meterlo preso y enfrentarlo al campeón reinante de un torneo para reclusos que mueve muchísimo dinero. Es así como “Ice man” deberá vérselas con todos los reclusos y el corrupto mundo que ahí se vive.",
     "genres": [
+      "Acción",
       "Crimen",
-      "Drama",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/N/f/-/PNf-u.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/F/q/T/D/FqTDr.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Irreversible",
-    "image": "https://image.tmdb.org/t/p/w185/tqBC7IBuwCAjwTVmcg3f6jOZgMT.jpg",
-    "rating": "7.3",
-    "year": "May. 22, 2002",
-    "quality": "720 HD",
+    "title": "Jumanji: Bienvenidos a la jungla",
+    "image": "https://image.tmdb.org/t/p/w185/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
+    "rating": "7",
+    "year": "Dec. 09, 2017",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+    "description": "Cuatro estudiantes de secundaria se quedan atrapados en la selva dentro de un videojuego, donde viven una aventura convertidos en avatares adultos arquetípicos.",
     "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
+      "Aventura",
+      "Comedia",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/p/J/Y/GpJYn.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/2/_/B/c2_Bv.aaa.mp4"
       }
     ]
   },
@@ -246,20 +186,42 @@
     ]
   },
   {
-    "title": "Jack y Jill ; Jack y su gemela",
-    "image": "https://image.tmdb.org/t/p/w185/rglSEPbB5bA3EWzqellWjlVsKA1.jpg",
-    "rating": "3.3",
-    "year": "Nov. 11, 2011",
-    "quality": "720 HD",
+    "title": "Jurado Nº 2",
+    "image": "https://image.tmdb.org/t/p/w185/nk2fxww83vynfSXFuWC6qMGyag.jpg",
+    "rating": "7.3",
+    "year": "Oct. 30, 2024",
+    "quality": "720p HDCAM.rip",
     "languages": [],
-    "description": "Jack (Adam Sandler) es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Por si fuera poco, lo que, en principio, iba a ser una visita de pocos días, se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.",
+    "description": "Sigue a Justin Kemp, un hombre de familia que, mientras forma parte de un jurado en un juicio por asesinato de alto perfil, se encuentra luchando con un serio dilema moral… uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
     "genres": [
-      "Comedia"
+      "Crimen",
+      "Drama",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/N/f/-/PNf-u.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Ip Man 3",
+    "image": "https://image.tmdb.org/t/p/w185/1wBnEGU0OXtgtDvTtgvYEODwcwi.jpg",
+    "rating": "7",
+    "year": "Dec. 24, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una banda de criminales dirigidos por un constructor ambicioso intentan desalojar la escuela local pero el maestro Ip Man no está dispuesto a ceder. Paralelamente, un nuevo maestro de Wing Chun ha llegado a la ciudad.",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/O/i/1/M/Oi1Mr.aaa.mp4"
       }
     ]
   },
@@ -280,6 +242,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/s/P/N/UsPNu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Irreversible",
+    "image": "https://image.tmdb.org/t/p/w185/tqBC7IBuwCAjwTVmcg3f6jOZgMT.jpg",
+    "rating": "7.3",
+    "year": "May. 22, 2002",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/p/J/Y/GpJYn.caa.mp4"
       }
     ]
   },
@@ -305,6 +287,26 @@
     ]
   },
   {
+    "title": "Karate Kid, el momento de la verdad",
+    "image": "https://image.tmdb.org/t/p/w185/sH7HK7phjO6NKsUaNi7tOWQ1k0t.jpg",
+    "rating": "7.3",
+    "year": "Jun. 22, 1984",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/y/N/w/cyNwu.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Karate Kid II ; 2, la historia continúa",
     "image": "https://image.tmdb.org/t/p/w185/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
     "rating": "6.1",
@@ -323,26 +325,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/8/U/w/98Uwu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Karate Kid, el momento de la verdad",
-    "image": "https://image.tmdb.org/t/p/w185/sH7HK7phjO6NKsUaNi7tOWQ1k0t.jpg",
-    "rating": "7.3",
-    "year": "Jun. 22, 1984",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos.",
-    "genres": [
-      "Acción",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/y/N/w/cyNwu.aaa.mp4"
       }
     ]
   },
@@ -389,6 +371,24 @@
     ]
   },
   {
+    "title": "Jack y Jill ; Jack y su gemela",
+    "image": "https://image.tmdb.org/t/p/w185/rglSEPbB5bA3EWzqellWjlVsKA1.jpg",
+    "rating": "3.3",
+    "year": "Nov. 11, 2011",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Jack (Adam Sandler) es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Por si fuera poco, lo que, en principio, iba a ser una visita de pocos días, se alarga más de lo previsto, lo que obliga a Jack y Jill a intentar limar asperezas.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/c/u/L/WcuLs.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Kraven the Hunter",
     "image": "https://image.tmdb.org/t/p/w185/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg",
     "rating": "5.5",
@@ -409,25 +409,6 @@
     ]
   },
   {
-    "title": "Kromoleo",
-    "image": "https://image.tmdb.org/t/p/w185/cgKECXXrgA6O7HzTpTPXblKkatV.jpg",
-    "rating": "3.9",
-    "year": "Aug. 22, 2024",
-    "quality": "Sub Español",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/D/m/P/o/DmPow.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Jeanne du Barry",
     "image": "https://image.tmdb.org/t/p/w185/bB2gII3YgyzA9rEtHwDe4xbImuM.jpg",
     "rating": "6.7",
@@ -444,6 +425,25 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/1/S/7/A1S7q.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Kromoleo",
+    "image": "https://image.tmdb.org/t/p/w185/cgKECXXrgA6O7HzTpTPXblKkatV.jpg",
+    "rating": "3.9",
+    "year": "Aug. 22, 2024",
+    "quality": "Sub Español",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/08/s8/2/D/m/P/o/DmPow.aaa.mp4"
       }
     ]
   },
@@ -487,25 +487,6 @@
     ]
   },
   {
-    "title": "La bruja de Blair 3",
-    "image": "https://image.tmdb.org/t/p/w185/umYep3ZxgnyWZ2HZIvnaklynJjO.jpg",
-    "rating": "5",
-    "year": "Sep. 15, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un grupo de estudiantes universitarios se aventuran en Black Hills Forest en Maryland para descubrir los misterios que envuelven la desaparición de Heather, la hermana de James Donahue, quien muchos creen está conectada a la leyenda de la Bruja de Blair después de su desaparición hace 20 años. Al principio el grupo tiene esperanzas, especialmente cuando un par de locales se ofrecen a actuar como guías a través del oscuro bosque, pero mientras la interminable noche avanza, el grupo es atormentado por una presencia amenazante. Lentamente, el grupo empieza a entender que la leyenda es muy real y más siniestra de lo que pudieron haber imaginado.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/67/s8/2/M/H/E/w/MHEwy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La bestia oculta",
     "image": "https://image.tmdb.org/t/p/w185/6RgP9K7HBekNbW6TimYroSrzYay.jpg",
     "rating": "4.2",
@@ -522,6 +503,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe1/55/s8/2/G/Z/w/y/GZwyw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La bruja de Blair 3",
+    "image": "https://image.tmdb.org/t/p/w185/umYep3ZxgnyWZ2HZIvnaklynJjO.jpg",
+    "rating": "5",
+    "year": "Sep. 15, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un grupo de estudiantes universitarios se aventuran en Black Hills Forest en Maryland para descubrir los misterios que envuelven la desaparición de Heather, la hermana de James Donahue, quien muchos creen está conectada a la leyenda de la Bruja de Blair después de su desaparición hace 20 años. Al principio el grupo tiene esperanzas, especialmente cuando un par de locales se ofrecen a actuar como guías a través del oscuro bosque, pero mientras la interminable noche avanza, el grupo es atormentado por una presencia amenazante. Lentamente, el grupo empieza a entender que la leyenda es muy real y más siniestra de lo que pudieron haber imaginado.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/67/s8/2/M/H/E/w/MHEwy.aaa.mp4"
       }
     ]
   },
@@ -604,27 +604,6 @@
     ]
   },
   {
-    "title": "Kung Fu Panda 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/5JsMPU79GmY9dKBahXxq6OefPmN-185x278.jpg",
-    "rating": "7.2",
-    "year": "May. 25, 2011",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.",
-    "genres": [
-      "Animación",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvaDIxanhzMmNkdThsX24vaW5kZXgtdjEtYTEubTN1OD90PVhQRWRzeXh6QktxN1B5SU52ZHVSQUhKOF9teTdnMDJYa1JFMEE2T1RQWjgmcz0xNzg3MzYwODE0JmU9NDMyMDAmdj0zMzAwNDYxMjUmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "La caída de la Casa Blanca",
     "image": "https://image.tmdb.org/t/p/w185/7Ri9YvVFMsTsBCZphs13sEIvU5H.jpg",
     "rating": "6.3",
@@ -641,29 +620,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/3e/s8/2/O/X/R/7/OXR7y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1038493184-1038572340"
-      }
-    ]
-  },
-  {
-    "title": "La caída del halcón negro",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/A2vZprRrBbcwLMwf4Oswtk1jodh-185x278.jpg",
-    "rating": "7.7",
-    "year": "Dec. 28, 2001",
-    "quality": "1080p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/0d/s8/2/I/m/a/r/ImarA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4677537792-4677630707"
       }
     ]
   },
@@ -710,6 +666,50 @@
     ]
   },
   {
+    "title": "La caída del halcón negro",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0120.jpg",
+    "rating": "7.7",
+    "year": "Dec. 28, 2001",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "En octubre de 1993, una unidad de élite del Ejército de Estados Unidos es enviada a Mogadiscio, la capital de Somalia, para realizar una misión en plena guerra civil. Sin embargo, lo que parecía ser una misión sencilla se convierte en una pesadilla.",
+    "genres": [
+      "Acción",
+      "Bélica",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/0d/s8/2/I/m/a/r/ImarA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4677537792-4677630707"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0117.jpg",
+    "rating": "7.2",
+    "year": "May. 25, 2011",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Po está ahora viviendo su sueño como el Guerrero del Dragón, protegiendo el Valle de la Paz junto a sus amigos y sus compañeros maestros del kung fu. Los Cinco Furiosos. Pero su nueva e impresionante vida se encuentra amenazada por la aparición de un villano formidable, que planea usar un arma secreta imparable para conquistar China y destruir el kung fu. Po debe volver la vista a su pasado para descubrir los secretos de su misterioso origen; solo entonces podrá adquirir la fuerza que necesita para vencer.",
+    "genres": [
+      "Animación",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvaDIxanhzMmNkdThsX24vaW5kZXgtdjEtYTEubTN1OD90PVhQRWRzeXh6QktxN1B5SU52ZHVSQUhKOF9teTdnMDJYa1JFMEE2T1RQWjgmcz0xNzg3MzYwODE0JmU9NDMyMDAmdj0zMzAwNDYxMjUmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "La Empleada",
     "image": "https://image.tmdb.org/t/p/w185/67PMTBnKahx4ywg7sqyjCHlvaSI.jpg",
     "rating": "7.0",
@@ -727,49 +727,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/98/s8/2/0/k/9/1/0k91z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1037578752-1037657966"
-      }
-    ]
-  },
-  {
-    "title": "La Era de Kasym",
-    "image": "https://image.tmdb.org/t/p/w185/4Vqo4obgBj4sm4YSlv52BB3bt0j.jpg",
-    "rating": "5.7",
-    "year": "May. 12, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/7/e/v/y/7evyy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Kung Fu Panda 4",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/bqe5pdLIoLeZSszA8N5ZvoIS4aB-185x278.jpg",
-    "rating": "6.7",
-    "year": "Mar. 02, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado «el Camaleón», que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAwL3pmOWw2cXNseTR4aV9uL2luZGV4LXYxLWExLm0zdTg_dD1YMndTdndVY2dPMG11bGR4Y2hCWXRlTi15TmdRU0hhdlBMVGFvclJnSTg0JnM9MTc4NzM2MTY4OSZlPTQzMjAwJnY9MzMxOTQxMDQzJmk9MC4zJnNwPTAmcj1l"
       }
     ]
   },
@@ -798,24 +755,66 @@
     ]
   },
   {
-    "title": "Kickboxer",
-    "image": "https://image.tmdb.org/t/p/w185/eP1GzZxRL7VpIEpeawtAjlYhNQj.jpg",
-    "rating": "6.4",
-    "year": "Apr. 20, 1989",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+    "title": "La Era de Kasym",
+    "image": "https://image.tmdb.org/t/p/w185/4Vqo4obgBj4sm4YSlv52BB3bt0j.jpg",
+    "rating": "5.7",
+    "year": "May. 12, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan.",
     "genres": [
       "Acción",
+      "Bélica",
       "Drama",
-      "Suspense"
+      "Historia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/8/c/w/X/8cwXq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c9/s8/2/7/e/v/y/7evyy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0118.jpg",
+    "rating": "6.7",
+    "year": "Mar. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado «el Camaleón», que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAyLzAwMDAwL3pmOWw2cXNseTR4aV9uL2luZGV4LXYxLWExLm0zdTg_dD1YMndTdndVY2dPMG11bGR4Y2hCWXRlTi15TmdRU0hhdlBMVGFvclJnSTg0JnM9MTc4NzM2MTY4OSZlPTQzMjAwJnY9MzMxOTQxMDQzJmk9MC4zJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "La cabaña",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0119.jpg",
+    "rating": "6.3",
+    "year": "Mar. 02, 2017",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Después de sufrir una tragedia familiar, Mack Phillips cae en una profunda depresión que le lleva a cuestionar todas sus creencias. Sumido en una crisis de fe, recibe una enigmática carta donde un misterioso personaje le cita en una cabaña abandonada en lo más profundo de los bosques de Oregón. A pesar de sus dudas, Mack viaja a la cabaña, donde se encontrará con alguien inesperado. Este encuentro conducirá a Mack a enfrentarse a importantes verdades, que no sólo transformarán su comprensión de la tragedia sino que harán que su vida cambie para siempre.",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNS52aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvZTFuNmlnb3dmaHZ4X24vaW5kZXgtdjEtYTEubTN1OD90PWE4N0hDUVRuajR3X25Rd184U3kzVnpSNzVOV05XaklmMk5zYkJqeG9aYmcmcz0xNzg3MzYwODE1JmU9NDMyMDAmdj0zMjU0MDU1MzYmc3J2PXMxMyZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   }

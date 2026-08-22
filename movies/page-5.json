@@ -1,5 +1,50 @@
 [
   {
+    "title": "Better Man (2024)",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0024.jpg",
+    "rating": "7.5",
+    "year": "Dec. 06, 2024",
+    "quality": "1080p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Sigue el viaje de Robbie Williams desde su infancia, hasta convertirse en el miembro más joven de la exitosa banda de chicos Take That, hasta sus logros incomparables como artista solista que rompe récords, todo ello mientras enfrenta los desafíos que la fama y el éxito estratosférica pueden traer.",
+    "genres": [
+      "Drama",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/b4/s8/2/u/E/s/o/uEsoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4167933440-4168016267"
+      }
+    ]
+  },
+  {
+    "title": "Batman: El caballero oscuro",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0022.jpg",
+    "rating": "9",
+    "year": "Jul. 14, 2008",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvNm5hdDQ1a3cxdG1pX24vaW5kZXgtdjEtYTEubTN1OD90PUJkcVBnYUVaQ0I5RnI4REVPOTZHRlhJaEpvbVhfanFsRXpIcWtwZHlfNUEmcz0xNzg3MzYwODE3JmU9NDMyMDAmdj0zMjUzMzIyMjAmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Bitelchús 2 ; Beetlejuice",
     "image": "https://image.tmdb.org/t/p/w185/fHLTsVtN8Xq1DwNqu1YiAAtu9tU.jpg",
     "rating": "7.2",
@@ -16,90 +61,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/j/y/X/E/jyXEt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bad Boys 3 for Life",
-    "image": "https://image.tmdb.org/t/p/w185/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg",
-    "rating": "6.5",
-    "year": "Jan. 15, 2020",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "El Departamento de Policía de Miami y su equipo de élite AMMO intentan derribar a Armando Armas, jefe de un cartel de la droga. Armando es un asesino de sangre fría con una naturaleza viciosa y contaminante. Él está comprometido con el trabajo del cartel y es enviado por su madre Isabel, para matar a Mike.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/b/M/g/8bMgs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/b/M/g/8bMgs.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Black Adam: ¿Héroe o Villano?",
-    "image": "https://image.tmdb.org/t/p/w185/7MwrqCY0AZw3ZWp1F8BWsYLRWUu.jpg",
-    "rating": "0",
-    "year": "Oct. 15, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Antes del estreno de la próxima película de fantasía ‘Black Adam’, siéntese con Dwayne Johnson mientras habla sobre su papel protagónico como el superhéroe del mismo nombre.",
-    "genres": [
-      "Documental"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/05/s8/2/o/4/T/D/o4TDw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bailarina",
-    "image": "https://image.tmdb.org/t/p/w185/OmpAFNNjYRPao0PKPvMrgOh6bp.jpg",
-    "rating": "6.2",
-    "year": "Oct. 05, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ok Ju solía trabajar como guardaespaldas. Destaca en actividades físicas como las artes marciales, la lucha con espadas, la puntería y la conducción de motos. Ok Ju es amiga de Min Hee, que es bailarina. Min Hee le pide a Ok Ju un favor. Quiere que Ok Ju se vengue de Pro Choi. Ok Ju pronto arriesga su vida por Min Hee.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/n/T/q/4nTqn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Black Panther: Wakanda Forever ; Pantera Negra 2",
-    "image": "https://image.tmdb.org/t/p/w185/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
-    "rating": "6.7",
-    "year": "Nov. 09, 2022",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/51/s8/2/e/u/F/3/euF3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1272083456-1272180999"
       }
     ]
   },
@@ -127,6 +88,69 @@
     ]
   },
   {
+    "title": "Black Adam: ¿Héroe o Villano?",
+    "image": "https://image.tmdb.org/t/p/w185/7MwrqCY0AZw3ZWp1F8BWsYLRWUu.jpg",
+    "rating": "0",
+    "year": "Oct. 15, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Antes del estreno de la próxima película de fantasía ‘Black Adam’, siéntese con Dwayne Johnson mientras habla sobre su papel protagónico como el superhéroe del mismo nombre.",
+    "genres": [
+      "Documental"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/05/s8/2/o/4/T/D/o4TDw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Aviones",
+    "image": "https://image.tmdb.org/t/p/w185/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
+    "rating": "5.7",
+    "year": "Aug. 09, 2013",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Película derivada de la exitosa de Disney/Pixar dirigida por John Lasseter, Cars. En esta ocasión no son coches sino aviones, los que van a sumergirse en una divertida historia de acción y aventuras. El protagonista, un avión llamado Dusty Crophopper, tiene verdadero terror a las alturas. Pero desafiará sus miedos para poder cumplir uno de sus grandes deseos: poder correr en la carrera más grandiosa que exiten en todo el mundo. Dusty sabe que este será el mayor reto de su vida, pero también será la experiencia más apasionante y sobrecogedora que va a vivir jamás.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/N/u/N/fNuNs.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Bailarina",
+    "image": "https://image.tmdb.org/t/p/w185/OmpAFNNjYRPao0PKPvMrgOh6bp.jpg",
+    "rating": "6.2",
+    "year": "Oct. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ok Ju solía trabajar como guardaespaldas. Destaca en actividades físicas como las artes marciales, la lucha con espadas, la puntería y la conducción de motos. Ok Ju es amiga de Min Hee, que es bailarina. Min Hee le pide a Ok Ju un favor. Quiere que Ok Ju se vengue de Pro Choi. Ok Ju pronto arriesga su vida por Min Hee.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/n/T/q/4nTqn.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Black Widow ; Viuda negra",
     "image": "https://image.tmdb.org/t/p/w185/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg",
     "rating": "6.7",
@@ -147,6 +171,28 @@
     ]
   },
   {
+    "title": "Black Panther: Wakanda Forever ; Pantera Negra 2",
+    "image": "https://image.tmdb.org/t/p/w185/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+    "rating": "6.7",
+    "year": "Nov. 09, 2022",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/51/s8/2/e/u/F/3/euF3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1272083456-1272180999"
+      }
+    ]
+  },
+  {
     "title": "Blade Runner 2049",
     "image": "https://image.tmdb.org/t/p/w185/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
     "rating": "8",
@@ -162,29 +208,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ae/s8/2/n/B/m/o/nBmow.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Batman: El caballero oscuro",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/8QDQExnfNFOtabLDKqfDQuHDsIg-185x278.jpg",
-    "rating": "9",
-    "year": "Jul. 14, 2008",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvNm5hdDQ1a3cxdG1pX24vaW5kZXgtdjEtYTEubTN1OD90PUJkcVBnYUVaQ0I5RnI4REVPOTZHRlhJaEpvbVhfanFsRXpIcWtwZHlfNUEmcz0xNzg3MzYwODE3JmU9NDMyMDAmdj0zMjUzMzIyMjAmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
@@ -250,26 +273,6 @@
     ]
   },
   {
-    "title": "Blue Story: Pandillas de Londres",
-    "image": "https://image.tmdb.org/t/p/w185/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg",
-    "rating": "0",
-    "year": "Nov. 22, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Blue Story es una historia trágica de una amistad entre Timmy y Marco, dos jóvenes de códigos postales opuestos. Timmy, un joven tímido, inteligente, ingenuo y tímido de Deptford, va a la escuela en Peckham, donde entabla una amistad con Marco, un niño carismático y callejero del área local. Aunque a partir de códigos postales en guerra, los dos rápidamente forman una amistad firme hasta que se prueba y terminan en lados rivales de una guerra callejera. Blue Story representa elementos de las experiencias personales de Rapman y aspectos de su infancia.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/8e/s8/2/R/-/i/0/R-i0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=722076672-722131837"
-      }
-    ]
-  },
-  {
     "title": "Bloodshot",
     "image": "https://image.tmdb.org/t/p/w185/b0Sokh7DazDAxGOpt0ln9soTTET.jpg",
     "rating": "5.7",
@@ -286,6 +289,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/O/c/e/C/OceCv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Blue Story: Pandillas de Londres",
+    "image": "https://image.tmdb.org/t/p/w185/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg",
+    "rating": "0",
+    "year": "Nov. 22, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Blue Story es una historia trágica de una amistad entre Timmy y Marco, dos jóvenes de códigos postales opuestos. Timmy, un joven tímido, inteligente, ingenuo y tímido de Deptford, va a la escuela en Peckham, donde entabla una amistad con Marco, un niño carismático y callejero del área local. Aunque a partir de códigos postales en guerra, los dos rápidamente forman una amistad firme hasta que se prueba y terminan en lados rivales de una guerra callejera. Blue Story representa elementos de las experiencias personales de Rapman y aspectos de su infancia.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/8e/s8/2/R/-/i/0/R-i0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=722076672-722131837"
       }
     ]
   },
@@ -313,7 +336,7 @@
   },
   {
     "title": "Boda sangrienta 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/tQV0X354U142Cao8Be6eUt38spS-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0026.jpg",
     "rating": "7.0",
     "year": "Mar. 19, 2026",
     "quality": "720p HD",
@@ -330,55 +353,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/7b/s8/2/G/X/G/e/GXGeA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3325898752-3325964748"
-      }
-    ]
-  },
-  {
-    "title": "Beekeeper: El protector",
-    "image": "https://image.tmdb.org/t/p/w185/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
-    "rating": "6.7",
-    "year": "Jan. 10, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como «Beekeeper».",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/l/0/7/t/l07tr.oaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Bolas Afuera (Balls Out) (Intramural)",
-    "image": "https://image.tmdb.org/t/p/w185/7FvnixeGIOd3V7TMrqb86sXDizo.jpg",
-    "rating": "4.3",
-    "year": "Apr. 19, 2014",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Llega un momento en la vida de todos los estudiantes del quinto año de la universidad necesitan hacer frente a la inminente entrada en el mundo real, el hecho de trabajar, compromisos, relaciones graves y planes de financiación. Ante la inminente madurez, el joven Caleb Fuller decide reconstruir su equipo de inadaptados compañeros para un último juego, el fútbol épico entre las paredes de la escuela.Con el matrimonio, graduación, y el mundo real en el horizonte, Caleb Fuller vuelve a montar el equipo viejo de inadaptados para una última carrera épica en el fútbol intramuros.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/6e/s8/2/G/s/u/q/Gsuqx.aaa.mp4"
       }
     ]
   },
@@ -422,7 +396,7 @@
   },
   {
     "title": "Bolas arriba ; Balls Up",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/uVybc3pLqHSoMC73kElu93oJBRQ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0027.jpg",
     "rating": "4.6",
     "year": "Apr. 15, 2026",
     "quality": "720p HD",
@@ -440,6 +414,24 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/f2/s8/2/e/4/v/m/e4vmA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3284261376-3284326576"
+      }
+    ]
+  },
+  {
+    "title": "Bolas Afuera (Balls Out) (Intramural)",
+    "image": "https://image.tmdb.org/t/p/w185/7FvnixeGIOd3V7TMrqb86sXDizo.jpg",
+    "rating": "4.3",
+    "year": "Apr. 19, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Llega un momento en la vida de todos los estudiantes del quinto año de la universidad necesitan hacer frente a la inminente entrada en el mundo real, el hecho de trabajar, compromisos, relaciones graves y planes de financiación. Ante la inminente madurez, el joven Caleb Fuller decide reconstruir su equipo de inadaptados compañeros para un último juego, el fútbol épico entre las paredes de la escuela.Con el matrimonio, graduación, y el mundo real en el horizonte, Caleb Fuller vuelve a montar el equipo viejo de inadaptados para una última carrera épica en el fútbol intramuros.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/6e/s8/2/G/s/u/q/Gsuqx.aaa.mp4"
       }
     ]
   },
@@ -465,7 +457,7 @@
   },
   {
     "title": "Boulevard",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/6Vh5LgcDh1eKJboeNdzkx4nxWsZ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0028.jpg",
     "rating": "5.8",
     "year": "2026",
     "quality": "",
@@ -479,29 +471,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/ea/s8/2/m/Y/o/F/mYoFA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3543508992-3543579324"
-      }
-    ]
-  },
-  {
-    "title": "Believe Me: The Abduction of Lisa McVey",
-    "image": "https://image.tmdb.org/t/p/w185/ndLQXjvF5yvW51rreLDTr85o1gv.jpg",
-    "rating": "7.2",
-    "year": "Sep. 30, 2018",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "La noche que planea quitarse la vida, Lisa McVey, de 17 años, es secuestrada y se encuentra luchando por mantenerse con vida. Consigue convencer a su atacante para que la libere, pero cuando vuelve a casa, nadie se cree su historia, salvo un detective, que sospecha que fue secuestrada por un asesino en serie. Basado en hechos reales horripilantes.",
-    "genres": [
-      "Drama",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/J/-/c/AJ-cq.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/J/-/c/AJ-cq.caa.mp4"
       }
     ]
   },
@@ -547,28 +516,6 @@
     ]
   },
   {
-    "title": "Ben 10 : Invacion Alienigena",
-    "image": "https://image.tmdb.org/t/p/w185/bFB5Y184X41AgLiuNQRqvTqDEGQ.jpg",
-    "rating": "4.6",
-    "year": "Nov. 25, 2009",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Este filme se trata de que la nave de una misteriosa chica alenígena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendrá que defender el planeta del padre de la extraña visitante. Ben tendrá que romper sus propios récords, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienígena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el día y detener todo esto. «Ben 10: Alien Swarm» es la segunda película live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras «Ben 10: Carrera Contra El Tiempo».",
-    "genres": [
-      "Aventura"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/p/h/1/nph1r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/p/h/1/nph1r.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Bromas que matan",
     "image": "https://image.tmdb.org/t/p/w185/yUdkn57AcZJCBiO74D9xQYq99Bm.jpg",
     "rating": "0",
@@ -591,63 +538,25 @@
     ]
   },
   {
-    "title": "Buena suerte, diviértete, no mueras",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/dtEVoZBMuwlgz4mh4PA75eVbBM1-185x278.jpg",
-    "rating": "0",
-    "year": "Feb. 13, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/03/s8/2/C/l/Q/f/ClQfA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4146046464-4146128803"
-      }
-    ]
-  },
-  {
-    "title": "Beau tiene miedo",
-    "image": "https://image.tmdb.org/t/p/w185/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg",
-    "rating": "6.8",
-    "year": "Apr. 14, 2023",
+    "title": "Believe Me: The Abduction of Lisa McVey",
+    "image": "https://image.tmdb.org/t/p/w185/ndLQXjvF5yvW51rreLDTr85o1gv.jpg",
+    "rating": "7.2",
+    "year": "Sep. 30, 2018",
     "quality": "720 HD",
     "languages": [],
-    "description": "Beau (Joaquin Phoenix) es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.",
+    "description": "La noche que planea quitarse la vida, Lisa McVey, de 17 años, es secuestrada y se encuentra luchando por mantenerse con vida. Consigue convencer a su atacante para que la libere, pero cuando vuelve a casa, nadie se cree su historia, salvo un detective, que sospecha que fue secuestrada por un asesino en serie. Basado en hechos reales horripilantes.",
     "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía"
+      "Drama",
+      "Película de TV"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/R/V/M/L/RVMLn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Buenos Vecinos 2 ; Malditos vecinos 2",
-    "image": "https://image.tmdb.org/t/p/w185/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg",
-    "rating": "5.7",
-    "year": "May. 04, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Secuela de la comedia estrenada en 2014. Comienza cuando una fraternidad se muda a la casa de Mac y Kelly Radner. Entonces ellos para solucionar el problema recurrirán a la ayuda de su antiguo enemigo: Teddy Sanders, el líder de la hermandad juvenil Delta Psi Beta.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
+        "url": "https://1a-1791.com/video/s8/2/A/J/-/c/AJ-cq.aaa.mp4"
+      },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/S/K/1/rSK1s.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/A/J/-/c/AJ-cq.caa.mp4"
       }
     ]
   },
@@ -672,6 +581,69 @@
     ]
   },
   {
+    "title": "Buena suerte, diviértete, no mueras",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0029.jpg",
+    "rating": "0",
+    "year": "Feb. 13, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/03/s8/2/C/l/Q/f/ClQfA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4146046464-4146128803"
+      }
+    ]
+  },
+  {
+    "title": "Ben 10 : Invacion Alienigena",
+    "image": "https://image.tmdb.org/t/p/w185/bFB5Y184X41AgLiuNQRqvTqDEGQ.jpg",
+    "rating": "4.6",
+    "year": "Nov. 25, 2009",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Este filme se trata de que la nave de una misteriosa chica alenígena (Elena) se estrella sobre la Tierra, y el equipo, conformado por Ben, su prima Gwen, y su amigo Kevin, tendrá que defender el planeta del padre de la extraña visitante. Ben tendrá que romper sus propios récords, hablando sobre plomeros, para ayudar a Elena y para descubrir una amenaza alienígena para el planeta Tierra. Ahora, el equipo debe confiar en sus instintos para ayudar a salvar el día y detener todo esto. «Ben 10: Alien Swarm» es la segunda película live-action de Cartoon Network basada de la serie Ben 10: Alien Force, tras «Ben 10: Carrera Contra El Tiempo».",
+    "genres": [
+      "Aventura"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/p/h/1/nph1r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/p/h/1/nph1r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Buenos Vecinos 2 ; Malditos vecinos 2",
+    "image": "https://image.tmdb.org/t/p/w185/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg",
+    "rating": "5.7",
+    "year": "May. 04, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Secuela de la comedia estrenada en 2014. Comienza cuando una fraternidad se muda a la casa de Mac y Kelly Radner. Entonces ellos para solucionar el problema recurrirán a la ayuda de su antiguo enemigo: Teddy Sanders, el líder de la hermandad juvenil Delta Psi Beta.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/S/K/1/rSK1s.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Buenos Vecinos ; Malditos vecinos",
     "image": "https://image.tmdb.org/t/p/w185/f3zFfLgh0snxZxcOHxDYAyczXGA.jpg",
     "rating": "6.3",
@@ -686,6 +658,46 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/D/8/I/1/D8I1s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Bumblebee",
+    "image": "https://image.tmdb.org/t/p/w185/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg",
+    "rating": "6.7",
+    "year": "Dec. 15, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sexta entrega de la saga ‘Transformers’, esta vez centrada en el «hermano pequeño» de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VW amarillo ordinario.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/9/c/2/d/9c2dt.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
+    "title": "Beau tiene miedo",
+    "image": "https://image.tmdb.org/t/p/w185/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg",
+    "rating": "6.8",
+    "year": "Apr. 14, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Beau (Joaquin Phoenix) es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/R/V/M/L/RVMLn.caa.mp4"
       }
     ]
   },
@@ -713,50 +725,6 @@
     ]
   },
   {
-    "title": "Bumblebee",
-    "image": "https://image.tmdb.org/t/p/w185/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg",
-    "rating": "6.7",
-    "year": "Dec. 15, 2018",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Sexta entrega de la saga ‘Transformers’, esta vez centrada en el «hermano pequeño» de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VW amarillo ordinario.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/9/c/2/d/9c2dt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Big Hero 6",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/qVU0ag4i5BCmH5h4o04cdvUo0Zf-185x278.jpg",
-    "rating": "7.8",
-    "year": "Oct. 24, 2014",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En la metrópolis de San Fransokyo (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genia de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokyo, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zOS52aW1lb3MubmV0L2hsczIvMDMvMDAwMDAvYTNheThuYmF5MzJjX24vaW5kZXgtdjEtYTEubTN1OD90PVg1cXZ2OWNZRHdlLXNWMEptbjNhNEtlZTVISHk0elA1Y1lFdUE2NV9vaTQmcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMjU0MDU0MzMmaT0wLjMmc3A9MCZyPWU"
-      }
-    ]
-  },
-  {
     "title": "Cacería Sangrienta",
     "image": "https://image.tmdb.org/t/p/w185/8I69HKlLPnq8hnQdvBORadGgfgh.jpg",
     "rating": "5.8",
@@ -778,7 +746,7 @@
   },
   {
     "title": "Camina o muere",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/kXIw6UiO2zANEPyStiYoEIopN0q-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0030.jpg",
     "rating": "7.3",
     "year": "Sep. 10, 2025",
     "quality": "720p HD",
@@ -833,6 +801,30 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/4c/s8/2/4/e/3/w/4e3wy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Big Hero 6",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0025.jpg",
+    "rating": "7.8",
+    "year": "Oct. 24, 2014",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En la metrópolis de San Fransokyo (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genia de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokyo, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zOS52aW1lb3MubmV0L2hsczIvMDMvMDAwMDAvYTNheThuYmF5MzJjX24vaW5kZXgtdjEtYTEubTN1OD90PVg1cXZ2OWNZRHdlLXNWMEptbjNhNEtlZTVISHk0elA1Y1lFdUE2NV9vaTQmcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMjU0MDU0MzMmaT0wLjMmc3A9MCZyPWU"
       }
     ]
   }

@@ -1,5 +1,29 @@
 [
   {
+    "title": "Predators ; Predadores",
+    "image": "https://image.tmdb.org/t/p/w185/wNfucvF5YByebBVVuT0280D3VFb.jpg",
+    "rating": "6.4",
+    "year": "Jul. 03, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos —mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte—, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/X/0/7/n/X07ns.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/X/0/7/n/X07ns.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Priscilla",
     "image": "https://image.tmdb.org/t/p/w185/2i9EgnxyXcD0POswNcirYCSm2iP.jpg",
     "rating": "6.7",
@@ -19,46 +43,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/v/6/g/O/v6gOv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Rescate implacable",
-    "image": "https://image.tmdb.org/t/p/w185/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
-    "rating": "6.2",
-    "year": "Mar. 26, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Levon Cade dejó atrás una distinguida carrera militar en operaciones encubiertas para llevar una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, quien es como familia para él, es capturada por traficantes de personas, su búsqueda para traerla de regreso revela un mundo de corrupción mucho mayor de lo que jamás pudo imaginar.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/1d/s8/2/j/Q/H/y/jQHyy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Resident Evil 1 ; El Huesped",
-    "image": "https://image.tmdb.org/t/p/w185/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg",
-    "rating": "6.6",
-    "year": "Mar. 15, 2002",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En un centro clandestino de investigación genética -con fines militares- de una poderosa multinacional se produce un brote vírico que contamina todo el edificio. Para contener la fuga el ordenador que controla el centro sella toda la instalación y, en un principio se cree que mueren todos los empleados, pero en realidad se han convertido en feroces zombis…",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/3/N/l/H3Nlt.aaa.mp4"
       }
     ]
   },
@@ -83,49 +67,28 @@
     ]
   },
   {
-    "title": "Retrato de un amor a ciegas",
-    "image": "https://image.tmdb.org/t/p/w185/r5AXD7ZKScWzP6cMTKGpexmjjrh.jpg",
-    "rating": "0",
-    "year": "Mar. 05, 2025",
+    "title": "Resident Evil 1 ; El Huesped",
+    "image": "https://image.tmdb.org/t/p/w185/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg",
+    "rating": "6.6",
+    "year": "Mar. 15, 2002",
     "quality": "720p HD",
     "languages": [],
-    "description": "Soltera y sin un hombre a la vista, Pia tiene un estudio de fotografía en Londres con su mejor amigo Jay. Mientras su hermana, Sonal, se prepara para su boda, y su madre, Laxmi, la presiona para conseguir pareja, un gurú espiritual predice que Pia conocerá al amor de su vida entre sus próximas cinco citas. Con la ayuda de su familia, Pia inicia una divertida y emotiva misión en busca del amor.",
+    "description": "En un centro clandestino de investigación genética -con fines militares- de una poderosa multinacional se produce un brote vírico que contamina todo el edificio. Para contener la fuga el ordenador que controla el centro sella toda la instalación y, en un principio se cree que mueren todos los empleados, pero en realidad se han convertido en feroces zombis…",
     "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/m/-/A/q/m-Aqy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Regreso al futuro. Parte III",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/c7vYpsBMKZ3AwhBlc7wwGGMPlRA-185x278.jpg",
-    "rating": "7.4",
-    "year": "May. 25, 1990",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Atrapado en 1955, Marty McFly se entera de la muerte de Doc Brown en 1885 y debe viajar en el tiempo para salvarlo. Sin combustible para el DeLorean, los dos deben averiguar cómo escapar del viejo Oeste antes de que Emmett sea asesinado.",
-    "genres": [
-      "Aventura",
+      "Acción",
       "Ciencia ficción",
-      "Comedia"
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDAzLzkyeTBoY3BpZ3V1aF9uL2luZGV4LXYxLWExLm0zdTg_dD1fbU9CVlpTR0I2eDhodlJHTnRnN1F4ZTVXUzExMTNPQ2F3WFNxQzBBY0dVJnM9MTc4NzM2MTczOCZlPTQzMjAwJnY9MzMxOTQxOTQyJmk9MC4zJnNwPTAmcj1l"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/3/N/l/H3Nlt.aaa.mp4"
       }
     ]
   },
   {
     "title": "Ratatouille",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/t3vaWRPSf6WjDSamIkKDs1iQWna-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0160.jpg",
     "rating": "8.1",
     "year": "Jun. 28, 2007",
     "quality": "720 HD",
@@ -143,6 +106,25 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvZ2liYjNtdGk0M2RkX24vaW5kZXgtdjEtYTEubTN1OD90PXVzT011b0E3bGpCUWxOMkJFS0JaeDl4VlZGM2k0NEg1d0ZRMm1VOEhpQmMmcz0xNzg3MzYxNzA5JmU9NDMyMDAmdj0zMjUzNzI5NjYmc3J2PXMxNCZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Retrato de un amor a ciegas",
+    "image": "https://image.tmdb.org/t/p/w185/r5AXD7ZKScWzP6cMTKGpexmjjrh.jpg",
+    "rating": "0",
+    "year": "Mar. 05, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Soltera y sin un hombre a la vista, Pia tiene un estudio de fotografía en Londres con su mejor amigo Jay. Mientras su hermana, Sonal, se prepara para su boda, y su madre, Laxmi, la presiona para conseguir pareja, un gurú espiritual predice que Pia conocerá al amor de su vida entre sus próximas cinco citas. Con la ayuda de su familia, Pia inicia una divertida y emotiva misión en busca del amor.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/m/-/A/q/m-Aqy.aaa.mp4"
       }
     ]
   },
@@ -166,8 +148,28 @@
     ]
   },
   {
+    "title": "Rescatando al soldado Ryan",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0165.jpg",
+    "rating": "8.6",
+    "year": "Jul. 24, 1998",
+    "quality": "",
+    "languages": [],
+    "description": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+    "genres": [
+      "Bélica",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvajJhMXI0bTR5aGVwX24vaW5kZXgtdjEtYTEubTN1OD90PXVRQ0tQaWZSUFlLbG9LWkUtSDE0VzNGS1JZdUttQ0NQa3FHOHNWeWVIeTQmcz0xNzg3MzYwNzcyJmU9NDMyMDAmdj0zMjk5OTIzNjgmc3J2PXMxMSZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Reyes De Las Olas ; Locos por el surf",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/xLrjGHONC7CsUjClHHRI8rzoDwZ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0166.jpg",
     "rating": "6.7",
     "year": "Jun. 08, 2007",
     "quality": "720p HD",
@@ -189,28 +191,8 @@
     ]
   },
   {
-    "title": "Prometheus",
-    "image": "https://image.tmdb.org/t/p/w185/qE5tdPZZjPWVMnY0wykTCvrvjfJ.jpg",
-    "rating": "7",
-    "year": "May. 30, 2012",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un grupo de científicos y exploradores emprende un viaje espacial a un remoto planeta, en el que sus límites físicos y mentales serán puestos a prueba. El motivo de la misión es que los humanos creen que allá podrán encontrar las respuestas a las preguntas más profundas y al mayor de los misterios: el origen de la vida en la Tierra.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/L/J/_/vLJ_n.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Reyes de las olas 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/vFaDN23JbbFnij84y5YyQk5hbCJ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0167.jpg",
     "rating": "4.4",
     "year": "Jan. 26, 2017",
     "quality": "720p HD",
@@ -228,6 +210,48 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/86/s8/2/8/3/_/l/83_lA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2590360576-2590411955"
+      }
+    ]
+  },
+  {
+    "title": "Rescate suicida",
+    "image": "https://image.tmdb.org/t/p/w185/jIWz9HSa7htx9NZb1gIuBUIrQE8.jpg",
+    "rating": "6.6",
+    "year": "Apr. 21, 2016",
+    "quality": "480p SD",
+    "languages": [],
+    "description": "Un joven piloto es despedido de la fuerza aérea militar después de desobedecer una orden absurda; consigue un trabajo como co-piloto en una aerolínea civil. Al ser excesivamente honesto y directo, no tiene una excelente relación con sus nuevos compañeros. Durante un vuelo a Asia, su tripulación recibe un mensaje de socorro desde una isla volcánica y toman una decisión para intentar una misión de rescate. ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Acción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/j/d/p/B/jdpBw.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/j/d/p/B/jdpBw.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Prometheus",
+    "image": "https://image.tmdb.org/t/p/w185/qE5tdPZZjPWVMnY0wykTCvrvjfJ.jpg",
+    "rating": "7",
+    "year": "May. 30, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un grupo de científicos y exploradores emprende un viaje espacial a un remoto planeta, en el que sus límites físicos y mentales serán puestos a prueba. El motivo de la misión es que los humanos creen que allá podrán encontrar las respuestas a las preguntas más profundas y al mayor de los misterios: el origen de la vida en la Tierra.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/L/J/_/vLJ_n.aaa.mp4"
       }
     ]
   },
@@ -258,24 +282,65 @@
     ]
   },
   {
-    "title": "Rescate suicida",
-    "image": "https://image.tmdb.org/t/p/w185/jIWz9HSa7htx9NZb1gIuBUIrQE8.jpg",
-    "rating": "6.6",
-    "year": "Apr. 21, 2016",
-    "quality": "480p SD",
-    "languages": [],
-    "description": "Un joven piloto es despedido de la fuerza aérea militar después de desobedecer una orden absurda; consigue un trabajo como co-piloto en una aerolínea civil. Al ser excesivamente honesto y directo, no tiene una excelente relación con sus nuevos compañeros. Durante un vuelo a Asia, su tripulación recibe un mensaje de socorro desde una isla volcánica y toman una decisión para intentar una misión de rescate. ⬇⬇⬇⬇⬇",
+    "title": "Regreso al futuro",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0162.jpg",
+    "rating": "8.5",
+    "year": "Jul. 03, 1985",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Marty McFly, un estudiante de secundaria de 17 años, es enviado accidentalmente treinta años al pasado en un DeLorean que viaja en el tiempo, inventado por su gran amigo, el excéntrico científico Doc Brown.",
     "genres": [
-      "Acción"
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/j/d/p/B/jdpBw.aaa.mp4"
-      },
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zOC52aW1lb3MubmV0L2hsczIvMDMvMDAwMDYvNDJ1Zzd1bG5jN2hlX24vaW5kZXgtdjEtYTEubTN1OD90PTlMYlRmUkphdUtQeFFkeExhSFhtTklQLWlWa1VtbGdSTlZ3SENGX0o1Umcmcz0xNzg3MzYwNzc3JmU9NDMyMDAmdj0zMzAwNDkxOTImaT0wLjMmc3A9MCZmcj00MnVnN3VsbmM3aGUmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Quiero ser como Beckham",
+    "image": "https://image.tmdb.org/t/p/w185/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg",
+    "rating": "6.7",
+    "year": "Apr. 11, 2002",
+    "quality": "",
+    "languages": [],
+    "description": "Jess Bhamra, una joven de origen hindú, vive con su familia en Inglaterra. Sus padres desearían verla terminar sus estudios y casarse como es debido, respetando las tradiciones de su país de origen. Pero la chica sólo sueña con balones. Al igual que su ídolo, el campeón David Beckham, Jess pasa la mayor parte del tiempo jugando al fútbol. Cuando una joven inglesa, Jules, la invita a entrar en un equipo femenino, será el inicio de una bella amistad y de una gran aventura.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/dc/s8/2/j/d/p/B/jdpBw.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/M/m/8/H/Mm8Hq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Rambo",
+    "image": "https://image.tmdb.org/t/p/w185/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
+    "rating": "7.7",
+    "year": "Oct. 22, 1982",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "John Rambo (Sylvester Stallone) es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle (Brian Dennehy) le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman (Richard Crenna), el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Bélica",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/g/P/3/D/gP3Do.aaa.mp4"
       }
     ]
   },
@@ -299,15 +364,15 @@
     ]
   },
   {
-    "title": "Regreso al futuro",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/acNRGwBz22E2m5OEWOhS8RiqiXM-185x278.jpg",
-    "rating": "8.5",
-    "year": "Jul. 03, 1985",
+    "title": "Regreso al futuro. Parte II",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0163.jpg",
+    "rating": "7.8",
+    "year": "Nov. 22, 1989",
     "quality": "720p HD",
     "languages": [
       "Latino"
     ],
-    "description": "Marty McFly, un estudiante de secundaria de 17 años, es enviado accidentalmente treinta años al pasado en un DeLorean que viaja en el tiempo, inventado por su gran amigo, el excéntrico científico Doc Brown.",
+    "description": "Marty y Doc vuelven a hacerlo en esta alocada secuela del éxito de taquilla de 1985, ya que el dúo de viajeros en el tiempo se dirige al 2015 para cortar de raíz algunos problemas de la familia McFly. Pero las cosas salen mal gracias al matón Biff Tannen y un molesto almanaque deportivo. En un último intento por aclarar las cosas, Marty se encuentra con destino a 1955 y cara a cara con sus padres adolescentes, nuevamente.",
     "genres": [
       "Aventura",
       "Ciencia ficción",
@@ -316,7 +381,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zOC52aW1lb3MubmV0L2hsczIvMDMvMDAwMDYvNDJ1Zzd1bG5jN2hlX24vaW5kZXgtdjEtYTEubTN1OD90PTlMYlRmUkphdUtQeFFkeExhSFhtTklQLWlWa1VtbGdSTlZ3SENGX0o1Umcmcz0xNzg3MzYwNzc3JmU9NDMyMDAmdj0zMzAwNDkxOTImaT0wLjMmc3A9MCZmcj00MnVnN3VsbmM3aGUmcj1l"
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvMjkzdzQwdzlvYTdiX24vaW5kZXgtdjEtYTEubTN1OD90PTQ5dGpxLXR6a096UGhfcGtUUXlXZDdVUUIyeVl3dGlRQUtIbnFvVmhfck0mcz0xNzg3MzYwNzc4JmU9NDMyMDAmdj0zMjU0MDM0NjMmc3J2PXMxNCZpPTAuMCZzcD0wJmZyPTI5M3c0MHc5b2E3YiZyPWU"
       }
     ]
   },
@@ -367,89 +432,6 @@
     ]
   },
   {
-    "title": "Regreso al futuro. Parte II",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/oTiQdzBOP5biNvzvrSPAvPxiSKH-185x278.jpg",
-    "rating": "7.8",
-    "year": "Nov. 22, 1989",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Marty y Doc vuelven a hacerlo en esta alocada secuela del éxito de taquilla de 1985, ya que el dúo de viajeros en el tiempo se dirige al 2015 para cortar de raíz algunos problemas de la familia McFly. Pero las cosas salen mal gracias al matón Biff Tannen y un molesto almanaque deportivo. En un último intento por aclarar las cosas, Marty se encuentra con destino a 1955 y cara a cara con sus padres adolescentes, nuevamente.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvMjkzdzQwdzlvYTdiX24vaW5kZXgtdjEtYTEubTN1OD90PTQ5dGpxLXR6a096UGhfcGtUUXlXZDdVUUIyeVl3dGlRQUtIbnFvVmhfck0mcz0xNzg3MzYwNzc4JmU9NDMyMDAmdj0zMjU0MDM0NjMmc3J2PXMxNCZpPTAuMCZzcD0wJmZyPTI5M3c0MHc5b2E3YiZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "Rescatando al soldado Ryan",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/yfExW9uPK4idbUDjRGBlXLbMxRR-185x278.jpg",
-    "rating": "8.6",
-    "year": "Jul. 24, 1998",
-    "quality": "",
-    "languages": [],
-    "description": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvajJhMXI0bTR5aGVwX24vaW5kZXgtdjEtYTEubTN1OD90PXVRQ0tQaWZSUFlLbG9LWkUtSDE0VzNGS1JZdUttQ0NQa3FHOHNWeWVIeTQmcz0xNzg3MzYwNzcyJmU9NDMyMDAmdj0zMjk5OTIzNjgmc3J2PXMxMSZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Quiero ser como Beckham",
-    "image": "https://image.tmdb.org/t/p/w185/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg",
-    "rating": "6.7",
-    "year": "Apr. 11, 2002",
-    "quality": "",
-    "languages": [],
-    "description": "Jess Bhamra, una joven de origen hindú, vive con su familia en Inglaterra. Sus padres desearían verla terminar sus estudios y casarse como es debido, respetando las tradiciones de su país de origen. Pero la chica sólo sueña con balones. Al igual que su ídolo, el campeón David Beckham, Jess pasa la mayor parte del tiempo jugando al fútbol. Cuando una joven inglesa, Jules, la invita a entrar en un equipo femenino, será el inicio de una bella amistad y de una gran aventura.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/M/m/8/H/Mm8Hq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Rambo",
-    "image": "https://image.tmdb.org/t/p/w185/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
-    "rating": "7.7",
-    "year": "Oct. 22, 1982",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "John Rambo (Sylvester Stallone) es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle (Brian Dennehy) le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman (Richard Crenna), el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Bélica",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/g/P/3/D/gP3Do.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Robot salvaje",
     "image": "https://image.tmdb.org/t/p/w185/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
     "rating": "8.5",
@@ -466,6 +448,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/5/g/g/Y/5ggYt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Romper el círculo",
+    "image": "https://image.tmdb.org/t/p/w185/2EH42blLQzgqwDWxn39RXkTgb91.jpg",
+    "rating": "7",
+    "year": "Aug. 07, 2024",
+    "quality": "CAM.rip",
+    "languages": [],
+    "description": "Una mujer atraviesa las tumultuosas etapas de una relación abusiva. Tras mudarse a la ciudad de Boston después de la universidad, decide iniciar su propio negocio como florista y se enamora de un joven neurocirujano.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/1/o/N/i/1oNit.aaa.mp4"
       }
     ]
   },
@@ -490,25 +491,6 @@
     ]
   },
   {
-    "title": "Romper el círculo",
-    "image": "https://image.tmdb.org/t/p/w185/2EH42blLQzgqwDWxn39RXkTgb91.jpg",
-    "rating": "7",
-    "year": "Aug. 07, 2024",
-    "quality": "CAM.rip",
-    "languages": [],
-    "description": "Una mujer atraviesa las tumultuosas etapas de una relación abusiva. Tras mudarse a la ciudad de Boston después de la universidad, decide iniciar su propio negocio como florista y se enamora de un joven neurocirujano.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/1/o/N/i/1oNit.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Rostros robados",
     "image": "https://image.tmdb.org/t/p/w185/lNiB1cyPnBRCL9hnMVvyHEc3neL.jpg",
     "rating": "0",
@@ -524,6 +506,31 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/86/s8/2/X/s/M/Z/XsMZy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=808381952-808443611"
+      }
+    ]
+  },
+  {
+    "title": "Rugrats 3: Vacaciones Salvajes",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0169.jpg",
+    "rating": "5.6",
+    "year": "Jun. 13, 2003",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Los niños conocen a la familia Thornberry luego que un accidente los deja varados en una isla tropical.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/a2/s8/2/6/H/h/N/6HhNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2490855424-2490904834"
       }
     ]
   },
@@ -560,7 +567,7 @@
   },
   {
     "title": "Rugrats en París",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/i0cJBn2qZsztorBpzRNf5ohTWfT-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0170.jpg",
     "rating": "0",
     "year": "Nov. 17, 2000",
     "quality": "720p HD",
@@ -584,27 +591,26 @@
     ]
   },
   {
-    "title": "Rugrats 3: Vacaciones Salvajes",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/bTCpduT2VDIbsxImhR7NpKoC3Mf-185x278.jpg",
-    "rating": "5.6",
-    "year": "Jun. 13, 2003",
+    "title": "Rugrats: La película",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0171.jpg",
+    "rating": "6.0",
+    "year": "Nov. 20, 1998",
     "quality": "720p HD",
     "languages": [
       "Latino",
       "Inglés"
     ],
-    "description": "Los niños conocen a la familia Thornberry luego que un accidente los deja varados en una isla tropical.",
+    "description": "La familia Pickles se enfrenta a la mayor aventura que puede vivir cualquier hogar: el nacimiento de un nuevo bebé. Mientras los padres esperan impacientes la llegada del recién nacido, Dylan, su hermano mayor, Tommy, y sus amigotes piensan que las travesuras del retoño amenazan su estilo de vida y por ello tratarán de devolverlo al hospital de donde vino. En el viaje a la clínica, los niños se pierden y acaban en un enorme bosque poblado de sombras amenazadoras, un lobo, un misterioso mago y una manada de monos hambrientos que se han escapado de un circo.",
     "genres": [
       "Animación",
       "Aventura",
       "Comedia",
-      "Familia",
-      "Fantasía"
+      "Familia"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/a2/s8/2/6/H/h/N/6HhNA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2490855424-2490904834"
+        "url": "https://1a-1791.com/video/fww1/00/s8/2/G/-/-/M/G--MA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2469391360-2469440099"
       }
     ]
   },
@@ -628,30 +634,6 @@
     ]
   },
   {
-    "title": "Rugrats: La película",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/wzvwg0Bb2B9JWVYPLSS8bAOlOeM-185x278.jpg",
-    "rating": "6.0",
-    "year": "Nov. 20, 1998",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "La familia Pickles se enfrenta a la mayor aventura que puede vivir cualquier hogar: el nacimiento de un nuevo bebé. Mientras los padres esperan impacientes la llegada del recién nacido, Dylan, su hermano mayor, Tommy, y sus amigotes piensan que las travesuras del retoño amenazan su estilo de vida y por ello tratarán de devolverlo al hospital de donde vino. En el viaje a la clínica, los niños se pierden y acaban en un enorme bosque poblado de sombras amenazadoras, un lobo, un misterioso mago y una manada de monos hambrientos que se han escapado de un circo.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/00/s8/2/G/-/-/M/G--MA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2469391360-2469440099"
-      }
-    ]
-  },
-  {
     "title": "Rápidos y Furiosos 7",
     "image": "https://image.tmdb.org/t/p/w185/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
     "rating": "7.1",
@@ -668,27 +650,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/49/s8/2/s/w/l/2/swl2y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1102299648-1102384072"
-      }
-    ]
-  },
-  {
-    "title": "Rojo, blanco y sangre azul",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/5XGt6CpWpkGnGOrrjfOMhNzDDSS-185x278.jpg",
-    "rating": "7",
-    "year": "Jul. 27, 2023",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tras la elección de su madre como presidente, el joven Alex Claremont-Diaz (Pérez) es rápidamente elegido como el equivalente estadounidense de un joven miembro de la realeza.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvczFkbzM5MGkwYjMxX2gvaW5kZXgtdjEtYTEubTN1OD90PUxWX2VSY0pialFtdDdrTVQ0c0xJcTVtWmYxcTB2R3lLSldvTFM1dXliTkUmcz0xNzg3MzYwODA3JmU9NDMyMDAmdj0zMzAwNzIyNjAmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
@@ -781,6 +742,45 @@
     ]
   },
   {
+    "title": "Rojo, blanco y sangre azul",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0168.jpg",
+    "rating": "7",
+    "year": "Jul. 27, 2023",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tras la elección de su madre como presidente, el joven Alex Claremont-Diaz (Pérez) es rápidamente elegido como el equivalente estadounidense de un joven miembro de la realeza.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDAvczFkbzM5MGkwYjMxX2gvaW5kZXgtdjEtYTEubTN1OD90PUxWX2VSY0pialFtdDdrTVQ0c0xJcTVtWmYxcTB2R3lLSldvTFM1dXliTkUmcz0xNzg3MzYwODA3JmU9NDMyMDAmdj0zMzAwNzIyNjAmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Rings ; El aro 3",
+    "image": "https://image.tmdb.org/t/p/w185/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg",
+    "rating": "4.5",
+    "year": "Feb. 01, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Precuela de ‘The Ring’, que contará como una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una «película dentro de la película» que nadie ha visto antes",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/4/V/E/y/4VEyq.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Saw ; El juego del miedo",
     "image": "https://image.tmdb.org/t/p/w185/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg",
     "rating": "7.6",
@@ -801,6 +801,24 @@
     ]
   },
   {
+    "title": "Saw II",
+    "image": "https://image.tmdb.org/t/p/w185/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
+    "rating": "6.6",
+    "year": "Oct. 28, 2005",
+    "quality": "",
+    "languages": [],
+    "description": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/9/t/N/Y/9tNYs.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
     "title": "Saw III",
     "image": "https://image.tmdb.org/t/p/w185/4iO9n24Rb10peXV0JH2EldIOrAp.jpg",
     "rating": "6.2",
@@ -817,24 +835,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/T/H/n/Y/THnYs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Saw II",
-    "image": "https://image.tmdb.org/t/p/w185/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg",
-    "rating": "6.6",
-    "year": "Oct. 28, 2005",
-    "quality": "",
-    "languages": [],
-    "description": "Un detective y su equipo deben rescatar a 8 personas encerradas en una fábrica por el retorcido asesino en serie conocido como Jigsaw.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/9/t/N/Y/9tNYs.aaa.mp4?u=0&b=0"
       }
     ]
   },

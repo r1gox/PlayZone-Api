@@ -1,5 +1,26 @@
 [
   {
+    "title": "Mansión encantada (Haunted Mansion)",
+    "image": "https://image.tmdb.org/t/p/w185/3EuVUPGihWXfwTt3myKVKOydPVW.jpg",
+    "rating": "6.1",
+    "year": "Jul. 26, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una mujer y su hijo reclutan a un variopinto grupo de expertos espirituales para que les ayuden a liberar su hogar de unos ocupantes sobrenaturales.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/g/2/l/eg2ln.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Maravilloso desastre",
     "image": "https://image.tmdb.org/t/p/w185/6OD0yBusMHXSQDdVFSrTlcFc3PO.jpg",
     "rating": "5.3",
@@ -20,25 +41,6 @@
     ]
   },
   {
-    "title": "Mas allá del universo",
-    "image": "https://image.tmdb.org/t/p/w185/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg",
-    "rating": "6.6",
-    "year": "Oct. 27, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Mientras espera un trasplante de riñón, una joven pianista encuentra una conexión inesperada con su médico y el coraje para cumplir sus sueños musicales.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Master Z: El Legado de Ip Man",
     "image": "https://image.tmdb.org/t/p/w185/5SvIKrP3q1i3A8C99YPRgjSrNed.jpg",
     "rating": "6.5",
@@ -55,51 +57,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/B/D/s/L/BDsLr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Maze Runner 1: correr o morir",
-    "image": "https://image.tmdb.org/t/p/w185/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg",
-    "rating": "6.8",
-    "year": "Sep. 10, 2014",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas se abrirán y aparecerá ante él un extraño mundo. Todo lo que ve son chicos de su edad que tienen su mismo estado de amnesia. Una aventura fantástica que pronto destapará la dura realidad bajo ese velo de incertidumbre: todos ellos están atrapados en un laberinto. Si quieren tener alguna posibilidad de salir de allí y recuperar su antigua vida y aquello que no son capaces de recordar deberán unir fuerzas para escapar. Un mundo post-apocalíptico que les acorralará e irá un paso por delante será el desafío que tengan que pasar estos jóvenes por la libertad.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Misterio",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/Z/x/I/uZxIs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/Z/x/I/uZxIs.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Metal Lords",
-    "image": "https://image.tmdb.org/t/p/w185/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
-    "rating": "6.7",
-    "year": "Apr. 08, 2022",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Para los inadaptados adolescentes Hunter y Kevin, el camino a la gloria es claro: dedicarse al metal. Gana la Batalla de las Bandas. y ser adorados como dioses.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/y/C/t/yyCtv.aaa.mp4"
       }
     ]
   },
@@ -125,23 +82,22 @@
     ]
   },
   {
-    "title": "Max",
-    "image": "https://image.tmdb.org/t/p/w185/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
-    "rating": "6.6",
-    "year": "Jun. 26, 2015",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Un perro que ayudó a los soldados en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador después de sufrir una experiencia traumática.",
+    "title": "Metal Lords",
+    "image": "https://image.tmdb.org/t/p/w185/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+    "rating": "6.7",
+    "year": "Apr. 08, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Para los inadaptados adolescentes Hunter y Kevin, el camino a la gloria es claro: dedicarse al metal. Gana la Batalla de las Bandas. y ser adorados como dioses.",
     "genres": [
-      "Aventura",
-      "Drama"
+      "Comedia",
+      "Drama",
+      "Música"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/a/t/E/b/atEbk.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/y/y/C/t/yyCtv.aaa.mp4"
       }
     ]
   },
@@ -174,6 +130,27 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fw/s8/2/K/_/0/u/K_0ur.oaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Max",
+    "image": "https://image.tmdb.org/t/p/w185/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+    "rating": "6.6",
+    "year": "Jun. 26, 2015",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Un perro que ayudó a los soldados en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador después de sufrir una experiencia traumática.",
+    "genres": [
+      "Aventura",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/a/t/E/b/atEbk.caa.mp4"
       }
     ]
   },
@@ -223,6 +200,31 @@
     ]
   },
   {
+    "title": "Maze Runner 1: correr o morir",
+    "image": "https://image.tmdb.org/t/p/w185/jt7SZYSnE9NHV4ZrDex1ilRyVIW.jpg",
+    "rating": "6.8",
+    "year": "Sep. 10, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas se abrirán y aparecerá ante él un extraño mundo. Todo lo que ve son chicos de su edad que tienen su mismo estado de amnesia. Una aventura fantástica que pronto destapará la dura realidad bajo ese velo de incertidumbre: todos ellos están atrapados en un laberinto. Si quieren tener alguna posibilidad de salir de allí y recuperar su antigua vida y aquello que no son capaces de recordar deberán unir fuerzas para escapar. Un mundo post-apocalíptico que les acorralará e irá un paso por delante será el desafío que tengan que pasar estos jóvenes por la libertad.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Misterio",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/Z/x/I/uZxIs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/Z/x/I/uZxIs.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Mea Culpa",
     "image": "https://image.tmdb.org/t/p/w185/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
     "rating": "4.2",
@@ -246,24 +248,23 @@
     ]
   },
   {
-    "title": "Mi Pobre Angelito 4 ; Solo en casa 4",
-    "image": "https://image.tmdb.org/t/p/w185/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg",
-    "rating": "2.6",
-    "year": "Nov. 03, 2002",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Después del reciente divorcio de sus padres, Kevin decide pasar la Navidad en casa de Natalie, la nueva novia de su padre, una casa equipada con la más moderna tecnología. Con la ayuda de esta tecnología y haciendo uso de su habitual ingenio, Kevin deberá hacer frente a unos ladrones, además de intentar conseguir que sus progenitores se reconcilien. Nueva entrega de la popular saga de «Solo en casa», que en esta ocasión, y tras perder progresivamente calidad y taquilla en las anteriores, ya se hizo directamente para la televisión y el mercado de video.",
+    "title": "Maze Runner 3: La cura mortal",
+    "image": "https://image.tmdb.org/t/p/w185/kuZOnvzplxPVh71t827F19zY5Ab.jpg",
+    "rating": "6.3",
+    "year": "Jan. 10, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En este final de saga, Thomas lidera a su grupo en una última misión. Deberán entrar en la legendaria Last City, un laberinto controlado por WCKD que puede llegar a ser el laberinto más mortífero de todos. Cualquier persona que lo supere obtendrá las respuestas a las preguntas y los protagonistas quieren saber lo que realmente sucede.",
     "genres": [
-      "Comedia",
-      "Familia",
-      "Película de TV"
+      "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/t/x/c/5txcv.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/o/B/D/L/oBDLs.aaa.mp4"
       }
     ]
   },
@@ -311,45 +312,24 @@
     ]
   },
   {
-    "title": "Mensajes de voz para Isabelle",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/3nY9BG8VjuxwLLRx5BGiiuj0M71-185x278.jpg",
-    "rating": "N/A",
-    "year": "Jun. 20, 2026",
+    "title": "Mi Pobre Angelito 4 ; Solo en casa 4",
+    "image": "https://image.tmdb.org/t/p/w185/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg",
+    "rating": "2.6",
+    "year": "Nov. 03, 2002",
     "quality": "720p HD",
     "languages": [
-      "Latino",
-      "Inglés"
+      "Latino"
     ],
-    "description": "Los entretenidos mensajes de voz que una joven mujer le deja a su hermana fallecida le llegan por azar a un desconocido, quien se enamora de ella sin siquiera verla.",
+    "description": "Después del reciente divorcio de sus padres, Kevin decide pasar la Navidad en casa de Natalie, la nueva novia de su padre, una casa equipada con la más moderna tecnología. Con la ayuda de esta tecnología y haciendo uso de su habitual ingenio, Kevin deberá hacer frente a unos ladrones, además de intentar conseguir que sus progenitores se reconcilien. Nueva entrega de la popular saga de «Solo en casa», que en esta ocasión, y tras perder progresivamente calidad y taquilla en las anteriores, ya se hizo directamente para la televisión y el mercado de video.",
     "genres": [
       "Comedia",
-      "Romance"
+      "Familia",
+      "Película de TV"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvcDZtbnppaDZ1bWtsX24vaW5kZXgtdjEtYTEubTN1OD90PWdqQWZVY2NrZndhay1hMEQ0M3Vsa2FVbnRJSnRITFd6SkVnUTlubHdGcEEmcz0xNzg3MzYwODE0JmU9NDMyMDAmdj0zMzAwMTIwNTImc3J2PXM5Jmk9MC4zJnNwPTAmZnI9cDZtbnppaDZ1bWtsJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Maze Runner 3: La cura mortal",
-    "image": "https://image.tmdb.org/t/p/w185/kuZOnvzplxPVh71t827F19zY5Ab.jpg",
-    "rating": "6.3",
-    "year": "Jan. 10, 2018",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "En este final de saga, Thomas lidera a su grupo en una última misión. Deberán entrar en la legendaria Last City, un laberinto controlado por WCKD que puede llegar a ser el laberinto más mortífero de todos. Cualquier persona que lo supere obtendrá las respuestas a las preguntas y los protagonistas quieren saber lo que realmente sucede.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/B/D/L/oBDLs.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/t/x/c/5txcv.aaa.mp4"
       }
     ]
   },
@@ -374,6 +354,28 @@
     ]
   },
   {
+    "title": "Mensajes de voz para Isabelle",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0138.jpg",
+    "rating": "N/A",
+    "year": "Jun. 20, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Los entretenidos mensajes de voz que una joven mujer le deja a su hermana fallecida le llegan por azar a un desconocido, quien se enamora de ella sin siquiera verla.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvcDZtbnppaDZ1bWtsX24vaW5kZXgtdjEtYTEubTN1OD90PWdqQWZVY2NrZndhay1hMEQ0M3Vsa2FVbnRJSnRITFd6SkVnUTlubHdGcEEmcz0xNzg3MzYwODE0JmU9NDMyMDAmdj0zMzAwMTIwNTImc3J2PXM5Jmk9MC4zJnNwPTAmZnI9cDZtbnppaDZ1bWtsJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Mi Pobre Angelito 6 ; Por fin solo en casa",
     "image": "https://image.tmdb.org/t/p/w185/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg",
     "rating": "3.6",
@@ -392,6 +394,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/m/y/d/c/mydcv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mi primer beso",
+    "image": "https://image.tmdb.org/t/p/w185/eVRw197B6UOR27oPeHQSQQShTsL.jpg",
+    "rating": "5.9",
+    "year": "May. 11, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Elle nunca imaginó que el primer beso daría para tanto. Pero, a pesar de que ha conseguido salir con el chico más guapo del instituto, está a punto de perder a su mejor amigo de toda la vida.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/f/m/g/4/fmg4t.aaa.mp4"
       }
     ]
   },
@@ -434,25 +455,6 @@
     ]
   },
   {
-    "title": "Mi primer beso",
-    "image": "https://image.tmdb.org/t/p/w185/eVRw197B6UOR27oPeHQSQQShTsL.jpg",
-    "rating": "5.9",
-    "year": "May. 11, 2018",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Elle nunca imaginó que el primer beso daría para tanto. Pero, a pesar de que ha conseguido salir con el chico más guapo del instituto, está a punto de perder a su mejor amigo de toda la vida.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/f/m/g/4/fmg4t.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Mi vida ahora",
     "image": "https://image.tmdb.org/t/p/w185/zu3nRhEBGjX2B0AtZ32xrKSbv9W.jpg",
     "rating": "6.4",
@@ -475,7 +477,7 @@
   },
   {
     "title": "Michael ; Michael Jackson La pelicula",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/mB3zisIw3bsQcoDSnvMPAQhjrTM-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0140.jpg",
     "rating": "N/A",
     "year": "Apr. 22, 2026",
     "quality": "CAM-HDTS",
@@ -579,27 +581,6 @@
     ]
   },
   {
-    "title": "Megalodón 2: La fosa",
-    "image": "https://image.tmdb.org/t/p/w185/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
-    "rating": "5.6",
-    "year": "Aug. 02, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de ‘The Meg’ (2018).",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Comedia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/F/E/n/6FEnm.aaa.mp4?u=0&amp;b=0"
-      }
-    ]
-  },
-  {
     "title": "Megamente",
     "image": "https://image.tmdb.org/t/p/w185/9ECHsUtlnqSrhoOyGdXe1AvDt1t.jpg",
     "rating": "7.3",
@@ -646,6 +627,45 @@
     ]
   },
   {
+    "title": "Megalodón 2: La fosa",
+    "image": "https://image.tmdb.org/t/p/w185/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
+    "rating": "5.6",
+    "year": "Aug. 02, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de ‘The Meg’ (2018).",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Comedia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/F/E/n/6FEnm.aaa.mp4?u=0&amp;b=0"
+      }
+    ]
+  },
+  {
+    "title": "Messi",
+    "image": "https://image.tmdb.org/t/p/w185/bzfAwCy6bKFASP5tcF53Wehsgt2.jpg",
+    "rating": "7.2",
+    "year": "Sep. 06, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Documental sobre Leo Messi que recrea los momentos más importantes de la vida del futbolista por medio de imágenes de archivo, entrevistas y grabaciones familiares inéditas. Álex de la Iglesia concede especial importancia a la infancia y adolescencia del jugador argentino que, a sus 27 años, ya es uno de los grandes ídolos de la historia del fútbol. Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente. 901291643",
+    "genres": [
+      "Documental"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/J/Y/E/7/JYE7n.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Mi soledad tiene alas",
     "image": "https://image.tmdb.org/t/p/w185/zj7UYU6PZQtWh4sznRH1LKJp945.jpg",
     "rating": "5.3",
@@ -676,6 +696,28 @@
     ]
   },
   {
+    "title": "Minions &#038; Monstruos",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0143.jpg",
+    "rating": "8.2",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/66/s8/2/e/y/1/O/ey1OA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2775981568-2776036758"
+      }
+    ]
+  },
+  {
     "title": "Miraculous World: Las Aventuras de Ladybug en Londres, la carrera contra el tiempo",
     "image": "https://image.tmdb.org/t/p/w185/gdZ4REoGYhUk4OoN9bqY2U1xykm.jpg",
     "rating": "8.3",
@@ -693,28 +735,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/k/6/B/sk6Bv.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Minions &#038; Monstruos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/9THY3T4kn5D2rZhwwQ6t7XQtHtv-185x278.jpg",
-    "rating": "8.2",
-    "year": "2026",
-    "quality": "",
-    "languages": [],
-    "description": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/66/s8/2/e/y/1/O/ey1OA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2775981568-2776036758"
       }
     ]
   },
@@ -737,67 +757,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/2/l/b/2/E/lb2Ew.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Messi",
-    "image": "https://image.tmdb.org/t/p/w185/bzfAwCy6bKFASP5tcF53Wehsgt2.jpg",
-    "rating": "7.2",
-    "year": "Sep. 06, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Documental sobre Leo Messi que recrea los momentos más importantes de la vida del futbolista por medio de imágenes de archivo, entrevistas y grabaciones familiares inéditas. Álex de la Iglesia concede especial importancia a la infancia y adolescencia del jugador argentino que, a sus 27 años, ya es uno de los grandes ídolos de la historia del fútbol. Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente. 901291643",
-    "genres": [
-      "Documental"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/J/Y/E/7/JYE7n.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Mi nombre es Khan",
-    "image": "https://image.tmdb.org/t/p/w185/jtpPxVJkYKCaxVrnetK2YYH9Fqy.jpg",
-    "rating": "0",
-    "year": "Feb. 10, 2010",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Rizwan Khan (Tanay Chheda) es un niño musulmán que se crió con su madre (Zarina Wahab) en el Borivali sección de Bombay en la India y que sufre de síndrome de Asperger. Ya como un adulto (Shahrukh Khan), Rizwan se enamora de una hindú madre soltera, Mandira (kajol) que vive en San Francisco. Después de los atentados del 9/11, Rizwan es detenido como sospechoso de terrorismo por la autoridades por la conducta sospechosa que tiene a razon de su discapacidad. Después de su arresto, él se reúne con Radha (Sheetal Menon), un terapeuta que ayuda a superar los traumas vividos. Rizwan entonces comienza un viaje para encontrar y reunirse con el Presidente Barack Obama (Christopher B. Duncan), a fin de limpiar su nombre.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/m/2/m/Zm2ms.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/m/2/m/Zm2ms.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Mi mascota es un Monstro ; Mi monstruo y yo",
-    "image": "https://image.tmdb.org/t/p/w185/jIQScY2dytYRYQDWJ6mt3PTH3oT.jpg",
-    "rating": "6.4",
-    "year": "Dec. 25, 2007",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Angus MacMorrow es un solitario muchacho escocés que vive con el deseo de que su padre regrese de la guerra. Cuando, un día, Angus lleva a casa un extraño objeto que encuentra en la playa, se da cuenta muy pronto de que se trata de un huevo mágico y su fantasía se desborda: se imagina criando a un ser fabuloso: el «monstruo del lago Ness», uno de los mitos escoceses más populares. Intenta mantenerlo oculto y establecer con él un estrecho vínculo de amistad.",
-    "genres": [
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/a/8/y/Ea8ys.aaa.mp4"
       }
     ]
   },
@@ -842,20 +801,67 @@
     ]
   },
   {
-    "title": "Mi novia otaku",
-    "image": "https://image.tmdb.org/t/p/w185/z6SPMcFwhaegPqsIXku3osqRcYX.jpg",
-    "rating": "7.1",
-    "year": "Sep. 28, 2023",
+    "title": "Misión: Imposible ; La sentencia final",
+    "image": "https://image.tmdb.org/t/p/w185/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+    "rating": "7.6",
+    "year": "May. 17, 2025",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La Entidad, la IA experimental que se ha convertido en el villano de la historia, sigue activa y cuenta con el apoyo del malvado Gabriel en el mundo de los cárnicos. Por suerte, Ethan y su equipo tienen la llave que les podría dar el control de la Entidad, algo que les obligará a arriesgarse para eliminar a esa IA que descansa en el fondo del mar.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/93/s8/2/D/I/P/N/DIPNy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1278755328-1278853266"
+      }
+    ]
+  },
+  {
+    "title": "Mi mascota es un Monstro ; Mi monstruo y yo",
+    "image": "https://image.tmdb.org/t/p/w185/jIQScY2dytYRYQDWJ6mt3PTH3oT.jpg",
+    "rating": "6.4",
+    "year": "Dec. 25, 2007",
     "quality": "720 HD",
     "languages": [],
-    "description": "Manuel debe elegir entre el deseo de su madre de que estudie en Oxford o su pasión por el manga. Cuando conoce a Eugenia, una fan del manga que ama su trabajo, se enfrenta a un dilema: seguir sus sueños o su deber.",
+    "description": "Angus MacMorrow es un solitario muchacho escocés que vive con el deseo de que su padre regrese de la guerra. Cuando, un día, Angus lleva a casa un extraño objeto que encuentra en la playa, se da cuenta muy pronto de que se trata de un huevo mágico y su fantasía se desborda: se imagina criando a un ser fabuloso: el «monstruo del lago Ness», uno de los mitos escoceses más populares. Intenta mantenerlo oculto y establecer con él un estrecho vínculo de amistad.",
     "genres": [
-      "Drama"
+      "Aventura",
+      "Familia",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/a/M/l/DaMln.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/a/8/y/Ea8ys.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mi nombre es Khan",
+    "image": "https://image.tmdb.org/t/p/w185/jtpPxVJkYKCaxVrnetK2YYH9Fqy.jpg",
+    "rating": "0",
+    "year": "Feb. 10, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Rizwan Khan (Tanay Chheda) es un niño musulmán que se crió con su madre (Zarina Wahab) en el Borivali sección de Bombay en la India y que sufre de síndrome de Asperger. Ya como un adulto (Shahrukh Khan), Rizwan se enamora de una hindú madre soltera, Mandira (kajol) que vive en San Francisco. Después de los atentados del 9/11, Rizwan es detenido como sospechoso de terrorismo por la autoridades por la conducta sospechosa que tiene a razon de su discapacidad. Después de su arresto, él se reúne con Radha (Sheetal Menon), un terapeuta que ayuda a superar los traumas vividos. Rizwan entonces comienza un viaje para encontrar y reunirse con el Presidente Barack Obama (Christopher B. Duncan), a fin de limpiar su nombre.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/m/2/m/Zm2ms.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/m/2/m/Zm2ms.caa.mp4"
       }
     ]
   }

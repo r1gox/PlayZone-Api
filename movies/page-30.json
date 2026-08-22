@@ -20,25 +20,6 @@
     ]
   },
   {
-    "title": "Saw VII",
-    "image": "https://image.tmdb.org/t/p/w185/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
-    "rating": "5.5",
-    "year": "Oct. 22, 2010",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
-    "genres": [
-      "Crimen",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/i/e/X/HieXs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
     "title": "Saw VI",
     "image": "https://image.tmdb.org/t/p/w185/6wfT5Cq3iH09GOwejL4zhYmByF2.jpg",
     "rating": "6",
@@ -58,20 +39,21 @@
     ]
   },
   {
-    "title": "Rings ; El aro 3",
-    "image": "https://image.tmdb.org/t/p/w185/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg",
-    "rating": "4.5",
-    "year": "Feb. 01, 2017",
-    "quality": "720 HD",
+    "title": "Saw VII",
+    "image": "https://image.tmdb.org/t/p/w185/9rhs2v1hUiU6BsuzDlLgZZdD4FF.jpg",
+    "rating": "5.5",
+    "year": "Oct. 22, 2010",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Precuela de ‘The Ring’, que contará como una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una «película dentro de la película» que nadie ha visto antes",
+    "description": "Mientras una mortal batalla explota sobre el brutal legado de Jigsaw, un grupo de supervivientes busca el apoyo del gurú de la autoayuda Bobby Dagen, un hombre que con sus oscuros secretos provocará una nueva ola de terror.",
     "genres": [
+      "Crimen",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/4/V/E/y/4VEyq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/i/e/X/HieXs.aaa.mp4?u=0&b=0"
       }
     ]
   },
@@ -99,22 +81,22 @@
     ]
   },
   {
-    "title": "Scary Movie 5",
-    "image": "https://image.tmdb.org/t/p/w185/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
+    "title": "Scary Movie 3",
+    "image": "https://image.tmdb.org/t/p/w185/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
     "rating": "0",
-    "year": "Apr. 11, 2013",
+    "year": "Oct. 24, 2003",
     "quality": "720p HD",
     "languages": [
       "Latino"
     ],
-    "description": "Hogar con su familia recién formada, los padres felices Dan y Jody son frecuentados por actividades siniestras, paranormales. Decididos a expulsar a la fuerza insidiosa, instalan cámaras de seguridad y descubren que su familia está siendo acosada por un demonio muerto malvado.",
+    "description": "La presentadora de noticias Cindy Campbell tiene que investigar misteriosos círculos de cultivos y matar cintas de video, y ayudar al presidente a detener una invasión alienígena en el proceso.",
     "genres": [
       "Comedia"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/62/s8/2/4/K/V/6/4KV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=695765504-695818531"
+        "url": "https://1a-1791.com/video/fww1/27/s8/2/e/L/V/6/eLV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=675723264-675774795"
       }
     ]
   },
@@ -139,26 +121,6 @@
     ]
   },
   {
-    "title": "Scary Movie 3",
-    "image": "https://image.tmdb.org/t/p/w185/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg",
-    "rating": "0",
-    "year": "Oct. 24, 2003",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La presentadora de noticias Cindy Campbell tiene que investigar misteriosos círculos de cultivos y matar cintas de video, y ayudar al presidente a detener una invasión alienígena en el proceso.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/27/s8/2/e/L/V/6/eLV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=675723264-675774795"
-      }
-    ]
-  },
-  {
     "title": "RoboCop",
     "image": "https://image.tmdb.org/t/p/w185/fnFqGOKi3oxiIuWffSrGGRPG9qu.jpg",
     "rating": "7.6",
@@ -179,8 +141,47 @@
     ]
   },
   {
+    "title": "Scary Movie 5",
+    "image": "https://image.tmdb.org/t/p/w185/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
+    "rating": "0",
+    "year": "Apr. 11, 2013",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Hogar con su familia recién formada, los padres felices Dan y Jody son frecuentados por actividades siniestras, paranormales. Decididos a expulsar a la fuerza insidiosa, instalan cámaras de seguridad y descubren que su familia está siendo acosada por un demonio muerto malvado.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/62/s8/2/4/K/V/6/4KV6z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=695765504-695818531"
+      }
+    ]
+  },
+  {
+    "title": "Royalteen: El heredero",
+    "image": "https://image.tmdb.org/t/p/w185/n7ptP3khuhWHrTvFO0VCVPs6EVY.jpg",
+    "rating": "5.3",
+    "year": "Aug. 17, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando empiezan a surgir sentimientos entre el príncipe Karl Johan (Mathias Storhøi), Kalle para los amigos, y la recién llegada Lena (Ines Høysæter Asserson), esta se siente encantada, pero también es escéptica, y por muchas razones. Kalle es un príncipe amigo de las fiestas y un habitual de la prensa rosa y los blogs de cotilleos, uno de ellos publicado por la propia Lena de forma anónima hasta que la descubrieron. Lena es dolorosamente consciente de que salir con el futuro rey podría dejarlos en una situación imposible, y no le ha contado ni a Kalle ni a nadie un secreto aún mayor, que también es el motivo de que se fuera de su ciudad natal.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/6/a/f/5/6af5n.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Scary Movie 6: Terroríficamente incorrecta",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/iYQnvP1DrgSaoSbYPuNCPr3TRqk-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0175.jpg",
     "rating": "7.5",
     "year": "2026",
     "quality": "",
@@ -209,21 +210,63 @@
     ]
   },
   {
-    "title": "Royalteen: El heredero",
-    "image": "https://image.tmdb.org/t/p/w185/n7ptP3khuhWHrTvFO0VCVPs6EVY.jpg",
-    "rating": "5.3",
-    "year": "Aug. 17, 2022",
-    "quality": "720 HD",
+    "title": "Scooby-Doo 2: Desatado",
+    "image": "https://image.tmdb.org/t/p/w185/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg",
+    "rating": "5.2",
+    "year": "Mar. 24, 2004",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Cuando empiezan a surgir sentimientos entre el príncipe Karl Johan (Mathias Storhøi), Kalle para los amigos, y la recién llegada Lena (Ines Høysæter Asserson), esta se siente encantada, pero también es escéptica, y por muchas razones. Kalle es un príncipe amigo de las fiestas y un habitual de la prensa rosa y los blogs de cotilleos, uno de ellos publicado por la propia Lena de forma anónima hasta que la descubrieron. Lena es dolorosamente consciente de que salir con el futuro rey podría dejarlos en una situación imposible, y no le ha contado ni a Kalle ni a nadie un secreto aún mayor, que también es el motivo de que se fuera de su ciudad natal.",
+    "description": "Continuación de las aventuras de Scooby y su pandilla de amigos, que en esta ocasión se enfrentan a un anónimo enmascarado con malvados planes para aterrorizar a la ciudad de Coolsville.",
     "genres": [
-      "Drama",
-      "Romance"
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Misterio"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/6/a/f/5/6af5n.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/c/H/O/v/cHOvt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Ruby: Aventuras de una kraken adolescente",
+    "image": "https://image.tmdb.org/t/p/w185/qRAEgGfwVDJoJ5Ydq50WcOdmrxX.jpg",
+    "rating": "5.8",
+    "year": "Jun. 28, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/u/r/-/-ur-k.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Scream 3: La Máscara de la Muerte",
+    "image": "https://image.tmdb.org/t/p/w185/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg",
+    "rating": "5.7",
+    "year": "Feb. 04, 2000",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de «Puñaladas 3», película basada en los hechos de los que ella fue protagonista.",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/1/Z/I/Y/1ZIYs.aaa.mp4?u=0&b=0"
       }
     ]
   },
@@ -248,34 +291,13 @@
     ]
   },
   {
-    "title": "Scooby-Doo 2: Desatado",
-    "image": "https://image.tmdb.org/t/p/w185/5anMa9cWwDL6JSvmkdbCpUsFIdu.jpg",
-    "rating": "5.2",
-    "year": "Mar. 24, 2004",
+    "title": "Scream 2: Grita y vuelve a Gritar",
+    "image": "https://image.tmdb.org/t/p/w185/hMDrWCUqxc7BfQcseT427znCDta.jpg",
+    "rating": "6.3",
+    "year": "Dec. 12, 1997",
     "quality": "720p HD",
     "languages": [],
-    "description": "Continuación de las aventuras de Scooby y su pandilla de amigos, que en esta ocasión se enfrentan a un anónimo enmascarado con malvados planes para aterrorizar a la ciudad de Coolsville.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Fantasía",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/c/H/O/v/cHOvt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Scream 3: La Máscara de la Muerte",
-    "image": "https://image.tmdb.org/t/p/w185/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg",
-    "rating": "5.7",
-    "year": "Feb. 04, 2000",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de «Puñaladas 3», película basada en los hechos de los que ella fue protagonista.",
+    "description": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película «Stab» (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
     "genres": [
       "Misterio",
       "Terror"
@@ -283,50 +305,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/1/Z/I/Y/1ZIYs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Sangre por Sangre",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/Wc4S6rFHKJ7jyghOdZVWVVC49j-185x278.jpg",
-    "rating": "0",
-    "year": "Feb. 05, 1993",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tres primos crecen como hermanos en medio de la violencia de las bandas del este de Los Ángeles. Con el tiempo sus vidas siguen caminos muy diferentes: uno trabaja para la brigada antidroga de la Policía, otro cae en las redes de las brutales bandas de San Quintín y el tercero se deja arrastrar por el sórdido mundo de la drogadiccion. Pero el sentido del honor y sobre todo los lazos de sangre los mantendrán siempre unidos.",
-    "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDA2L3RqNDRkeHN0c204eV9uL2luZGV4LXYxLWEyLm0zdTg_dD01anBGUjBQU1N3WGU0eXNBZTExTnFVR19ZVF9pSVVqajlxSTdfS0pVeng0JnM9MTc4NzM2MDc5NyZlPTQzMjAwJnY9MzMwMDcwNzYyJmk9MC4zJnNwPTAmZnI9dGo0NGR4c3RzbTh5JnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Ruby: Aventuras de una kraken adolescente",
-    "image": "https://image.tmdb.org/t/p/w185/qRAEgGfwVDJoJ5Ydq50WcOdmrxX.jpg",
-    "rating": "5.8",
-    "year": "Jun. 28, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/-/u/r/-/-ur-k.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/G/n/Y/IGnYs.aaa.mp4?u=0&b=0"
       }
     ]
   },
@@ -372,27 +351,8 @@
     ]
   },
   {
-    "title": "Scream 2: Grita y vuelve a Gritar",
-    "image": "https://image.tmdb.org/t/p/w185/hMDrWCUqxc7BfQcseT427znCDta.jpg",
-    "rating": "6.3",
-    "year": "Dec. 12, 1997",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película «Stab» (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/G/n/Y/IGnYs.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
     "title": "Scream 7 ; Película 2026",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/5XhV5Sk7w4h2tCNvXovkFfTNRli-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0177.jpg",
     "rating": "6.0",
     "year": "Feb. 25, 2026",
     "quality": "720p HD",
@@ -410,6 +370,98 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/c1/s8/2/U/W/l/b/UWlbA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3602472960-3602544530"
+      }
+    ]
+  },
+  {
+    "title": "Scream 6",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0176.jpg",
+    "rating": "6.8",
+    "year": "Mar. 08, 2023",
+    "quality": "720 HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/00/s8/2/0/h/y/i/0hyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3782278656-3782353663"
+      }
+    ]
+  },
+  {
+    "title": "Saltburn",
+    "image": "https://image.tmdb.org/t/p/w185/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
+    "rating": "7.1",
+    "year": "Nov. 16, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mientras lucha por encontrar su lugar en la Universidad de Oxford, el estudiante Oliver Quick (Barry Keoghan) se ve arrastrado al mundo del encantador y aristocrático Felix Catton (Jacob Elordi), que le invita a Saltburn, la extensa finca de su excéntrica familia, para pasar un verano inolvidable.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Se busca novia",
+    "image": "https://image.tmdb.org/t/p/w185/u7n7r47vbmxTICAGfH6qmvCdkwr.jpg",
+    "rating": "5.1",
+    "year": "Nov. 05, 1999",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/76/s8/2/8/e/G/w/8eGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=805366272-805427767"
+      }
+    ]
+  },
+  {
+    "title": "Se levanta el viento",
+    "image": "https://image.tmdb.org/t/p/w185/yskGUS6anyiHx2e2FsCB1fKbupD.jpg",
+    "rating": "7.8",
+    "year": "Jul. 20, 2013",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Una mirada a la vida de Jirō Horikoshi, el hombre que diseñó los aviones de combate japoneses durante la Segunda Guerra Mundial.",
+    "genres": [
+      "Animación",
+      "Animes",
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/89/s8/2/0/b/J/8/0bJ8z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3900401152-3900478583"
       }
     ]
   },
@@ -436,50 +488,68 @@
     ]
   },
   {
-    "title": "Se busca novia",
-    "image": "https://image.tmdb.org/t/p/w185/u7n7r47vbmxTICAGfH6qmvCdkwr.jpg",
-    "rating": "5.1",
-    "year": "Nov. 05, 1999",
+    "title": "Sector 9",
+    "image": "https://image.tmdb.org/t/p/w185/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg",
+    "rating": "7.9",
+    "year": "Aug. 05, 2009",
     "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "",
+    "languages": [],
+    "description": "La violencia se produce después de que una raza extraterrestre obligada a vivir en condiciones parecidas a las de los barrios bajos de la Tierra encuentra un alma gemela en un agente del gobierno expuesto a su biotecnología.",
     "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/76/s8/2/8/e/G/w/8eGwz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=805366272-805427767"
-      }
-    ]
-  },
-  {
-    "title": "Scary Movie 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/r4qTydYjntbb5TfZKV229NpSaCt-185x278.jpg",
-    "rating": "5.3",
-    "year": "Jul. 04, 2001",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
-    "genres": [
-      "Comedia",
-      "Sci-Fi &amp; Fantasy"
+      "Ciencia ficción",
+      "2023"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDMvMDAwMTAvOTQ2aGJyNGJ6eXVyX24vaW5kZXgtdjEtYTIubTN1OD90PU52RDFOX3lFUHlGTXNRcy00Tjl3bjVwdG4tN1NXaXhsUlp2T3A0bFRNV1Emcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMjU0MDM2NjEmc3J2PXM4Jmk9MC4zJnNwPTAmZnI9OTQ2aGJyNGJ6eXVyJnI9ZQ"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/s/n/2/p/sn2py.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Seguridad nacional",
+    "image": "https://image.tmdb.org/t/p/w185/kSUI6xl9mHLRGxRgmJTJ4WbftID.jpg",
+    "rating": "5.6",
+    "year": "Jan. 17, 2003",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Earl Montgomery (Lawrence) es un engreído e hiperactivo cadete de la Policía de Los Ángeles que, a causa de su mala actitud, es expulsado de la academia. Tras ser arrestado en un incidente con su vehículo por el policía Hank Rafferty (Zahn), Earl lo acusa de acoso y, como consecuencia, el agente ingresa en prisión durante seis meses. En ese tiempo, Earl acepta un humilde puesto de trabajo como guardia de seguridad en Seguridad Nacional, el mismo empleo que consigue Hank tras abandonar la cárcel. Es entonces cuando Earl descubre una sofisticada operación de contrabando que ya le costó la vida a su compañero meses atrás y en la que podría estar implicado el propio Departamento de Policía.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/C/B/3/8CB3s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Río 2 ; Rio 2",
+    "image": "https://image.tmdb.org/t/p/w185/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
+    "rating": "6.3",
+    "year": "Mar. 19, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Secuela de la película «Río» (2010) dirigida por Carlos Saldanha, encargado también de esta segunda parte.. Blu, Perla y sus pequeños disfrutan de una vida cómoda, alegre y perfecta en la ciudad de Río de Janeiro, Brasil. Pero Perla tiene muy claro que sus hijos deben aprender a vivir como los pájaros libres y salvajes que son, y para ello está convencida de que lo mejor es trasladarse al Amazonas. Una vez allí, Blu tendrá que enfrentarse a sus nuevos vecinos y a la idea terrible de perder a Perla y a sus hijos porque decidan vivir en la naturaleza salvaje para siempre.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/s/G/4/QsG4q.aaa.mp4"
       }
     ]
   },
   {
     "title": "Scary Movie",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/fHWR3YplPQWciYzxEity2kyDoDn-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0173.jpg",
     "rating": "6.2",
     "year": "Jul. 07, 2000",
     "quality": "720p HD",
@@ -516,96 +586,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/y/r/8/byr8t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sector 9",
-    "image": "https://image.tmdb.org/t/p/w185/kYkK0KIBygtYQzBpjMgQyya4Re7.jpg",
-    "rating": "7.9",
-    "year": "Aug. 05, 2009",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La violencia se produce después de que una raza extraterrestre obligada a vivir en condiciones parecidas a las de los barrios bajos de la Tierra encuentra un alma gemela en un agente del gobierno expuesto a su biotecnología.",
-    "genres": [
-      "Ciencia ficción",
-      "2023"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/26/s8/2/s/n/2/p/sn2py.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Saltburn",
-    "image": "https://image.tmdb.org/t/p/w185/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
-    "rating": "7.1",
-    "year": "Nov. 16, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Mientras lucha por encontrar su lugar en la Universidad de Oxford, el estudiante Oliver Quick (Barry Keoghan) se ve arrastrado al mundo del encantador y aristocrático Felix Catton (Jacob Elordi), que le invita a Saltburn, la extensa finca de su excéntrica familia, para pasar un verano inolvidable.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/S/Q/l/eSQlp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Se levanta el viento",
-    "image": "https://image.tmdb.org/t/p/w185/yskGUS6anyiHx2e2FsCB1fKbupD.jpg",
-    "rating": "7.8",
-    "year": "Jul. 20, 2013",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Una mirada a la vida de Jirō Horikoshi, el hombre que diseñó los aviones de combate japoneses durante la Segunda Guerra Mundial.",
-    "genres": [
-      "Animación",
-      "Animes",
-      "Drama",
-      "Historia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/89/s8/2/0/b/J/8/0bJ8z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3900401152-3900478583"
-      }
-    ]
-  },
-  {
-    "title": "Scream 6",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/dvvfHkEinSUWUPtJeWvxOx5hozm-185x278.jpg",
-    "rating": "6.8",
-    "year": "Mar. 08, 2023",
-    "quality": "720 HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/00/s8/2/0/h/y/i/0hyiA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3782278656-3782353663"
       }
     ]
   },
@@ -671,6 +651,27 @@
     ]
   },
   {
+    "title": "Scary Movie 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0174.jpg",
+    "rating": "5.3",
+    "year": "Jul. 04, 2001",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
+    "genres": [
+      "Comedia",
+      "Sci-Fi &amp; Fantasy"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDMvMDAwMTAvOTQ2aGJyNGJ6eXVyX24vaW5kZXgtdjEtYTIubTN1OD90PU52RDFOX3lFUHlGTXNRcy00Tjl3bjVwdG4tN1NXaXhsUlp2T3A0bFRNV1Emcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMjU0MDM2NjEmc3J2PXM4Jmk9MC4zJnNwPTAmZnI9OTQ2aGJyNGJ6eXVyJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Shooter: El tirador",
     "image": "https://image.tmdb.org/t/p/w185/1M300Yg1ccr0xGgTO4bpK9uKI7X.jpg",
     "rating": "7.1",
@@ -712,22 +713,41 @@
     ]
   },
   {
-    "title": "Seguridad nacional",
-    "image": "https://image.tmdb.org/t/p/w185/kSUI6xl9mHLRGxRgmJTJ4WbftID.jpg",
-    "rating": "5.6",
-    "year": "Jan. 17, 2003",
+    "title": "Sicario: Día del soldado",
+    "image": "https://image.tmdb.org/t/p/w185/ySqkGvL7TS9U3u6rtaVZsd89wU5.jpg",
+    "rating": "0",
+    "year": "Jun. 27, 2018",
     "quality": "720p HD",
     "languages": [],
-    "description": "Earl Montgomery (Lawrence) es un engreído e hiperactivo cadete de la Policía de Los Ángeles que, a causa de su mala actitud, es expulsado de la academia. Tras ser arrestado en un incidente con su vehículo por el policía Hank Rafferty (Zahn), Earl lo acusa de acoso y, como consecuencia, el agente ingresa en prisión durante seis meses. En ese tiempo, Earl acepta un humilde puesto de trabajo como guardia de seguridad en Seguridad Nacional, el mismo empleo que consigue Hank tras abandonar la cárcel. Es entonces cuando Earl descubre una sofisticada operación de contrabando que ya le costó la vida a su compañero meses atrás y en la que podría estar implicado el propio Departamento de Policía.",
+    "description": "La guerra contra las drogas en la frontera de EUA y México ha escalado y los carteles están pasando terroristas a través de la frontera. Para luchar en esta guerra, el agente federal Matt Graver debe trabajar con el volátil Alejandro.",
     "genres": [
       "Acción",
-      "Comedia",
-      "Crimen"
+      "Crimen",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/C/B/3/8CB3s.aaa.mp4"
+        "url": "https://1a-1791.com/video/fww1/ab/s8/2/N/0/t/W/N0tWy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Siempre a tu lado",
+    "image": "https://image.tmdb.org/t/p/w185/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+    "rating": "8.1",
+    "year": "Jun. 08, 2009",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/3/u/Y/k3uYt.aaa.mp4"
       }
     ]
   },
@@ -748,46 +768,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/b/y/t/wbyts.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Río 2 ; Rio 2",
-    "image": "https://image.tmdb.org/t/p/w185/xx1k3kCfIs95eAMa1pglXv74cRp.jpg",
-    "rating": "6.3",
-    "year": "Mar. 19, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Secuela de la película «Río» (2010) dirigida por Carlos Saldanha, encargado también de esta segunda parte.. Blu, Perla y sus pequeños disfrutan de una vida cómoda, alegre y perfecta en la ciudad de Río de Janeiro, Brasil. Pero Perla tiene muy claro que sus hijos deben aprender a vivir como los pájaros libres y salvajes que son, y para ello está convencida de que lo mejor es trasladarse al Amazonas. Una vez allí, Blu tendrá que enfrentarse a sus nuevos vecinos y a la idea terrible de perder a Perla y a sus hijos porque decidan vivir en la naturaleza salvaje para siempre.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/s/G/4/QsG4q.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Siempre a tu lado",
-    "image": "https://image.tmdb.org/t/p/w185/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-    "rating": "8.1",
-    "year": "Jun. 08, 2009",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-    "genres": [
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/3/u/Y/k3uYt.aaa.mp4"
       }
     ]
   },
@@ -830,6 +810,27 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/g/s/c/q/gscqw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Silencio",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0180.jpg",
+    "rating": "6.6",
+    "year": "Mar. 12, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/04/s8/2/q/C/G/f/qCGfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310592512-1310642043"
       }
     ]
   }

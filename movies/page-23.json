@@ -1,29 +1,5 @@
 [
   {
-    "title": "Los tipos malos 2",
-    "image": "https://image.tmdb.org/t/p/w185/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",
-    "rating": "7.3",
-    "year": "Jul. 24, 2025",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En está ocasión, los malos luchan por encontrar confianza y aceptación en sus nuevas vidas como buenos, cuando un escuadrón de criminales compuesto exclusivamente por mujeres las saca de su retiro y las obliga a hacer «un último trabajo».",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Crimen",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/92/s8/2/m/f/A/9/mfA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3195812864-3195876333"
-      }
-    ]
-  },
-  {
     "title": "Los tipos malos: ¿Truco o atraco?",
     "image": "https://image.tmdb.org/t/p/w185/b5g5FdOUUVJEpduADQ4T5WPTt6A.jpg",
     "rating": "0",
@@ -39,6 +15,31 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fw/s8/2/m/1/U/W/m1UWt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los descendientes 3",
+    "image": "https://image.tmdb.org/t/p/w185/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg",
+    "rating": "6.4",
+    "year": "Aug. 02, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Los hijos de los villanos, Mal, Evie, Jay y Carlos vuelven una vez más a la pequeña pantalla en una aventura en la que conoceremos al padre de Mal, quien será el nuevo villano. Además, la hija de Úrsula, Uma, quien dio mucha guerra en la anterior entrega, se une al grupo de protagonistas. En la cinta también aparecerán otros villanos clásicos de Disney como Hades, de Hércules, y el Dr. Facilier, de Tiana y el sapo.",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía",
+      "Película de TV"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.caa.mp4"
       }
     ]
   },
@@ -60,6 +61,29 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/99/s8/2/K/A/K/Z/KAKZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=787894784-787954859"
+      }
+    ]
+  },
+  {
+    "title": "Los Extraños: Capítulo 1 ; The Strangers: Chapter 1",
+    "image": "https://image.tmdb.org/t/p/w185/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
+    "rating": "0",
+    "year": "May. 15, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra oportunidad que detenerse en un AirBnb aislado en Oregón. Una noche de terror contra 3 desconocidos enmascarados se avecina.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/A/U/h/e/AUhes.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/A/U/h/e/AUhes.caa.mp4"
       }
     ]
   },
@@ -86,6 +110,34 @@
     ]
   },
   {
+    "title": "Los descendientes 2",
+    "image": "https://image.tmdb.org/t/p/w185/cwADU2dxO9NN7T9pF9h3rv9kYTb.jpg",
+    "rating": "6.3",
+    "year": "Jul. 21, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando la presión de ser real se convierte en demasiado para Mal, ella regresa a la isla de los perdidos donde su archienemiga Uma, la hija de Úrsula, ha tomado su lugar como la reina autoproclamada.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Familia",
+      "Fantasía",
+      "Música",
+      "Película de TV",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/a/u/t/E/autEp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/a/u/t/E/autEp.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Luis y los Alienígenas",
     "image": "https://image.tmdb.org/t/p/w185/yKQrDNJk2vgsXSR8XyWqOcQ29Kf.jpg",
     "rating": "6",
@@ -101,31 +153,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/48/s8/2/k/q/K/k/kqKky.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los ilusionistas 2 ; Ahora me ves 2",
-    "image": "https://image.tmdb.org/t/p/w185/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
-    "rating": "6.4",
-    "year": "Jun. 02, 2016",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha… Secuela de «Ahora me ves» del 2013.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Misterio",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.caa.mp4"
       }
     ]
   },
@@ -191,51 +218,8 @@
     ]
   },
   {
-    "title": "Los Extraños: Capítulo 1 ; The Strangers: Chapter 1",
-    "image": "https://image.tmdb.org/t/p/w185/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
-    "rating": "0",
-    "year": "May. 15, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra oportunidad que detenerse en un AirBnb aislado en Oregón. Una noche de terror contra 3 desconocidos enmascarados se avecina.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/U/h/e/AUhes.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/A/U/h/e/AUhes.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Magia del revés",
-    "image": "https://image.tmdb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg",
-    "rating": "5.4",
-    "year": "Jul. 31, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La película se centra en Nory Boxwood Horace (Rose), de 13 años, quien descubre que puede convertirse en animales, y su mejor amiga Reina Carvajal (Agudong), quien puede manipular las llamas, cuando ingresan a la Academia Sage para Estudios Mágicos.",
-    "genres": [
-      "Familia",
-      "Fantasía",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/C/B/p/B/CBpBt.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Los mundos de Coraline",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/sYXXUeSrx9TBbFpbgtLklW5kmVR-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0134.jpg",
     "rating": "7.7",
     "year": "Feb. 05, 2009",
     "quality": "720 HD",
@@ -252,50 +236,6 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDMvMDAwMDQvdTlnNDBlbHJ1bzk3X24vaW5kZXgtdjEtYTEubTN1OD90PTUwb3VWWEVxZm1GYkdodDJaR0wzY0xCdm1UWXBXbUpDa3ppUDhyVnN5Mncmcz0xNzg3MzYwNzgwJmU9NDMyMDAmdj0zMjk5OTkxNTMmc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Malditos bastardos",
-    "image": "https://image.tmdb.org/t/p/w185/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",
-    "rating": "8.4",
-    "year": "Aug. 02, 2009",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos «Los bastardos» para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/U/a/A/5/UaA5u.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-    "image": "https://image.tmdb.org/t/p/w185/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
-    "rating": "6.9",
-    "year": "Nov. 15, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.caa.mp4"
       }
     ]
   },
@@ -321,8 +261,48 @@
     ]
   },
   {
+    "title": "Magia del revés",
+    "image": "https://image.tmdb.org/t/p/w185/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg",
+    "rating": "5.4",
+    "year": "Jul. 31, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La película se centra en Nory Boxwood Horace (Rose), de 13 años, quien descubre que puede convertirse en animales, y su mejor amiga Reina Carvajal (Agudong), quien puede manipular las llamas, cuando ingresan a la Academia Sage para Estudios Mágicos.",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Película de TV"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/B/p/B/CBpBt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Malditos bastardos",
+    "image": "https://image.tmdb.org/t/p/w185/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",
+    "rating": "8.4",
+    "year": "Aug. 02, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos «Los bastardos» para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+    "genres": [
+      "Bélica",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/U/a/A/5/UaA5u.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Maléfica: Maestra del mal",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/eZOkXqHXWCKytd78TggAtJ0M3gU-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0136.jpg",
     "rating": "6.6",
     "year": "Oct. 16, 2019",
     "quality": "1080p HD",
@@ -364,6 +344,49 @@
     ]
   },
   {
+    "title": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+    "image": "https://image.tmdb.org/t/p/w185/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
+    "rating": "6.9",
+    "year": "Nov. 15, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/p/l/Y/G/plYGp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Mamma Mia!",
+    "image": "https://image.tmdb.org/t/p/w185/kfwpEsGsME1yVbZsPl6QvZy7Gue.jpg",
+    "rating": "6.5",
+    "year": "Jul. 03, 2008",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/L/v/R/2/LvR2s.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Los tres chiflados",
     "image": "https://image.tmdb.org/t/p/w185/2rP8vjVp5nx4c9TxVW14jWlffW.jpg",
     "rating": "5.1",
@@ -388,25 +411,6 @@
     ]
   },
   {
-    "title": "Mamma Mia!",
-    "image": "https://image.tmdb.org/t/p/w185/kfwpEsGsME1yVbZsPl6QvZy7Gue.jpg",
-    "rating": "6.5",
-    "year": "Jul. 03, 2008",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/v/R/2/LvR2s.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Luces fuera",
     "image": "https://image.tmdb.org/t/p/w185/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
     "rating": "4.8",
@@ -426,31 +430,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/e/F/8/9/eF89p.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los vigilantes",
-    "image": "https://image.tmdb.org/t/p/w185/13G0wKhucGWiERNloOicAuzQIyd.jpg",
-    "rating": "5.8",
-    "year": "Jun. 06, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
-    "genres": [
-      "Fantasía",
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.caa.mp4"
       }
     ]
   },
@@ -480,25 +459,27 @@
     ]
   },
   {
-    "title": "Madagascar",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/zrV5GnfCcLWzyjrFgYTpjQPRMfl-185x278.jpg",
-    "rating": "6.9",
-    "year": "May. 25, 2005",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
+    "title": "Los vigilantes",
+    "image": "https://image.tmdb.org/t/p/w185/13G0wKhucGWiERNloOicAuzQIyd.jpg",
+    "rating": "5.8",
+    "year": "Jun. 06, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
+      "Fantasía",
+      "Misterio",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbGZqY28yaHN0YjdvX24vaW5kZXgtdjEtYTEubTN1OD90PVdNS0ptLVNCdm1mUlBGT2VzN0h3dXRnVUdkVWI3VEtBaVI0RVlidHdLeWMmcz0xNzg3MzYxMDA4JmU9NDMyMDAmdj0zMzE5MjIyMzAmc3J2PXMxMiZpPTAuMyZzcD0wJnI9ZQ"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/8/A/E/B8AEs.caa.mp4"
       }
     ]
   },
@@ -543,22 +524,25 @@
     ]
   },
   {
-    "title": "Los Vengadores",
-    "image": "https://image.tmdb.org/t/p/w185/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-    "rating": "8",
-    "year": "Apr. 25, 2012",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "title": "Madagascar",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0135.jpg",
+    "rating": "6.9",
+    "year": "May. 25, 2005",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuatro amigos animales prueban la vida salvaje cuando, luego de escapar de su cautiverio en el zoológico de Central Park, van a parar a la orilla de la isla de Madagascar.",
     "genres": [
-      "Acción",
+      "Animación",
       "Aventura",
-      "Ciencia ficción"
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/a/b/e/C/abeCs.aaa.mp4"
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvbGZqY28yaHN0YjdvX24vaW5kZXgtdjEtYTEubTN1OD90PVdNS0ptLVNCdm1mUlBGT2VzN0h3dXRnVUdkVWI3VEtBaVI0RVlidHdLeWMmcz0xNzg3MzYxMDA4JmU9NDMyMDAmdj0zMzE5MjIyMzAmc3J2PXMxMiZpPTAuMyZzcD0wJnI9ZQ"
       }
     ]
   },
@@ -627,26 +611,6 @@
     ]
   },
   {
-    "title": "MaXXXine",
-    "image": "https://image.tmdb.org/t/p/w185/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg",
-    "rating": "6.7",
-    "year": "Jul. 04, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Sigue a Maxine, superviviente de los sangrientos incidentes de X, mientras continúa su viaje hacia la fama para ser actriz en Los Ángeles de la década de 1980.",
-    "genres": [
-      "Crimen",
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/c/p/L/_/cpL_s.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Madre!",
     "image": "https://image.tmdb.org/t/p/w185/j9cPQew4hBDKF7TpbSirXwN2F6c.jpg",
     "rating": "6.6",
@@ -667,6 +631,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/O/I/x/R/OIxRp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Vengadores",
+    "image": "https://image.tmdb.org/t/p/w185/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+    "rating": "8",
+    "year": "Apr. 25, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/a/b/e/C/abeCs.aaa.mp4"
       }
     ]
   },
@@ -697,6 +681,26 @@
     ]
   },
   {
+    "title": "MaXXXine",
+    "image": "https://image.tmdb.org/t/p/w185/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg",
+    "rating": "6.7",
+    "year": "Jul. 04, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Sigue a Maxine, superviviente de los sangrientos incidentes de X, mientras continúa su viaje hacia la fama para ser actriz en Los Ángeles de la década de 1980.",
+    "genres": [
+      "Crimen",
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/c/p/L/_/cpL_s.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "McLovin ; Supercool ; Supersalidos",
     "image": "https://image.tmdb.org/t/p/w185/ftUDFRYywWzajElI2RT9NIno2PS.jpg",
     "rating": "7.6",
@@ -711,6 +715,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/x/8/1/P/x81Pu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Madame Web",
+    "image": "https://image.tmdb.org/t/p/w185/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
+    "rating": "3.8",
+    "year": "Feb. 14, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso… si consiguen sobrevivir a un presente mortal.",
+    "genres": [
+      "Acción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/f/b/E/IfbEq.aaa.mp4"
       }
     ]
   },
@@ -739,21 +762,20 @@
     ]
   },
   {
-    "title": "Madame Web",
-    "image": "https://image.tmdb.org/t/p/w185/blq050GHBt0Fzx1j9FvohaEuknJ.jpg",
-    "rating": "3.8",
-    "year": "Feb. 14, 2024",
+    "title": "Malos padres",
+    "image": "https://image.tmdb.org/t/p/w185/wFCnsUHSeAqbVwmVZhJ93gVA8tb.jpg",
+    "rating": "8.8",
+    "year": "Aug. 10, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Cassandra Webb es una paramédica en Manhattan que podría tener habilidades clarividentes. Obligada a enfrentarse a sucesos que se han revelado de su pasado, crea una relación con tres jóvenes destinadas a tener un futuro poderoso… si consiguen sobrevivir a un presente mortal.",
+    "description": "",
     "genres": [
-      "Acción",
-      "Fantasía"
+      "Comedia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/I/f/b/E/IfbEq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/U/9/J/AU9Jn.caa.mp4"
       }
     ]
   },
@@ -773,24 +795,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe1/30/s8/2/m/z/v/o/mzvoy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Malos padres",
-    "image": "https://image.tmdb.org/t/p/w185/wFCnsUHSeAqbVwmVZhJ93gVA8tb.jpg",
-    "rating": "8.8",
-    "year": "Aug. 10, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/U/9/J/AU9Jn.caa.mp4"
       }
     ]
   },
@@ -831,23 +835,21 @@
     ]
   },
   {
-    "title": "Mansión encantada (Haunted Mansion)",
-    "image": "https://image.tmdb.org/t/p/w185/3EuVUPGihWXfwTt3myKVKOydPVW.jpg",
-    "rating": "6.1",
-    "year": "Jul. 26, 2023",
+    "title": "Mas allá del universo",
+    "image": "https://image.tmdb.org/t/p/w185/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg",
+    "rating": "6.6",
+    "year": "Oct. 27, 2022",
     "quality": "720 HD",
     "languages": [],
-    "description": "Una mujer y su hijo reclutan a un variopinto grupo de expertos espirituales para que les ayuden a liberar su hogar de unos ocupantes sobrenaturales.",
+    "description": "Mientras espera un trasplante de riñón, una joven pianista encuentra una conexión inesperada con su médico y el coraje para cumplir sus sueños musicales.",
     "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía",
-      "Terror"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/g/2/l/eg2ln.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/r/f/r/Jrfrq.aaa.mp4"
       }
     ]
   }

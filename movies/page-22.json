@@ -1,40 +1,25 @@
 [
   {
-    "title": "Lamborghini: El hombre detrás de la leyenda",
-    "image": "https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg",
-    "rating": "5.4",
-    "year": "Nov. 18, 2022",
+    "title": "Las crónicas de Narnia: El león, la bruja y el armario",
+    "image": "https://image.tmdb.org/t/p/w185/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg",
+    "rating": "6.9",
+    "year": "Dec. 07, 2005",
     "quality": "720 HD",
     "languages": [],
-    "description": "Siga el lanzamiento de la carrera de Lamborghini como fabricante de tractores, creador de vehículos militares durante la Segunda Guerra Mundial y diseñador de automóviles Lamborghini, que lanzó en 1963 como la empresa de automóviles deportivos de alta gama Automobili Lamborghini.",
-    "genres": [
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/2/Z/G/62ZGo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Locuras en la edad media ; El caballero negro",
-    "image": "https://image.tmdb.org/t/p/w185/bQ2kbMejOrydOyCcs9cacMjLA4M.jpg",
-    "rating": "4.9",
-    "year": "Nov. 21, 2001",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jamal se afana infeliz en Medieval World, un parque temático que parece que no ha sido renovado, o ha tenido clientes desde la Época Oscura. Después de caer en el fétido foso del parque, Jamal llega al siglo XIV en Inglaterra, un mundo de caballeros con brillantes armaduras y damiselas afligidas, sin mencionar la higiene cuestionable. Ahora es un extraño en una muy extraña tierra, Jamal conoce a un caballero libertino, una bella mujer con ideas muy modernas y una rebelión en contra del diabólico Rey… ⬇⬇⬇⬇⬇",
+    "description": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
     "genres": [
       "Aventura",
-      "Comedia",
+      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/71/s8/2/A/-/4/c/A-4cx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.caa.mp4"
       }
     ]
   },
@@ -59,22 +44,22 @@
     ]
   },
   {
-    "title": "Los 4 Fantásticos (2005)",
-    "image": "https://image.tmdb.org/t/p/w185/AhcPI0eTo8I2QBhnwsCcKLzNcmT.jpg",
-    "rating": "5.7",
-    "year": "Jun. 29, 2005",
+    "title": "Los 4 Fantásticos (2015)",
+    "image": "https://image.tmdb.org/t/p/w185/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg",
+    "rating": "4.3",
+    "year": "Aug. 05, 2015",
     "quality": "720p HD",
     "languages": [],
-    "description": "Un grupo de astronautas obtiene superpoderes después de una exposición a la radiación cósmica y debe usarlos para oponerse a los planes de su enemigo, el doctor Victor Von Doom",
+    "description": "Cuatro jóvenes inadaptados se teletransportan a un peligroso universo alternativo, lo que les confiere extraños poderes. Cuando sus vidas cambian de forma drástica e irremediable, deben aprender a controlar sus nuevas habilidades y trabajar en equipo para salvar al mundo de un viejo conocido que ahora se ha convertido en un temible enemigo. Adaptación contemporánea del equipo de superhéroes de Marvel",
     "genres": [
       "Acción",
-      "Ciencia ficción",
-      "Fantasía"
+      "Aventura",
+      "Ciencia ficción"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/24/s8/2/k/2/A/q/k2Aqy.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe1/ac/s8/2/u/p/q/q/upqqy.aaa.mp4"
       }
     ]
   },
@@ -94,6 +79,45 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/T/d/a/L/TdaLt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Lamborghini: El hombre detrás de la leyenda",
+    "image": "https://image.tmdb.org/t/p/w185/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg",
+    "rating": "5.4",
+    "year": "Nov. 18, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Siga el lanzamiento de la carrera de Lamborghini como fabricante de tractores, creador de vehículos militares durante la Segunda Guerra Mundial y diseñador de automóviles Lamborghini, que lanzó en 1963 como la empresa de automóviles deportivos de alta gama Automobili Lamborghini.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/2/Z/G/62ZGo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los 4 Fantásticos (2005)",
+    "image": "https://image.tmdb.org/t/p/w185/AhcPI0eTo8I2QBhnwsCcKLzNcmT.jpg",
+    "rating": "5.7",
+    "year": "Jun. 29, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un grupo de astronautas obtiene superpoderes después de una exposición a la radiación cósmica y debe usarlos para oponerse a los planes de su enemigo, el doctor Victor Von Doom",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/24/s8/2/k/2/A/q/k2Aqy.aaa.mp4"
       }
     ]
   },
@@ -118,60 +142,22 @@
     ]
   },
   {
-    "title": "Los 4 Fantásticos (2015)",
-    "image": "https://image.tmdb.org/t/p/w185/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg",
-    "rating": "4.3",
-    "year": "Aug. 05, 2015",
-    "quality": "720p HD",
+    "title": "Las brujas (de Roald Dahl)",
+    "image": "https://image.tmdb.org/t/p/w185/PxbO8UzZ17dMcqs0YwAnKuwfHA.jpg",
+    "rating": "5.4",
+    "year": "Oct. 26, 2020",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Cuatro jóvenes inadaptados se teletransportan a un peligroso universo alternativo, lo que les confiere extraños poderes. Cuando sus vidas cambian de forma drástica e irremediable, deben aprender a controlar sus nuevas habilidades y trabajar en equipo para salvar al mundo de un viejo conocido que ahora se ha convertido en un temible enemigo. Adaptación contemporánea del equipo de superhéroes de Marvel",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/ac/s8/2/u/p/q/q/upqqy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Bandoleros",
-    "image": "https://image.tmdb.org/t/p/w185/rqWRTgjHcmcmeRXE1w1LyYZupwS.jpg",
-    "rating": "5.6",
-    "year": "Jul. 28, 2009",
-    "quality": "480p SD",
-    "languages": [],
-    "description": "“Los Bandoleros” es una precuela de “Fast and Furious”, filmada en Republica Dominicana y dirigida-producida por Vin Diesel.",
-    "genres": [
-      "Acción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/1c/s8/2/-/i/4/1/-i41y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=160558592-160570682"
-      }
-    ]
-  },
-  {
-    "title": "Los cazafantasmas",
-    "image": "https://image.tmdb.org/t/p/w185/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg",
-    "rating": "7.8",
-    "year": "Jun. 08, 1984",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa «Los Cazafantasmas», dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+    "description": "Cuenta la conmovedora historia de un pequeño huérfano (Bruno) que, a finales de 1967, se va a vivir con su querida abuela (Spencer) a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas, así que ella decide quitarse de en medio y llevarse al chico a un hotel de lujo en la costa. Por desgracia, llegan exactamente al mismo tiempo que la Gran Bruja (Hathaway) que ha reunido a sus compinches de todo el planeta -que van de incógnito- para llevar a cabo sus horribles planes. Adaptación del libro «Las brujas» de Roald Dahl.",
     "genres": [
       "Comedia",
+      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/d3/s8/2/m/Q/d/y/mQdyw.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/S/U/e/w/SUewo.aaa.mp4"
       }
     ]
   },
@@ -221,49 +207,6 @@
     ]
   },
   {
-    "title": "Las brujas (de Roald Dahl)",
-    "image": "https://image.tmdb.org/t/p/w185/PxbO8UzZ17dMcqs0YwAnKuwfHA.jpg",
-    "rating": "5.4",
-    "year": "Oct. 26, 2020",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuenta la conmovedora historia de un pequeño huérfano (Bruno) que, a finales de 1967, se va a vivir con su querida abuela (Spencer) a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas, así que ella decide quitarse de en medio y llevarse al chico a un hotel de lujo en la costa. Por desgracia, llegan exactamente al mismo tiempo que la Gran Bruja (Hathaway) que ha reunido a sus compinches de todo el planeta -que van de incógnito- para llevar a cabo sus horribles planes. Adaptación del libro «Las brujas» de Roald Dahl.",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/S/U/e/w/SUewo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Libros de sangre",
-    "image": "https://image.tmdb.org/t/p/w185/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
-    "rating": "5.6",
-    "year": "Oct. 07, 2020",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un viaje a territorios inexplorados y prohibidos a través de tres historias enredadas en el espacio y el tiempo.",
-    "genres": [
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/n/s/d/lnsdp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/n/s/d/lnsdp.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Los dos hemisferios de Lucca",
     "image": "https://image.tmdb.org/t/p/w185/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
     "rating": "6.8",
@@ -278,6 +221,44 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ec/s8/2/v/T/3/n/vT3nx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los cazafantasmas",
+    "image": "https://image.tmdb.org/t/p/w185/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg",
+    "rating": "7.8",
+    "year": "Jun. 08, 1984",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa «Los Cazafantasmas», dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/d3/s8/2/m/Q/d/y/mQdyw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Bandoleros",
+    "image": "https://image.tmdb.org/t/p/w185/rqWRTgjHcmcmeRXE1w1LyYZupwS.jpg",
+    "rating": "5.6",
+    "year": "Jul. 28, 2009",
+    "quality": "480p SD",
+    "languages": [],
+    "description": "“Los Bandoleros” es una precuela de “Fast and Furious”, filmada en Republica Dominicana y dirigida-producida por Vin Diesel.",
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/1c/s8/2/-/i/4/1/-i41y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=160558592-160570682"
       }
     ]
   },
@@ -362,103 +343,25 @@
     ]
   },
   {
-    "title": "Los feos",
-    "image": "https://image.tmdb.org/t/p/w185/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
-    "rating": "4.7",
-    "year": "Sep. 12, 2024",
-    "quality": "720p HD",
+    "title": "Libros de sangre",
+    "image": "https://image.tmdb.org/t/p/w185/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+    "rating": "5.6",
+    "year": "Oct. 07, 2020",
+    "quality": "720 HD",
     "languages": [],
-    "description": "En una distopía futurista que impone cánones de belleza y cirugías cosméticas, una adolescente emprende un viaje peligroso para salvar a una amiga.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/7a/s8/2/H/F/e/W/HFeWx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Goonies",
-    "image": "https://image.tmdb.org/t/p/w185/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
-    "rating": "7.7",
-    "year": "Jun. 07, 1985",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar ‘Los Goonies’, decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
-    "genres": [
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/w/H/w/DwHwt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los horrores de Caddo Lake",
-    "image": "https://image.tmdb.org/t/p/w185/wQSLDy6H3Wyhf7Z7TNM87y4giez.jpg",
-    "rating": "6.9",
-    "year": "Oct. 09, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando una niña de ocho años desaparece misteriosamente en Caddo Lake, una serie de muertes y desapariciones del pasado empiezan a mezclarse, alterando para siempre la historia de una familia rota.",
+    "description": "Un viaje a territorios inexplorados y prohibidos a través de tres historias enredadas en el espacio y el tiempo.",
     "genres": [
       "Ciencia ficción",
-      "Drama",
-      "Misterio",
-      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/O/Z/9/0OZ9t.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los ilusionistas 1 ; Ahora me ves 1",
-    "image": "https://image.tmdb.org/t/p/w185/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
-    "rating": "7.2",
-    "year": "May. 29, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son ‘los cuatro jinetes’, un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
-    "genres": [
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/n/s/d/lnsdp.aaa.mp4"
+      },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/P/O/Q/o/POQov.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Lift: Un robo de primera clase",
-    "image": "https://image.tmdb.org/t/p/w185/veUHao6XPxcb5MeRDdhokevxiz5.jpg",
-    "rating": "5.5",
-    "year": "Jan. 10, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un ladrón y su banda se preparan para dar un golpe de altura: robar 500 millones de dólares en oro de una caja fuerte… ¡a bordo de un avión a 9000 m de altitud!",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/t/5/8/q/t58qq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/n/s/d/lnsdp.caa.mp4"
       }
     ]
   },
@@ -485,6 +388,47 @@
     ]
   },
   {
+    "title": "Los 4 Fantásticos: Primeros pasos",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0133.jpg",
+    "rating": "N/A",
+    "year": "Jul. 23, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enigmático heraldo, Silver Surfer.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDMvMDAwMDYvZjIwYzMyeTV5NGZmX24vaW5kZXgtdjEtYTEubTN1OD90PTJNcnlnYWF0aEluZWNqbGFNcjBBU2VfUDZUWVN4VloxVG8wTi1sV3lxOG8mcz0xNzg3MzYxMTE4JmU9NDMyMDAmdj0zMjUyOTQ0Nzgmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWYyMGMzMnk1eTRmZiZyPWU"
+      }
+    ]
+  },
+  {
+    "title": "Los Goonies",
+    "image": "https://image.tmdb.org/t/p/w185/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
+    "rating": "7.7",
+    "year": "Jun. 07, 1985",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar ‘Los Goonies’, decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/w/H/w/DwHwt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Los imprevistos del amor",
     "image": "https://image.tmdb.org/t/p/w185/lMX7qZAcF54d0DB1Vto8gbWZlVU.jpg",
     "rating": "7.1",
@@ -501,27 +445,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/v/l/Q/A/vlQAt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los 4 Fantásticos: Primeros pasos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/ckfiXWGEMWrUP53cc6QyHijLlhl-185x278.jpg",
-    "rating": "N/A",
-    "year": "Jul. 23, 2025",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enigmático heraldo, Silver Surfer.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9wMy52aW1lb3MuemlwL2hsczIvMDMvMDAwMDYvZjIwYzMyeTV5NGZmX24vaW5kZXgtdjEtYTEubTN1OD90PTJNcnlnYWF0aEluZWNqbGFNcjBBU2VfUDZUWVN4VloxVG8wTi1sV3lxOG8mcz0xNzg3MzYxMTE4JmU9NDMyMDAmdj0zMjUyOTQ0Nzgmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWYyMGMzMnk1eTRmZiZyPWU"
       }
     ]
   },
@@ -570,27 +493,63 @@
     ]
   },
   {
-    "title": "Los colores del mal: Rojo",
-    "image": "https://image.tmdb.org/t/p/w185/1OQAW3dtFEnQkrwrVsioTLatMuO.jpg",
-    "rating": "6.3",
-    "year": "May. 29, 2024",
-    "quality": "720 HD",
+    "title": "Los ilusionistas 1 ; Ahora me ves 1",
+    "image": "https://image.tmdb.org/t/p/w185/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
+    "rating": "7.2",
+    "year": "May. 29, 2013",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Una playa de Tri-City se convierte en un lugar de dramáticos descubrimientos cuando el mar arrastra el cadáver de una joven. La inusual mutilación de la víctima apunta a un asesinato. La investigación está dirigida por un fiscal ambicioso y tenaz, Leopold Bilski. La madre de la víctima, la juez Helena Bogucka, también participa en la investigación. Todas las pistas conducen a uno de los clubes costeros, que resulta estar relacionado con el asesinato de una mujer 15 años atrás. A partir de la información recopilada durante la investigación y de las pruebas ocultas durante años, la cara oscura del Tri-City criminal va emergiendo poco a poco. Los descubrimientos de Bilski y Bogucka empiezan a ser muy incómodos para la policía local.",
+    "description": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son ‘los cuatro jinetes’, un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
     "genres": [
       "Crimen",
-      "Drama",
-      "Misterio",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/E/b/_/lEb_r.aaa.mp4"
-      },
+        "url": "https://1a-1791.com/video/s8/2/P/O/Q/o/POQov.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los horrores de Caddo Lake",
+    "image": "https://image.tmdb.org/t/p/w185/wQSLDy6H3Wyhf7Z7TNM87y4giez.jpg",
+    "rating": "6.9",
+    "year": "Oct. 09, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando una niña de ocho años desaparece misteriosamente en Caddo Lake, una serie de muertes y desapariciones del pasado empiezan a mezclarse, alterando para siempre la historia de una familia rota.",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/E/b/_/lEb_r.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/O/Z/9/0OZ9t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los feos",
+    "image": "https://image.tmdb.org/t/p/w185/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
+    "rating": "4.7",
+    "year": "Sep. 12, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En una distopía futurista que impone cánones de belleza y cirugías cosméticas, una adolescente emprende un viaje peligroso para salvar a una amiga.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/7a/s8/2/H/F/e/W/HFeWx.aaa.mp4"
       }
     ]
   },
@@ -617,142 +576,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/q/K/Q/fqKQp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los magos de Waverly Place: Vacaciones en el Caribe",
-    "image": "https://image.tmdb.org/t/p/w185/5aCizetfljyF2iMyrTPSAWpU6iM.jpg",
-    "rating": "6.2",
-    "year": "Aug. 28, 2009",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La familia Russo se va de vacaciones al Caribe, al lugar donde los padres se conocieron. Alex Russo, cansada de que sus padres la controlen, lanza accidentalmente un hechizo deseando que sus padres nunca se hubiesen conocido, provocando que se olviden el uno del otro y de sus propios hijos. Alex y Justin deberán adentrarse en la selva para encontrar la Piedra de los Deseos, el único modo de revertir el hechizo. Mientras, Max, vigilará a sus padres para que no se metan en problemas.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/7a/s8/2/L/i/r/w/Lirww.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los descendientes 2",
-    "image": "https://image.tmdb.org/t/p/w185/cwADU2dxO9NN7T9pF9h3rv9kYTb.jpg",
-    "rating": "6.3",
-    "year": "Jul. 21, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuando la presión de ser real se convierte en demasiado para Mal, ella regresa a la isla de los perdidos donde su archienemiga Uma, la hija de Úrsula, ha tomado su lugar como la reina autoproclamada.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Familia",
-      "Fantasía",
-      "Música",
-      "Película de TV",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/u/t/E/autEp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/u/t/E/autEp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los Nuevos Mutantes",
-    "image": "https://image.tmdb.org/t/p/w185/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg",
-    "rating": "5.3",
-    "year": "Apr. 02, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos .",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/79/s8/2/2/Q/1/4/2Q14y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=741119488-741176039"
-      }
-    ]
-  },
-  {
-    "title": "Los colegas del barrio",
-    "image": "https://image.tmdb.org/t/p/w185/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg",
-    "rating": "6.5",
-    "year": "Jan. 12, 1996",
-    "quality": "",
-    "languages": [],
-    "description": "Ashtray es un joven negro que se va a Los Angeles a vivir con su padre y con su peculiar abuela. Allí se encuentra con su primo Loc Dog, que se pasa el día con su pandilla de amigos por el barrio.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/r/m/x/s/rmxsq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Los otros (2001)",
-    "image": "https://image.tmdb.org/t/p/w185/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
-    "rating": "7.6",
-    "year": "Aug. 02, 2001",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Grace es una mujer religiosa que vive en una vieja casa mantenida oscura porque sus dos hijos, Anne y Nicholas, tienen una rara sensibilidad a la luz. Cuando la familia comienza a sospechar que la casa está embrujada, Grace lucha para proteger a sus hijos a cualquier costo ante los extraños acontecimientos y las visiones inquietantes.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/3e/s8/2/0/O/F/5/0OF5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=824285696-824348605"
-      }
-    ]
-  },
-  {
-    "title": "Los descendientes 3",
-    "image": "https://image.tmdb.org/t/p/w185/1OtIhamt5JU1f8OajkJX3KMRqgQ.jpg",
-    "rating": "6.4",
-    "year": "Aug. 02, 2019",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Los hijos de los villanos, Mal, Evie, Jay y Carlos vuelven una vez más a la pequeña pantalla en una aventura en la que conoceremos al padre de Mal, quien será el nuevo villano. Además, la hija de Úrsula, Uma, quien dio mucha guerra en la anterior entrega, se une al grupo de protagonistas. En la cinta también aparecerán otros villanos clásicos de Disney como Hades, de Hércules, y el Dr. Facilier, de Tiana y el sapo.",
-    "genres": [
-      "Aventura",
-      "Familia",
-      "Fantasía",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.caa.mp4"
       }
     ]
   },
@@ -784,6 +607,134 @@
     ]
   },
   {
+    "title": "Los magos de Waverly Place: Vacaciones en el Caribe",
+    "image": "https://image.tmdb.org/t/p/w185/5aCizetfljyF2iMyrTPSAWpU6iM.jpg",
+    "rating": "6.2",
+    "year": "Aug. 28, 2009",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La familia Russo se va de vacaciones al Caribe, al lugar donde los padres se conocieron. Alex Russo, cansada de que sus padres la controlen, lanza accidentalmente un hechizo deseando que sus padres nunca se hubiesen conocido, provocando que se olviden el uno del otro y de sus propios hijos. Alex y Justin deberán adentrarse en la selva para encontrar la Piedra de los Deseos, el único modo de revertir el hechizo. Mientras, Max, vigilará a sus padres para que no se metan en problemas.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía",
+      "Película de TV"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/7a/s8/2/L/i/r/w/Lirww.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los Nuevos Mutantes",
+    "image": "https://image.tmdb.org/t/p/w185/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg",
+    "rating": "5.3",
+    "year": "Apr. 02, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cinco jóvenes mutantes que acaban de descubrir sus habilidades, son encerrados en unas instalaciones secretas contra su voluntad y luchan por escapar de su pasado y salvarse a sí mismos .",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/79/s8/2/2/Q/1/4/2Q14y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=741119488-741176039"
+      }
+    ]
+  },
+  {
+    "title": "Lift: Un robo de primera clase",
+    "image": "https://image.tmdb.org/t/p/w185/veUHao6XPxcb5MeRDdhokevxiz5.jpg",
+    "rating": "5.5",
+    "year": "Jan. 10, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un ladrón y su banda se preparan para dar un golpe de altura: robar 500 millones de dólares en oro de una caja fuerte… ¡a bordo de un avión a 9000 m de altitud!",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/t/5/8/q/t58qq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los otros (2001)",
+    "image": "https://image.tmdb.org/t/p/w185/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+    "rating": "7.6",
+    "year": "Aug. 02, 2001",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Grace es una mujer religiosa que vive en una vieja casa mantenida oscura porque sus dos hijos, Anne y Nicholas, tienen una rara sensibilidad a la luz. Cuando la familia comienza a sospechar que la casa está embrujada, Grace lucha para proteger a sus hijos a cualquier costo ante los extraños acontecimientos y las visiones inquietantes.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/3e/s8/2/0/O/F/5/0OF5z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=824285696-824348605"
+      }
+    ]
+  },
+  {
+    "title": "Los ilusionistas 2 ; Ahora me ves 2",
+    "image": "https://image.tmdb.org/t/p/w185/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
+    "rating": "6.4",
+    "year": "Jun. 02, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha… Secuela de «Ahora me ves» del 2013.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Misterio",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/C/Y/W/NCYWp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los colegas del barrio",
+    "image": "https://image.tmdb.org/t/p/w185/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg",
+    "rating": "6.5",
+    "year": "Jan. 12, 1996",
+    "quality": "",
+    "languages": [],
+    "description": "Ashtray es un joven negro que se va a Los Angeles a vivir con su padre y con su peculiar abuela. Allí se encuentra con su primo Loc Dog, que se pasa el día con su pandilla de amigos por el barrio.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/r/m/x/s/rmxsq.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Los Pinguinos de Madagascar",
     "image": "https://image.tmdb.org/t/p/w185/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
     "rating": "6.6",
@@ -801,6 +752,53 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/88/s8/2/I/c/c/p/Iccpy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los pitufos",
+    "image": "https://image.tmdb.org/t/p/w185/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
+    "rating": "5.4",
+    "year": "Jul. 29, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Gargamel descubre la aldea mágica de los Pitufos y provoca con sus malas artes que la abandonen y se dispersen por el bosque. Por desgracia, Tontín se equivoca de camino y, junto con otros pitufos, entrará en una ruta prohibida. La luna azul y un portal mágico los transportarán a Central Park, en Nueva York. Sin embargo, Gargamel sigue persiguiéndolos, por lo que los Pitufos buscarán refugio en casa de un matrimonio…",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/n/_/0/d/n_0dt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Los colores del mal: Rojo",
+    "image": "https://image.tmdb.org/t/p/w185/1OQAW3dtFEnQkrwrVsioTLatMuO.jpg",
+    "rating": "6.3",
+    "year": "May. 29, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una playa de Tri-City se convierte en un lugar de dramáticos descubrimientos cuando el mar arrastra el cadáver de una joven. La inusual mutilación de la víctima apunta a un asesinato. La investigación está dirigida por un fiscal ambicioso y tenaz, Leopold Bilski. La madre de la víctima, la juez Helena Bogucka, también participa en la investigación. Todas las pistas conducen a uno de los clubes costeros, que resulta estar relacionado con el asesinato de una mujer 15 años atrás. A partir de la información recopilada durante la investigación y de las pruebas ocultas durante años, la cara oscura del Tri-City criminal va emergiendo poco a poco. Los descubrimientos de Bilski y Bogucka empiezan a ser muy incómodos para la policía local.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Misterio",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/E/b/_/lEb_r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/E/b/_/lEb_r.caa.mp4"
       }
     ]
   },
@@ -826,24 +824,26 @@
     ]
   },
   {
-    "title": "Los pitufos",
-    "image": "https://image.tmdb.org/t/p/w185/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
-    "rating": "5.4",
-    "year": "Jul. 29, 2011",
+    "title": "Los tipos malos 2",
+    "image": "https://image.tmdb.org/t/p/w185/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",
+    "rating": "7.3",
+    "year": "Jul. 24, 2025",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Gargamel descubre la aldea mágica de los Pitufos y provoca con sus malas artes que la abandonen y se dispersen por el bosque. Por desgracia, Tontín se equivoca de camino y, junto con otros pitufos, entrará en una ruta prohibida. La luna azul y un portal mágico los transportarán a Central Park, en Nueva York. Sin embargo, Gargamel sigue persiguiéndolos, por lo que los Pitufos buscarán refugio en casa de un matrimonio…",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En está ocasión, los malos luchan por encontrar confianza y aceptación en sus nuevas vidas como buenos, cuando un escuadrón de criminales compuesto exclusivamente por mujeres las saca de su retiro y las obliga a hacer «un último trabajo».",
     "genres": [
       "Animación",
       "Aventura",
       "Comedia",
-      "Familia",
-      "Fantasía"
+      "Crimen",
+      "Familia"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/n/_/0/d/n_0dt.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/92/s8/2/m/f/A/9/mfA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3195812864-3195876333"
       }
     ]
   }

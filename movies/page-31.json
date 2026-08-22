@@ -1,26 +1,5 @@
 [
   {
-    "title": "Silencio",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/wYHfD8izsrr12KNxh1Y4T1OnrTh-185x278.jpg",
-    "rating": "6.6",
-    "year": "Mar. 12, 2016",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Una joven escritora que se quedó sorda en su adolescencia y vive aislada en una casa en medio de la nada. Una noche comienza a ser acosada por un misterioso hombre enmascarado, sin la posibilidad de pedir ayuda, por lo que tendrá que ingeniárselas para salir airosa de su acosador.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/04/s8/2/q/C/G/f/qCGfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310592512-1310642043"
-      }
-    ]
-  },
-  {
     "title": "Silent Hill (2006)",
     "image": "https://image.tmdb.org/t/p/w185/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
     "rating": "6.5",
@@ -36,6 +15,70 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/k/p/8/u/kp8uu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sin miedo en el corazón",
+    "image": "https://image.tmdb.org/t/p/w185/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg",
+    "rating": "0",
+    "year": "Jul. 23, 1993",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tras presenciar el asesinato de su primer y único novio, la joven Justice decide abandonar el instituto y convertirse en una peluquera en Los Ángeles. Evitando las nuevas amistades, su única forma de combatir la depresión será componer bellos poemas. Camino de una convención en Oakland, se ve obligada a compartir asiento con un trabajador postal, con el que poco a poco irá descubriendo afinidades.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/5d/s8/2/V/C/j/0/VCj0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=860938240-861004004"
+      }
+    ]
+  },
+  {
+    "title": "Sin piedad",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0182.jpg",
+    "rating": "6.2",
+    "year": "Jan. 19, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "En un futuro próximo, un detective es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la inteligencia artificial avanzada, a la que él mismo defendió en su día, antes de que esta decida su destino.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/97/s8/2/M/d/M/g/MdMgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3067386368-3067447255"
+      }
+    ]
+  },
+  {
+    "title": "Shang-Chi y la leyenda de los Diez Anillos",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0178.jpg",
+    "rating": "7.4",
+    "year": "Sep. 01, 2021",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvOXRtYjd4ZDY1YThnX24vaW5kZXgtdjEtYTEubTN1OD90PXh6NE1XLVh0VEdOTkxrUUY4X3YxNWt2b1lBTEJvRWNBV0FaMVdwNkZrN00mcz0xNzg3MzYwNzk1JmU9NDMyMDAmdj0zMjk5Nzg2Mjgmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
@@ -63,90 +106,26 @@
     ]
   },
   {
-    "title": "Sin miedo en el corazón",
-    "image": "https://image.tmdb.org/t/p/w185/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg",
-    "rating": "0",
-    "year": "Jul. 23, 1993",
+    "title": "Seis Triple Ocho",
+    "image": "https://image.tmdb.org/t/p/w185/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
+    "rating": "6.6",
+    "year": "Dec. 06, 2024",
     "quality": "720p HD",
     "languages": [],
-    "description": "Tras presenciar el asesinato de su primer y único novio, la joven Justice decide abandonar el instituto y convertirse en una peluquera en Los Ángeles. Evitando las nuevas amistades, su única forma de combatir la depresión será componer bellos poemas. Camino de una convención en Oakland, se ve obligada a compartir asiento con un trabajador postal, con el que poco a poco irá descubriendo afinidades.",
+    "description": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de 17 millones de piezas de correo.",
     "genres": [
+      "Bélica",
       "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/5d/s8/2/V/C/j/0/VCj0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=860938240-861004004"
-      }
-    ]
-  },
-  {
-    "title": "Shang-Chi y la leyenda de los Diez Anillos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/lE8Pet7FMzOFUBMToH7l7g1XAny-185x278.jpg",
-    "rating": "7.4",
-    "year": "Sep. 01, 2021",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
+      "Historia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDMvOXRtYjd4ZDY1YThnX24vaW5kZXgtdjEtYTEubTN1OD90PXh6NE1XLVh0VEdOTkxrUUY4X3YxNWt2b1lBTEJvRWNBV0FaMVdwNkZrN00mcz0xNzg3MzYwNzk1JmU9NDMyMDAmdj0zMjk5Nzg2Mjgmc3J2PXMxMSZpPTAuMCZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Sin piedad",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/tgmtRhwt3NuWXF9piH1pA7CEQA5-185x278.jpg",
-    "rating": "6.2",
-    "year": "Jan. 19, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "En un futuro próximo, un detective es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la inteligencia artificial avanzada, a la que él mismo defendió en su día, antes de que esta decida su destino.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/97/s8/2/M/d/M/g/MdMgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3067386368-3067447255"
-      }
-    ]
-  },
-  {
-    "title": "Señora Influencer",
-    "image": "https://image.tmdb.org/t/p/w185/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg",
-    "rating": "7.1",
-    "year": "Oct. 05, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "De la noche a la mañana, Fátima, una mujer en sus cuarentas, se convierte en la influencer más famosa del momento. Sofi y Cami, un par de jóvenes influencers, intentarán aprovecharse de la repentina popularidad de Fátima fingiendo ser sus amigas. En la misma medida que Fátima logra tener seguidores que la aman, también atraerá a haters escondidos detrás de una pantalla, sin saber que se han burlado del perfil equivocado.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/2/W/c/2/2Wc2v.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/2/W/c/2/2Wc2v.caa.mp4"
       }
     ]
   },
@@ -175,7 +154,7 @@
   },
   {
     "title": "Shrek 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/knRt4E8KyfwEv0SVu9LsLvD28IQ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0179.jpg",
     "rating": "7.3",
     "year": "May. 19, 2004",
     "quality": "720 HD",
@@ -194,6 +173,74 @@
       {
         "type": "mp4",
         "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTQudmltZW9zLm5ldC9obHMyLzAzLzAwMDAwLzM4YnZncWFwbmtldl9uL2luZGV4LXYxLWExLm0zdTg_dD1veFg1d3l3MFhTdjZXRGhXZXVyaUN3cG5yTkNMek1sSGx1TVpybjE4aGxzJnM9MTc4NzM2MDc3MiZlPTQzMjAwJnY9MzI1Mjc4OTI3Jmk9MC4zJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Señora Influencer",
+    "image": "https://image.tmdb.org/t/p/w185/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg",
+    "rating": "7.1",
+    "year": "Oct. 05, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "De la noche a la mañana, Fátima, una mujer en sus cuarentas, se convierte en la influencer más famosa del momento. Sofi y Cami, un par de jóvenes influencers, intentarán aprovecharse de la repentina popularidad de Fátima fingiendo ser sus amigas. En la misma medida que Fátima logra tener seguidores que la aman, también atraerá a haters escondidos detrás de una pantalla, sin saber que se han burlado del perfil equivocado.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/f/P/oTfPp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Shrek: Felices para siempre",
+    "image": "https://image.tmdb.org/t/p/w185/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+    "rating": "6.3",
+    "year": "May. 16, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un «ogro real», Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/5f/s8/2/5/C/0/5/5C05v.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Secretariat",
+    "image": "https://image.tmdb.org/t/p/w185/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg",
+    "rating": "7.2",
+    "year": "Aug. 20, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Narra las peripecias del ganador de la Triple Corona en 1973. Penny Chenery es una madre y ama de casa que, al enfermar su padre, se compromete a hacerse cargo de las caballerizas de la familia, en Virginia. Aunque ignora todo cuanto se refiere al mundo de las carreras de caballos, con la ayuda de un veterano entrenador y contra todo pronóstico, acaba consiguiendo la primera Triple Corona en 25 años, gracias a uno de los mejores caballos de carreras de todos los tiempos.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/D/E/s/L/DEsLs.aaa.mp4"
       }
     ]
   },
@@ -237,25 +284,6 @@
     ]
   },
   {
-    "title": "Sex Appeal",
-    "image": "https://image.tmdb.org/t/p/w185/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
-    "rating": "5.3",
-    "year": "Jan. 14, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Avery, una adolescente con tendencia al perfeccionismo, recluta a su amigo Larson para que la ayude a prepararse para su primera vez con su novio a larga distancia.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/C/t/f7Cts.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Sol de justicia ; Killer Heat",
     "image": "https://image.tmdb.org/t/p/w185/zHrNdRdB1RahDWD8JfuH0mf0la3.jpg",
     "rating": "0",
@@ -273,28 +301,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/b/H/i/R/bHiRt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
-    "title": "Solitary Man ; El Hombre Solitario",
-    "image": "https://image.tmdb.org/t/p/w185/mKDIhs9uVp9xWfa1y0ScAyPiDkT.jpg",
-    "rating": "6.3",
-    "year": "Sep. 07, 2009",
-    "quality": "480p SD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/f4/s8/2/g/G/N/q/gGNqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=704244736-704298534"
       }
     ]
   },
@@ -323,89 +329,6 @@
     ]
   },
   {
-    "title": "Seis Triple Ocho",
-    "image": "https://image.tmdb.org/t/p/w185/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg",
-    "rating": "6.6",
-    "year": "Dec. 06, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de 17 millones de piezas de correo.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/W/c/2/2Wc2v.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/2/W/c/2/2Wc2v.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Secretariat",
-    "image": "https://image.tmdb.org/t/p/w185/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg",
-    "rating": "7.2",
-    "year": "Aug. 20, 2010",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Narra las peripecias del ganador de la Triple Corona en 1973. Penny Chenery es una madre y ama de casa que, al enfermar su padre, se compromete a hacerse cargo de las caballerizas de la familia, en Virginia. Aunque ignora todo cuanto se refiere al mundo de las carreras de caballos, con la ayuda de un veterano entrenador y contra todo pronóstico, acaba consiguiendo la primera Triple Corona en 25 años, gracias a uno de los mejores caballos de carreras de todos los tiempos.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/E/s/L/DEsLs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Silencio desde el mal ; El Titere ; Dead Silence",
-    "image": "https://image.tmdb.org/t/p/w185/wwb8z8BiRr6aTwLv6slfOMJMCdq.jpg",
-    "rating": "6.1",
-    "year": "Mar. 16, 2007",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un joven viudo regresa a su hogar para investigar el asesinato de su mujer. Allí descubre la leyenda de Mary Shaw, una ventrílocua que pidió ser enterrada junto a sus 101 «muñecos». Uno de ellos parece haber vuelto de la tumba, y no precisamente con buenas intenciones… De los creadores de «Saw».",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/u/Z/n/_uZns.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/u/Z/n/_uZns.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Somos los Miller",
-    "image": "https://image.tmdb.org/t/p/w185/e6ITLpsQP9FMBF4jDyvHpWUYV64.jpg",
-    "rating": "7",
-    "year": "Aug. 07, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un traficante de marihuana se crea una familia ficticia con una stripper y dos jóvenes como parte de su plan para pasar un gran cargamento de Estados Unidos a México.",
-    "genres": [
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/5a/s8/2/i/p/J/D/ipJDw.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Son como niños",
     "image": "https://image.tmdb.org/t/p/w185/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
     "rating": "6",
@@ -420,25 +343,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/y/E/y/dyEyu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sick 2022",
-    "image": "https://image.tmdb.org/t/p/w185/nBgxSimgLMGYCQckRQw7C2f7row.jpg",
-    "rating": "6",
-    "year": "Sep. 11, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Durante la pandemia, Parker y su mejor amigo deciden realizar la cuarentena en la casa familiar del lago donde estarán aislados del mundo… o al menos eso es lo que piensan.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/0/N/1/Z0N1j.caa.mp4"
       }
     ]
   },
@@ -503,29 +407,6 @@
     ]
   },
   {
-    "title": "Sin escape (2015)",
-    "image": "https://zonaaps.com/wp-content/uploads/2024/07/Sin-escape-1024x512-1.jpg",
-    "rating": "0",
-    "year": "Sep. 03, 2015",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un hombre de negocios y su familia se ven atrapados en medio de un violento golpe de estado en un país del sudeste asiático. Mientras los rebeldes atacan, Jack y su familia tienen que buscar la forma de sobrevivir al infierno.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Sonic: La película",
     "image": "https://image.tmdb.org/t/p/w185/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
     "rating": "6.5",
@@ -543,6 +424,65 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe2/d2/s8/2/-/a/o/n/-aonx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Regreso al futuro. Parte III",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0164.jpg",
+    "rating": "7.4",
+    "year": "May. 25, 1990",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Atrapado en 1955, Marty McFly se entera de la muerte de Doc Brown en 1885 y debe viajar en el tiempo para salvarlo. Sin combustible para el DeLorean, los dos deben averiguar cómo escapar del viejo Oeste antes de que Emmett sea asesinado.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDAzLzkyeTBoY3BpZ3V1aF9uL2luZGV4LXYxLWExLm0zdTg_dD1fbU9CVlpTR0I2eDhodlJHTnRnN1F4ZTVXUzExMTNPQ2F3WFNxQzBBY0dVJnM9MTc4NzM2MTczOCZlPTQzMjAwJnY9MzMxOTQxOTQyJmk9MC4zJnNwPTAmcj1l"
+      }
+    ]
+  },
+  {
+    "title": "Simón",
+    "image": "https://image.tmdb.org/t/p/w185/8bY3ojxD1C9VaOVLNh9cATtRIJm.jpg",
+    "rating": "8",
+    "year": "Apr. 15, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/U/V/f/o/UVfoq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sex Appeal",
+    "image": "https://image.tmdb.org/t/p/w185/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg",
+    "rating": "5.3",
+    "year": "Jan. 14, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Avery, una adolescente con tendencia al perfeccionismo, recluta a su amigo Larson para que la ayude a prepararse para su primera vez con su novio a larga distancia.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/7/C/t/f7Cts.aaa.mp4"
       }
     ]
   },
@@ -568,20 +508,47 @@
     ]
   },
   {
-    "title": "Simón",
-    "image": "https://image.tmdb.org/t/p/w185/8bY3ojxD1C9VaOVLNh9cATtRIJm.jpg",
-    "rating": "8",
-    "year": "Apr. 15, 2023",
+    "title": "Solitary Man ; El Hombre Solitario",
+    "image": "https://image.tmdb.org/t/p/w185/mKDIhs9uVp9xWfa1y0ScAyPiDkT.jpg",
+    "rating": "6.3",
+    "year": "Sep. 07, 2009",
+    "quality": "480p SD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/f4/s8/2/g/G/N/q/gGNqz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=704244736-704298534"
+      }
+    ]
+  },
+  {
+    "title": "Sin escape (2015)",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0181.jpg",
+    "rating": "0",
+    "year": "Sep. 03, 2015",
     "quality": "720 HD",
     "languages": [],
-    "description": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
+    "description": "Un hombre de negocios y su familia se ven atrapados en medio de un violento golpe de estado en un país del sudeste asiático. Mientras los rebeldes atacan, Jack y su familia tienen que buscar la forma de sobrevivir al infierno.",
     "genres": [
-      "Drama"
+      "Acción",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/U/V/f/o/UVfoq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/B/D/-/J/BD-Js.caa.mp4"
       }
     ]
   },
@@ -607,25 +574,21 @@
     ]
   },
   {
-    "title": "Spider-Man ; Sin Camino A Casa",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/wngeV2SQk9UllOqZLaBbq16wpy5-185x278.jpg",
-    "rating": "8.2",
-    "year": "Dec. 15, 2021",
+    "title": "Somos los Miller",
+    "image": "https://image.tmdb.org/t/p/w185/e6ITLpsQP9FMBF4jDyvHpWUYV64.jpg",
+    "rating": "7",
+    "year": "Aug. 07, 2013",
     "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+    "languages": [],
+    "description": "Un traficante de marihuana se crea una familia ficticia con una stripper y dos jóvenes como parte de su plan para pasar un gran cargamento de Estados Unidos a México.",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Comedia",
+      "Crimen"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/13/s8/2/4/h/e/j/4hejA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4558005760-4558096527"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/5a/s8/2/i/p/J/D/ipJDw.aaa.mp4"
       }
     ]
   },
@@ -652,23 +615,67 @@
     ]
   },
   {
-    "title": "Sing ven y ¡Canta!: Thriller",
-    "image": "https://image.tmdb.org/t/p/w185/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
-    "rating": "6.8",
-    "year": "Oct. 16, 2024",
+    "title": "Spider-Man ; Sin Camino A Casa",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0183.jpg",
+    "rating": "8.2",
+    "year": "Dec. 15, 2021",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Buster Moon sueña con un espectáculo de estrellas al ritmo de ‘Thriller’ de Michael Jackson en este corto de animación con personajes de las exitosas películas ‘¡Canta!’.",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
     "genres": [
-      "Animación",
-      "Comedia",
-      "Familia",
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/13/s8/2/4/h/e/j/4hejA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4558005760-4558096527"
+      }
+    ]
+  },
+  {
+    "title": "Silencio desde el mal ; El Titere ; Dead Silence",
+    "image": "https://image.tmdb.org/t/p/w185/wwb8z8BiRr6aTwLv6slfOMJMCdq.jpg",
+    "rating": "6.1",
+    "year": "Mar. 16, 2007",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un joven viudo regresa a su hogar para investigar el asesinato de su mujer. Allí descubre la leyenda de Mary Shaw, una ventrílocua que pidió ser enterrada junto a sus 101 «muñecos». Uno de ellos parece haber vuelto de la tumba, y no precisamente con buenas intenciones… De los creadores de «Saw».",
+    "genres": [
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/a/T/-/baT-t.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/u/Z/n/_uZns.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/u/Z/n/_uZns.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Slender Man",
+    "image": "https://image.tmdb.org/t/p/w185/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
+    "rating": "3.3",
+    "year": "Aug. 10, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "“El hombre más pálido. El traje más oscuro. Más grande que el gigante más alto. Ten miedo de este hombre: Slender Man ya que puede hacer lo que nadie puede”. Estas son algunas de las características que usuarios del internet dieron al personaje ficticio de terror Slender Man (el hombre delgado). Ahora la criatura llega a la gran pantalla con este film de terror, que nace de una de las leyendas urbanas de la web más populares, en base de una recopilación de imágenes en el foro Something Awful y, hoy en día, pertenece a la cultura «creepypasta».",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/k/K/pQkKr.aaa.mp4"
       }
     ]
   },
@@ -695,7 +702,7 @@
   },
   {
     "title": "Spider-Man: Un nuevo día",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/GUVYjqDLWy61q9hDYiV9M5UEJe-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0184.jpg",
     "rating": "8.5",
     "year": "2026",
     "quality": "",
@@ -738,26 +745,6 @@
     ]
   },
   {
-    "title": "Smile ; Sonrrie",
-    "image": "https://image.tmdb.org/t/p/w185/szII7Fo0TWePGNI7CoWnAdESdZ5.jpg",
-    "rating": "6.5",
-    "year": "Sep. 23, 2022",
-    "quality": "",
-    "languages": [],
-    "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/q/c/5/E/qc5Ej.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Spirit: El Indomable",
     "image": "https://image.tmdb.org/t/p/w185/bSkqrecf1g2d0h9z0oJlgxXVHwt.jpg",
     "rating": "5.5",
@@ -774,6 +761,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fwe1/bd/s8/2/W/y/v/o/Wyvoy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Smile ; Sonrrie",
+    "image": "https://image.tmdb.org/t/p/w185/szII7Fo0TWePGNI7CoWnAdESdZ5.jpg",
+    "rating": "6.5",
+    "year": "Sep. 23, 2022",
+    "quality": "",
+    "languages": [],
+    "description": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/q/c/5/E/qc5Ej.caa.mp4"
       }
     ]
   },
@@ -799,22 +806,24 @@
     ]
   },
   {
-    "title": "Slender Man",
-    "image": "https://image.tmdb.org/t/p/w185/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
-    "rating": "3.3",
-    "year": "Aug. 10, 2018",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "“El hombre más pálido. El traje más oscuro. Más grande que el gigante más alto. Ten miedo de este hombre: Slender Man ya que puede hacer lo que nadie puede”. Estas son algunas de las características que usuarios del internet dieron al personaje ficticio de terror Slender Man (el hombre delgado). Ahora la criatura llega a la gran pantalla con este film de terror, que nace de una de las leyendas urbanas de la web más populares, en base de una recopilación de imágenes en el foro Something Awful y, hoy en día, pertenece a la cultura «creepypasta».",
+    "title": "Star Wars: El despertar de la fuerza ; Star Wars Episodio 7",
+    "image": "https://image.tmdb.org/t/p/w185/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+    "rating": "7.7",
+    "year": "Dec. 15, 2015",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
     "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/k/K/pQkKr.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/90/s8/2/G/h/9/1/Gh91z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1088098816-1088182144"
       }
     ]
   },

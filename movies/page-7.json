@@ -1,26 +1,5 @@
 [
   {
-    "title": "Codigos de Guerra ; Windtalkers",
-    "image": "https://image.tmdb.org/t/p/w185/nDVe8IpViR0bdFrraEN2IZnBanN.jpg",
-    "rating": "6.1",
-    "year": "Jun. 14, 2002",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Durante la Segunda Guerra Mundial (1939-1945) el avance de las tropas estadounidenses en la campaña del Pacífico se ve seriamente obstaculizado por la capacidad de los servicios de inteligencia japoneses para descifrar los mensajes militares. A finales de 1942, son entrenados varios centenares de indios navajos para emplear un código secreto basado en su lengua materna, el único que no pudo ser descifrado por los japoneses. Los protagonistas son dos oficiales cuya misión es proteger a dos indios navajos enrolados en la Marina. Basada en hechos reales.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/o/d/T/ZodTs.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Cariño, cuánto te odio",
     "image": "https://image.tmdb.org/t/p/w185/bLZhgPtOLHr2dmr2mHS0DbHYvv2.jpg",
     "rating": "6.2",
@@ -86,6 +65,27 @@
     ]
   },
   {
+    "title": "Cenicienta",
+    "image": "https://image.tmdb.org/t/p/w185/zqWF0q31AgZTPDlCEgQlMNopnHy.jpg",
+    "rating": "0",
+    "year": "Mar. 06, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuenta las andanzas de Ella, una joven cuyo padre, un comerciante, vuelve a casarse tras enviudar. Para agradar a su padre, acoge con cariño a su madrastra y a sus hijas en la casa familiar. Pero, cuando su padre muere inesperadamente, la joven queda a merced de unas mujeres celosas y malvadas que la convierten en sirvienta y la relegan a la cocina. Pero, a pesar de la crueldad con la que la tratan, está dispuesta a cumplir las últimas palabras de su madre que le dijo que debía «ser valiente y amable».",
+    "genres": [
+      "Drama",
+      "Familia",
+      "Fantasía",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/M/O/oTMOq.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Cometas en el cielo",
     "image": "https://image.tmdb.org/t/p/w185/y0ySv3DJZsZ41RCEGY9XPb0BPDs.jpg",
     "rating": "7.6",
@@ -103,6 +103,26 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/45/s8/2/W/O/v/g/WOvgz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1006830592-1006907568"
+      }
+    ]
+  },
+  {
+    "title": "Como caído del cielo",
+    "image": "https://image.tmdb.org/t/p/w185/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg",
+    "rating": "6.5",
+    "year": "Dec. 24, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El legendario actor y cantante mexicano Pedro Infante es enviado de regreso a la Tierra en el cuerpo de un imitador para enmendar sus errores por la forma en que trató a las mujeres y así ganar su entrada al cielo.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/49/s8/2/m/R/q/F/mRqFw.aaa.mp4"
       }
     ]
   },
@@ -131,22 +151,46 @@
     ]
   },
   {
-    "title": "Como caído del cielo",
-    "image": "https://image.tmdb.org/t/p/w185/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg",
-    "rating": "6.5",
-    "year": "Dec. 24, 2019",
-    "quality": "720p HD",
+    "title": "Cherry",
+    "image": "https://image.tmdb.org/t/p/w185/x6p8I3KOuh7QmZzCQgGmGM7PzEK.jpg",
+    "rating": "6.6",
+    "year": "Feb. 26, 2021",
+    "quality": "720 HD",
     "languages": [],
-    "description": "El legendario actor y cantante mexicano Pedro Infante es enviado de regreso a la Tierra en el cuerpo de un imitador para enmendar sus errores por la forma en que trató a las mujeres y así ganar su entrada al cielo.",
+    "description": "Cuenta la historia real de Nico Walker, que volvió de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado que le llevó primero a hacerse adicto al opio y posteriormente a robar bancos.",
     "genres": [
-      "Comedia",
-      "Drama",
-      "Música"
+      "Crimen",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/49/s8/2/m/R/q/F/mRqFw.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/i/p/k/H/ipkHs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/i/p/k/H/ipkHs.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Cazafantasmas: Más allá",
+    "image": "https://image.tmdb.org/t/p/w185/igKE2uWnmyOhVeweBiYQ30FFixf.jpg",
+    "rating": "7",
+    "year": "Nov. 18, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una madre soltera y sus dos hijos llegan a una pequeña ciudad, descubriendo su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo tras de sí.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/e/K/pQeKr.aaa.mp4"
       }
     ]
   },
@@ -168,6 +212,24 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/g/3/T/Ag3Tu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Chicas malas",
+    "image": "https://image.tmdb.org/t/p/w185/OcZPwR89CM8ay8asq3J4XFeKII.jpg",
+    "rating": "5.9",
+    "year": "Jan. 10, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de chicas populares llamado «Las Plásticas», gobernado por la intrigante abeja reina Regina George y sus secuaces Gretchen y Karen. Sin embargo, cuando Cady comete el grave error de enamorarse del ex novio de Regina, Aaron Samuels, se encuentra en el punto de mira de Regina. Con la ayuda de sus amigos marginados Janis y Damian, Cady se propone acabar con la depredadora del grupo y aprender a ser fiel a sí misma en la jungla más despiadada de todas: el instituto.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/b/g/i/n/bginq.aaa.mp4"
       }
     ]
   },
@@ -212,91 +274,22 @@
     ]
   },
   {
-    "title": "CJ7",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/3AShAnuRCjCvSAXQWtcWUJviz37-185x278.jpg",
-    "rating": "6.4",
-    "year": "Jan. 30, 2008",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Ti es un padre que, al no tener dinero para comprarle juguetes a su hijo, se acerca al vertedero a ver si encuentra algo decente y en buen estado. Finalmente, se lleva un juguete, que resulta ser un objeto alienígena.",
-    "genres": [
-      "Ciencia ficción",
-      "Comedia",
-      "Drama",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5L2t0cGx6b3c1a3QwNl9oL2luZGV4LXYxLWExLm0zdTg_dD1rT3BvZkU3M1FHVjYzQXBLcF9qczR4ekl0U1lJUWY5cmNBZ2k5MXk0Z0drJnM9MTc4NzM2MDgwMyZlPTQzMjAwJnY9MzI1Mzk3ODg3Jmk9MC4zJnNwPTAmZnI9a3RwbHpvdzVrdDA2JnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Cenicienta",
-    "image": "https://image.tmdb.org/t/p/w185/zqWF0q31AgZTPDlCEgQlMNopnHy.jpg",
+    "title": "Contraataque",
+    "image": "https://image.tmdb.org/t/p/w185/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg",
     "rating": "0",
-    "year": "Mar. 06, 2015",
-    "quality": "720 HD",
+    "year": "Feb. 28, 2025",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Cuenta las andanzas de Ella, una joven cuyo padre, un comerciante, vuelve a casarse tras enviudar. Para agradar a su padre, acoge con cariño a su madrastra y a sus hijas en la casa familiar. Pero, cuando su padre muere inesperadamente, la joven queda a merced de unas mujeres celosas y malvadas que la convierten en sirvienta y la relegan a la cocina. Pero, a pesar de la crueldad con la que la tratan, está dispuesta a cumplir las últimas palabras de su madre que le dijo que debía «ser valiente y amable».",
+    "description": "",
     "genres": [
-      "Drama",
-      "Familia",
-      "Fantasía",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/o/T/M/O/oTMOq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Cazafantasmas: Más allá",
-    "image": "https://image.tmdb.org/t/p/w185/igKE2uWnmyOhVeweBiYQ30FFixf.jpg",
-    "rating": "7",
-    "year": "Nov. 18, 2021",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una madre soltera y sus dos hijos llegan a una pequeña ciudad, descubriendo su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo tras de sí.",
-    "genres": [
+      "Acción",
       "Aventura",
-      "Ciencia ficción",
-      "Comedia",
-      "Fantasía"
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/e/K/pQeKr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Cherry",
-    "image": "https://image.tmdb.org/t/p/w185/x6p8I3KOuh7QmZzCQgGmGM7PzEK.jpg",
-    "rating": "6.6",
-    "year": "Feb. 26, 2021",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuenta la historia real de Nico Walker, que volvió de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado que le llevó primero a hacerse adicto al opio y posteriormente a robar bancos.",
-    "genres": [
-      "Crimen",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/i/p/k/H/ipkHs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/i/p/k/H/ipkHs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/a8/s8/2/y/F/v/o/yFvoy.aaa.mp4"
       }
     ]
   },
@@ -321,181 +314,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/c/w/f/zcwfs.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Contraataque",
-    "image": "https://image.tmdb.org/t/p/w185/vaRGCGxYeKKgI9df2YZj5vlJebr.jpg",
-    "rating": "0",
-    "year": "Feb. 28, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/a8/s8/2/y/F/v/o/yFvoy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Chicas malas",
-    "image": "https://image.tmdb.org/t/p/w185/OcZPwR89CM8ay8asq3J4XFeKII.jpg",
-    "rating": "5.9",
-    "year": "Jan. 10, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de chicas populares llamado «Las Plásticas», gobernado por la intrigante abeja reina Regina George y sus secuaces Gretchen y Karen. Sin embargo, cuando Cady comete el grave error de enamorarse del ex novio de Regina, Aaron Samuels, se encuentra en el punto de mira de Regina. Con la ayuda de sus amigos marginados Janis y Damian, Cady se propone acabar con la depredadora del grupo y aprender a ser fiel a sí misma en la jungla más despiadada de todas: el instituto.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/g/i/n/bginq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Corre o muere",
-    "image": "https://image.tmdb.org/t/p/w185/zUYEt6OWkppLIJuDpxVqLVLq5JY.jpg",
-    "rating": "4.5",
-    "year": "May. 17, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una adolescente que padece ansiedad debido a un trágico suceso de su pasado se ve acechada por un sociópata que la persigue por el bosque.",
-    "genres": [
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/ab/s8/2/E/b/m/V/EbmVw.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Corte en el tiempo",
-    "image": "https://image.tmdb.org/t/p/w185/gQfOwMJAeciNZxqTm3fkjiOaApP.jpg",
-    "rating": "0",
-    "year": "Oct. 29, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una adolescente viaja accidentalmente del año 2024 al 2003, días antes de que una persona enmascarada asesine a su hermana. ¿Podrá cambiar el pasado sin destruir el futuro?",
-    "genres": [
-      "Ciencia ficción",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/H/Q/g/vHQgu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Correr Para Vivir",
-    "image": "https://image.tmdb.org/t/p/w185/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg",
-    "rating": "7",
-    "year": "Apr. 25, 2024",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Dos hermanos Tarahumaras en eterna competencia y con un talento singular para correr, ven sus caminos distanciados. Homero el hermano menor, busca convertirse en el corredor más grande de todos los tiempos, mientras que su hermano Capó cae en las redes de la delincuencia organizada en búsqueda de un mejor futuro.",
-    "genres": [
-      "Acción",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/72/s8/2/a/j/A/x/ajAxy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Corrupción en Bangkok: Entre el cielo y el infierno",
-    "image": "https://image.tmdb.org/t/p/w185/4Rl94Nzl912JDO6qVjtSelNxjIG.jpg",
-    "rating": "0",
-    "year": "Sep. 19, 2024",
-    "quality": "",
-    "languages": [],
-    "description": "Un rescatista debe luchar por sobrevivir tras verse atrapado en un conflicto entre bandas rivales de los bajos fondos de Bangkok.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Drama",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/-/5/Q/f-5Qt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Chucky 3 ; Muñeco diabólico 3",
-    "image": "https://image.tmdb.org/t/p/w185/l1Jm1dlKI012OEKUgn8fubassSg.jpg",
-    "rating": "5.2",
-    "year": "Aug. 30, 1991",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ocho años después del día en que creyó haber destruido al muñeco asesino, Andy Barclay cumple los dieciséis y entra en una academia militar. Mientras, el codicioso presidente de la empresa de juguetes Play Pals decide resucitar la popular línea de muñecos Good Guys. Cuando la cadena de montaje recrea el primer muñeco a partir de una masa de plástico derretido, el espíritu de Chucky regresa con renovadas intenciones de alcanzar su objetivo y vengarse de Andy.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/R/v/o/O/RvoOq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Chicas malas",
-    "image": "https://image.tmdb.org/t/p/w185/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
-    "rating": "7.1",
-    "year": "Apr. 30, 2004",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/8/n/m/n/8nmnq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Countdown: La hora de tu muerte",
-    "image": "https://image.tmdb.org/t/p/w185/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg",
-    "rating": "5.4",
-    "year": "Oct. 24, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una enfermera descarga una app que informa al usuario de cuándo morirá. La app le comunica a la joven que fallecerá en tres días y, a partir de ese momento, empieza una carrera frenética por sobrevivir a lo que parece inevitable.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/b/a/N/A/baNAw.aaa.mp4"
       }
     ]
   },
@@ -526,6 +344,162 @@
     ]
   },
   {
+    "title": "Corre o muere",
+    "image": "https://image.tmdb.org/t/p/w185/zUYEt6OWkppLIJuDpxVqLVLq5JY.jpg",
+    "rating": "4.5",
+    "year": "May. 17, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una adolescente que padece ansiedad debido a un trágico suceso de su pasado se ve acechada por un sociópata que la persigue por el bosque.",
+    "genres": [
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/ab/s8/2/E/b/m/V/EbmVw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Chucky 3 ; Muñeco diabólico 3",
+    "image": "https://image.tmdb.org/t/p/w185/l1Jm1dlKI012OEKUgn8fubassSg.jpg",
+    "rating": "5.2",
+    "year": "Aug. 30, 1991",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ocho años después del día en que creyó haber destruido al muñeco asesino, Andy Barclay cumple los dieciséis y entra en una academia militar. Mientras, el codicioso presidente de la empresa de juguetes Play Pals decide resucitar la popular línea de muñecos Good Guys. Cuando la cadena de montaje recrea el primer muñeco a partir de una masa de plástico derretido, el espíritu de Chucky regresa con renovadas intenciones de alcanzar su objetivo y vengarse de Andy.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/R/v/o/O/RvoOq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Corrupción en Bangkok: Entre el cielo y el infierno",
+    "image": "https://image.tmdb.org/t/p/w185/4Rl94Nzl912JDO6qVjtSelNxjIG.jpg",
+    "rating": "0",
+    "year": "Sep. 19, 2024",
+    "quality": "",
+    "languages": [],
+    "description": "Un rescatista debe luchar por sobrevivir tras verse atrapado en un conflicto entre bandas rivales de los bajos fondos de Bangkok.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/-/5/Q/f-5Qt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Correr Para Vivir",
+    "image": "https://image.tmdb.org/t/p/w185/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg",
+    "rating": "7",
+    "year": "Apr. 25, 2024",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Dos hermanos Tarahumaras en eterna competencia y con un talento singular para correr, ven sus caminos distanciados. Homero el hermano menor, busca convertirse en el corredor más grande de todos los tiempos, mientras que su hermano Capó cae en las redes de la delincuencia organizada en búsqueda de un mejor futuro.",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/72/s8/2/a/j/A/x/ajAxy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Corte en el tiempo",
+    "image": "https://image.tmdb.org/t/p/w185/gQfOwMJAeciNZxqTm3fkjiOaApP.jpg",
+    "rating": "0",
+    "year": "Oct. 29, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una adolescente viaja accidentalmente del año 2024 al 2003, días antes de que una persona enmascarada asesine a su hermana. ¿Podrá cambiar el pasado sin destruir el futuro?",
+    "genres": [
+      "Ciencia ficción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/H/Q/g/vHQgu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Countdown: La hora de tu muerte",
+    "image": "https://image.tmdb.org/t/p/w185/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg",
+    "rating": "5.4",
+    "year": "Oct. 24, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una enfermera descarga una app que informa al usuario de cuándo morirá. La app le comunica a la joven que fallecerá en tres días y, a partir de ese momento, empieza una carrera frenética por sobrevivir a lo que parece inevitable.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/b/a/N/A/baNAw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Creed. La leyenda de Rocky",
+    "image": "https://image.tmdb.org/t/p/w185/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg",
+    "rating": "7.6",
+    "year": "Nov. 25, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Adonis Johnson no llegó a conocer a su padre, el campeón del mundo de los pesos pesados Apollo Creed, que falleció antes de que él naciera. Sin embargo, nadie puede negar que lleva el boxeo en la sangre, por lo que pone rumbo a Filadelfia, el lugar en el que se celebró el legendario combate entre su padre y Rocky Balboa. Una vez allí, Adonis busca a Rocky y le pide que sea su entrenador. A pesar de que este insiste en que ya ha dejado ese mundo para siempre, Rocky ve en Adonis la fuerza y determinación que tenía su enconado rival, y que terminó por convertirse en su mejor amigo. Finalmente, acepta entrenarle a pesar de estar librando su propio combate contra un rival más letal que cualquiera a los que se enfrentó en el cuadrilátero.",
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/L/-/O/8/L-O8t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Chicas malas",
+    "image": "https://image.tmdb.org/t/p/w185/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
+    "rating": "7.1",
+    "year": "Apr. 30, 2004",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/8/n/m/n/8nmnq.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Coherence",
     "image": "https://image.tmdb.org/t/p/w185/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg",
     "rating": "7.2",
@@ -549,21 +523,22 @@
     ]
   },
   {
-    "title": "Creed. La leyenda de Rocky",
-    "image": "https://image.tmdb.org/t/p/w185/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg",
-    "rating": "7.6",
-    "year": "Nov. 25, 2015",
-    "quality": "720p HD",
+    "title": "CODA: Los sonidos del silencio",
+    "image": "https://image.tmdb.org/t/p/w185/sSkEkCxsEs9LuHZzA2IZYyvd9x4.jpg",
+    "rating": "8",
+    "year": "Aug. 11, 2021",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Adonis Johnson no llegó a conocer a su padre, el campeón del mundo de los pesos pesados Apollo Creed, que falleció antes de que él naciera. Sin embargo, nadie puede negar que lleva el boxeo en la sangre, por lo que pone rumbo a Filadelfia, el lugar en el que se celebró el legendario combate entre su padre y Rocky Balboa. Una vez allí, Adonis busca a Rocky y le pide que sea su entrenador. A pesar de que este insiste en que ya ha dejado ese mundo para siempre, Rocky ve en Adonis la fuerza y determinación que tenía su enconado rival, y que terminó por convertirse en su mejor amigo. Finalmente, acepta entrenarle a pesar de estar librando su propio combate contra un rival más letal que cualquiera a los que se enfrentó en el cuadrilátero.",
+    "description": "Ruby es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.",
     "genres": [
-      "Acción",
-      "Drama"
+      "Drama",
+      "Música",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/-/O/8/L-O8t.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/0/w/8/I/0w8In.caa.mp4"
       }
     ]
   },
@@ -589,8 +564,26 @@
     ]
   },
   {
+    "title": "Cuando las luces se apagan",
+    "image": "https://image.tmdb.org/t/p/w185/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
+    "rating": "6.3",
+    "year": "Jul. 21, 2016",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando Rebecca dejó su antiguo hogar, pensó que había dejado atrás sus temores de la infancia. De niña ella nunca estaba segura de lo que era y no era real cuando se apagaban las luces; ahora su pequeño hermano Martin, está experimentando los mismos acontecimientos inexplicables y aterradores que habían probado su cordura y amenazado su seguridad. Una aterradora entidad con un misterioso apego a su madre, Sophie, ha resurgido.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/a6/s8/2/S/v/A/p/SvApy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Corazones malheridos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/ndp4yIfg04i3raprDJ0UKWD8IK9-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0041.jpg",
     "rating": "6.7",
     "year": "Jul. 29, 2022",
     "quality": "720 HD",
@@ -606,24 +599,6 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDMvMDAwMDkvcGg1ZzY4a2p5MW1oX24vaW5kZXgtdjEtYTEubTN1OD90PXZRR2lkQTRBbXJ1NDFhMTliM2Rnck9paTN3SUpsWmp6bElxZnBOeEF0YlUmcz0xNzg3MzYwODAwJmU9NDMyMDAmdj0zMzAwNTI3MDQmc3J2PXM4Jmk9MC4zJnNwPTAmZnI9cGg1ZzY4a2p5MW1oJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Cuando las luces se apagan",
-    "image": "https://image.tmdb.org/t/p/w185/sS5mCrpSXghQl4kh2y3aTN4M74v.jpg",
-    "rating": "6.3",
-    "year": "Jul. 21, 2016",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando Rebecca dejó su antiguo hogar, pensó que había dejado atrás sus temores de la infancia. De niña ella nunca estaba segura de lo que era y no era real cuando se apagaban las luces; ahora su pequeño hermano Martin, está experimentando los mismos acontecimientos inexplicables y aterradores que habían probado su cordura y amenazado su seguridad. Una aterradora entidad con un misterioso apego a su madre, Sophie, ha resurgido.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/a6/s8/2/S/v/A/p/SvApy.aaa.mp4"
       }
     ]
   },
@@ -650,7 +625,7 @@
   },
   {
     "title": "Culpa Mía: Londres",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/q0HxfkF9eoa6wSVnzwMhuDSK7ba-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0044.jpg",
     "rating": "0",
     "year": "Feb. 12, 2025",
     "quality": "720p HD",
@@ -668,28 +643,32 @@
     ]
   },
   {
-    "title": "CODA: Los sonidos del silencio",
-    "image": "https://image.tmdb.org/t/p/w185/sSkEkCxsEs9LuHZzA2IZYyvd9x4.jpg",
-    "rating": "8",
-    "year": "Aug. 11, 2021",
+    "title": "Como sobrevivir a mi ex ; Paso de ti",
+    "image": "https://image.tmdb.org/t/p/w185/jSKVemmRF2JhFOo5Qvm1TZfHa3H.jpg",
+    "rating": "0",
+    "year": "Apr. 17, 2008",
     "quality": "720 HD",
     "languages": [],
-    "description": "Ruby es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.",
+    "description": "Peter Bretter (Jason Segel) es un compositor que está hecho polvo desde que Sarah Marshall (Kristen Bell), su novia durante cinco años, le abadona. Su medio hermano Brian (Bill Hader) le sugiere que se vaya de viaje a Hawai para levantar el ánimo. A Peter le gusta la idea y viaja a un centro turístico en la isla de Oahu. Tan pronto como termina de registrarse en el hotel, ve a Sarah con su nuevo novio, el rockero británico Aldous Snow (Russell Brand). Peter vuelve a hundirse en la miseria, y sólo consigue levantar cabeza gracias a Rachel (Mila Kunis), una empleada del hotel.",
     "genres": [
+      "Comedia",
       "Drama",
-      "Música",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/0/w/8/I/0w8In.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/2/D/6/0/2D60r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/2/D/6/0/2D60r.caa.mp4"
       }
     ]
   },
   {
     "title": "Culpa tuya",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/1jvCVdlgInyItAUEvvvCakm1Yxz-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0046.jpg",
     "rating": "0",
     "year": "Dec. 26, 2024",
     "quality": "720p HD",
@@ -708,7 +687,7 @@
   },
   {
     "title": "Culpa Tuya: Londres ; Your Fault: London",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/nLxu237EJAisFCYKK48hN9Plobx-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0047.jpg",
     "rating": "N/A",
     "year": "Jun. 17, 2026",
     "quality": "720p HD",
@@ -729,21 +708,27 @@
     ]
   },
   {
-    "title": "Código: Emperador",
-    "image": "https://image.tmdb.org/t/p/w185/xas31RGgejMwrEZELD6iplqGgTM.jpg",
-    "rating": "5.8",
-    "year": "Mar. 18, 2022",
-    "quality": "720p HD",
+    "title": "Contra todos ; Boy Kills World",
+    "image": "https://image.tmdb.org/t/p/w185/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg",
+    "rating": "6.4",
+    "year": "Apr. 24, 2024",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Juan, un agente del servicio secreto, se acerca a Wendy, una joven filipina que trabaja como criada para una pareja sospechosa.",
+    "description": "Boy (Bill Skarsgård) es un joven que deberá enfrentarse a la desquiciada matriarca de una corrupta dinastía postapocalíptica que lo dejó huérfano, sordo y sin voz. Tras vivir una trágica infancia, un enigmático chamán (Yayan Ruhian) le convertirá en un instrumento de venganza y lo soltará en su lejana distopía en vísperas de la matanza anual de disidentes. Intentando encontrar su lugar, Boy se unirá a un grupo de resistencia a la vez que mantendrá intensas discusiones con el fantasma de su rebelde hermana pequeña.",
     "genres": [
-      "Drama",
+      "Acción",
+      "Ciencia ficción",
+      "Crimen",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/q/D/X/q/qDXqy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/C/t/8/4Ct8r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/C/t/8/4Ct8r.caa.mp4"
       }
     ]
   },
@@ -767,46 +752,62 @@
     ]
   },
   {
-    "title": "Cómo entrenar a tu dragón",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/pteWJuPBLJvv4ieHHqmPwvsgxlA-185x278.jpg",
-    "rating": "8.1",
-    "year": "Mar. 18, 2010",
+    "title": "Código: Emperador",
+    "image": "https://image.tmdb.org/t/p/w185/xas31RGgejMwrEZELD6iplqGgTM.jpg",
+    "rating": "5.8",
+    "year": "Mar. 18, 2022",
     "quality": "720p HD",
     "languages": [],
-    "description": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
+    "description": "Juan, un agente del servicio secreto, se acerca a Wendy, una joven filipina que trabaja como criada para una pareja sospechosa.",
     "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
+      "Drama",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/v/l/D/j/vlDjt.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/q/D/X/q/qDXqy.aaa.mp4"
       }
     ]
   },
   {
-    "title": "Cómo entrenar a tu dragón 2",
-    "image": "https://image.tmdb.org/t/p/w185/lVKSLbEYpx8y4YeJh5GJGAk0a0p.jpg",
-    "rating": "7.8",
-    "year": "Jun. 05, 2014",
-    "quality": "720p HD",
+    "title": "Contacto sangriento",
+    "image": "https://image.tmdb.org/t/p/w185/utkAPHidRG4j87vmcA9TfGsD7pz.jpg",
+    "rating": "6.8",
+    "year": "Feb. 26, 1988",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+    "description": "Cada cinco años se celebra el «Kumite», un torneo secreto de artes marciales en el que se enfrentan, a vida o muerte, los mejores luchadores del mundo. Frank Dux, que trabaja eventualmente para la CIA, se convertirá en el primer occidental que participa en este torneo. Pero, para ganar, deberá derrotar al despiadado Chong Li, el vigente campeón.",
     "genres": [
       "Acción",
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/7/u/F/A/7uFAt.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/g/W/R/Z/gWRZq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Contagio de miedo",
+    "image": "https://image.tmdb.org/t/p/w185/5RmmJDZzIzVC7U4TpfBCPEDJ5s9.jpg",
+    "rating": "N/A",
+    "year": "Jan. 16, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un catastrófico descarrilamiento de tren sume a la ciudad en una espiral de caos. Pero el descarrilamiento es sólo el principio. Un ataque biológico con gas provoca el colapso y la muerte de los supervivientes en cuestión de minutos. Y la enfermedad se extiende rápidamente.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/-/S/L/W-SLq.aaa.mp4"
       }
     ]
   },

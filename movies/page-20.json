@@ -1,5 +1,28 @@
 [
   {
+    "title": "La gran apuesta",
+    "image": "https://image.tmdb.org/t/p/w185/p8bPJXPOZqGw8khHAAr0yUQxcGz.jpg",
+    "rating": "7.8",
+    "year": "Dec. 11, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: ‘La Gran Apuesta’… pero sus inversiones de riesgo les conducen al lado oscuro de la banca moderna, donde deben poner en duda todo y a todos…",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/r/h/Y/CrhYp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/C/r/h/Y/CrhYp.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "La niñera 2: Reina letal",
     "image": "https://image.tmdb.org/t/p/w185/ePd02d2hWluUppkm7WBfeylsTT2.jpg",
     "rating": "5.8",
@@ -15,6 +38,62 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/H/U/_/fHU_s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La niñera y el presidente",
+    "image": "https://image.tmdb.org/t/p/w185/kYmUXE7pXcOYOAjcYbJYBV9wnNJ.jpg",
+    "rating": "5.5",
+    "year": "Feb. 07, 1997",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Joy Miller (Fran Drescher), una estilista de Queens, es confundida con una profesora de ciencias por Grushinsky, el embajador de una nación del este de Europa. Grushinsky está de visita en EE.UU. en busca de una tutora para los hijos del dictador de su país. Joy, tras aceptar el empleo, viaja a Europa, donde conoce al malhumorado líder de Slovetzia, Boris Pochenko (Timothy Dalton).",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/6/e/R/L6eRt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Niñera ; The Babysitter",
+    "image": "https://image.tmdb.org/t/p/w185/4pMbRBz2KLlOqEIDIwnMVVKPWUh.jpg",
+    "rating": "6.4",
+    "year": "Oct. 13, 2017",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cole es un adolescente que está enamorado de su niñera Bee. Una noche, Cole se queda despierto hasta tarde y descubre que su guapa niñera forma parte de una secta satánica, y hará lo que sea necesario para mantenerlo callado.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/g/O/3/ngO3s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Noche de los Lápices",
+    "image": "https://image.tmdb.org/t/p/w185/8GjSq46q9YC3Vv2vFH6EBOYdXwT.jpg",
+    "rating": "0",
+    "year": "Sep. 04, 1986",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Basada en la historia real de siete estudiantes argentinos que fueron secuestrados y torturados por el ejército.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/62/s8/2/l/r/Q/V/lrQVy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=749225472-749282784"
       }
     ]
   },
@@ -44,107 +123,6 @@
     ]
   },
   {
-    "title": "La niñera y el presidente",
-    "image": "https://image.tmdb.org/t/p/w185/kYmUXE7pXcOYOAjcYbJYBV9wnNJ.jpg",
-    "rating": "5.5",
-    "year": "Feb. 07, 1997",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Joy Miller (Fran Drescher), una estilista de Queens, es confundida con una profesora de ciencias por Grushinsky, el embajador de una nación del este de Europa. Grushinsky está de visita en EE.UU. en busca de una tutora para los hijos del dictador de su país. Joy, tras aceptar el empleo, viaja a Europa, donde conoce al malhumorado líder de Slovetzia, Boris Pochenko (Timothy Dalton).",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/6/e/R/L6eRt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Llegada",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/tbVITeytclB4JKx2LxxasrCCmZx-185x278.jpg",
-    "rating": "0",
-    "year": "Nov. 10, 2016",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Cuando naves extraterrestres comienzan a llegar a la Tierra, los altos mandos militares piden ayuda a una experta lingüista (Amy Adams) para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre…",
-    "genres": [
-      "Ciencia ficción",
-      "Drama",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTQudmltZW9zLm5ldC9obHMyLzAyLzAwMDEwL3ZqaXdvOGU5aTlvOF9uL2luZGV4LXYxLWExLm0zdTg_dD1RWTZPTjhXYkpKcElHcldyaF9GVVA0VjFKMUVRc09oSFd3MWRva1BBYk0wJnM9MTc4NzM2MDc4NiZlPTQzMjAwJnY9MzI1NDA0MzMxJmk9MC4wJnNwPTAmZnI9dmppd284ZTlpOW84JnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "La guerra del planeta de los simios",
-    "image": "https://image.tmdb.org/t/p/w185/4s51V3REPzdABoEDLC4TPDPkY3b.jpg",
-    "rating": "7.4",
-    "year": "Jul. 11, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.",
-    "genres": [
-      "Bélica",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/G/F/f/GGFfr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Liga de la Justicia de Zack Snyder",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/wcIJgChypo0s6ILm9Dkr13rV5q0-185x278.jpg",
-    "rating": "7.9",
-    "year": "Mar. 18, 2021",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Decidido a asegurarse de que el sacrificio final de Superman no fue en vano, Bruce Wayne alinea fuerzas con Diana Prince con planes para reclutar un equipo de metahumanos para proteger al mundo de una amenaza de proporciones catastróficas que se aproxima.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvMHpmdnRocTljYTFoX24vaW5kZXgtdjEtYTEubTN1OD90PXpkYktnRnpCNmliUzhkMDVkMjZWSzc4cUpCN1VRY19PRTNDbU1XMUU0QmMmcz0xNzg3MzYwNzc0JmU9NDMyMDAmdj0zMjUyNzk0Mzcmc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "La Noche de los Lápices",
-    "image": "https://image.tmdb.org/t/p/w185/8GjSq46q9YC3Vv2vFH6EBOYdXwT.jpg",
-    "rating": "0",
-    "year": "Sep. 04, 1986",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Basada en la historia real de siete estudiantes argentinos que fueron secuestrados y torturados por el ejército.",
-    "genres": [
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/62/s8/2/l/r/Q/V/lrQVy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=749225472-749282784"
-      }
-    ]
-  },
-  {
     "title": "La noche nos persigue",
     "image": "https://image.tmdb.org/t/p/w185/ljkR4piN5kxG7qYMeXRoHG8AaBZ.jpg",
     "rating": "0",
@@ -165,22 +143,59 @@
     ]
   },
   {
-    "title": "La huérfana",
-    "image": "https://image.tmdb.org/t/p/w185/3NSeL6kdni2lIxkLGmNcGWuixar.jpg",
-    "rating": "7",
-    "year": "Jul. 24, 2009",
-    "quality": "",
+    "title": "La herencia del tío",
+    "image": "https://image.tmdb.org/t/p/w185/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg",
+    "rating": "5.5",
+    "year": "Jun. 19, 2024",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Cuando Kate y John Coleman pierden al bebé que estaban esperando, todo se derrumba a su alrededor. Su matrimonio se tambalea y la mente de Kate se llena de pesadillas, miedos y temores. Para intentar recuperar la normalidad, la pareja se dirige a un orfanato local con la intención de adoptar a un niño. Allí se sienten enigmáticamente atraídos por una niña de rostro angelical llamada Esther. Pero las cosas se tuercen tras la llegada de la muchacha a la casa de los Coleman, donde empiezan a ocurrir cosas extrañas. Cuando Kate empieza a darse cuenta de que Esther esconde un terrible secreto, intentará descubrir qué es, pero quizá sea demasiado tarde…",
+    "description": "Cuando su tío rico fallece, su mansión llena de complejos enigmas se convierte en el escenario de la lucha de su distanciada familia por hacerse con una parte de la fortuna.",
     "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
+      "Comedia",
+      "Misterio"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/9/X/6/49X6j.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/Z/P/w/t/ZPwts.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Odisea",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0125.jpg",
+    "rating": "8.2",
+    "year": "2026",
+    "quality": "",
+    "languages": [],
+    "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/f8/s8/2/2/r/D/H/2rDHA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1307597312-1307697334"
+      }
+    ]
+  },
+  {
+    "title": "La Otra Boda ; ¡Estáis cordialmente invitados!",
+    "image": "https://image.tmdb.org/t/p/w185/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg",
+    "rating": "5.6",
+    "year": "Jan. 29, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una mujer que está planeando la boda de su hermana y el padre de otra futura novia descubren que tienen doble reserva para su destino, por lo que ambas partes deciden compartir el lugar, pero el caos y el desastre les esperan.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/c3/s8/2/G/3/S/s/G3Ssx.aaa.mp4"
       }
     ]
   },
@@ -204,13 +219,37 @@
     ]
   },
   {
-    "title": "La Odisea",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/bheY17L6wtB0SdJn6EYyh1X5iry-185x278.jpg",
-    "rating": "8.2",
-    "year": "2026",
-    "quality": "",
-    "languages": [],
-    "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+    "title": "La Llegada",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0123.jpg",
+    "rating": "0",
+    "year": "Nov. 10, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuando naves extraterrestres comienzan a llegar a la Tierra, los altos mandos militares piden ayuda a una experta lingüista (Amy Adams) para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre…",
+    "genres": [
+      "Ciencia ficción",
+      "Drama",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTQudmltZW9zLm5ldC9obHMyLzAyLzAwMDEwL3ZqaXdvOGU5aTlvOF9uL2luZGV4LXYxLWExLm0zdTg_dD1RWTZPTjhXYkpKcElHcldyaF9GVVA0VjFKMUVRc09oSFd3MWRva1BBYk0wJnM9MTc4NzM2MDc4NiZlPTQzMjAwJnY9MzI1NDA0MzMxJmk9MC4wJnNwPTAmZnI9dmppd284ZTlpOW84JnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "La Liga de la Justicia de Zack Snyder",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0122.jpg",
+    "rating": "7.9",
+    "year": "Mar. 18, 2021",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Decidido a asegurarse de que el sacrificio final de Superman no fue en vano, Bruce Wayne alinea fuerzas con Diana Prince con planes para reclutar un equipo de metahumanos para proteger al mundo de una amenaza de proporciones catastróficas que se aproxima.",
     "genres": [
       "Acción",
       "Aventura",
@@ -218,27 +257,26 @@
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/f8/s8/2/2/r/D/H/2rDHA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1307597312-1307697334"
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9wNC52aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvMHpmdnRocTljYTFoX24vaW5kZXgtdjEtYTEubTN1OD90PXpkYktnRnpCNmliUzhkMDVkMjZWSzc4cUpCN1VRY19PRTNDbU1XMUU0QmMmcz0xNzg3MzYwNzc0JmU9NDMyMDAmdj0zMjUyNzk0Mzcmc3J2PXMxMiZpPTAuMCZzcD0wJnI9ZQ"
       }
     ]
   },
   {
-    "title": "La matanza de Texas 3D",
-    "image": "https://image.tmdb.org/t/p/w185/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg",
-    "rating": "4.8",
-    "year": "Jan. 03, 2013",
+    "title": "La pasión de Cristo",
+    "image": "https://image.tmdb.org/t/p/w185/5f3cFxNhA3KFuBFJqooM7YDYOpF.jpg",
+    "rating": "7.2",
+    "year": "Feb. 25, 2004",
     "quality": "720p HD",
     "languages": [],
-    "description": "Secuela directa del film de Tobe Hooper (1974). Hace 20 años, el pueblo de Newt (Texas) se vengó de la familia Sawyer por su papel ayudando y ocultando los asesinados cometidos por Jeb Sawyer, el maniaco de la motosierra, también conocido como “Cara de cuero”. Se presumió que toda la famila estaba muerta cuando Burt Hartman lideró a la gente del pueblo para quemar su granja, pero el bebé de los Sawyer sobrevivió y Gavin y Arlene, dos de los vigilantes pueblerinos, se le llevaron en secreto y la criaron como hija propia con el nombre de Heather. Hasta llegar a la veintena ella no descubre que es adoptada. Un abogado de su abuela la localiza para hacerle saber de una herencia.",
+    "description": "Las últimas doce horas de la vida de Jesucristo, desde su arresto en el huerto de Getsemaní, hasta su crucifixión en el monte Calvario. La película presenta de manera intensa y visceral los eventos que llevaron a la muerte de Jesús y su resurrección posterior.",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Drama"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/I/Q/K/0IQKt.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/22/s8/2/h/a/4/C/ha4Cy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=996968448-997044564"
       }
     ]
   },
@@ -263,44 +301,27 @@
     ]
   },
   {
-    "title": "La Otra Boda ; ¡Estáis cordialmente invitados!",
-    "image": "https://image.tmdb.org/t/p/w185/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg",
-    "rating": "5.6",
-    "year": "Jan. 29, 2025",
+    "title": "La Presencia ; Proximity ; Abducción",
+    "image": "https://image.tmdb.org/t/p/w185/37SrSDIozBNTQLKv7tI5T5XFmuX.jpg",
+    "rating": "4.8",
+    "year": "May. 15, 2020",
     "quality": "720p HD",
     "languages": [],
-    "description": "Una mujer que está planeando la boda de su hermana y el padre de otra futura novia descubren que tienen doble reserva para su destino, por lo que ambas partes deciden compartir el lugar, pero el caos y el desastre les esperan.",
+    "description": "Tras ser abducido por extraterrestres, un joven científico de la NASA se obsesiona con encontrar pistas de lo sucedido al descubrir que nadie cree que su experiencia haya ocurrido realmente.",
     "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/c3/s8/2/G/3/S/s/G3Ssx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La pasión de Cristo",
-    "image": "https://image.tmdb.org/t/p/w185/5f3cFxNhA3KFuBFJqooM7YDYOpF.jpg",
-    "rating": "7.2",
-    "year": "Feb. 25, 2004",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Las últimas doce horas de la vida de Jesucristo, desde su arresto en el huerto de Getsemaní, hasta su crucifixión en el monte Calvario. La película presenta de manera intensa y visceral los eventos que llevaron a la muerte de Jesús y su resurrección posterior.",
-    "genres": [
+      "Ciencia ficción",
       "Drama"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/22/s8/2/h/a/4/C/ha4Cy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=996968448-997044564"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/I/v/f/1/Ivf1t.aaa.mp4"
       }
     ]
   },
   {
     "title": "La posesión de la momia",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/5RhY8eHWzvjw32449pHdUkOeDCN-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0126.jpg",
     "rating": "6.3",
     "year": "Apr. 15, 2026",
     "quality": "720p HD",
@@ -321,21 +342,22 @@
     ]
   },
   {
-    "title": "La Presencia ; Proximity ; Abducción",
-    "image": "https://image.tmdb.org/t/p/w185/37SrSDIozBNTQLKv7tI5T5XFmuX.jpg",
-    "rating": "4.8",
-    "year": "May. 15, 2020",
-    "quality": "720p HD",
+    "title": "La huérfana",
+    "image": "https://image.tmdb.org/t/p/w185/3NSeL6kdni2lIxkLGmNcGWuixar.jpg",
+    "rating": "7",
+    "year": "Jul. 24, 2009",
+    "quality": "",
     "languages": [],
-    "description": "Tras ser abducido por extraterrestres, un joven científico de la NASA se obsesiona con encontrar pistas de lo sucedido al descubrir que nadie cree que su experiencia haya ocurrido realmente.",
+    "description": "Cuando Kate y John Coleman pierden al bebé que estaban esperando, todo se derrumba a su alrededor. Su matrimonio se tambalea y la mente de Kate se llena de pesadillas, miedos y temores. Para intentar recuperar la normalidad, la pareja se dirige a un orfanato local con la intención de adoptar a un niño. Allí se sienten enigmáticamente atraídos por una niña de rostro angelical llamada Esther. Pero las cosas se tuercen tras la llegada de la muchacha a la casa de los Coleman, donde empiezan a ocurrir cosas extrañas. Cuando Kate empieza a darse cuenta de que Esther esconde un terrible secreto, intentará descubrir qué es, pero quizá sea demasiado tarde…",
     "genres": [
-      "Ciencia ficción",
-      "Drama"
+      "Misterio",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/I/v/f/1/Ivf1t.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/9/X/6/49X6j.caa.mp4"
       }
     ]
   },
@@ -356,25 +378,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/2/j/R/T2jRt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La herencia del tío",
-    "image": "https://image.tmdb.org/t/p/w185/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg",
-    "rating": "5.5",
-    "year": "Jun. 19, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuando su tío rico fallece, su mansión llena de complejos enigmas se convierte en el escenario de la lucha de su distanciada familia por hacerse con una parte de la fortuna.",
-    "genres": [
-      "Comedia",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/P/w/t/ZPwts.aaa.mp4"
       }
     ]
   },
@@ -419,67 +422,25 @@
     ]
   },
   {
-    "title": "La teoría del todo",
-    "image": "https://image.tmdb.org/t/p/w185/sVKeuoy82eR02iMIqRAepqMCoag.jpg",
-    "rating": "7.7",
-    "year": "Nov. 26, 2014",
-    "quality": "720p HD",
+    "title": "La Navidad de James &#038; Bob ; Un Gato Callejero llamado Bob",
+    "image": "https://image.tmdb.org/t/p/w185/8qs7HRjeDZWYwWKLZVtDNXvXgk2.jpg",
+    "rating": "6.3",
+    "year": "Nov. 27, 2020",
+    "quality": "",
     "languages": [],
-    "description": "La película gira en torno a la vida de Stephen Hawking, el importante teórico y divulgador científico que cambió la historia de la ciencia y la tecnología moderna para siempre. La película se centrará en la relación que mantuvo el británico con Jane Wilde, su primera mujer, con quien contrajo matrimonio después de que le diagnosticaran una enfermedad por la que no le quedaban más de dos años de vida.",
+    "description": "James Bowen es objeto de una investigación sobre el bienestar de los animales que amenaza con llevarse a su amado gato, Bob, en Navidad.",
     "genres": [
       "Drama",
-      "Romance"
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/a9/s8/2/8/G/7/e/8G7ex.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Tierra errante",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/gBxyQTHMLJvODAQ4gB8FpGcujhp-185x278.jpg",
-    "rating": "5.9",
-    "year": "Feb. 05, 2019",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Cuando el Sol comienza a expandirse de tal manera que inevitablemente engullirá y destruirá la Tierra en cien años, la humanidad unida encuentra una manera de evitar su extinción propulsando el planeta fuera del Sistema Solar usando motores gigantescos, moviéndolo a un nuevo hogar ubicado a cuatro años luz de distancia, un viaje épico que durará miles de años.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/97/s8/2/O/F/V/G/OFVGA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3864116736-3864193454"
-      }
-    ]
-  },
-  {
-    "title": "La noche del demonio ; Insidious: La puerta roja",
-    "image": "https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg",
-    "rating": "5.5",
-    "year": "Jul. 05, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Para enterrar sus demonios de una vez por todas, Josh Lambert y un ya universitario Dalton Lambert, deberán profundizar en El Mas Allá (The Further) más que nunca, enfrentándose al oscuro pasado familiar y a un huésped de nuevos horrores terroríficos que acechan tras la puerta roja.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/u/P/i/xuPiq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/l/S/V/0lSVk.aaa.mp4"
       },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/u/P/i/xuPiq.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/l/S/V/0lSVk.caa.mp4"
       }
     ]
   },
@@ -508,31 +469,49 @@
     ]
   },
   {
-    "title": "La Navidad de James &#038; Bob ; Un Gato Callejero llamado Bob",
-    "image": "https://image.tmdb.org/t/p/w185/8qs7HRjeDZWYwWKLZVtDNXvXgk2.jpg",
-    "rating": "6.3",
-    "year": "Nov. 27, 2020",
-    "quality": "",
+    "title": "La Tierra errante",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0128.jpg",
+    "rating": "5.9",
+    "year": "Feb. 05, 2019",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Cuando el Sol comienza a expandirse de tal manera que inevitablemente engullirá y destruirá la Tierra en cien años, la humanidad unida encuentra una manera de evitar su extinción propulsando el planeta fuera del Sistema Solar usando motores gigantescos, moviéndolo a un nuevo hogar ubicado a cuatro años luz de distancia, un viaje épico que durará miles de años.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/97/s8/2/O/F/V/G/OFVGA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3864116736-3864193454"
+      }
+    ]
+  },
+  {
+    "title": "La teoría del todo",
+    "image": "https://image.tmdb.org/t/p/w185/sVKeuoy82eR02iMIqRAepqMCoag.jpg",
+    "rating": "7.7",
+    "year": "Nov. 26, 2014",
+    "quality": "720p HD",
     "languages": [],
-    "description": "James Bowen es objeto de una investigación sobre el bienestar de los animales que amenaza con llevarse a su amado gato, Bob, en Navidad.",
+    "description": "La película gira en torno a la vida de Stephen Hawking, el importante teórico y divulgador científico que cambió la historia de la ciencia y la tecnología moderna para siempre. La película se centrará en la relación que mantuvo el británico con Jane Wilde, su primera mujer, con quien contrajo matrimonio después de que le diagnosticaran una enfermedad por la que no le quedaban más de dos años de vida.",
     "genres": [
       "Drama",
-      "Familia"
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/l/S/V/0lSVk.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/l/S/V/0lSVk.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/a9/s8/2/8/G/7/e/8G7ex.aaa.mp4"
       }
     ]
   },
   {
     "title": "La tostadora",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/2tTUscTlshVovvUnk1qlkQrkbum-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0130.jpg",
     "rating": "4.6",
     "year": "Apr. 15, 2026",
     "quality": "720p HD",
@@ -553,22 +532,57 @@
     ]
   },
   {
-    "title": "La mujer de negro",
-    "image": "https://image.tmdb.org/t/p/w185/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg",
-    "rating": "6.4",
-    "year": "Feb. 03, 2012",
+    "title": "La noche del demonio ; Insidious: La puerta roja",
+    "image": "https://image.tmdb.org/t/p/w185/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg",
+    "rating": "5.5",
+    "year": "Jul. 05, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Arthur Kipps es un joven abogado cuya empresa lo envía a un lugar remoto para vender la casa de un cliente que acaba de fallecer. La gestión, aparentemente rutinaria, tropieza con ciertas dificultades: los vecinos se muestran reacios a hablar sobre la casa o a acercarse a ella; además, nadie está dispuesto a admitir la existencia de una mujer de negro que él está seguro de haber visto",
+    "description": "Para enterrar sus demonios de una vez por todas, Josh Lambert y un ya universitario Dalton Lambert, deberán profundizar en El Mas Allá (The Further) más que nunca, enfrentándose al oscuro pasado familiar y a un huésped de nuevos horrores terroríficos que acechan tras la puerta roja.",
     "genres": [
-      "Drama",
+      "Misterio",
       "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/N/r/Q1Nrr.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/u/P/i/xuPiq.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/x/u/P/i/xuPiq.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La sirenita 3: El origen de la sirenita",
+    "image": "https://image.tmdb.org/t/p/w185/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",
+    "rating": "6.1",
+    "year": "Aug. 25, 2008",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mucho antes de conocer al príncipe Eric y poner los pies en la tierra, Ariel era una de las siete hijas queridas del poderoso rey Tritón. Pero los tiempos estaban cambiando en el reino submarino, y la música estaba prohibida. En esta aventura, Ariel, sus hermanas y sus amigos los leales Sebastián y Flounder, se esfuerzan por devolver la música y la amistad al reino de Atlántica.",
+    "genres": [
+      "Animación",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.caa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.baa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.oaa.mp4"
       }
     ]
   },
@@ -595,28 +609,6 @@
     ]
   },
   {
-    "title": "La piscina",
-    "image": "https://image.tmdb.org/t/p/w185/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",
-    "rating": "4.7",
-    "year": "Jan. 03, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Ray Waller, una estrella del béisbol obligada a retirarse prematuramente a causa de una enfermedad degenerativa, se muda a una nueva casa con su esposa Eve, su hija adolescente Izzy y su hijo pequeño Elliot. Con la esperanza secreta de recuperarse y volver al deporte profesional, Ray convence a Eve de que la fabulosa piscina del jardín de su nuevo hogar será divertida para los niños y le servirá a él como terapia física. Pero un oscuro secreto del pasado de la casa desatará una fuerza malévola que arrastrará a toda la familia a las insondables profundidades del terror más asfixiante.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/H/e/U/ZHeUp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/H/e/U/ZHeUp.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La trampa",
     "image": "https://image.tmdb.org/t/p/w185/oY9SRUcRqdrjyINFoGewobSP7FB.jpg",
     "rating": "6.2",
@@ -637,7 +629,7 @@
   },
   {
     "title": "La probabilidad estadística del amor a primera vista",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/jrVNYtEUU9TCsteJGIQ3MSjHjLi.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0127.jpg",
     "rating": "6.8",
     "year": "Sep. 15, 2023",
     "quality": "720 HD",
@@ -677,6 +669,69 @@
     ]
   },
   {
+    "title": "La Ultima Noche de la Humanidad ; The Darkest Hour",
+    "image": "https://image.tmdb.org/t/p/w185/rrbLkw3Ls050p6ZCedRv5plidTj.jpg",
+    "rating": "4.9",
+    "year": "Dec. 22, 2011",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un grupo de americanos viaja a Moscú coincidiendo con una invasión alienígena de la ciudad. Los termómetros marcan 40 grados durante la ola de calor más intensa de la historia de Moscú. Dos jóvenes buscan cobertura bajo un coche de policía abandonado en la Plaza Roja, ahora completamente desierta. No están buscando una sombra para resguardarse del sofocante calor. Tratan de evitar que les localicen unos alienígenas camuflados que han colonizado la ciudad. Desde hace algunos días, estos jóvenes y sus compañeros se han visto obligados a buscar refugio bajo tierra, ya que la ciudad, como el resto del mundo, ha sido diezmada por una amenaza alienígena. Ahora han de esconderse, cuentan con pocos suministros y buscan desesperadamente seguridad, algo difícil de encontrar incluso en la mayor atracción turística moscovita.",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/N/h/H/o/NhHou.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La piscina",
+    "image": "https://image.tmdb.org/t/p/w185/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg",
+    "rating": "4.7",
+    "year": "Jan. 03, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Ray Waller, una estrella del béisbol obligada a retirarse prematuramente a causa de una enfermedad degenerativa, se muda a una nueva casa con su esposa Eve, su hija adolescente Izzy y su hijo pequeño Elliot. Con la esperanza secreta de recuperarse y volver al deporte profesional, Ray convence a Eve de que la fabulosa piscina del jardín de su nuevo hogar será divertida para los niños y le servirá a él como terapia física. Pero un oscuro secreto del pasado de la casa desatará una fuerza malévola que arrastrará a toda la familia a las insondables profundidades del terror más asfixiante.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/H/e/U/ZHeUp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/H/e/U/ZHeUp.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La mujer de negro",
+    "image": "https://image.tmdb.org/t/p/w185/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg",
+    "rating": "6.4",
+    "year": "Feb. 03, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Arthur Kipps es un joven abogado cuya empresa lo envía a un lugar remoto para vender la casa de un cliente que acaba de fallecer. La gestión, aparentemente rutinaria, tropieza con ciertas dificultades: los vecinos se muestran reacios a hablar sobre la casa o a acercarse a ella; además, nadie está dispuesto a admitir la existencia de una mujer de negro que él está seguro de haber visto",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/N/r/Q1Nrr.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "La purga infinita",
     "image": "https://image.tmdb.org/t/p/w185/zWiXxOTM3NeYcj3dzbtoGqIIJPz.jpg",
     "rating": "5.4",
@@ -701,23 +756,21 @@
     ]
   },
   {
-    "title": "La Ultima Noche de la Humanidad ; The Darkest Hour",
-    "image": "https://image.tmdb.org/t/p/w185/rrbLkw3Ls050p6ZCedRv5plidTj.jpg",
-    "rating": "4.9",
-    "year": "Dec. 22, 2011",
+    "title": "La vida de Pi",
+    "image": "https://image.tmdb.org/t/p/w185/9jpQ6BRScQmTULj10mUkjEKelhX.jpg",
+    "rating": "7.9",
+    "year": "Nov. 20, 2012",
     "quality": "720p HD",
     "languages": [],
-    "description": "Un grupo de americanos viaja a Moscú coincidiendo con una invasión alienígena de la ciudad. Los termómetros marcan 40 grados durante la ola de calor más intensa de la historia de Moscú. Dos jóvenes buscan cobertura bajo un coche de policía abandonado en la Plaza Roja, ahora completamente desierta. No están buscando una sombra para resguardarse del sofocante calor. Tratan de evitar que les localicen unos alienígenas camuflados que han colonizado la ciudad. Desde hace algunos días, estos jóvenes y sus compañeros se han visto obligados a buscar refugio bajo tierra, ya que la ciudad, como el resto del mundo, ha sido diezmada por una amenaza alienígena. Ahora han de esconderse, cuentan con pocos suministros y buscan desesperadamente seguridad, algo difícil de encontrar incluso en la mayor atracción turística moscovita.",
+    "description": "Pi Patel es un muchacho cuyo padre es el dueño del zoológico de la ciudad de la India en la que viven. Su familia decide marcharse a Canadá, pero una tormenta hace naufragar el barco en el que viajan. Pi consigue salvarse gracias a una barcaza en la que también hay otro «pasajero», un tigre de Bengala al que el joven intentará domar para poder sobrevivir.",
     "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense",
-      "Terror"
+      "Aventura",
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/h/H/o/NhHou.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/1/T/t/41Ttv.aaa.mp4"
       }
     ]
   },
@@ -765,25 +818,6 @@
     ]
   },
   {
-    "title": "La vida de Pi",
-    "image": "https://image.tmdb.org/t/p/w185/9jpQ6BRScQmTULj10mUkjEKelhX.jpg",
-    "rating": "7.9",
-    "year": "Nov. 20, 2012",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Pi Patel es un muchacho cuyo padre es el dueño del zoológico de la ciudad de la India en la que viven. Su familia decide marcharse a Canadá, pero una tormenta hace naufragar el barco en el que viajan. Pi consigue salvarse gracias a una barcaza en la que también hay otro «pasajero», un tigre de Bengala al que el joven intentará domar para poder sobrevivir.",
-    "genres": [
-      "Aventura",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/1/T/t/41Ttv.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La vida pública de Jesús",
     "image": "https://image.tmdb.org/t/p/w185/fmWdrHyCMnSWgNN12l9UnrIH0Ym.jpg",
     "rating": "7.1",
@@ -799,24 +833,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/e7/s8/2/h/2/6/C/h26Cy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1006507520-1006584539"
-      }
-    ]
-  },
-  {
-    "title": "La partitura",
-    "image": "https://image.tmdb.org/t/p/w185/21u5PfcWqJDna3a42QQNvlRJAgc.jpg",
-    "rating": "4.6",
-    "year": "Oct. 12, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una joven compositora se encuentra frente a la oportunidad de su vida cuando recibe el encargo de terminar el concierto final de su difunto mentor, que quedó incompleto tras su muerte. Sin embargo, pronto descubrirá que tocar esas notas tiene repercusiones mortales, lo que la llevará a desenmascarar los orígenes perturbadores de la melodía y la malvada fuerza que ésta despierta.",
-    "genres": [
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/9/Z/V/w9ZVq.aaa.mp4"
       }
     ]
   }

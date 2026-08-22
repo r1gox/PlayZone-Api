@@ -1,36 +1,5 @@
 [
   {
-    "title": "La sirenita 3: El origen de la sirenita",
-    "image": "https://image.tmdb.org/t/p/w185/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",
-    "rating": "6.1",
-    "year": "Aug. 25, 2008",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Mucho antes de conocer al príncipe Eric y poner los pies en la tierra, Ariel era una de las siete hijas queridas del poderoso rey Tritón. Pero los tiempos estaban cambiando en el reino submarino, y la música estaba prohibida. En esta aventura, Ariel, sus hermanas y sus amigos los leales Sebastián y Flounder, se esfuerzan por devolver la música y la amistad al reino de Atlántica.",
-    "genres": [
-      "Animación",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.caa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.baa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/z/U/h/v/zUhvr.oaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "La pirámide",
     "image": "https://image.tmdb.org/t/p/w185/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg",
     "rating": "4.6",
@@ -72,6 +41,26 @@
     ]
   },
   {
+    "title": "La primera purga (Purga 4 ) : La noche de las bestias",
+    "image": "https://image.tmdb.org/t/p/w185/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg",
+    "rating": "5.2",
+    "year": "Jul. 04, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Para mantener durante el resto del año la tasa de criminalidad por debajo del 1% los Nuevos Padres Fundadores de América ponen a prueba una teoría sociológica que da rienda suelta a todo tipo de agresiones durante una noche en una comunidad aislada. Pero cuando la violencia de los opresores se encuentra con la ira de los marginados, el vandalismo explota más allá de esas fronteras “experimentales” para extenderse por todo el país. Detrás de cada tradición hay una revolución. Descubre cómo toda una nación entera abrazó una brutal celebración anual: 12 horas de impunidad criminal. Bienvenidos a un movimiento que comenzó como un simple experimento: LA PRIMERA PURGA: LA NOCHE DE LAS BESTIAS.",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/5/q/b/I/5qbIo.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "La última gran estafa",
     "image": "https://image.tmdb.org/t/p/w185/i9kj4YAkDUDM7a4B485kMz0LyRb.jpg",
     "rating": "5.7",
@@ -109,63 +98,43 @@
     ]
   },
   {
-    "title": "La última parada de Arizona",
-    "image": "https://image.tmdb.org/t/p/w185/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
-    "rating": "6.9",
-    "year": "May. 10, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Tras quedarse varado en un área de servicio rural, un vendedor ambulante de cuchillos se ve atrapado en medio de una situación de rehenes cuando dos peligrosos ladrones de bancos entran en escena. Travis y Beau, hermanos y criminales a la fuga tras un atraco millonario, planean recargar combustible antes de huir hacia México. Sin embargo, la suerte los lleva a una gasolinera en medio de la nada, donde las apariencias deben mantenerse hasta la llegada de un camión de combustible. Lo que podría haber sido una simple parada, pronto se convierte en un campo de batalla psicológico. El ambiente se va cargando con cada nuevo personaje que llega a la estación. Mientras la tensión aumenta con el calor del desierto, el protagonista se enfrenta a una decisión que cambiará su vida para siempre.",
-    "genres": [
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/u/W/u/t/uWuty.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La Tierra errante 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/dCDAPDbySxYewfSzWGvQssy04sW-185x278.jpg",
-    "rating": "6.7",
-    "year": "Jan. 22, 2023",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tras descubrir que el Sol se apaga rápidamente, la humanidad construye enormes motores para mover la Tierra a un nuevo sistema solar. En una carrera contra el tiempo, valientes héroes asumen la misión de salvar a la humanidad de la extinción.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDgvNjB3bnF6MmFiOHNsX24vaW5kZXgtdjEtYTEubTN1OD90PVBzV05STmhKenEyUnRpSWRwWU5lTU03Tzg0WWxLenJIWm9LUHVhd1diZU0mcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMzAwNzIwMjImc3J2PXMxMyZpPTAuMCZzcD0wJmZyPTYwd25xejJhYjhzbCZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "La primera purga (Purga 4 ) : La noche de las bestias",
-    "image": "https://image.tmdb.org/t/p/w185/aV3vprqPAZBbriI2UZA5bMNqMjk.jpg",
-    "rating": "5.2",
-    "year": "Jul. 04, 2018",
+    "title": "La partitura",
+    "image": "https://image.tmdb.org/t/p/w185/21u5PfcWqJDna3a42QQNvlRJAgc.jpg",
+    "rating": "4.6",
+    "year": "Oct. 12, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Para mantener durante el resto del año la tasa de criminalidad por debajo del 1% los Nuevos Padres Fundadores de América ponen a prueba una teoría sociológica que da rienda suelta a todo tipo de agresiones durante una noche en una comunidad aislada. Pero cuando la violencia de los opresores se encuentra con la ira de los marginados, el vandalismo explota más allá de esas fronteras “experimentales” para extenderse por todo el país. Detrás de cada tradición hay una revolución. Descubre cómo toda una nación entera abrazó una brutal celebración anual: 12 horas de impunidad criminal. Bienvenidos a un movimiento que comenzó como un simple experimento: LA PRIMERA PURGA: LA NOCHE DE LAS BESTIAS.",
+    "description": "Una joven compositora se encuentra frente a la oportunidad de su vida cuando recibe el encargo de terminar el concierto final de su difunto mentor, que quedó incompleto tras su muerte. Sin embargo, pronto descubrirá que tocar esas notas tiene repercusiones mortales, lo que la llevará a desenmascarar los orígenes perturbadores de la melodía y la malvada fuerza que ésta despierta.",
     "genres": [
-      "Acción",
-      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/5/q/b/I/5qbIo.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/9/Z/V/w9ZVq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La serpiente a la sombra del águila",
+    "image": "https://image.tmdb.org/t/p/w185/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg",
+    "rating": "7.3",
+    "year": "Mar. 01, 1978",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un anciano profesor de artes marciales conserva la tradición de la lucha de la cobra, y consigue formar un discípulo que además, observando la lucha entre una cobra y un gato, incorporará el estilo garra de gato.",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/5/-/W/Y5-Wr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/5/-/W/Y5-Wr.caa.mp4"
       }
     ]
   },
@@ -190,6 +159,47 @@
     ]
   },
   {
+    "title": "La última parada de Arizona",
+    "image": "https://image.tmdb.org/t/p/w185/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg",
+    "rating": "6.9",
+    "year": "May. 10, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Tras quedarse varado en un área de servicio rural, un vendedor ambulante de cuchillos se ve atrapado en medio de una situación de rehenes cuando dos peligrosos ladrones de bancos entran en escena. Travis y Beau, hermanos y criminales a la fuga tras un atraco millonario, planean recargar combustible antes de huir hacia México. Sin embargo, la suerte los lleva a una gasolinera en medio de la nada, donde las apariencias deben mantenerse hasta la llegada de un camión de combustible. Lo que podría haber sido una simple parada, pronto se convierte en un campo de batalla psicológico. El ambiente se va cargando con cada nuevo personaje que llega a la estación. Mientras la tensión aumenta con el calor del desierto, el protagonista se enfrenta a una decisión que cambiará su vida para siempre.",
+    "genres": [
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/u/W/u/t/uWuty.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La Tierra errante 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0129.jpg",
+    "rating": "6.7",
+    "year": "Jan. 22, 2023",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tras descubrir que el Sol se apaga rápidamente, la humanidad construye enormes motores para mover la Tierra a un nuevo sistema solar. En una carrera contra el tiempo, valientes héroes asumen la misión de salvar a la humanidad de la extinción.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDgvNjB3bnF6MmFiOHNsX24vaW5kZXgtdjEtYTEubTN1OD90PVBzV05STmhKenEyUnRpSWRwWU5lTU03Tzg0WWxLenJIWm9LUHVhd1diZU0mcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMzAwNzIwMjImc3J2PXMxMyZpPTAuMCZzcD0wJmZyPTYwd25xejJhYjhzbCZyPWU"
+      }
+    ]
+  },
+  {
     "title": "La red social",
     "image": "https://image.tmdb.org/t/p/w185/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
     "rating": "7.8",
@@ -204,67 +214,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/c/j/7/R/cj7Rk.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La saga Crepúsculo: Eclipse",
-    "image": "https://image.tmdb.org/t/p/w185/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg",
-    "rating": "5.1",
-    "year": "Jun. 23, 2010",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "En esta tercera entrega de la exitosa saga de vampiros de las novelas de Stephenie Meyer, Bella tendrá que elegir entre Edward y Jacob. La ciudad de Seattle es devastada por una serie de misteriosos asesinatos que va en aumento, mientras una vampiresa busca venganza. Bella debe escoger entre su amor por Edward y su amistad con Jacob, consciente de que su decisión puede iniciar una batalla entre vampiros y licántropos. Rodeada de peligro y con su graduación acercándose, ahora se enfrenta a la decisión más importante de su vida.",
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/3/F/h/2/3Fh2n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La saga Crepúsculo: Luna nueva",
-    "image": "https://image.tmdb.org/t/p/w185/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg",
-    "rating": "4.8",
-    "year": "Nov. 18, 2009",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Edward Cullen decide abandonar a Bella Swan para mantenerla alejada de los peligros del mundo vampírico. Con la ayuda de Jacob Black, su amigo de la infancia y miembro de la misteriosa tribu quileute, Bella intentará superar el abandono de Edward, que la ha dejado sumida en el mayor de los desconsuelos. Pero los peligros siguen acechando a la joven; nuevas y asombrosas criaturas sobrenaturales se cruzarán en su camino, y Bella sólo contará con el apoyo del cada vez más cercano e irresistible Jacob. Repentinamente, Bella se encuentra inmersa en el mundo de los hombres lobo, ancestrales enemigos de los vampiros, y su lealtad es puesta a prueba…",
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Fantasía",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/G/t/1/nGt1n.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Larva: Aventuras en la isla ; La película",
-    "image": "https://image.tmdb.org/t/p/w185/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg",
-    "rating": "5.1",
-    "year": "Jul. 23, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Chuck le cuenta las alocadas anécdotas de sus amigos isleños a una periodista escéptica. Esta película animada sigue la historia de la exitosa serie de dibujos animados.",
-    "genres": [
-      "Animación",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/R/j/D/HRjDu.aaa.mp4"
       }
     ]
   },
@@ -290,64 +239,42 @@
     ]
   },
   {
-    "title": "Las aventuras de Maurice",
-    "image": "https://image.tmdb.org/t/p/w185/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
-    "rating": "6.2",
-    "year": "Dec. 16, 2022",
+    "title": "Larva: Aventuras en la isla ; La película",
+    "image": "https://image.tmdb.org/t/p/w185/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg",
+    "rating": "5.1",
+    "year": "Jul. 23, 2020",
     "quality": "720p HD",
     "languages": [],
-    "description": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
+    "description": "Chuck le cuenta las alocadas anécdotas de sus amigos isleños a una periodista escéptica. Esta película animada sigue la historia de la exitosa serie de dibujos animados.",
     "genres": [
       "Animación",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/H/R/j/D/HRjDu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La saga Crepúsculo: Luna nueva",
+    "image": "https://image.tmdb.org/t/p/w185/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg",
+    "rating": "4.8",
+    "year": "Nov. 18, 2009",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Edward Cullen decide abandonar a Bella Swan para mantenerla alejada de los peligros del mundo vampírico. Con la ayuda de Jacob Black, su amigo de la infancia y miembro de la misteriosa tribu quileute, Bella intentará superar el abandono de Edward, que la ha dejado sumida en el mayor de los desconsuelos. Pero los peligros siguen acechando a la joven; nuevas y asombrosas criaturas sobrenaturales se cruzarán en su camino, y Bella sólo contará con el apoyo del cada vez más cercano e irresistible Jacob. Repentinamente, Bella se encuentra inmersa en el mundo de los hombres lobo, ancestrales enemigos de los vampiros, y su lealtad es puesta a prueba…",
+    "genres": [
       "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Drama",
+      "Fantasía",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/R/F/V/S/RFVSu.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Las desapariciones",
-    "image": "https://image.tmdb.org/t/p/w185/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
-    "rating": "5.9",
-    "year": "Apr. 24, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales. ⬇⬇⬇⬇⬇",
-    "genres": [
-      "Crimen",
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e4/s8/2/I/d/N/L/IdNLx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Las hermanas fantásticas",
-    "image": "https://image.tmdb.org/t/p/w185/8h5YXX7BE3wIYGXsTqeGwbjTaDR.jpg",
-    "rating": "5.5",
-    "year": "Aug. 30, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Jesi y Angela, dos hermanas que no se conocen, reciben la noticia de la muerte de su padre, a quien habían visto muy poco. Tras descubrir que habían heredado un departamento en Puerto Madero, las hermanas, quienes sufren carencias materiales y afectivas, deberán navegar la incertidumbre y forjar su vínculo cuando, tras una pared falsa dentro del departamento, encuentran 3 millones de euros.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/U/7/u/PU7ut.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/G/t/1/nGt1n.caa.mp4"
       }
     ]
   },
@@ -376,29 +303,51 @@
     ]
   },
   {
-    "title": "Las Quintillizas: La Película",
-    "image": "https://image.tmdb.org/t/p/w185/6QsExD8uP3vLk64yLnxD8MSS4A6.jpg",
-    "rating": "7.3",
-    "year": "May. 20, 2022",
+    "title": "Las aventuras de Maurice",
+    "image": "https://image.tmdb.org/t/p/w185/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
+    "rating": "6.2",
+    "year": "Dec. 16, 2022",
     "quality": "720p HD",
     "languages": [],
-    "description": "El festival escolar se acerca y es hora de que las hermanas Nakano y Futaro hablen de sus sentimientos… y que tomen decisiones sobre el futuro.",
+    "description": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
     "genres": [
       "Animación",
-      "Animes",
+      "Aventura",
       "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/R/F/V/S/RFVSu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La saga Crepúsculo: Eclipse",
+    "image": "https://image.tmdb.org/t/p/w185/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg",
+    "rating": "5.1",
+    "year": "Jun. 23, 2010",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "En esta tercera entrega de la exitosa saga de vampiros de las novelas de Stephenie Meyer, Bella tendrá que elegir entre Edward y Jacob. La ciudad de Seattle es devastada por una serie de misteriosos asesinatos que va en aumento, mientras una vampiresa busca venganza. Bella debe escoger entre su amor por Edward y su amistad con Jacob, consciente de que su decisión puede iniciar una batalla entre vampiros y licántropos. Rodeada de peligro y con su graduación acercándose, ahora se enfrenta a la decisión más importante de su vida.",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/d0/s8/2/4/V/x/s/4Vxsy.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/3/F/h/2/3Fh2n.caa.mp4"
       }
     ]
   },
   {
     "title": "Las ovejas detectives ; The Sheep Detectives",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/kMJ4h39xe1fEzbLSt5FJCtEqb2H-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0131.jpg",
     "rating": "8",
     "year": "2026",
     "quality": "",
@@ -413,6 +362,46 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/ee/s8/2/6/2/h/A/62hAA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3523443200-3523513362"
+      }
+    ]
+  },
+  {
+    "title": "Las hermanas fantásticas",
+    "image": "https://image.tmdb.org/t/p/w185/8h5YXX7BE3wIYGXsTqeGwbjTaDR.jpg",
+    "rating": "5.5",
+    "year": "Aug. 30, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jesi y Angela, dos hermanas que no se conocen, reciben la noticia de la muerte de su padre, a quien habían visto muy poco. Tras descubrir que habían heredado un departamento en Puerto Madero, las hermanas, quienes sufren carencias materiales y afectivas, deberán navegar la incertidumbre y forjar su vínculo cuando, tras una pared falsa dentro del departamento, encuentran 3 millones de euros.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/U/7/u/PU7ut.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Las desapariciones",
+    "image": "https://image.tmdb.org/t/p/w185/20563sO0ngIvzC7wE9MSKpeBvS2.jpg",
+    "rating": "5.9",
+    "year": "Apr. 24, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "En un pequeño pueblo de montaña resurge un antiguo mito sobre una bestia monstruosa a raíz de la desaparición de unos jóvenes de la localidad y de una serie de muertes horribles y brutales. ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Crimen",
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e4/s8/2/I/d/N/L/IdNLx.aaa.mp4"
       }
     ]
   },
@@ -436,6 +425,27 @@
     ]
   },
   {
+    "title": "Las Quintillizas: La Película",
+    "image": "https://image.tmdb.org/t/p/w185/6QsExD8uP3vLk64yLnxD8MSS4A6.jpg",
+    "rating": "7.3",
+    "year": "May. 20, 2022",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El festival escolar se acerca y es hora de que las hermanas Nakano y Futaro hablen de sus sentimientos… y que tomen decisiones sobre el futuro.",
+    "genres": [
+      "Animación",
+      "Animes",
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/d0/s8/2/4/V/x/s/4Vxsy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Las vueltas del amor",
     "image": "https://image.tmdb.org/t/p/w185/k7375kFt4ksxBbqLw6w5Fl1hNUX.jpg",
     "rating": "5.4",
@@ -455,29 +465,6 @@
     ]
   },
   {
-    "title": "La serpiente a la sombra del águila",
-    "image": "https://image.tmdb.org/t/p/w185/rHRIajKl7NPnoFVpbO1xaCJRnnh.jpg",
-    "rating": "7.3",
-    "year": "Mar. 01, 1978",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Un anciano profesor de artes marciales conserva la tradición de la lucha de la cobra, y consigue formar un discípulo que además, observando la lucha entre una cobra y un gato, incorporará el estilo garra de gato.",
-    "genres": [
-      "Acción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/5/-/W/Y5-Wr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/5/-/W/Y5-Wr.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Leatherface: La máscara del terror",
     "image": "https://image.tmdb.org/t/p/w185/v7iBh6WqpfLOBFMjW126wUOhI6O.jpg",
     "rating": "5",
@@ -493,6 +480,25 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/D/2/f/p/D2fpt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Le Jardinier ; El Jardinero",
+    "image": "https://image.tmdb.org/t/p/w185/x9SrxVaRhBNKf95vns1ti13yzl0.jpg",
+    "rating": "4.1",
+    "year": "Jan. 30, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Serge guarda un secreto de Estado. Él, su familia y el jardinero Leo aparecen en una lista negra del gobierno. Intentan idear un plan para seguir con vida.",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/ed/s8/2/g/N/A/o/gNAoy.aaa.mp4"
       }
     ]
   },
@@ -517,25 +523,6 @@
     ]
   },
   {
-    "title": "Le Jardinier ; El Jardinero",
-    "image": "https://image.tmdb.org/t/p/w185/x9SrxVaRhBNKf95vns1ti13yzl0.jpg",
-    "rating": "4.1",
-    "year": "Jan. 30, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Serge guarda un secreto de Estado. Él, su familia y el jardinero Leo aparecen en una lista negra del gobierno. Intentan idear un plan para seguir con vida.",
-    "genres": [
-      "Acción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/ed/s8/2/g/N/A/o/gNAoy.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Lee Miller: Retratos de Guerra",
     "image": "https://image.tmdb.org/t/p/w185/nmm7lLqF5mAzn3OvO7qJwFGbi2v.jpg",
     "rating": "6.9",
@@ -552,6 +539,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/fww1/b4/s8/2/-/H/Z/s/-HZsy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Letras Explícitas",
+    "image": "https://image.tmdb.org/t/p/w185/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
+    "rating": "0",
+    "year": "Aug. 11, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Letras explícitas cuenta la historia de cómo cinco jóvenes rebeldes – armados únicamente con sus letras, su fanfarronería, su valentía y su talento natural – se enfrentaron a las autoridades que pretendían oprimirlos y formaron al grupo más poderoso del mundo: N.W.A. Cuando expresaron la verdad que nadie había dicho y expusieron la vida en el barrio, su voz encendió una revolución social que sigue sonando hasta el día de hoy.",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Música"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/bb/s8/2/F/d/3/Z/Fd3Zy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1316212224-1316313245"
       }
     ]
   },
@@ -577,26 +584,6 @@
     ]
   },
   {
-    "title": "Letras Explícitas",
-    "image": "https://image.tmdb.org/t/p/w185/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
-    "rating": "0",
-    "year": "Aug. 11, 2015",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Letras explícitas cuenta la historia de cómo cinco jóvenes rebeldes – armados únicamente con sus letras, su fanfarronería, su valentía y su talento natural – se enfrentaron a las autoridades que pretendían oprimirlos y formaron al grupo más poderoso del mundo: N.W.A. Cuando expresaron la verdad que nadie había dicho y expusieron la vida en el barrio, su voz encendió una revolución social que sigue sonando hasta el día de hoy.",
-    "genres": [
-      "Drama",
-      "Historia",
-      "Música"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/bb/s8/2/F/d/3/Z/Fd3Zy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1316212224-1316313245"
-      }
-    ]
-  },
-  {
     "title": "Liga de la Justicia",
     "image": "https://image.tmdb.org/t/p/w185/wUWqnavD8iGZ5F4xXhWlrtEzKjV.jpg",
     "rating": "6.1",
@@ -613,6 +600,46 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/d/A/O/E/dAOEt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La venganza de la Llorona",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/8c0a978081fc60782b2bc4c7a2c2dcfd9432cac2de44d4fa4786122e9ce3b70d.jpg",
+    "rating": "0",
+    "year": "&nbsp;",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/L/d/A/8/LdA8r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/L/d/A/8/LdA8r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Lilo y Stitch",
+    "image": "https://image.tmdb.org/t/p/w185/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg",
+    "rating": "7.3",
+    "year": "Jun. 21, 2002",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/c1/s8/2/Q/w/Y/G/QwYGx.aaa.mp4"
       }
     ]
   },
@@ -638,26 +665,6 @@
     ]
   },
   {
-    "title": "Lilo y Stitch",
-    "image": "https://image.tmdb.org/t/p/w185/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg",
-    "rating": "7.3",
-    "year": "Jun. 21, 2002",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una chica joven y sin padres adopta un «perro» de la perrera local, sin saber que supuestamente es un peligroso experimento científico que se ha refugiado en la Tierra y que ahora se esconde de su creador y de quienes lo ven como una amenaza.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/c1/s8/2/Q/w/Y/G/QwYGx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Lilo y Stitch 2: Stitch en cortocircuito",
     "image": "https://image.tmdb.org/t/p/w185/o3xLpfK6cmWUpxw9ZwHPH8XizLz.jpg",
     "rating": "6.2",
@@ -679,26 +686,6 @@
     ]
   },
   {
-    "title": "La venganza de la Llorona",
-    "image": "https://m.media-amazon.com/images/S/pv-target-images/8c0a978081fc60782b2bc4c7a2c2dcfd9432cac2de44d4fa4786122e9ce3b70d.jpg",
-    "rating": "0",
-    "year": "&nbsp;",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "",
-    "genres": [],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/d/A/8/LdA8r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/d/A/8/LdA8r.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Linda",
     "image": "https://image.tmdb.org/t/p/w185/ywpx7bm4tsL1CehzTPwJvbuKwAB.jpg",
     "rating": "5.3",
@@ -713,6 +700,30 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/V/L/B/5/VLB5u.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "La visita ; El Huesped",
+    "image": "https://image.tmdb.org/t/p/w185/eRxjQO4RqTNpYIHtJ0YD3tXsfPy.jpg",
+    "rating": "0",
+    "year": "Sep. 10, 2015",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una madre decide atender a las peticiones de sus dos hijos y los lleva a la remota granja de sus abuelos, en Pensilvania. Los niños, entusiasmados, empezarán a realizar una búsqueda intensiva por la casa. Sus abuelos, que en principio, parecen adorables, les establecen ciertas reglas que no pueden romper. Los niños, ingenuos, piensan que no pasará nada si se las saltan, hasta que descubran que la pareja está inmersa en algo realmente espeluznante y que en ocasiones, a veces es mejor no saber la verdad.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/M/z/f/X/MzfXr.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/M/z/f/X/MzfXr.caa.mp4"
       }
     ]
   },
@@ -738,8 +749,28 @@
     ]
   },
   {
+    "title": "Locuras en la edad media ; El caballero negro",
+    "image": "https://image.tmdb.org/t/p/w185/bQ2kbMejOrydOyCcs9cacMjLA4M.jpg",
+    "rating": "4.9",
+    "year": "Nov. 21, 2001",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Jamal se afana infeliz en Medieval World, un parque temático que parece que no ha sido renovado, o ha tenido clientes desde la Época Oscura. Después de caer en el fétido foso del parque, Jamal llega al siglo XIV en Inglaterra, un mundo de caballeros con brillantes armaduras y damiselas afligidas, sin mencionar la higiene cuestionable. Ahora es un extraño en una muy extraña tierra, Jamal conoce a un caballero libertino, una bella mujer con ideas muy modernas y una rebelión en contra del diabólico Rey… ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/71/s8/2/A/-/4/c/A-4cx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Las ventajas de ser invisible",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/jWzRdSSr104taGqe7dVYDhxLz9g-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0132.jpg",
     "rating": "7.9",
     "year": "Sep. 20, 2012",
     "quality": "720p HD",
@@ -754,54 +785,6 @@
       {
         "type": "mp4",
         "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDMvMDAwMDYvZTM1ajNiY3czN3RzX24vaW5kZXgtdjEtYTEubTN1OD90PW8wZks0RDFScFB4YXFNblZIcHBGb3lCeXNXR1RoRW1WZWlqOFp3TkYyV0Umcz0xNzg3MzYwNzg0JmU9NDMyMDAmdj0zMjk5Nzk4OTkmc3J2PXMxMiZpPTAuMyZzcD0wJmZyPWUzNWozYmN3Mzd0cyZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "Las crónicas de Narnia: El león, la bruja y el armario",
-    "image": "https://image.tmdb.org/t/p/w185/vnyDtI6aMZ2TtAjrmNsKBIeoea9.jpg",
-    "rating": "6.9",
-    "year": "Dec. 07, 2005",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío.",
-    "genres": [
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/j/n/v/F/jnvFp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "La visita ; El Huesped",
-    "image": "https://image.tmdb.org/t/p/w185/eRxjQO4RqTNpYIHtJ0YD3tXsfPy.jpg",
-    "rating": "0",
-    "year": "Sep. 10, 2015",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una madre decide atender a las peticiones de sus dos hijos y los lleva a la remota granja de sus abuelos, en Pensilvania. Los niños, entusiasmados, empezarán a realizar una búsqueda intensiva por la casa. Sus abuelos, que en principio, parecen adorables, les establecen ciertas reglas que no pueden romper. Los niños, ingenuos, piensan que no pasará nada si se las saltan, hasta que descubran que la pareja está inmersa en algo realmente espeluznante y que en ocasiones, a veces es mejor no saber la verdad.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/M/z/f/X/MzfXr.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/M/z/f/X/MzfXr.caa.mp4"
       }
     ]
   },

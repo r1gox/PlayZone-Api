@@ -1,68 +1,5 @@
 [
   {
-    "title": "Descendientes 5: Un malvado País de las Maravillas",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/5lpbVRg99l3VkYyXOiZraNgNlXv-185x278.jpg",
-    "rating": "5.5",
-    "year": "Jul. 16, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tras cambiar la historia y evitar que la Reina de Corazones se vuelva malvada, además de salvar a Cenicienta, todo parece perfecto para Red y Chloe. Pero alterar el pasado tiene consecuencias inesperadas. Cuando Maddox Sombrerero, un antiguo amigo de Red, surge como un nuevo villano y captura a la Reina, Red y Chloe deben volver por la madriguera del conejo. Allí, se unen a Pink, la hermana de Red; Luis, el hijo de Luisa Madrigal, y un equipo de villanos liderado por Max, el hijo de Maddox, para salvar a la Reina y a todo el País de las Maravillas.",
-    "genres": [
-      "Aventura",
-      "Familia",
-      "Fantasía",
-      "Película de TV"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9wNy52aW1lb3MuemlwL2hsczIvMDMvMDAwMTEvaGF2ODRlNHk1dHRyX24vaW5kZXgtdjEtYTEubTN1OD90PU51ZHRaSUFWMmRTLTdJUTgtQjJaV2cyR2hIdlNINTBHN1FYMncwZVVTa1Emcz0xNzg3MzYwNzgyJmU9NDMyMDAmdj0zMzAwMzU5NjMmc3J2PXM5Jmk9MC4zJnNwPTAmZnI9aGF2ODRlNHk1dHRyJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Distrito 13",
-    "image": "https://image.tmdb.org/t/p/w185/rFfr61aXpw40kPRSQIFoYxZzi0t.jpg",
-    "rating": "7.1",
-    "year": "Nov. 09, 2004",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "París 2013. Un muro de aislamiento rodea los ghettos de las ciudades. No hay reglas, ni derechos, ni leyes&#8230; Las bandas lo dominan todo. Damien pertenece a un cuerpo de élite de la policía. Es oficial de la unidad especial de intervenciones, experto en artes marciales y domina el arte de la infiltración. Ahora deberá hacer frente a la misión más arriesgada de su carrera: una potente arma de destrucción masiva ha sido robada por la banda más poderosa del Distrito 13. Damien será el encargado de infiltrarse en el sector más peligroso de París, para destruir la bomba.",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/b0/s8/2/a/4/Y/1/a4Y1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=667210752-667261664"
-      }
-    ]
-  },
-  {
-    "title": "Distrito 13: Ultimatum (2009)",
-    "image": "https://image.tmdb.org/t/p/w185/bBhGBVfjePWKzTMdT6CYUEeqQlS.jpg",
-    "rating": "6.5",
-    "year": "Feb. 18, 2009",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "En el año 2010 los suburbios de París son pasto de las bandas y el caos. Un agente de policía especial tendrá que infiltrarse en la más peligrosa y dura de las bandas para tratar de resolver una complicada e importante misión.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/34/s8/2/q/H/Y/1/qHY1y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=794449920-794510593"
-      }
-    ]
-  },
-  {
     "title": "Doctor Strange",
     "image": "https://image.tmdb.org/t/p/w185/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
     "rating": "7.5",
@@ -83,8 +20,28 @@
     ]
   },
   {
+    "title": "Diabólica",
+    "image": "https://image.tmdb.org/t/p/w185/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg",
+    "rating": "5.1",
+    "year": "Aug. 28, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La familia de Curtis es seleccionada para probar un nuevo dispositivo para el hogar: un asistente digital llamado AIA. AIA aprende los comportamientos de la familia y comienza a anticipar sus necesidades. Y puede asegurarse de que nada, ni nadie, se interponga en el camino de su familia.",
+    "genres": [
+      "Ciencia ficción",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/T/j/n/L/TjnLt.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Doctor Strange en el multiverso de la locura",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/uOnutpXJdDWyWzUCkApkahPSKuy-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0055.jpg",
     "rating": "6.9",
     "year": "May. 04, 2022",
     "quality": "720 HD",
@@ -102,6 +59,24 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/c7/s8/2/s/K/y/i/sKyiA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2025670144-2025747210"
+      }
+    ]
+  },
+  {
+    "title": "Don Jediondo Recargado",
+    "image": "https://image.tmdb.org/t/p/w185/mhzjbQBu7P5KANUde2WlMqql5gd.jpg",
+    "rating": "2.7",
+    "year": "Jan. 02, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Irreverente, atrevido, muy picante y sobretodo lleno de risa. Don Jediondo el campesino mas divertido de Colombia trae su espectacular Stand up comedy con una carga adicional de chistes mas candentes que nunca.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/e4/s8/2/g/b/R/E/gbREx.aaa.mp4"
       }
     ]
   },
@@ -126,20 +101,42 @@
     ]
   },
   {
-    "title": "Don Jediondo Recargado",
-    "image": "https://image.tmdb.org/t/p/w185/mhzjbQBu7P5KANUde2WlMqql5gd.jpg",
-    "rating": "2.7",
-    "year": "Jan. 02, 2025",
-    "quality": "720p HD",
+    "title": "Desencantada: Vuelve Giselle",
+    "image": "https://image.tmdb.org/t/p/w185/kk3h3T1h9CyrlpKV2SzbLF4wj82.jpg",
+    "rating": "5.6",
+    "year": "Nov. 18, 2022",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Irreverente, atrevido, muy picante y sobretodo lleno de risa. Don Jediondo el campesino mas divertido de Colombia trae su espectacular Stand up comedy con una carga adicional de chistes mas candentes que nunca.",
+    "description": "Diez años después de su felices para siempre, Giselle cuestiona su felicidad, sin darse cuenta, poniendo patas arriba las vidas de aquellos en el mundo real y Andalasia en el proceso.",
     "genres": [
-      "Comedia"
+      "Comedia",
+      "Familia",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/e4/s8/2/g/b/R/E/gbREx.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/Z/o/j/s/Zojss.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Descubriendo a los Robinsons",
+    "image": "https://image.tmdb.org/t/p/w185/1V34tiUPo3memMuCFlGhpA7ODbj.jpg",
+    "rating": "6.8",
+    "year": "Mar. 23, 2007",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Cuando Lewis conoce a un misterioso chico que viene del futuro llamado Wilbur Robinson, ambos harán un viaje en el tiempo donde Lewis descubre el asombroso secreto de la familia Robinson.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/s/b/J/fsbJq.aaa.mp4"
       }
     ]
   },
@@ -186,6 +183,25 @@
     ]
   },
   {
+    "title": "Destino final 2",
+    "image": "https://image.tmdb.org/t/p/w185/4KHFGNCQvAa5xjJpAFBgqcF4mC2.jpg",
+    "rating": "6.2",
+    "year": "Jan. 31, 2003",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Kimberly Corman se va de vacaciones con sus amigos Dano , Shaina y Frankie hacia Daytona Beach. De repente, un camión cargado de troncos pierde el control al reventarse la cadena que los sostiene, cayendo y rodando por la autopista donde se origina un trágico accidente, matando a todos los que se encuentran a su paso. Pero esto solo fue una premonición de Kimberly, que al volver a la realidad se asusta y detiene la camioneta en plena desviación de la autopista, de modo que ocasiona que los autos que van detrás se detengan haciendo un gran atasco. Un policía , se acerca a ver que ocurre, y Kim le cuenta lo que ha visto. El policía no le cree y trata de tranquilizarla haciéndole entender que es solo su imaginación, y le ruega que retire el auto del camino, pero Kim se niega, cuando de repente, el camión de troncos cruza ante sus ojos y se cumple la catástrofe, tal y como ella lo había contado.",
+    "genres": [
+      "Misterio",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/k/K/h/z/kKhzn.caa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Dragon Ball Super: Super Hero",
     "image": "https://image.tmdb.org/t/p/w185/dZH9gp0XQnjzYRYMGSwateGIXlB.jpg",
     "rating": "7.1",
@@ -204,46 +220,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/43/s8/2/m/c/v/o/mcvoy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Desencantada: Vuelve Giselle",
-    "image": "https://image.tmdb.org/t/p/w185/kk3h3T1h9CyrlpKV2SzbLF4wj82.jpg",
-    "rating": "5.6",
-    "year": "Nov. 18, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Diez años después de su felices para siempre, Giselle cuestiona su felicidad, sin darse cuenta, poniendo patas arriba las vidas de aquellos en el mundo real y Andalasia en el proceso.",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Z/o/j/s/Zojss.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Descubriendo a los Robinsons",
-    "image": "https://image.tmdb.org/t/p/w185/1V34tiUPo3memMuCFlGhpA7ODbj.jpg",
-    "rating": "6.8",
-    "year": "Mar. 23, 2007",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Cuando Lewis conoce a un misterioso chico que viene del futuro llamado Wilbur Robinson, ambos harán un viaje en el tiempo donde Lewis descubre el asombroso secreto de la familia Robinson.",
-    "genres": [
-      "Animación",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/s/b/J/fsbJq.aaa.mp4"
       }
     ]
   },
@@ -271,29 +247,6 @@
     ]
   },
   {
-    "title": "Dragon Ball Z: La Batalla de los Dioses",
-    "image": "https://image.tmdb.org/t/p/w185/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
-    "rating": "7.1",
-    "year": "Mar. 30, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La historia se sitúa varios años después de la batalla con Majin Buu. Bils, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bils parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido un oponente tan poderoso tras tanto tiempo, Goku ignora las advertencias de Kaito y decide enfrentarse a él.",
-    "genres": [
-      "Acción",
-      "Animación",
-      "Animes",
-      "Ciencia ficción",
-      "Doblado",
-      "anime"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/u/H/0/suH0s.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
     "title": "Dragon Ball Z: La Glaxia corre peligro",
     "image": "https://image.tmdb.org/t/p/w185/9gNEyR5CofjsasyemTCCE6EFdKd.jpg",
     "rating": "7.1",
@@ -313,6 +266,29 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/D/P/8/k/DP8kt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Dragon Ball Z: La Batalla de los Dioses",
+    "image": "https://image.tmdb.org/t/p/w185/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
+    "rating": "7.1",
+    "year": "Mar. 30, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La historia se sitúa varios años después de la batalla con Majin Buu. Bils, el Dios de la destrucción que mantenía el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bils parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido un oponente tan poderoso tras tanto tiempo, Goku ignora las advertencias de Kaito y decide enfrentarse a él.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Animes",
+      "Ciencia ficción",
+      "Doblado",
+      "anime"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/u/H/0/suH0s.aaa.mp4?u=0&b=0"
       }
     ]
   },
@@ -340,21 +316,21 @@
     ]
   },
   {
-    "title": "Destino final 2",
-    "image": "https://image.tmdb.org/t/p/w185/4KHFGNCQvAa5xjJpAFBgqcF4mC2.jpg",
-    "rating": "6.2",
-    "year": "Jan. 31, 2003",
+    "title": "Diabolica Tentacion ; Jennifer&#8217;s Body",
+    "image": "https://image.tmdb.org/t/p/w185/nU0PlszZkTXjfp4DiJgT4plHNLn.jpg",
+    "rating": "5.5",
+    "year": "Sep. 18, 2009",
     "quality": "720 HD",
     "languages": [],
-    "description": "Kimberly Corman se va de vacaciones con sus amigos Dano , Shaina y Frankie hacia Daytona Beach. De repente, un camión cargado de troncos pierde el control al reventarse la cadena que los sostiene, cayendo y rodando por la autopista donde se origina un trágico accidente, matando a todos los que se encuentran a su paso. Pero esto solo fue una premonición de Kimberly, que al volver a la realidad se asusta y detiene la camioneta en plena desviación de la autopista, de modo que ocasiona que los autos que van detrás se detengan haciendo un gran atasco. Un policía , se acerca a ver que ocurre, y Kim le cuenta lo que ha visto. El policía no le cree y trata de tranquilizarla haciéndole entender que es solo su imaginación, y le ruega que retire el auto del camino, pero Kim se niega, cuando de repente, el camión de troncos cruza ante sus ojos y se cumple la catástrofe, tal y como ella lo había contado.",
+    "description": "Devil’s Kettle es una pequeña ciudad de los Estados Unidos, donde Jennifer y Needy son amigas desde la infancia y viven juntas. Un día, las chicas van a un bar donde toca un nuevo grupo de rock, y allí se produce un inesperado accidente. Tras provocarse un gran incendio, muchos de los asistentes no consiguen sobrevivir, pero las chicas logran escapar. A partir de entonces, Jennifer será poseída por unas fuerzas malévolas que la impulsarán a cometer asesinatos… principalmente a aquellos que intenten seducirla.",
     "genres": [
-      "Misterio",
+      "Comedia",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/k/K/h/z/kKhzn.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/n/F/s/q/nFsqr.aaa.mp4"
       }
     ]
   },
@@ -403,8 +379,29 @@
     ]
   },
   {
+    "title": "Carrie: un extraño presentimiento",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0036.jpg",
+    "rating": "0",
+    "year": "Nov. 03, 1976",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Carrie White, una tímida adolescente que vive con su madre, una fanática religiosa, es objeto de las burlas constantes de sus compañeros de instituto. Cuando, en las duchas del gimnasio, la chica sufre un ataque de histeria al tener su primera menstruación, a una de sus compañeras se le ocurre gastarle una broma macabra durante la fiesta de graduación. Lo que todos ignoran es que Carrie posee poderes telequinésicos. Adaptación de la novela homónima de Stephen King.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA5L2h4am9kZGc1OXYxal9oL2luZGV4LXYxLWExLm0zdTg_dD11a3BpaldOREo0U01rWXdGaFJvQVpJblNUSVJ6Z0lzZXFRSzEySnB5SFBzJnM9MTc4NzM2MDc4MCZlPTQzMjAwJnY9MzI3NzI1Mzc2Jmk9MC4wJnNwPTAmZnI9aHhqb2RkZzU5djFqJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Drácula",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/juUIOcOQ0ip9qw3ecH9IBEQklEp-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0060.jpg",
     "rating": "6.3",
     "year": "Jul. 30, 2025",
     "quality": "720p HD",
@@ -427,44 +424,6 @@
     ]
   },
   {
-    "title": "Diabolica Tentacion ; Jennifer&#8217;s Body",
-    "image": "https://image.tmdb.org/t/p/w185/nU0PlszZkTXjfp4DiJgT4plHNLn.jpg",
-    "rating": "5.5",
-    "year": "Sep. 18, 2009",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Devil’s Kettle es una pequeña ciudad de los Estados Unidos, donde Jennifer y Needy son amigas desde la infancia y viven juntas. Un día, las chicas van a un bar donde toca un nuevo grupo de rock, y allí se produce un inesperado accidente. Tras provocarse un gran incendio, muchos de los asistentes no consiguen sobrevivir, pero las chicas logran escapar. A partir de entonces, Jennifer será poseída por unas fuerzas malévolas que la impulsarán a cometer asesinatos… principalmente a aquellos que intenten seducirla.",
-    "genres": [
-      "Comedia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/n/F/s/q/nFsqr.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Destino final 5",
-    "image": "https://image.tmdb.org/t/p/w185/T0IGau7Alj52OLrrthzftkLMIA.jpg",
-    "rating": "5.9",
-    "year": "Aug. 12, 2011",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Sam Lawton tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, Sam y su novia Molly descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente… Quinta entrega de la popular serie de terror «Destino final».",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/b/6/R/y/b6Ryn.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Dulce venganza 3: La venganza es mía",
     "image": "https://image.tmdb.org/t/p/w185/mYWk0btcYNlxcSy0q29JGhj3eDa.jpg",
     "rating": "5.1",
@@ -480,47 +439,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/26/s8/2/q/0/R/m/q0Rmy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Dos Tipos Peligrosos ; The Nice Guys",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/90WQR6D6CVCr6euK13vClAnfXNU-185x278.jpg",
-    "rating": "7.4",
-    "year": "May. 15, 2016",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "En la década de 1970, en Los Ángeles, un par de detectives privados incompatibles investigan una chica desaparecida y la misteriosa muerte de una estrella porno.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbGQ4dGJ3eThtODRwX24vaW5kZXgtdjEtYTEubTN1OD90PXk0OTVIRGc0YmJ0Z1dfcy10TFRkYmh6NW51Q1RER3JEcVQyNFA1bzF6dlkmcz0xNzg3MzYwODAxJmU9NDMyMDAmdj0zMzE5MjQyNTkmc3J2PXMxNCZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Efectos colaterales del amor",
-    "image": "https://image.tmdb.org/t/p/w185/wuAjv2IFNCEveIVQyZNDxvJhcSB.jpg",
-    "rating": "6.3",
-    "year": "Aug. 21, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Centra su historia en torno a Henry Page, un estudiante adolescente que se considera un romántico empedernido, pero nunca se ha enamorado. El joven aspira a ser editor del periódico del instituto y vive feliz centrado en sus estudios para entrar en una buena universidad… hasta que Grace Town entra en su clase. Su nueva compañera no es precisamente la chica de sus sueños, pero poco a poco se enamora de ella cuando los dos son elegidos para editar el periódico del instituto. Awesomeness Films se encarga de sacar adelante este proyecto inspirado en la novela que lleva el mismo nombre de la escritora australiana Krystal Sutherland.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/5/7/S/e/57Sex.aaa.mp4"
       }
     ]
   },
@@ -545,6 +463,47 @@
     ]
   },
   {
+    "title": "Disobedience",
+    "image": "https://image.tmdb.org/t/p/w185/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
+    "rating": "6.6",
+    "year": "Apr. 24, 2018",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/i/V/P/D/iVPDq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Dos Tipos Peligrosos ; The Nice Guys",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0057.jpg",
+    "rating": "7.4",
+    "year": "May. 15, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "En la década de 1970, en Los Ángeles, un par de detectives privados incompatibles investigan una chica desaparecida y la misteriosa muerte de una estrella porno.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbGQ4dGJ3eThtODRwX24vaW5kZXgtdjEtYTEubTN1OD90PXk0OTVIRGc0YmJ0Z1dfcy10TFRkYmh6NW51Q1RER3JEcVQyNFA1bzF6dlkmcz0xNzg3MzYwODAxJmU9NDMyMDAmdj0zMzE5MjQyNTkmc3J2PXMxNCZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Eduardo Manostijeras ; El Joven Manos De Tijera",
     "image": "https://image.tmdb.org/t/p/w185/oeJ96VHhjBpNQNottpdjHQd9l7K.jpg",
     "rating": "7.9",
@@ -561,6 +520,46 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/b7/s8/2/e/2/A/x/e2Axx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Efectos colaterales del amor",
+    "image": "https://image.tmdb.org/t/p/w185/wuAjv2IFNCEveIVQyZNDxvJhcSB.jpg",
+    "rating": "6.3",
+    "year": "Aug. 21, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Centra su historia en torno a Henry Page, un estudiante adolescente que se considera un romántico empedernido, pero nunca se ha enamorado. El joven aspira a ser editor del periódico del instituto y vive feliz centrado en sus estudios para entrar en una buena universidad… hasta que Grace Town entra en su clase. Su nueva compañera no es precisamente la chica de sus sueños, pero poco a poco se enamora de ella cuando los dos son elegidos para editar el periódico del instituto. Awesomeness Films se encarga de sacar adelante este proyecto inspirado en la novela que lleva el mismo nombre de la escritora australiana Krystal Sutherland.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/f2/s8/2/5/7/S/e/57Sex.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El abismo secreto",
+    "image": "https://image.tmdb.org/t/p/w185/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
+    "rating": "7",
+    "year": "Feb. 13, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Dos agentes altamente entrenados se unen a la distancia tras ser enviados a proteger bordes opuestos de un abismo misterioso. Cuando la maldad emerge de él, tienen que trabajar juntos para sobrevivir a lo que yace dentro del abismo. ⬇⬇⬇⬇⬇",
+    "genres": [
+      "Acción",
+      "Romance",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/f8/s8/2/N/I/C/T/NICTx.aaa.mp4"
       }
     ]
   },
@@ -585,23 +584,21 @@
     ]
   },
   {
-    "title": "El abismo secreto",
-    "image": "https://image.tmdb.org/t/p/w185/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
-    "rating": "7",
-    "year": "Feb. 13, 2025",
+    "title": "Destino final 5",
+    "image": "https://image.tmdb.org/t/p/w185/T0IGau7Alj52OLrrthzftkLMIA.jpg",
+    "rating": "5.9",
+    "year": "Aug. 12, 2011",
     "quality": "720p HD",
     "languages": [],
-    "description": "Dos agentes altamente entrenados se unen a la distancia tras ser enviados a proteger bordes opuestos de un abismo misterioso. Cuando la maldad emerge de él, tienen que trabajar juntos para sobrevivir a lo que yace dentro del abismo. ⬇⬇⬇⬇⬇",
+    "description": "Sam Lawton tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, Sam y su novia Molly descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente… Quinta entrega de la popular serie de terror «Destino final».",
     "genres": [
-      "Acción",
-      "Romance",
-      "Suspense",
+      "Misterio",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/f8/s8/2/N/I/C/T/NICTx.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/b/6/R/y/b6Ryn.caa.mp4"
       }
     ]
   },
@@ -662,25 +659,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/0c/s8/2/f/E/j/0/fEj0y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=798728704-798789685"
-      }
-    ]
-  },
-  {
-    "title": "Disobedience",
-    "image": "https://image.tmdb.org/t/p/w185/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
-    "rating": "6.6",
-    "year": "Apr. 24, 2018",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una mujer que se crió en una familia ortodoxa judía regresa a su hogar con motivo de la muerte de su padre rabino. La controversia no tardará en aparecer cuando ella comienza a mostrar interés por una vieja amiga del colegio.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/i/V/P/D/iVPDq.aaa.mp4"
       }
     ]
   },
@@ -785,6 +763,27 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fwe2/99/s8/2/y/6/I/3/y6I3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1008893440-1008970545"
+      }
+    ]
+  },
+  {
+    "title": "Dos policías rebeldes ; Bad Boys",
+    "image": "https://image.tmdb.org/t/p/w185/nHalcWY9Ed5KSl35r9ddU2dnyJA.jpg",
+    "rating": "6.8",
+    "year": "Apr. 07, 1995",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un alijo de heroína valorada en unos 100 millones de dólares es robado del mismísimo depósito de la policía. El caso le será asignado a los agentes Burnett y Lowery, una pareja muy peculiar por los métodos que utilizan. La única pista que tienen para comenzar es la de un testigo que les ayudará a identificar a los atracadores y a la que tendrán que proteger.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/B/f/L/NBfLr.aaa.mp4"
       }
     ]
   },

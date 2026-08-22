@@ -1,46 +1,20 @@
 [
   {
-    "title": "Star Wars: El despertar de la fuerza ; Star Wars Episodio 7",
-    "image": "https://image.tmdb.org/t/p/w185/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
-    "rating": "7.7",
-    "year": "Dec. 15, 2015",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+    "title": "Sick 2022",
+    "image": "https://image.tmdb.org/t/p/w185/nBgxSimgLMGYCQckRQw7C2f7row.jpg",
+    "rating": "6",
+    "year": "Sep. 11, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Durante la pandemia, Parker y su mejor amigo deciden realizar la cuarentena en la casa familiar del lago donde estarán aislados del mundo… o al menos eso es lo que piensan.",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/90/s8/2/G/h/9/1/Gh91z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1088098816-1088182144"
-      }
-    ]
-  },
-  {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/sSRaYCfsxgL8LWeBQOO4Syd5BQJ-185x278.jpg",
-    "rating": "7.0",
-    "year": "May. 20, 2026",
-    "quality": "CAM-HDTS",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Continuación de la serie «The Mandalorian» en forma de película. El malvado Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin (Pedro Pascal) y su joven aprendiz Grogu.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/9a/s8/2/U/6/X/q/U6XqA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2006880768-2006957137"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Z/0/N/1/Z0N1j.caa.mp4"
       }
     ]
   },
@@ -89,6 +63,29 @@
     ]
   },
   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0186.jpg",
+    "rating": "7.0",
+    "year": "May. 20, 2026",
+    "quality": "CAM-HDTS",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Continuación de la serie «The Mandalorian» en forma de película. El malvado Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin (Pedro Pascal) y su joven aprendiz Grogu.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/9a/s8/2/U/6/X/q/U6XqA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2006880768-2006957137"
+      }
+    ]
+  },
+  {
     "title": "Starstruck: Mi Novio es una Súperestrella",
     "image": "https://image.tmdb.org/t/p/w185/5qjlYhD9wVeC4dRwk5KcNi1XWam.jpg",
     "rating": "6.1",
@@ -110,6 +107,27 @@
     ]
   },
   {
+    "title": "Sing ven y ¡Canta!: Thriller",
+    "image": "https://image.tmdb.org/t/p/w185/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+    "rating": "6.8",
+    "year": "Oct. 16, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Buster Moon sueña con un espectáculo de estrellas al ritmo de ‘Thriller’ de Michael Jackson en este corto de animación con personajes de las exitosas películas ‘¡Canta!’.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/b/a/T/-/baT-t.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Sting. Araña asesina",
     "image": "https://image.tmdb.org/t/p/w185/AgKiOjlywG2pJszCCZDUB01ztlW.jpg",
     "rating": "5.7",
@@ -126,6 +144,116 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe1/94/s8/2/l/y/D/C/lyDCx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Super Mario Galaxy La película",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0188.jpg",
+    "rating": "N/A",
+    "year": "Apr. 01, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Ver Super Mario Galaxy La película. Super Mario Galaxy La película es una emocionante aventura espacial protagonizada por los icónicos hermanos Mario y Luigi. En esta nueva historia intergaláctica, los héroes del Reino Champiñón deberán enfrentarse a una poderosa amenaza: Bowser Jr., quien está decidido a liberar a su padre y restaurar el legado del imperio Koopa utilizando el poder de las estrellas. Si estás buscando dónde disfrutar de este increíble estreno, en Movie Days puedes ver Super Mario Galaxy La película completa y GRATIS en HD. Nuestra plataforma te ofrece la mejor calidad de streaming para que acompañes a Mario, Luigi y Estela (Rosalina) en un viaje épico a través de galaxias llenas de peligros, misterios y desafíos visuales que cautivarán a toda la familia. Acompañados de viejos aliados y nuevos personajes, los hermanos emprenden una misión rescatando a los Destellos (Lumas) mientras exploran mundos con gravedades imposibles. Con acción, humor y una historia cargada de nostalgia para los fans de los videojuegos de Nintendo, esta película promete conquistar tanto a los seguidores clásicos como a las nuevas generaciones que buscan una aventura mágica y llena de valentía. Quizás te podría gustar:Puedes ver la primera película de Super Mario Bros aquí Super Mario 2023 o explorar más títulos del género de Animación en nuestra web. Más detalles técnicos en la ficha de TMDB. &nbsp;",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3017804800-3017864634"
+      }
+    ]
+  },
+  {
+    "title": "Super Me",
+    "image": "https://image.tmdb.org/t/p/w185/wEZ9si3boJMHXvNHbi7gHb1ajL0.jpg",
+    "rating": "5.8",
+    "year": "Apr. 09, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "SANG Yu está tan agotado por tratar de mantenerse despierto. Cada vez que cierra los ojos, un demonio lo persigue y lo mata en sus sueños. Una noche, SANG se da cuenta de que tiene un poder especial: puede hacer realidad los tesoros de sus sueños. Casi de la noche a la mañana, se convierte en un hombre rico. Pero su riqueza también atrae la atención de un gángster despiadado.",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/63/s8/2/A/e/r/1/Aer1x.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sueños sobre hielo",
+    "image": "https://image.tmdb.org/t/p/w185/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg",
+    "rating": "6",
+    "year": "Mar. 17, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Casey Carlyle es una estudiante aplicada a la que se le da bastante bien la física. Su madre, Joan, es una profesora de literatura que ya tiene planeado el brillante futuro académico y personal de su hija. Para conseguir una beca de física para la universidad de Harvard, Casey decide hacer un trabajo personal sobre el patinaje artístico, para probar así que hay fórmulas físicas en la inercia de las patinadoras.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/36/s8/2/C/x/j/p/Cxjpy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sueños galácticos",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0187.jpg",
+    "rating": "6.5",
+    "year": "Feb. 17, 2026",
+    "quality": "",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Ambientada en un futuro cercano, la historia gira en torno al surgimiento de la tecnología de realidad onírica “Good Dreams”, que permite a las personas hacer todo lo que deseen dentro de sus propios sueños creados por ellos mismos. Sin embargo, una crisis provocada por estos sueños comienza a desarrollarse en silencio.",
+    "genres": [
+      "Aventura",
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/35/s8/2/U/f/O/y/UfOyA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3435857408-3435925662"
+      }
+    ]
+  },
+  {
+    "title": "SuperCan ; Superdog",
+    "image": "https://image.tmdb.org/t/p/w185/kHlXtndIRk8k1pEmE6cQyRGvoU1.jpg",
+    "rating": "4.8",
+    "year": "Aug. 03, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Basada en la serie clásica de dibujos animados “Underdog”. Tras un accidente en el misterioso laboratorio del científico chiflado, el Dr. Simon Barsinister (Peter Dinklage), un perro de raza beagle descubre de repente que tiene unos poderes inimaginables además de la capacidad de hablar. Ataviado con un traje de superhéroe, Superdog (voz original de Jason Lee) jura proteger a los atormentados ciudadanos de Capitol City y, en especial, a una bonita spaniel llamada Polly Purebread (voz de Amy Adams). Cuando un siniestro plan de Barsinister y su secuaz Cad (Patrick Warburton) amenaza con destruir Capitol City, sólo Superdog puede arreglar las cosas…",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/k/H/I/m/kHImv.aaa.mp4"
       }
     ]
   },
@@ -155,114 +283,6 @@
     ]
   },
   {
-    "title": "Sueños galácticos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/dKT6A7yQWxvRhZwX5uudHofvpja-185x278.jpg",
-    "rating": "6.5",
-    "year": "Feb. 17, 2026",
-    "quality": "",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Ambientada en un futuro cercano, la historia gira en torno al surgimiento de la tecnología de realidad onírica “Good Dreams”, que permite a las personas hacer todo lo que deseen dentro de sus propios sueños creados por ellos mismos. Sin embargo, una crisis provocada por estos sueños comienza a desarrollarse en silencio.",
-    "genres": [
-      "Aventura",
-      "Ciencia ficción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/35/s8/2/U/f/O/y/UfOyA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3435857408-3435925662"
-      }
-    ]
-  },
-  {
-    "title": "Sound of Freedom ; Sonido de Libertad",
-    "image": "https://image.tmdb.org/t/p/w185/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
-    "rating": "8.7",
-    "year": "Jul. 03, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Acción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/m/A/6/EmA6n.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Sueños sobre hielo",
-    "image": "https://image.tmdb.org/t/p/w185/dTH6whROoMRkP3Ax6vFJwwyqDwj.jpg",
-    "rating": "6",
-    "year": "Mar. 17, 2005",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Casey Carlyle es una estudiante aplicada a la que se le da bastante bien la física. Su madre, Joan, es una profesora de literatura que ya tiene planeado el brillante futuro académico y personal de su hija. Para conseguir una beca de física para la universidad de Harvard, Casey decide hacer un trabajo personal sobre el patinaje artístico, para probar así que hay fórmulas físicas en la inercia de las patinadoras.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Familia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/36/s8/2/C/x/j/p/Cxjpy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Splice: Experimento mortal",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/rIYJsichDJbxGFGMyNRwIsQ144P-185x278.jpg",
-    "rating": "5.8",
-    "year": "Jun. 03, 2010",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Clive (Adrien Brody) y Elsa (Sarah Polley) son dos brillantes científicos que, por medio de la ingeniería genética, se dedican a crear variaciones de especies conocidas. Aunque han alcanzado el éxito, su ambición les hará perder el control, cuando, en secreto, decidan llevar sus experimentos más allá de la moral. Combinando ADN humano en sus experimentos genéticos obtendrán un nuevo escalón en el árbol evolutivo actual.",
-    "genres": [
-      "Ciencia ficción",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDA4LzJyMzM2cHU0bHB1cV9uL2luZGV4LXYxLWExLm0zdTg_dD0zbkZxVjQyWlF0bzBlLTNucGVyNmI2Y2pBdU5oQjBGbkdzLVNJeTlOMmJ3JnM9MTc4NzM2MDgwMiZlPTQzMjAwJnY9MzI3NzUyMTg1Jmk9MC4zJnNwPTAmZnI9MnIzMzZwdTRscHVxJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Super Mario Galaxy La película",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/pLQQMO77ohibggTKV6wmFs5LHYf-185x278.jpg",
-    "rating": "N/A",
-    "year": "Apr. 01, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Ver Super Mario Galaxy La película. Super Mario Galaxy La película es una emocionante aventura espacial protagonizada por los icónicos hermanos Mario y Luigi. En esta nueva historia intergaláctica, los héroes del Reino Champiñón deberán enfrentarse a una poderosa amenaza: Bowser Jr., quien está decidido a liberar a su padre y restaurar el legado del imperio Koopa utilizando el poder de las estrellas. Si estás buscando dónde disfrutar de este increíble estreno, en Movie Days puedes ver Super Mario Galaxy La película completa y GRATIS en HD. Nuestra plataforma te ofrece la mejor calidad de streaming para que acompañes a Mario, Luigi y Estela (Rosalina) en un viaje épico a través de galaxias llenas de peligros, misterios y desafíos visuales que cautivarán a toda la familia. Acompañados de viejos aliados y nuevos personajes, los hermanos emprenden una misión rescatando a los Destellos (Lumas) mientras exploran mundos con gravedades imposibles. Con acción, humor y una historia cargada de nostalgia para los fans de los videojuegos de Nintendo, esta película promete conquistar tanto a los seguidores clásicos como a las nuevas generaciones que buscan una aventura mágica y llena de valentía. Quizás te podría gustar:Puedes ver la primera película de Super Mario Bros aquí Super Mario 2023 o explorar más títulos del género de Animación en nuestra web. Más detalles técnicos en la ficha de TMDB. &nbsp;",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/2c/s8/2/8/J/Z/e/8JZeA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3017804800-3017864634"
-      }
-    ]
-  },
-  {
     "title": "Spider-Man. Un nuevo universo",
     "image": "https://image.tmdb.org/t/p/w185/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
     "rating": "8.4",
@@ -288,51 +308,29 @@
     ]
   },
   {
-    "title": "SuperCan ; Superdog",
-    "image": "https://image.tmdb.org/t/p/w185/kHlXtndIRk8k1pEmE6cQyRGvoU1.jpg",
-    "rating": "4.8",
-    "year": "Aug. 03, 2007",
+    "title": "Superpoli de centro comercial",
+    "image": "https://image.tmdb.org/t/p/w185/cC7BSAlGAOZt5XWEU2kyw1VW7RJ.jpg",
+    "rating": "5.3",
+    "year": "Jan. 15, 2009",
     "quality": "720p HD",
     "languages": [],
-    "description": "Basada en la serie clásica de dibujos animados “Underdog”. Tras un accidente en el misterioso laboratorio del científico chiflado, el Dr. Simon Barsinister (Peter Dinklage), un perro de raza beagle descubre de repente que tiene unos poderes inimaginables además de la capacidad de hablar. Ataviado con un traje de superhéroe, Superdog (voz original de Jason Lee) jura proteger a los atormentados ciudadanos de Capitol City y, en especial, a una bonita spaniel llamada Polly Purebread (voz de Amy Adams). Cuando un siniestro plan de Barsinister y su secuaz Cad (Patrick Warburton) amenaza con destruir Capitol City, sólo Superdog puede arreglar las cosas…",
+    "description": "Paul Blart (Kevin James, «Hitch») es un padre soltero del extrarradio que trata de ganarse la vida como guardia de seguridad en un gran centro comercial de Nueva Jersey. A pesar de que nadie toma su trabajo en serio, Paul considera que está al frente de la seguridad del recinto. Cuando un atraco cierra las puertas del centro comercial, el oficial de seguridad más extraordinario de Jersey tendrá que convertirse en un policía de verdad para poder salvar la situación.",
     "genres": [
       "Acción",
       "Aventura",
-      "Ciencia ficción",
       "Comedia",
-      "Familia",
-      "Fantasía"
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/k/H/I/m/kHImv.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Super Me",
-    "image": "https://image.tmdb.org/t/p/w185/wEZ9si3boJMHXvNHbi7gHb1ajL0.jpg",
-    "rating": "5.8",
-    "year": "Apr. 09, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "SANG Yu está tan agotado por tratar de mantenerse despierto. Cada vez que cierra los ojos, un demonio lo persigue y lo mata en sus sueños. Una noche, SANG se da cuenta de que tiene un poder especial: puede hacer realidad los tesoros de sus sueños. Casi de la noche a la mañana, se convierte en un hombre rico. Pero su riqueza también atrae la atención de un gángster despiadado.",
-    "genres": [
-      "Aventura",
-      "Drama",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/63/s8/2/A/e/r/1/Aer1x.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/1/v/5/T1v5t.aaa.mp4"
       }
     ]
   },
   {
     "title": "Supergirl",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/diEz9JG1UHEDTN0Yeri5sJZD7PL-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0189.jpg",
     "rating": "8.8",
     "year": "2026",
     "quality": "",
@@ -351,23 +349,43 @@
     ]
   },
   {
-    "title": "Superpoli de centro comercial",
-    "image": "https://image.tmdb.org/t/p/w185/cC7BSAlGAOZt5XWEU2kyw1VW7RJ.jpg",
-    "rating": "5.3",
-    "year": "Jan. 15, 2009",
+    "title": "Splice: Experimento mortal",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0185.jpg",
+    "rating": "5.8",
+    "year": "Jun. 03, 2010",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Paul Blart (Kevin James, «Hitch») es un padre soltero del extrarradio que trata de ganarse la vida como guardia de seguridad en un gran centro comercial de Nueva Jersey. A pesar de que nadie toma su trabajo en serio, Paul considera que está al frente de la seguridad del recinto. Cuando un atraco cierra las puertas del centro comercial, el oficial de seguridad más extraordinario de Jersey tendrá que convertirse en un policía de verdad para poder salvar la situación.",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Clive (Adrien Brody) y Elsa (Sarah Polley) son dos brillantes científicos que, por medio de la ingeniería genética, se dedican a crear variaciones de especies conocidas. Aunque han alcanzado el éxito, su ambición les hará perder el control, cuando, en secreto, decidan llevar sus experimentos más allá de la moral. Combinando ADN humano en sus experimentos genéticos obtendrán un nuevo escalón en el árbol evolutivo actual.",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Comedia",
-      "Familia"
+      "Ciencia ficción",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/T/1/v/5/T1v5t.aaa.mp4"
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDA4LzJyMzM2cHU0bHB1cV9uL2luZGV4LXYxLWExLm0zdTg_dD0zbkZxVjQyWlF0bzBlLTNucGVyNmI2Y2pBdU5oQjBGbkdzLVNJeTlOMmJ3JnM9MTc4NzM2MDgwMiZlPTQzMjAwJnY9MzI3NzUyMTg1Jmk9MC4zJnNwPTAmZnI9MnIzMzZwdTRscHVxJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Sound of Freedom ; Sonido de Libertad",
+    "image": "https://image.tmdb.org/t/p/w185/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
+    "rating": "8.7",
+    "year": "Jul. 03, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Acción",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/m/A/6/EmA6n.aaa.mp4"
       }
     ]
   },
@@ -393,20 +411,63 @@
     ]
   },
   {
-    "title": "Speak",
-    "image": "https://image.tmdb.org/t/p/w185/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
-    "rating": "7.2",
-    "year": "Jan. 20, 2004",
-    "quality": "720 HD",
+    "title": "Te Amaré Por Siempre",
+    "image": "https://image.tmdb.org/t/p/w185/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg",
+    "rating": "7.1",
+    "year": "Aug. 14, 2009",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Melinda Sordino (Kristen Stewart), una adolescente traumatizada por un hecho que no quiere contar a nadie, ha dejado de hablar. Empecinada en su silencio, inicia otro año escolar, cerrada no sólo a quienes se burlan de su aislamiento, sino también a quienes quieren ayudarla.",
+    "description": "Clare (Rachel McAdams) ha estado siempre enamorada de Henry (Eric Bana), un bibliotecario de Chicago. Está convencida de que están destinados a vivir juntos, aunque no sepa cuándo tendrán que volver a separarse: Henry es un viajero del tiempo, con una rara anomalía genética que lo condena a vivir su vida en una escala de tiempo cambiante, avanzando y retrocediendo a través de los años sin ningún control. A pesar de que los viajes de Henry son tan imprevisibles que Clare nunca sabe cuándo volverán a verse, intenta desesperadamente adaptarse a esa vida, pues lo que sí sabe es que no podría vivir sin Henry.",
     "genres": [
-      "Drama"
+      "Drama",
+      "Fantasía",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/N/I/w/sNIwq.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/e5/s8/2/8/R/e/p/8Repy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Sangre por Sangre",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0172.jpg",
+    "rating": "0",
+    "year": "Feb. 05, 1993",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tres primos crecen como hermanos en medio de la violencia de las bandas del este de Los Ángeles. Con el tiempo sus vidas siguen caminos muy diferentes: uno trabaja para la brigada antidroga de la Policía, otro cae en las redes de las brutales bandas de San Quintín y el tercero se deja arrastrar por el sórdido mundo de la drogadiccion. Pero el sentido del honor y sobre todo los lazos de sangre los mantendrán siempre unidos.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAzLzAwMDA2L3RqNDRkeHN0c204eV9uL2luZGV4LXYxLWEyLm0zdTg_dD01anBGUjBQU1N3WGU0eXNBZTExTnFVR19ZVF9pSVVqajlxSTdfS0pVeng0JnM9MTc4NzM2MDc5NyZlPTQzMjAwJnY9MzMwMDcwNzYyJmk9MC4zJnNwPTAmZnI9dGo0NGR4c3RzbTh5JnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Ted 2",
+    "image": "https://image.tmdb.org/t/p/w185/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
+    "rating": "6.3",
+    "year": "Jun. 25, 2015",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4"
       }
     ]
   },
@@ -429,22 +490,20 @@
     ]
   },
   {
-    "title": "Te Amaré Por Siempre",
-    "image": "https://image.tmdb.org/t/p/w185/4GtFVW8MIx6DQ1p7FmXbEMSWwzd.jpg",
-    "rating": "7.1",
-    "year": "Aug. 14, 2009",
-    "quality": "720p HD",
+    "title": "Speak",
+    "image": "https://image.tmdb.org/t/p/w185/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
+    "rating": "7.2",
+    "year": "Jan. 20, 2004",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Clare (Rachel McAdams) ha estado siempre enamorada de Henry (Eric Bana), un bibliotecario de Chicago. Está convencida de que están destinados a vivir juntos, aunque no sepa cuándo tendrán que volver a separarse: Henry es un viajero del tiempo, con una rara anomalía genética que lo condena a vivir su vida en una escala de tiempo cambiante, avanzando y retrocediendo a través de los años sin ningún control. A pesar de que los viajes de Henry son tan imprevisibles que Clare nunca sabe cuándo volverán a verse, intenta desesperadamente adaptarse a esa vida, pues lo que sí sabe es que no podría vivir sin Henry.",
+    "description": "Melinda Sordino (Kristen Stewart), una adolescente traumatizada por un hecho que no quiere contar a nadie, ha dejado de hablar. Empecinada en su silencio, inicia otro año escolar, cerrada no sólo a quienes se burlan de su aislamiento, sino también a quienes quieren ayudarla.",
     "genres": [
-      "Drama",
-      "Fantasía",
-      "Romance"
+      "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/e5/s8/2/8/R/e/p/8Repy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/N/I/w/sNIwq.aaa.mp4"
       }
     ]
   },
@@ -469,27 +528,8 @@
     ]
   },
   {
-    "title": "Ted 2",
-    "image": "https://image.tmdb.org/t/p/w185/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
-    "rating": "6.3",
-    "year": "Jun. 25, 2015",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
-    "genres": [
-      "Comedia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/1/W/T/Q1WTt.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Tekken: Blood Vengeance",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/aq5rke2oofY3xHCXEdWNk4cTpKY-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0192.jpg",
     "rating": "5.8",
     "year": "Jul. 26, 2011",
     "quality": "1080p HD",
@@ -550,26 +590,6 @@
     ]
   },
   {
-    "title": "Terminator",
-    "image": "https://image.tmdb.org/t/p/w185/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg",
-    "rating": "0",
-    "year": "Oct. 26, 1984",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-    "genres": [
-      "Acción",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0"
-      }
-    ]
-  },
-  {
     "title": "Terminator 2: El juicio final",
     "image": "https://image.tmdb.org/t/p/w185/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
     "rating": "8.6",
@@ -590,31 +610,28 @@
     ]
   },
   {
-    "title": "Supercool: Una noche de locura",
-    "image": "https://image.tmdb.org/t/p/w185/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg",
-    "rating": "5.3",
-    "year": "Jul. 02, 2021",
-    "quality": "720 HD",
+    "title": "Terminator",
+    "image": "https://image.tmdb.org/t/p/w185/kbPqRWsGS1siVUeEFVtLKloTG0Y.jpg",
+    "rating": "0",
+    "year": "Oct. 26, 1984",
+    "quality": "720p HD",
     "languages": [],
-    "description": "Mejores amigos, Neil y Gilbert comienzan su último año de secundaria con grandes esperanzas y aspiraciones. Neil siempre ha fantaseado con ser lo suficientemente genial como para salir con su enamorado de mucho tiempo y Gilbert siempre ha soñado con ser una súper estrella de las redes sociales. Después de lo que es, según todos los informes, un primer día muy decepcionante y vergonzoso en la escuela, Neil pide un deseo mágico de ser genial justo en el momento mágico en que el reloj marca las 11:11. A la mañana siguiente, Neil se despierta con una realidad que proviene directamente de los cómics de sus sueños.",
+    "description": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
     "genres": [
       "Acción",
-      "Comedia"
+      "Ciencia ficción",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0"
       }
     ]
   },
   {
     "title": "Terremoto ; San Andrés",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/uC4uhJuyOxZQhMcJoKQWbe667Sx-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0193.jpg",
     "rating": "6.1",
     "year": "May. 27, 2015",
     "quality": "720 HD",
@@ -654,6 +671,68 @@
     ]
   },
   {
+    "title": "Supercool: Una noche de locura",
+    "image": "https://image.tmdb.org/t/p/w185/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg",
+    "rating": "5.3",
+    "year": "Jul. 02, 2021",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Mejores amigos, Neil y Gilbert comienzan su último año de secundaria con grandes esperanzas y aspiraciones. Neil siempre ha fantaseado con ser lo suficientemente genial como para salir con su enamorado de mucho tiempo y Gilbert siempre ha soñado con ser una súper estrella de las redes sociales. Después de lo que es, según todos los informes, un primer día muy decepcionante y vergonzoso en la escuela, Neil pide un deseo mágico de ser genial justo en el momento mágico en que el reloj marca las 11:11. A la mañana siguiente, Neil se despierta con una realidad que proviene directamente de los cómics de sus sueños.",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/K/X/J/WKXJs.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Terrifier 3 ; Terrerife 3",
+    "image": "https://image.tmdb.org/t/p/w185/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg",
+    "rating": "7.2",
+    "year": "Oct. 09, 2024",
+    "quality": "BBRIP",
+    "languages": [],
+    "description": "Secuela de «Terrifier 2», ambientada en el periodo navideño.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/S/s/m/QSsmu.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Terror en Silent Hill 2: La revelación",
+    "image": "https://image.tmdb.org/t/p/w185/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",
+    "rating": "4.9",
+    "year": "Oct. 10, 2012",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Heather Mason y su padre han estado corriendo, siempre un paso por delante de las fuerzas peligrosas que ella no entiende completamente. Ahora en la víspera de su cumpleaños 18, plagada de horribles pesadillas y la desaparición de su padre, Heather descubre que no es Que ella cree que es. La revelación la lleva a profundizar en un mundo demoníaco que amenaza con atraparla para siempre.",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/63/s8/2/J/I/g/y/JIgyy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Superniños",
     "image": "https://image.tmdb.org/t/p/w185/5AcJFpvxcqjLNADrCNAUYOsIrQP.jpg",
     "rating": "4.7",
@@ -679,39 +758,43 @@
     ]
   },
   {
-    "title": "Terrifier 3 ; Terrerife 3",
-    "image": "https://image.tmdb.org/t/p/w185/5eECVdOWwbsUARVxLA7ENyBYx3H.jpg",
-    "rating": "7.2",
-    "year": "Oct. 09, 2024",
-    "quality": "BBRIP",
-    "languages": [],
-    "description": "Secuela de «Terrifier 2», ambientada en el periodo navideño.",
+    "title": "Terror en Silent Hill: Regreso al infierno ; Return to Silent Hill (2026)",
+    "image": "https://image.tmdb.org/t/p/w185/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
+    "rating": "4.4",
+    "year": "Jan. 21, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Tras recibir una misteriosa carta, James Sunderland conduce hacía un pueblo reconocible en la búsqueda de su amor perdido.",
     "genres": [
-      "Suspense",
+      "Misterio",
       "Terror"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/S/s/m/QSsmu.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=834665472-834729171"
       }
     ]
   },
   {
-    "title": "Stopmotion",
-    "image": "https://image.tmdb.org/t/p/w185/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
-    "rating": "5.6",
-    "year": "Feb. 22, 2024",
-    "quality": "720 HD",
+    "title": "The Alto Knights: Mafia y poder",
+    "image": "https://image.tmdb.org/t/p/w185/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg",
+    "rating": "5.7",
+    "year": "Mar. 14, 2025",
+    "quality": "720p HD",
     "languages": [],
-    "description": "",
+    "description": "Dos de los jefes del crimen organizado más conocidos de Nueva York, Frank Costello y Vito Genovese, compiten por el control de las calles de la ciudad. Aunque eran mejores amigos, los celos mezquinos y una serie de traiciones los colocan en una carrera mortal que cambiará la Mafia (y Estados Unidos) para siempre.",
     "genres": [
-      "Terror"
+      "Crimen",
+      "Drama",
+      "Historia"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/D/9/L/N/D9LNq.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/42/s8/2/x/C/m/I/xCmIy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=969988608-970062652"
       }
     ]
   },
@@ -739,30 +822,8 @@
     ]
   },
   {
-    "title": "Superman Regresa",
-    "image": "https://image.tmdb.org/t/p/w185/oD94EXP5UDpzhZGhaGslDv6H8pR.jpg",
-    "rating": "6.1",
-    "year": "Jun. 28, 2006",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/p/h/_/q/ph_qo.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Te Van A Matar",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/06/jOYxV166K7b7HWnswjoZKxi3sux-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0190.jpg",
     "rating": "6.3",
     "year": "Mar. 25, 2026",
     "quality": "720p HD",
@@ -780,68 +841,6 @@
       {
         "type": "mp4",
         "url": "https://moviedays.lat/stream/ts?url=aHR0cHM6Ly9zMTIudmltZW9zLm5ldC9obHMyLzAzLzAwMDEwLzI2dmhmemIwZ291ZV9uL2luZGV4LXYxLWExLm0zdTg_dD1qaEJsejFSSmRTbTlldWY4WjBzUlJUajhGbW90QjNnc0xYekVfLWRYVHJvJnM9MTc4NzM2MDgxNCZlPTQzMjAwJnY9MzMxOTI0NTI1Jmk9MC4wJnNwPTAmZnI9MjZ2aGZ6YjBnb3VlJnI9ZQ"
-      }
-    ]
-  },
-  {
-    "title": "Ted 1",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/1QVZXQQHCEIj8lyUhdBYd2qOYtq-185x278.jpg",
-    "rating": "6.9",
-    "year": "Jun. 29, 2012",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
-    "genres": [
-      "Comedia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDAvN2Y5cm15YXJscTg5X24vaW5kZXgtdjEtYTEubTN1OD90PUhuMlNuZ05rSFozNGtlaXhubWtySDYwNmR2X09YRXVBQlNTeFJlQkF1OHMmcz0xNzg3MzYwODAzJmU9NDMyMDAmdj0zMjUyNjgxNzkmc3J2PXM4Jmk9MC4wJnNwPTAmcj1l"
-      }
-    ]
-  },
-  {
-    "title": "Terror en Silent Hill 2: La revelación",
-    "image": "https://image.tmdb.org/t/p/w185/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",
-    "rating": "4.9",
-    "year": "Oct. 10, 2012",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Heather Mason y su padre han estado corriendo, siempre un paso por delante de las fuerzas peligrosas que ella no entiende completamente. Ahora en la víspera de su cumpleaños 18, plagada de horribles pesadillas y la desaparición de su padre, Heather descubre que no es Que ella cree que es. La revelación la lleva a profundizar en un mundo demoníaco que amenaza con atraparla para siempre.",
-    "genres": [
-      "Misterio",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/63/s8/2/J/I/g/y/JIgyy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Terror en Silent Hill: Regreso al infierno ; Return to Silent Hill (2026)",
-    "image": "https://image.tmdb.org/t/p/w185/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
-    "rating": "4.4",
-    "year": "Jan. 21, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Tras recibir una misteriosa carta, James Sunderland conduce hacía un pueblo reconocible en la búsqueda de su amor perdido.",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=834665472-834729171"
       }
     ]
   }

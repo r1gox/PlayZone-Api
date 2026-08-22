@@ -1,25 +1,5 @@
 [
   {
-    "title": "A través de mi ventana",
-    "image": "https://image.tmdb.org/t/p/w185/zGnfnPkQRUC1W1R5A8ldI4AfSJu.jpg",
-    "rating": "5.5",
-    "year": "Feb. 04, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Raquel lleva toda la vida loca por Ares, su atractivo y misterioso vecino. Lo observa sin ser vista y es que, muy a su pesar, no han intercambiado ni una palabra. Raquel tiene muy claro su objetivo: conseguir que Ares se enamore de ella. Pero ella no es una niña inocente y no está dispuesta a perderlo todo por el camino, y mucho menos a sí misma…",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/z/l/7/O/zl7Op.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "A todos los chicos: Para siempre",
     "image": "https://image.tmdb.org/t/p/w185/7bGVC0tkhvihjZHNFJuiuY2YcN7.jpg",
     "rating": "6.3",
@@ -38,6 +18,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/3/d/K/t/3dKtv.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "60 Segundos",
+    "image": "https://image.tmdb.org/t/p/w185/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+    "rating": "0",
+    "year": "Jun. 09, 2000",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El robo de autos en Long Beach se redujo en un 47% cuando Randall «Memphis» Raines se alejó de esta vida. Sin embargo, se ve obligado a regresar a este mundo, tomando las riendas del trabajo que su hermano Kip arruinó para el negociante de autos robados Raymond Calitri: robar 50 autos exóticos y tenerlos listo en un barco de contenedores a las 8:00 de la mañana del viernes, siendo avisado un lunes. Con Calitri amenazando con matarlo a él y a Kip, y a la unidad GRAB de la policía respirándole en la nuca, Memphis vuelve a reunir a su antiguo equipo para llevar a cabo algo logísticamente imposible.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/f3/s8/2/H/C/T/Y/HCTYy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=928892928-928963946"
       }
     ]
   },
@@ -82,65 +82,6 @@
     ]
   },
   {
-    "title": "Acusada",
-    "image": "https://image.tmdb.org/t/p/w185/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg",
-    "rating": "6.0",
-    "year": "Feb. 27, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La vida de una reconocida ginecóloga se sale de control cuando serias acusaciones amenazan su carrera y su matrimonio, mientras su esposa busca descubrir la verdad.",
-    "genres": [
-      "Drama",
-      "Misterio",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/de/s8/2/6/U/D/3/6UD3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=846022144-846086625"
-      }
-    ]
-  },
-  {
-    "title": "Adam Sandler: Love You",
-    "image": "https://image.tmdb.org/t/p/w185/qiLCOoJoMrheVzbgrurjp57upf8.jpg",
-    "rating": "6.8",
-    "year": "Aug. 26, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/Q/3/4/u/Q34ut.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "After 1: Aquí empieza todo",
-    "image": "https://image.tmdb.org/t/p/w185/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg",
-    "rating": "5.3",
-    "year": "Apr. 11, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "La joven Tessa Young cursa su primer año en la universidad. Acostumbrada a una vida estable y ordenada, su mundo cambia cuando conoce a Hardin Scott, un misterioso joven de oscuro pasado. Desde el primer momento se odian, porque pertenecen a dos mundos distintos y son completamente opuestos. Sin embargo, estos dos polos opuestos pronto se unirán y nada volverá a ser igual. Tessa y Hardin deberán enfrentarse a difíciles pruebas para estar juntos. La inocencia, el despertar a la vida, el descubrimiento sexual y las huellas de un amor tan poderoso como la fuerza del destino.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/l/f/O/9lfOs.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "A millones de kilómetros",
     "image": "https://image.tmdb.org/t/p/w185/3CNysXaPpIrVHlkovJ0inoKFkX2.jpg",
     "rating": "7.3",
@@ -172,6 +113,83 @@
     ]
   },
   {
+    "title": "Adam Sandler: Love You",
+    "image": "https://image.tmdb.org/t/p/w185/qiLCOoJoMrheVzbgrurjp57upf8.jpg",
+    "rating": "6.8",
+    "year": "Aug. 26, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/Q/3/4/u/Q34ut.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Acusada",
+    "image": "https://image.tmdb.org/t/p/w185/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg",
+    "rating": "6.0",
+    "year": "Feb. 27, 2026",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La vida de una reconocida ginecóloga se sale de control cuando serias acusaciones amenazan su carrera y su matrimonio, mientras su esposa busca descubrir la verdad.",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/de/s8/2/6/U/D/3/6UD3z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=846022144-846086625"
+      }
+    ]
+  },
+  {
+    "title": "After 1: Aquí empieza todo",
+    "image": "https://image.tmdb.org/t/p/w185/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg",
+    "rating": "5.3",
+    "year": "Apr. 11, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "La joven Tessa Young cursa su primer año en la universidad. Acostumbrada a una vida estable y ordenada, su mundo cambia cuando conoce a Hardin Scott, un misterioso joven de oscuro pasado. Desde el primer momento se odian, porque pertenecen a dos mundos distintos y son completamente opuestos. Sin embargo, estos dos polos opuestos pronto se unirán y nada volverá a ser igual. Tessa y Hardin deberán enfrentarse a difíciles pruebas para estar juntos. La inocencia, el despertar a la vida, el descubrimiento sexual y las huellas de un amor tan poderoso como la fuerza del destino.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/l/f/O/9lfOs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Agentes del Desorden ; Vamos de polis",
+    "image": "https://image.tmdb.org/t/p/w185/kZkRMq0zt1cxZI2Fe5A3NypiDBG.jpg",
+    "rating": "6.4",
+    "year": "Aug. 13, 2014",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Podría parecer que esta es la última película sobre las aventuras de dos compañeros policía, pero hay un problema, ninguno de los dos lo es. Cuando los dos amigos se disfrazan de agentes de la ley para una fiesta de disfraces se convierten en la sensación del barrio. Al ver el inmenso poder que les ofrecen estos uniformes los dos compañeros deciden aprovecharse al máximo de esta nueva situación de autoridad. Pero cuando estos dos héroes de nuevo cuño se ven enredados en una trama mafiosa de la vida real deberán decidir si poner sus placas falsas en acción o faltar a su deber como falsos policías.",
+    "genres": [
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/l/W/J/v/lWJvt.aaa.mp4?u=0&b=0"
+      }
+    ]
+  },
+  {
     "title": "After: En mil pedazos",
     "image": "https://image.tmdb.org/t/p/w185/8nPw22C41EUWXREWmY9iIivMXxm.jpg",
     "rating": "5",
@@ -194,7 +212,7 @@
   },
   {
     "title": "Akira",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/04/vjPt8HYymLOkRv82x9JwVO7M2a5-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0014.jpg",
     "rating": "8.0",
     "year": "Jun. 10, 1988",
     "quality": "720p HD",
@@ -212,24 +230,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/b8/s8/2/C/c/J/f/CcJfA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1990006272-1990082025"
-      }
-    ]
-  },
-  {
-    "title": "Agentes del Desorden ; Vamos de polis",
-    "image": "https://image.tmdb.org/t/p/w185/kZkRMq0zt1cxZI2Fe5A3NypiDBG.jpg",
-    "rating": "6.4",
-    "year": "Aug. 13, 2014",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Podría parecer que esta es la última película sobre las aventuras de dos compañeros policía, pero hay un problema, ninguno de los dos lo es. Cuando los dos amigos se disfrazan de agentes de la ley para una fiesta de disfraces se convierten en la sensación del barrio. Al ver el inmenso poder que les ofrecen estos uniformes los dos compañeros deciden aprovecharse al máximo de esta nueva situación de autoridad. Pero cuando estos dos héroes de nuevo cuño se ven enredados en una trama mafiosa de la vida real deberán decidir si poner sus placas falsas en acción o faltar a su deber como falsos policías.",
-    "genres": [
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/l/W/J/v/lWJvt.aaa.mp4?u=0&b=0"
       }
     ]
   },
@@ -253,41 +253,25 @@
     ]
   },
   {
-    "title": "Al frente de la clase ; Front of the Class ; El Primero de la Clase (2008)",
-    "image": "https://image.tmdb.org/t/p/w185/mjNuTsesebHjyae8P3etiEXmVc7.jpg",
-    "rating": "8.1",
-    "year": "Dec. 07, 2008",
-    "quality": "720p HD",
+    "title": "60 minutos",
+    "image": "https://image.tmdb.org/t/p/w185/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",
+    "rating": "5.7",
+    "year": "Jan. 19, 2024",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Front of the class («Al frente de la Clase»), está basada en la vida de Brad Cohen, un joven que padece el síndrome de Tourette, una enfermedad que se caracteriza por la realización de ciertos ruidos y tics que produce con el cuerpo, ambos incontrolables. La película comienza con un Brad adulto que decide presentarse en una escuela tras haber sido rechazado en otras veinticinco escuelas. Asiste con su currículum para tomar el puesto de maestro de Educación Primaria. Brad recuerda cómo fue su vida de joven y como ha tenido que «padecerla». Cuando era niño no tenía amigos y tuvo que cambiarse de colegio. Una vez en ese colegio se encuentra con un director que lo ayuda a que sus compañeros aprendan a tolerar y aceptar su condición. Finalmente es contratado para enseñar en segundo grado, y los alumnos deberán convivir con todo lo que implica su enfermedad.",
+    "description": "Desesperado por no perder la custodia de su hija, un luchador de artes marciales mixtas abandona una pelea y recorre Berlín a todo gas para verla el día de su cumpleaños.",
     "genres": [
+      "Acción",
       "Drama"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/82/s8/2/n/-/J/s/n-Jsx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
-    "image": "https://image.tmdb.org/t/p/w185/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg",
-    "rating": "3.9",
-    "year": "Aug. 01, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando Fondo de Bikini es arrastrado fuera del mar, la ardilla científica Arenita Mejillas y su amigo Bob Esponja se embarcan rumbo a Texas para salvar su ciudad.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Comedia",
-      "Familia"
-    ],
-    "sources": [
+        "url": "https://1a-1791.com/video/s8/2/l/0/W/W/l0WWp.aaa.mp4"
+      },
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/J/O/T/_/JOT_s.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/l/0/W/W/l0WWp.caa.mp4"
       }
     ]
   },
@@ -332,13 +316,55 @@
     ]
   },
   {
-    "title": "Algo Azul",
-    "image": "https://image.tmdb.org/t/p/w185/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
-    "rating": "N/A",
-    "year": "Feb. 07, 2025",
+    "title": "A través del mar",
+    "image": "https://image.tmdb.org/t/p/w185/7uaPJ3dHfWTImkJqzdHssicPwWU.jpg",
+    "rating": "5",
+    "year": "Jun. 23, 2023",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Secuela de «A través de mi ventana»",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/44/s8/2/S/u/J/a/SuJaw.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/44/s8/2/S/u/J/a/SuJaw.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Al frente de la clase ; Front of the Class ; El Primero de la Clase (2008)",
+    "image": "https://image.tmdb.org/t/p/w185/mjNuTsesebHjyae8P3etiEXmVc7.jpg",
+    "rating": "8.1",
+    "year": "Dec. 07, 2008",
     "quality": "720p HD",
     "languages": [],
-    "description": "Mejores amigos desde siempre, tienen sexo la noche antes de una boda y arruinan el vestido de la novia. En su aventura para reemplazarlo, descubren que quizás son más que amigos.",
+    "description": "Front of the class («Al frente de la Clase»), está basada en la vida de Brad Cohen, un joven que padece el síndrome de Tourette, una enfermedad que se caracteriza por la realización de ciertos ruidos y tics que produce con el cuerpo, ambos incontrolables. La película comienza con un Brad adulto que decide presentarse en una escuela tras haber sido rechazado en otras veinticinco escuelas. Asiste con su currículum para tomar el puesto de maestro de Educación Primaria. Brad recuerda cómo fue su vida de joven y como ha tenido que «padecerla». Cuando era niño no tenía amigos y tuvo que cambiarse de colegio. Una vez en ese colegio se encuentra con un director que lo ayuda a que sus compañeros aprendan a tolerar y aceptar su condición. Finalmente es contratado para enseñar en segundo grado, y los alumnos deberán convivir con todo lo que implica su enfermedad.",
+    "genres": [
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/82/s8/2/n/-/J/s/n-Jsx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Algo embarazada",
+    "image": "https://image.tmdb.org/t/p/w185/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
+    "rating": "0",
+    "year": "Feb. 04, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando los sueños de Amy de tener su propia familia comienzan a zozobrar, celosa del embarazo de su mejor amiga, se pone una barriga falsa, cuenta una mentira y se enamora sin quererlo de su hombre ideal.",
     "genres": [
       "Comedia",
       "Romance"
@@ -346,7 +372,7 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/5b/s8/2/U/v/R/E/UvREx.aaa.mp4"
+        "url": "https://1a-1791.com/video/fwe2/77/s8/2/3/8/A/x/38Axx.aaa.mp4"
       }
     ]
   },
@@ -375,44 +401,6 @@
     ]
   },
   {
-    "title": "Algo embarazada",
-    "image": "https://image.tmdb.org/t/p/w185/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
-    "rating": "0",
-    "year": "Feb. 04, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando los sueños de Amy de tener su propia familia comienzan a zozobrar, celosa del embarazo de su mejor amiga, se pone una barriga falsa, cuenta una mentira y se enamora sin quererlo de su hombre ideal.",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/77/s8/2/3/8/A/x/38Axx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Alguien como tú",
-    "image": "https://image.tmdb.org/t/p/w185/5kjsKg1nKuGX01mApvXdksxQ7Np.jpg",
-    "rating": "5.8",
-    "year": "Apr. 02, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Dawson, un joven arquitecto, pierde a su mejor amiga, London. Afligido por la trágica pérdida, Dawson emprende una búsqueda imposible, la de la hermana gemela secreta de London. Pero en el camino, Dawson nunca planeó enamorarse.",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/c7/s8/2/z/u/F/V/zuFVw.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Alicia a través del espejo",
     "image": "https://image.tmdb.org/t/p/w185/enTsjngbsWuf1JB6YoYOOd67GdE.jpg",
     "rating": "6.2",
@@ -433,83 +421,23 @@
     ]
   },
   {
-    "title": "60 minutos",
-    "image": "https://image.tmdb.org/t/p/w185/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg",
-    "rating": "5.7",
-    "year": "Jan. 19, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Desesperado por no perder la custodia de su hija, un luchador de artes marciales mixtas abandona una pelea y recorre Berlín a todo gas para verla el día de su cumpleaños.",
-    "genres": [
-      "Acción",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/l/0/W/W/l0WWp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/l/0/W/W/l0WWp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Alicia en el Pais de las Pesadillas ; Alice in Terrorland",
-    "image": "https://image.tmdb.org/t/p/w185/j3AANaBDzVDJOoe3K6sUL8NqRiH.jpg",
-    "rating": "3.1",
-    "year": "Dec. 26, 2023",
+    "title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
+    "image": "https://image.tmdb.org/t/p/w185/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg",
+    "rating": "3.9",
+    "year": "Aug. 01, 2024",
     "quality": "720p HD",
     "languages": [],
-    "description": "",
+    "description": "Cuando Fondo de Bikini es arrastrado fuera del mar, la ardilla científica Arenita Mejillas y su amigo Bob Esponja se embarcan rumbo a Texas para salvar su ciudad.",
     "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/-/S/R/f-SRs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Alicia en el País de las Maravillas",
-    "image": "https://image.tmdb.org/t/p/w185/lTL10rosTEhOZp8E3zoniXddyRC.jpg",
-    "rating": "6.4",
-    "year": "Mar. 03, 2010",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Alicia, una joven de 19 años, asiste a una fiesta en una mansión victoriana, donde descubre que está a punto de recibir una propuesta de matrimonio frente a un montón de gente estirada de la alta sociedad. Alicia entonces se escapa, corriendo tras un conejo blanco, entra a un agujero tras él… y acaba en el país de las Maravillas, un lugar que visitó hace 10 años, pero el cual no recuerda. El país de las Maravillas era un reino pacífico hasta que la Reina Roja derrocó a su hermana, la Reina Blanca. Las criaturas del país de las maravillas, listos para la revuelta, esperan que Alicia les ayude, y éstas a su vez le ayudarán a recordar su primera visita al mágico reino.",
-    "genres": [
+      "Animación",
       "Aventura",
-      "Familia",
-      "Fantasía"
+      "Comedia",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/c/k/x/4/ckx4s.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Alien: Romulus",
-    "image": "https://image.tmdb.org/t/p/w185/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-    "rating": "7.5",
-    "year": "Aug. 13, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
-    "genres": [
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/S/O/5/XSO5t.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/J/O/T/_/JOT_s.aaa.mp4"
       }
     ]
   },
@@ -534,40 +462,21 @@
     ]
   },
   {
-    "title": "[REC] 4: Apocalipsis",
-    "image": "https://image.tmdb.org/t/p/w185/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg",
-    "rating": "5.3",
-    "year": "Oct. 31, 2014",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Aunque el virus ya ha salido del edificio en cuarentena en el tercer filme, ahora con [REC]⁴ volverá la acción al final de la segunda parte dentro del edificio, desvelando el origen y el futuro de esta sangrienta y macabra epidemia. Con Manuela Velasco empezó y con ella terminará la historia de gore, zombies y tensión. La actriz volverá a ser la protagonista del final de la franquicia. El desenlace de la pandemia que convierte a las personas en cuerpos salvajes y hambrientos volverá al terror más puro y salvaje de las primeras, al mismo tiempo dará respuestas a las incógnitas que rodean una de las carnicerías más conocidas del cine español. Las calles de Barcelona no se llenarán de infectados, pero se descubrirá un nuevo y terrorífico lugar donde los infectados atacarán y devorarán a cualquier superviviente que pueda quedar de este apocalípsis.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/N/x/q/U/NxqUq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Alone (Sola)",
-    "image": "https://image.tmdb.org/t/p/w185/xhjJAI7WGM2adVwc7T5e8TqeyDX.jpg",
-    "rating": "6.2",
-    "year": "Sep. 10, 2020",
+    "title": "Algo Azul",
+    "image": "https://image.tmdb.org/t/p/w185/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg",
+    "rating": "N/A",
+    "year": "Feb. 07, 2025",
     "quality": "720p HD",
     "languages": [],
-    "description": "Una mujer viuda que viaja sola es secuestrada por un asesino a sangre fría. Cuando logra escapar de su captor no tendrá solo que evitar que éste la descubra, sino también que luchar contra los elementos de la naturaleza.",
+    "description": "Mejores amigos desde siempre, tienen sexo la noche antes de una boda y arruinan el vestido de la novia. En su aventura para reemplazarlo, descubren que quizás son más que amigos.",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Comedia",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/Z/R/F/_ZRFv.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/5b/s8/2/U/v/R/E/UvREx.aaa.mp4"
       }
     ]
   },
@@ -587,6 +496,82 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/9b/s8/2/H/m/t/C/HmtCy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1107512320-1107597110"
+      }
+    ]
+  },
+  {
+    "title": "Alguien como tú",
+    "image": "https://image.tmdb.org/t/p/w185/5kjsKg1nKuGX01mApvXdksxQ7Np.jpg",
+    "rating": "5.8",
+    "year": "Apr. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Dawson, un joven arquitecto, pierde a su mejor amiga, London. Afligido por la trágica pérdida, Dawson emprende una búsqueda imposible, la de la hermana gemela secreta de London. Pero en el camino, Dawson nunca planeó enamorarse.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/c7/s8/2/z/u/F/V/zuFVw.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "[REC] 4: Apocalipsis",
+    "image": "https://image.tmdb.org/t/p/w185/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg",
+    "rating": "5.3",
+    "year": "Oct. 31, 2014",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Aunque el virus ya ha salido del edificio en cuarentena en el tercer filme, ahora con [REC]⁴ volverá la acción al final de la segunda parte dentro del edificio, desvelando el origen y el futuro de esta sangrienta y macabra epidemia. Con Manuela Velasco empezó y con ella terminará la historia de gore, zombies y tensión. La actriz volverá a ser la protagonista del final de la franquicia. El desenlace de la pandemia que convierte a las personas en cuerpos salvajes y hambrientos volverá al terror más puro y salvaje de las primeras, al mismo tiempo dará respuestas a las incógnitas que rodean una de las carnicerías más conocidas del cine español. Las calles de Barcelona no se llenarán de infectados, pero se descubrirá un nuevo y terrorífico lugar donde los infectados atacarán y devorarán a cualquier superviviente que pueda quedar de este apocalípsis.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/N/x/q/U/NxqUq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Alien: Romulus",
+    "image": "https://image.tmdb.org/t/p/w185/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+    "rating": "7.5",
+    "year": "Aug. 13, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+    "genres": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/S/O/5/XSO5t.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Alone (Sola)",
+    "image": "https://image.tmdb.org/t/p/w185/xhjJAI7WGM2adVwc7T5e8TqeyDX.jpg",
+    "rating": "6.2",
+    "year": "Sep. 10, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Una mujer viuda que viaja sola es secuestrada por un asesino a sangre fría. Cuando logra escapar de su captor no tendrá solo que evitar que éste la descubra, sino también que luchar contra los elementos de la naturaleza.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/_/Z/R/F/_ZRFv.aaa.mp4"
       }
     ]
   },
@@ -652,26 +637,21 @@
     ]
   },
   {
-    "title": "A través del mar",
-    "image": "https://image.tmdb.org/t/p/w185/7uaPJ3dHfWTImkJqzdHssicPwWU.jpg",
-    "rating": "5",
-    "year": "Jun. 23, 2023",
+    "title": "After: Aquí acaba todo",
+    "image": "https://image.tmdb.org/t/p/w185/jO3VGQi5sHIj2BGS963g1F74yCq.jpg",
+    "rating": "4.6",
+    "year": "Sep. 13, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Secuela de «A través de mi ventana»",
+    "description": "After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemelas que no pueden estar separadas, pero que no saben cómo estar juntas.",
     "genres": [
-      "Comedia",
       "Drama",
       "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/44/s8/2/S/u/J/a/SuJaw.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/44/s8/2/S/u/J/a/SuJaw.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/E/_/R/LE_Rq.aaa.mp4"
       }
     ]
   },
@@ -695,13 +675,13 @@
     ]
   },
   {
-    "title": "After: Aquí acaba todo",
-    "image": "https://image.tmdb.org/t/p/w185/jO3VGQi5sHIj2BGS963g1F74yCq.jpg",
+    "title": "After: Amor infinito",
+    "image": "https://image.tmdb.org/t/p/w185/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg",
     "rating": "4.6",
-    "year": "Sep. 13, 2023",
+    "year": "Aug. 24, 2022",
     "quality": "720 HD",
     "languages": [],
-    "description": "After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemelas que no pueden estar separadas, pero que no saben cómo estar juntas.",
+    "description": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle… él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?",
     "genres": [
       "Drama",
       "Romance"
@@ -709,7 +689,65 @@
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/E/_/R/LE_Rq.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/0/K/N/w0KNq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Ahora o nunca",
+    "image": "https://image.tmdb.org/t/p/w185/bBgc1F5o6PMOxTPrOoZ3oIkP2KT.jpg",
+    "rating": "7.4",
+    "year": "Dec. 25, 2007",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Dos enfermos terminales escapan del hospital y se hacen un viaje con una lista de deseos que cumplir antes de morir.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/Y/X/d/zYXdr.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Alicia en el País de las Maravillas",
+    "image": "https://image.tmdb.org/t/p/w185/lTL10rosTEhOZp8E3zoniXddyRC.jpg",
+    "rating": "6.4",
+    "year": "Mar. 03, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Alicia, una joven de 19 años, asiste a una fiesta en una mansión victoriana, donde descubre que está a punto de recibir una propuesta de matrimonio frente a un montón de gente estirada de la alta sociedad. Alicia entonces se escapa, corriendo tras un conejo blanco, entra a un agujero tras él… y acaba en el país de las Maravillas, un lugar que visitó hace 10 años, pero el cual no recuerda. El país de las Maravillas era un reino pacífico hasta que la Reina Roja derrocó a su hermana, la Reina Blanca. Las criaturas del país de las maravillas, listos para la revuelta, esperan que Alicia les ayude, y éstas a su vez le ayudarán a recordar su primera visita al mágico reino.",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/c/k/x/4/ckx4s.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Alicia en el Pais de las Pesadillas ; Alice in Terrorland",
+    "image": "https://image.tmdb.org/t/p/w185/j3AANaBDzVDJOoe3K6sUL8NqRiH.jpg",
+    "rating": "3.1",
+    "year": "Dec. 26, 2023",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/-/S/R/f-SRs.aaa.mp4"
       }
     ]
   },
@@ -751,25 +789,6 @@
     ]
   },
   {
-    "title": "After: Amor infinito",
-    "image": "https://image.tmdb.org/t/p/w185/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg",
-    "rating": "4.6",
-    "year": "Aug. 24, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle… él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/w/0/K/N/w0KNq.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Amor a medianoche",
     "image": "https://image.tmdb.org/t/p/w185/jDNSClwYEVwmXfJgYDERvuALlXT.jpg",
     "rating": "6.6",
@@ -785,25 +804,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/m/e/T/nmeTs.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Amor explosivo ; Love Hurts",
-    "image": "https://image.tmdb.org/t/p/w185/qKLiQaHIzKAUlCHCY9oa6te3phb.jpg",
-    "rating": "5.4",
-    "year": "Feb. 06, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Marvin Gable, un agente inmobiliario que trabaja en los suburbios de Milwaukee, recibe un sobre de Rose una antigua compañera del crimen que él dio por muerta. Ahora, Marvin es traído de regreso al mundo de los sicarios agresivos, lleno de traiciones y casas abiertas que se convierten en zonas de guerras mortales.",
-    "genres": [
-      "Acción",
-      "Comedia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/b7/s8/2/_/J/0/G/_J0Gx.aaa.mp4"
       }
     ]
   }

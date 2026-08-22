@@ -1,65 +1,20 @@
 [
   {
-    "title": "El desafío (Annapolis)",
-    "image": "https://image.tmdb.org/t/p/w185/hH6YeqFcihbZsz7iWl6MzQVzL8O.jpg",
-    "rating": "5.8",
-    "year": "Jan. 27, 2006",
+    "title": "El conjuro 2",
+    "image": "https://image.tmdb.org/t/p/w185/pdNW0HWw11Wn2N94VGea8O44wOA.jpg",
+    "rating": "7.3",
+    "year": "Jun. 08, 2016",
     "quality": "720 HD",
     "languages": [],
-    "description": "Jake Huard es un jóven que tiene que luchar para sobrevivir al duro entrenamiento de una de las academias militares más exigentes del mundo. Contra todo pronóstico, el jóven de clase trabajadora consigue su gran sueño de ser aceptado en la academia Annapolis. Pero para convertirse en el hombre que siempre ha soñado tendrá que hacer frente a un duro adversario: el comandante de la compañía.",
+    "description": "Secuela de la exitosa ‘Expediente Warren’ (2013), que lleva de nuevo a la pantalla otro caso real de los expedientes de los renombrados demonólogos Ed y Lorraine Warren. En este caso ambos viajarán al norte de Londres para ayudar a una madre soltera que tiene a su cargo cuatro hijos y que vive sola con ellos en una casa plagada de espíritus malignos.",
     "genres": [
-      "Acción",
-      "Drama"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/9/E/F/R9EFs.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/9/E/F/R9EFs.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El Hilo Rojo",
-    "image": "https://image.tmdb.org/t/p/w185/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
-    "rating": "0",
-    "year": "Feb. 13, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Manuel y Abril parecen estar unidos por un destino infalible. Tras conocerse en un avión, sienten que son perfectos el uno para el otro. Pero el destino los separa y no se vuelven a encontrar hasta varios años después",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/e2/s8/2/2/l/d/W/2ldWx.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El Guardián: Último refugio ; Shelter El Protector",
-    "image": "https://image.tmdb.org/t/p/w185/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",
-    "rating": "0",
-    "year": "Jan. 28, 2026",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-    "genres": [
-      "Acción",
-      "Crimen",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/df/s8/2/y/k/A/9/ykA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3310475264-3310540960"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/t/p/I/XtpIn.caa.mp4"
       }
     ]
   },
@@ -97,24 +52,43 @@
     ]
   },
   {
-    "title": "El Hombre Araña ; Spider-Man",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/bCDaKZLRkrVVtPNyHxUfKvepW1N-185x278.jpg",
-    "rating": "7.4",
-    "year": "May. 01, 2002",
+    "title": "El Guardián: Último refugio ; Shelter El Protector",
+    "image": "https://image.tmdb.org/t/p/w185/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",
+    "rating": "0",
+    "year": "Jan. 28, 2026",
     "quality": "720p HD",
     "languages": [
-      "Latino",
-      "Inglés"
+      "Latino"
     ],
-    "description": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+    "description": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
     "genres": [
       "Acción",
-      "Fantasía"
+      "Crimen",
+      "Suspense"
     ],
     "sources": [
       {
         "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/66/s8/2/8/t/T/l/8tTlA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3734649344-3734723504"
+        "url": "https://1a-1791.com/video/fww1/df/s8/2/y/k/A/9/ykA9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3310475264-3310540960"
+      }
+    ]
+  },
+  {
+    "title": "El Hilo Rojo",
+    "image": "https://image.tmdb.org/t/p/w185/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
+    "rating": "0",
+    "year": "Feb. 13, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Manuel y Abril parecen estar unidos por un destino infalible. Tras conocerse en un avión, sienten que son perfectos el uno para el otro. Pero el destino los separa y no se vuelven a encontrar hasta varios años después",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/e2/s8/2/2/l/d/W/2ldWx.aaa.mp4"
       }
     ]
   },
@@ -134,29 +108,6 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/v/4/f/N/v4fNq.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "EL Hombre Araña 2 ; Spider-Man 2 ; SpiderMan 2",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/9vAx9vN27TpRv98fREN4aXIdhbp-185x278.jpg",
-    "rating": "7.5",
-    "year": "Jun. 25, 2004",
-    "quality": "720p HD",
-    "languages": [
-      "Latino",
-      "Inglés"
-    ],
-    "description": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumir sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus, «Doc Ock». Su atracción por M.J.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/d5/s8/2/c/w/V/l/cwVlA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4176476672-4176559787"
       }
     ]
   },
@@ -186,8 +137,53 @@
     ]
   },
   {
+    "title": "El Hombre Araña ; Spider-Man",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0067.jpg",
+    "rating": "7.4",
+    "year": "May. 01, 2002",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+    "genres": [
+      "Acción",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/66/s8/2/8/t/T/l/8tTlA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3734649344-3734723504"
+      }
+    ]
+  },
+  {
+    "title": "EL Hombre Araña 2 ; Spider-Man 2 ; SpiderMan 2",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0068.jpg",
+    "rating": "7.5",
+    "year": "Jun. 25, 2004",
+    "quality": "720p HD",
+    "languages": [
+      "Latino",
+      "Inglés"
+    ],
+    "description": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumir sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus, «Doc Ock». Su atracción por M.J.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/d5/s8/2/c/w/V/l/cwVlA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=4176476672-4176559787"
+      }
+    ]
+  },
+  {
     "title": "El Hombre Araña 3 ; Spider-Man 3",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/lkuQzlShE2uzJcsZYU4zBI4VQZP-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0069.jpg",
     "rating": "6.3",
     "year": "May. 01, 2007",
     "quality": "720p HD",
@@ -296,29 +292,6 @@
     ]
   },
   {
-    "title": "El exorcista del papa",
-    "image": "https://image.tmdb.org/t/p/w185/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg",
-    "rating": "6.2",
-    "year": "Apr. 05, 2023",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.",
-    "genres": [
-      "Misterio",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/e/O/V/aeOVj.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/a/e/O/V/aeOVj.caa.mp4"
-      }
-    ]
-  },
-  {
     "title": "El juego de Ender",
     "image": "https://image.tmdb.org/t/p/w185/wgDlp3CT8SyLKJ52oFxrQONcw86.jpg",
     "rating": "6.6",
@@ -377,20 +350,44 @@
     ]
   },
   {
-    "title": "El Exorcismo De Dios",
-    "image": "https://image.tmdb.org/t/p/w185/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
-    "rating": "5.3",
-    "year": "Mar. 11, 2022",
+    "title": "El exorcista del papa",
+    "image": "https://image.tmdb.org/t/p/w185/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg",
+    "rating": "6.2",
+    "year": "Apr. 05, 2023",
     "quality": "720 HD",
     "languages": [],
-    "description": "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, guarda un secreto que lo está comiendo vivo hasta que tenga la oportunidad de enfrentarse a su demonio por última vez.",
+    "description": "Película sobre Gabriele Amorth, un sacerdote que ejerció como exorcista principal del Vaticano, realizando más de cien mil exorcismos a lo largo de su vida. Amorth escribió dos libros de memorias donde detalló sus experiencias luchando contra Satanás.",
     "genres": [
+      "Misterio",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/-/B/2/O-B2n.caa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/a/e/O/V/aeOVj.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/a/e/O/V/aeOVj.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El extranjero ; El Implacable",
+    "image": "https://image.tmdb.org/t/p/w185/wgDW6iPCDtaXkora5RXd3TEj2m8.jpg",
+    "rating": "7",
+    "year": "Sep. 28, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Quan es un humilde empresario londinense cuyo pasado, largamente sepultado, estalla en una venganza feroz cuando la única persona que le queda en la vida, su hija adolescente, muere en un atentado terrorista del IRA. Su implacable búsqueda de los terroristas le lleva a un juego del gato y el ratón con un funcionario del gobierno británico, en cuyo pasado puede estar la pista de las identidades de los escurridizos asesinos.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/b/b/h/sbbhk.caa.mp4"
       }
     ]
   },
@@ -419,46 +416,22 @@
     ]
   },
   {
-    "title": "El Grinch",
-    "image": "https://image.tmdb.org/t/p/w185/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
-    "rating": "6.4",
-    "year": "Nov. 08, 2018",
-    "quality": "720 HD",
+    "title": "El libro de la selva",
+    "image": "https://image.tmdb.org/t/p/w185/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
+    "rating": "0",
+    "year": "Oct. 18, 1967",
+    "quality": "720p HD",
     "languages": [],
-    "description": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+    "description": "Tras la muerte de sus padres, Mowgli, un niño de apenas dos años, queda abandonado en la selva y es recogido por una manada de lobos. En el seno de la manada, Mowgli es criado como un lobo más hasta que crece y empieza a desenvolverse por sí mismo en la selva.",
     "genres": [
       "Animación",
-      "Comedia",
-      "Familia",
-      "Fantasía"
+      "Aventura",
+      "Familia"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/d/M/N/LdMNp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/L/d/M/N/LdMNp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El extranjero ; El Implacable",
-    "image": "https://image.tmdb.org/t/p/w185/wgDW6iPCDtaXkora5RXd3TEj2m8.jpg",
-    "rating": "7",
-    "year": "Sep. 28, 2017",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Quan es un humilde empresario londinense cuyo pasado, largamente sepultado, estalla en una venganza feroz cuando la única persona que le queda en la vida, su hija adolescente, muere en un atentado terrorista del IRA. Su implacable búsqueda de los terroristas le lleva a un juego del gato y el ratón con un funcionario del gobierno británico, en cuyo pasado puede estar la pista de las identidades de los escurridizos asesinos.",
-    "genres": [
-      "Acción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/s/b/b/h/sbbhk.caa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e3/s8/2/X/Z/P/A/XZPAx.aaa.mp4"
       }
     ]
   },
@@ -484,22 +457,27 @@
     ]
   },
   {
-    "title": "El libro de la selva",
-    "image": "https://image.tmdb.org/t/p/w185/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
-    "rating": "0",
-    "year": "Oct. 18, 1967",
-    "quality": "720p HD",
+    "title": "El Grinch",
+    "image": "https://image.tmdb.org/t/p/w185/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+    "rating": "6.4",
+    "year": "Nov. 08, 2018",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Tras la muerte de sus padres, Mowgli, un niño de apenas dos años, queda abandonado en la selva y es recogido por una manada de lobos. En el seno de la manada, Mowgli es criado como un lobo más hasta que crece y empieza a desenvolverse por sí mismo en la selva.",
+    "description": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
     "genres": [
       "Animación",
-      "Aventura",
-      "Familia"
+      "Comedia",
+      "Familia",
+      "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/e3/s8/2/X/Z/P/A/XZPAx.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/L/d/M/N/LdMNp.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/L/d/M/N/LdMNp.caa.mp4"
       }
     ]
   },
@@ -570,46 +548,6 @@
     ]
   },
   {
-    "title": "El Luchador ; Cinderella man",
-    "image": "https://image.tmdb.org/t/p/w185/9qJlfL3fB5d8MotO4kUtDgH4Yr8.jpg",
-    "rating": "8",
-    "year": "Jun. 02, 2005",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Basada en una historia real. Después de haberse retirado del boxeo, James J. Braddock decidió volver al cuadrilátero, en la época de la Gran Depresión, para poder alimentar a su familia. No era un boxeador con talento, pero su coraje, sacrificio y dignidad lo llevaron hasta la cumbre.",
-    "genres": [
-      "Drama",
-      "Historia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c5/s8/2/W/Y/x/v/WYxvy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El Maravilloso Mago de Oz: Parte 1",
-    "image": "https://image.tmdb.org/t/p/w185/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
-    "rating": "6.2",
-    "year": "Jan. 01, 2025",
-    "quality": "CAM-HDTS",
-    "languages": [],
-    "description": "Ellie vive en una ciudad lejana. Un día, la malvada bruja Gingema conjuró un huracán que llevó a Ellie y a su perro Totoshka al país de los Munchkins. Para regresar a casa, Ellie y sus amigos el Espantapájaros, el Leñador de Hojalata y el León Cobarde emprenderán el camino de baldosas amarillas hacia la Ciudad Esmeralda en busca del Mago que les concederá sus preciados deseos.",
-    "genres": [
-      "Drama",
-      "Fantasía",
-      "4908"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/98/s8/2/q/x/0/L/qx0Lx.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "El Grinch",
     "image": "https://image.tmdb.org/t/p/w185/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
     "rating": "6.3",
@@ -634,6 +572,82 @@
     ]
   },
   {
+    "title": "El Exorcismo De Dios",
+    "image": "https://image.tmdb.org/t/p/w185/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+    "rating": "5.3",
+    "year": "Mar. 11, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Un sacerdote estadounidense que trabaja en México es considerado un santo por muchos feligreses locales. Sin embargo, debido a un exorcismo fallido, guarda un secreto que lo está comiendo vivo hasta que tenga la oportunidad de enfrentarse a su demonio por última vez.",
+    "genres": [
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/-/B/2/O-B2n.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El Maravilloso Mago de Oz: Parte 1",
+    "image": "https://image.tmdb.org/t/p/w185/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg",
+    "rating": "6.2",
+    "year": "Jan. 01, 2025",
+    "quality": "CAM-HDTS",
+    "languages": [],
+    "description": "Ellie vive en una ciudad lejana. Un día, la malvada bruja Gingema conjuró un huracán que llevó a Ellie y a su perro Totoshka al país de los Munchkins. Para regresar a casa, Ellie y sus amigos el Espantapájaros, el Leñador de Hojalata y el León Cobarde emprenderán el camino de baldosas amarillas hacia la Ciudad Esmeralda en busca del Mago que les concederá sus preciados deseos.",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "4908"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe2/98/s8/2/q/x/0/L/qx0Lx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El Marino 3",
+    "image": "https://image.tmdb.org/t/p/w185/uvezxGHcHu6SQdDrHJXdT8X18zX.jpg",
+    "rating": "4.8",
+    "year": "Mar. 05, 2013",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un infante de la marina debe hacer lo que sea necesario para salvar a su sobrina secuestrada y detener un ataque terrorista planeado por un grupo de milicianos radicales.",
+    "genres": [
+      "Acción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe1/bf/s8/2/Q/M/6/w/QM6wy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El Luchador ; Cinderella man",
+    "image": "https://image.tmdb.org/t/p/w185/9qJlfL3fB5d8MotO4kUtDgH4Yr8.jpg",
+    "rating": "8",
+    "year": "Jun. 02, 2005",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Basada en una historia real. Después de haberse retirado del boxeo, James J. Braddock decidió volver al cuadrilátero, en la época de la Gran Depresión, para poder alimentar a su familia. No era un boxeador con talento, pero su coraje, sacrificio y dignidad lo llevaron hasta la cumbre.",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/c5/s8/2/W/Y/x/v/WYxvy.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "El Mecanico ; The Mechanic",
     "image": "https://image.tmdb.org/t/p/w185/maW8lmTO0yuRACd9zTCXFaI3ZVZ.jpg",
     "rating": "6.5",
@@ -650,6 +664,87 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/T/1/o/3T1ov.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El misterio de Salem&#8217;s Lot",
+    "image": "https://image.tmdb.org/t/p/w185/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
+    "rating": "5.9",
+    "year": "Oct. 03, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "El escritor Ben Mears regresa a Jerusalem’s Lot, la casa de su infancia, en busca de inspiración para su próximo libro. Allí descubre que su ciudad natal está siendo presa de un vampiro sediento de sangre.",
+    "genres": [
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fw/s8/2/C/H/t/X/CHtXt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El niño con el pijama de rayas",
+    "image": "https://image.tmdb.org/t/p/w185/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",
+    "rating": "0",
+    "year": "May. 07, 2008",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Berlín, 1942. Bruno tiene ocho años y desconoce el significado de la Solución Final y del Holocausto. No es consciente de las pavorosas crueldades que su país, en plena guerra mundial, está infligiendo a los pueblos de Europa. Todo lo que sabe es que su padre -recién nombrado comandante de un campo de concentración- ha ascendido en el escalafón, y que ha pasado de vivir en una confortable casa de Berlín a una zona aislada. Todo cambia cuando conoce a Shamuel, un niño judío que vive una extraña existencia paralela al otro lado de la alambrada.",
+    "genres": [
+      "Bélica",
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/9/A/P/n9APt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El hogar de Miss Peregrine para niños peculiares",
+    "image": "https://image.tmdb.org/t/p/w185/b4585PS4VZEqvwvVZiqeYZkpxhC.jpg",
+    "rating": "6.7",
+    "year": "Sep. 27, 2016",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Una horrible tragedia familiar lleva a Jacob, de 16 años, a viajar por la costa de Gales, donde descubre las ruinas del hogar para niños especiales de Miss Peregrine. Mientras explora los destartalados cuartos y pasillos, se da cuenta que los niños que vivieron allí (uno de los cuales fue su abuelo) eran excepcionales. Quizá eran peligrosos, quizá había una buena razón para ponerlos en cuarentena en una isla desierta; incluso podría ocurrir que todavía estuvieran vivos.",
+    "genres": [
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/r/k/t/8/rkt8r.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/r/k/t/8/rkt8r.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El olvido que seremos",
+    "image": "https://image.tmdb.org/t/p/w185/38ZpJoyVkM0nCiBPvZMqtQjAnrY.jpg",
+    "rating": "7.2",
+    "year": "Aug. 22, 2020",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Narra de manera íntima la vida de un hombre bueno, el médico Héctor Abad Gómez, carismático líder social y hombre de familia, un destacado médico y activista por los derechos humanos en el Medellín polarizado y violento de los años 70. La historia relata la vida del doctor, padre de familia preocupado tanto por sus hijos como por los niños de clases menos favorecidas. En su casa se respiraba la vitalidad y la creatividad características de una educación fundamentada en la tolerancia y el amor, pero la tragedia asomaba.",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/H/h/w/9/Hhw9s.aaa.mp4"
       }
     ]
   },
@@ -678,105 +773,24 @@
     ]
   },
   {
-    "title": "El Marino 3",
-    "image": "https://image.tmdb.org/t/p/w185/uvezxGHcHu6SQdDrHJXdT8X18zX.jpg",
-    "rating": "4.8",
-    "year": "Mar. 05, 2013",
+    "title": "El origen de los guardianes",
+    "image": "https://image.tmdb.org/t/p/w185/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg",
+    "rating": "7.2",
+    "year": "Nov. 21, 2012",
     "quality": "720p HD",
     "languages": [],
-    "description": "Un infante de la marina debe hacer lo que sea necesario para salvar a su sobrina secuestrada y detener un ataque terrorista planeado por un grupo de milicianos radicales.",
-    "genres": [
-      "Acción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe1/bf/s8/2/Q/M/6/w/QM6wy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El hobbit 2: La desolación de Smaug",
-    "image": "https://image.tmdb.org/t/p/w185/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg",
-    "rating": "7.8",
-    "year": "Dec. 11, 2013",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Tras sobrevivir al inicio de su inesperado viaje, la Compañía sigue hacia el este y se encuentra por el camino con Beorn, el cambiador de piel, y con un enjambre de Arañas gigantes en el peligroso monte Mirkwood. Tras evitar que los Elfos del Bosque los capturen, los Enanos prosiguen su viaje hacia Ciudad del Lago, y finalmente llegan a la Montaña Solitaria, donde tienen que enfrentarse al mayor de los peligros, una criatura más terrorífica que cualquier otra que pondrá a prueba no solo lo profundo de su valentía sino también los límites de su amistad y la sabiduría del viaje: el dragón Smaug.",
+    "description": "Una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Escarcha; personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
     "genres": [
       "Acción",
+      "Animación",
       "Aventura",
+      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/h/i/K/P/hiKPv.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/h/i/K/P/hiKPv.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El misterio de Salem&#8217;s Lot",
-    "image": "https://image.tmdb.org/t/p/w185/lQj4jn6CmQ88Q7XsYvhenHjVIO.jpg",
-    "rating": "5.9",
-    "year": "Oct. 03, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "El escritor Ben Mears regresa a Jerusalem’s Lot, la casa de su infancia, en busca de inspiración para su próximo libro. Allí descubre que su ciudad natal está siendo presa de un vampiro sediento de sangre.",
-    "genres": [
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fw/s8/2/C/H/t/X/CHtXt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El hogar de Miss Peregrine para niños peculiares",
-    "image": "https://image.tmdb.org/t/p/w185/b4585PS4VZEqvwvVZiqeYZkpxhC.jpg",
-    "rating": "6.7",
-    "year": "Sep. 27, 2016",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Una horrible tragedia familiar lleva a Jacob, de 16 años, a viajar por la costa de Gales, donde descubre las ruinas del hogar para niños especiales de Miss Peregrine. Mientras explora los destartalados cuartos y pasillos, se da cuenta que los niños que vivieron allí (uno de los cuales fue su abuelo) eran excepcionales. Quizá eran peligrosos, quizá había una buena razón para ponerlos en cuarentena en una isla desierta; incluso podría ocurrir que todavía estuvieran vivos.",
-    "genres": [
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/r/k/t/8/rkt8r.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/r/k/t/8/rkt8r.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El Mono ; The Monkey",
-    "image": "https://image.tmdb.org/t/p/w185/eEhZyX9s15RRjDZ358GNNQRBMWs.jpg",
-    "rating": "6.6",
-    "year": "Feb. 14, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando los gemelos Hal y Bill descubren el antiguo mono de juguete de su padre en el ático, una serie de truculentas muertes comienzan a ocurrir a su alrededor. Los hermanos deciden tirar el mono y continuar con sus vidas, distanciándose con el paso de los años.",
-    "genres": [
-      "Comedia",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fww1/21/s8/2/L/w/F/G/LwFGy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/g/S/0/NgS0u.aaa.mp4"
       }
     ]
   },
@@ -805,63 +819,47 @@
     ]
   },
   {
-    "title": "El niño con el pijama de rayas",
-    "image": "https://image.tmdb.org/t/p/w185/dZeiD0WVM1IHzRAOSldsY0jh1CR.jpg",
-    "rating": "0",
-    "year": "May. 07, 2008",
+    "title": "El hobbit 2: La desolación de Smaug",
+    "image": "https://image.tmdb.org/t/p/w185/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg",
+    "rating": "7.8",
+    "year": "Dec. 11, 2013",
     "quality": "720p HD",
     "languages": [],
-    "description": "Berlín, 1942. Bruno tiene ocho años y desconoce el significado de la Solución Final y del Holocausto. No es consciente de las pavorosas crueldades que su país, en plena guerra mundial, está infligiendo a los pueblos de Europa. Todo lo que sabe es que su padre -recién nombrado comandante de un campo de concentración- ha ascendido en el escalafón, y que ha pasado de vivir en una confortable casa de Berlín a una zona aislada. Todo cambia cuando conoce a Shamuel, un niño judío que vive una extraña existencia paralela al otro lado de la alambrada.",
-    "genres": [
-      "Bélica",
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/9/A/P/n9APt.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El olvido que seremos",
-    "image": "https://image.tmdb.org/t/p/w185/38ZpJoyVkM0nCiBPvZMqtQjAnrY.jpg",
-    "rating": "7.2",
-    "year": "Aug. 22, 2020",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Narra de manera íntima la vida de un hombre bueno, el médico Héctor Abad Gómez, carismático líder social y hombre de familia, un destacado médico y activista por los derechos humanos en el Medellín polarizado y violento de los años 70. La historia relata la vida del doctor, padre de familia preocupado tanto por sus hijos como por los niños de clases menos favorecidas. En su casa se respiraba la vitalidad y la creatividad características de una educación fundamentada en la tolerancia y el amor, pero la tragedia asomaba.",
-    "genres": [
-      "Drama",
-      "Historia"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/H/h/w/9/Hhw9s.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "El origen de los guardianes",
-    "image": "https://image.tmdb.org/t/p/w185/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg",
-    "rating": "7.2",
-    "year": "Nov. 21, 2012",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Escarcha; personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
+    "description": "Tras sobrevivir al inicio de su inesperado viaje, la Compañía sigue hacia el este y se encuentra por el camino con Beorn, el cambiador de piel, y con un enjambre de Arañas gigantes en el peligroso monte Mirkwood. Tras evitar que los Elfos del Bosque los capturen, los Enanos prosiguen su viaje hacia Ciudad del Lago, y finalmente llegan a la Montaña Solitaria, donde tienen que enfrentarse al mayor de los peligros, una criatura más terrorífica que cualquier otra que pondrá a prueba no solo lo profundo de su valentía sino también los límites de su amistad y la sabiduría del viaje: el dragón Smaug.",
     "genres": [
       "Acción",
-      "Animación",
       "Aventura",
-      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/g/S/0/NgS0u.aaa.mp4"
+        "url": "https://1a-1791.com/video/s8/2/h/i/K/P/hiKPv.aaa.mp4"
+      },
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/h/i/K/P/hiKPv.caa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "El Oso Yogui",
+    "image": "https://image.tmdb.org/t/p/w185/za8xPoiJqaFryxCm25M37QZ3Rfk.jpg",
+    "rating": "4.6",
+    "year": "Dec. 17, 2010",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Adaptación al cine de la famosa serie infantil -en una mezcla de cine de animación y personajes reales-. Una directora de documentales (Anna Faris) viaja al Parque Jellystone para filmar un proyecto. Allí no tardará en encontrarse con el Oso Yogui, su inseparable amio Boo-Boo y el guardabosques Smith",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Comedia",
+      "Familia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/80/s8/2/M/W/Y/6/MWY6y.aaa.mp4"
       }
     ]
   }

@@ -22,48 +22,6 @@
     ]
   },
   {
-    "title": "Pokémon 2 la película 2000",
-    "image": "https://image.tmdb.org/t/p/w185/onOIJL2FPGF6hQ66zDEyesfTxSi.jpg",
-    "rating": "6.1",
-    "year": "Jul. 17, 1999",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Ash Ketchum debe reunir las tres esferas de fuego, hielo y relámpago para devolver el equilibrio a las Islas Naranja.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Ciencia ficción",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/40/s8/2/2/y/Z/w/2yZwy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Pokémon Detective Pikachu",
-    "image": "https://image.tmdb.org/t/p/w185/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
-    "rating": "6.5",
-    "year": "May. 03, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/b/0/5/Ub05u.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Pokémon 8: Lucario y el misterio de Mew",
     "image": "https://image.tmdb.org/t/p/w185/aEPMnvSfDlDciCpHgFnWje7YSDQ.jpg",
     "rating": "6.8",
@@ -87,24 +45,22 @@
     ]
   },
   {
-    "title": "Pokémon, la película: Mewtwo contraataca",
-    "image": "https://image.tmdb.org/t/p/w185/aeskMWlroIsPR9AllXLW2H6Gev0.jpg",
-    "rating": "6.3",
-    "year": "Jul. 18, 1998",
+    "title": "Pokémon Detective Pikachu",
+    "image": "https://image.tmdb.org/t/p/w185/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+    "rating": "6.5",
+    "year": "May. 03, 2019",
     "quality": "720p HD",
     "languages": [],
-    "description": "Los científicos crean genéticamente un nuevo Pokémon, Mewtwo, pero los resultados son horribles y desastrosos.",
+    "description": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
     "genres": [
       "Acción",
-      "Animación",
       "Aventura",
-      "Familia",
       "Fantasía"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/K/Y/5/v/KY5vy.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/U/b/0/5/Ub05u.aaa.mp4"
       }
     ]
   },
@@ -131,6 +87,50 @@
     ]
   },
   {
+    "title": "Pokémon, la película: Mewtwo contraataca",
+    "image": "https://image.tmdb.org/t/p/w185/aeskMWlroIsPR9AllXLW2H6Gev0.jpg",
+    "rating": "6.3",
+    "year": "Jul. 18, 1998",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Los científicos crean genéticamente un nuevo Pokémon, Mewtwo, pero los resultados son horribles y desastrosos.",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fww1/98/s8/2/K/Y/5/v/KY5vy.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Piratas del Caribe 5: La venganza de Salazar",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0156.jpg",
+    "rating": "6.5",
+    "year": "May. 23, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbjZmNmE2ZDVocTRxX24vaW5kZXgtdjEtYTEubTN1OD90PWQ5cFZPR1BNRF9WSzNkRTU1R01RS2JFY0h3NTk3OF9pWExsMm5FMk5pQWMmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMjk5ODM4MjEmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
+      }
+    ]
+  },
+  {
     "title": "Policán ; Las Aventuras de Dog Man ; DogMan",
     "image": "https://image.tmdb.org/t/p/w185/sccfhAcEkQGiyTjIAKoQZcIr0ti.jpg",
     "rating": "6.4",
@@ -152,28 +152,6 @@
     ]
   },
   {
-    "title": "Piratas del Caribe 5: La venganza de Salazar",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/AookkwjZfWdigGtaEwy5IfOnBku-185x278.jpg",
-    "rating": "6.5",
-    "year": "May. 23, 2017",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.site/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDMvbjZmNmE2ZDVocTRxX24vaW5kZXgtdjEtYTEubTN1OD90PWQ5cFZPR1BNRF9WSzNkRTU1R01RS2JFY0h3NTk3OF9pWExsMm5FMk5pQWMmcz0xNzg3MzYwODA0JmU9NDMyMDAmdj0zMjk5ODM4MjEmc3J2PXMxMCZpPTAuMyZzcD0wJnI9ZQ"
-      }
-    ]
-  },
-  {
     "title": "Ponyo en el acantilado",
     "image": "https://image.tmdb.org/t/p/w185/nhp8r2zx4u6NfYRPISfVPE4AM6N.jpg",
     "rating": "7.6",
@@ -190,6 +168,26 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/j/A/a/LjAat.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Pearl",
+    "image": "https://image.tmdb.org/t/p/w185/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+    "rating": "7",
+    "year": "Sep. 16, 2022",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre. Deseosa de una vida glamorosa como la que ha visto en las películas, las ambiciones, tentaciones y represiones de Pearl chocan.",
+    "genres": [
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/e/V/E/VeVEo.aaa.mp4"
       }
     ]
   },
@@ -251,26 +249,6 @@
     ]
   },
   {
-    "title": "Pearl",
-    "image": "https://image.tmdb.org/t/p/w185/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
-    "rating": "7",
-    "year": "Sep. 16, 2022",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre. Deseosa de una vida glamorosa como la que ha visto en las películas, las ambiciones, tentaciones y represiones de Pearl chocan.",
-    "genres": [
-      "Drama",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/e/V/E/VeVEo.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Perdida",
     "image": "https://image.tmdb.org/t/p/w185/btTzRshPDb5j9xXlxnJvFEm2KuV.jpg",
     "rating": "7",
@@ -286,6 +264,26 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/5/y/d/L/5ydLo.baa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Problemas&#8230;",
+    "image": "https://image.tmdb.org/t/p/w185/1tGnyrfjveMFe7CwXnLTZuDtO1A.jpg",
+    "rating": "6.1",
+    "year": "Oct. 02, 2024",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Un torpe dependiente de electrónica, condenado por un asesinato que no cometió, se enfrenta a policías corruptos y conspiraciones criminales mientras intenta probar su inocencia.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/l/e/Z/nleZt.aaa.mp4"
       }
     ]
   },
@@ -307,26 +305,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/m/w/8/g/mw8go.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Problemas&#8230;",
-    "image": "https://image.tmdb.org/t/p/w185/1tGnyrfjveMFe7CwXnLTZuDtO1A.jpg",
-    "rating": "6.1",
-    "year": "Oct. 02, 2024",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un torpe dependiente de electrónica, condenado por un asesinato que no cometió, se enfrenta a policías corruptos y conspiraciones criminales mientras intenta probar su inocencia.",
-    "genres": [
-      "Acción",
-      "Comedia",
-      "Crimen"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/l/e/Z/nleZt.aaa.mp4"
       }
     ]
   },
@@ -354,7 +332,7 @@
   },
   {
     "title": "Proyecto Florida",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/c2Jwrq1AbGt2vpbdFXGwjy82UU3-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0159.jpg",
     "rating": "7.6",
     "year": "Oct. 06, 2017",
     "quality": "720p HD",
@@ -374,46 +352,6 @@
     ]
   },
   {
-    "title": "Piraña 2 3DD",
-    "image": "https://image.tmdb.org/t/p/w185/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg",
-    "rating": "3.8",
-    "year": "May. 11, 2012",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Hay algo en el agua. . . otra vez. Y esta vez nadie está a salvo de ser comido por un pescado, ya que hunden sus dientes afilados en los visitantes de la mejor atracción del verano, el parque acuático Big Wet. Un pueblo verá como las pirañas ya no sólo permanecerán en un lago sino que se abrirán paso a través de las tuberías llegando a hogares, piscinas e incluso a un parque acuático conocido como «Wilderness Waters» donde seguir con su orgía sangrienta. Secuela de «Piraña 3D» (Alexandre Aja, 2010).",
-    "genres": [
-      "Comedia",
-      "Suspense",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/v/Z/J/6vZJo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Proyecto Lázaro",
-    "image": "https://image.tmdb.org/t/p/w185/1TSETMXX3ncT9lPtsKzvo7u1sdu.jpg",
-    "rating": "0",
-    "year": "Dec. 13, 2016",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "A sus 32 años, Marc Jarvis (Tom Hughes) padece una enfermedad terminal. Le queda un año de vida. Justo ahora que él y Naomi (Oona Chaplin) han empezado a construir una vida juntos. Por eso, incapaz de aceptar su final, Marc decide criogenizar su cuerpo con la esperanza puesta en el futuro. Más de sesenta años después, en 2084, se convierte en el primer hombre resucitado de la Historia, pero su resurrección no se producirá de la forma idílica que Marc había imaginado antes de morir.",
-    "genres": [
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/12/s8/2/G/L/n/9/GLn9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3300806656-3300872273"
-      }
-    ]
-  },
-  {
     "title": "Piraña 3D",
     "image": "https://image.tmdb.org/t/p/w185/lIodGaZNJbbShF5bDgf51cqpAKa.jpg",
     "rating": "5.5",
@@ -429,46 +367,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/s8/2/0/i/r/K/0irKo.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Piratas del Caribe 3: En el fin del mundo",
-    "image": "https://image.tmdb.org/t/p/w185/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
-    "rating": "7.1",
-    "year": "May. 19, 2007",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo…",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/o/d/c/n/odcno.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Puñales por la espalda",
-    "image": "https://image.tmdb.org/t/p/w185/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
-    "rating": "7.9",
-    "year": "Nov. 27, 2019",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
-    "genres": [
-      "Comedia",
-      "Crimen",
-      "Misterio"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/z/Y/O/V/zYOVs.aaa.mp4"
       }
     ]
   },
@@ -495,6 +393,66 @@
     ]
   },
   {
+    "title": "Proyecto Lázaro",
+    "image": "https://image.tmdb.org/t/p/w185/1TSETMXX3ncT9lPtsKzvo7u1sdu.jpg",
+    "rating": "0",
+    "year": "Dec. 13, 2016",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "A sus 32 años, Marc Jarvis (Tom Hughes) padece una enfermedad terminal. Le queda un año de vida. Justo ahora que él y Naomi (Oona Chaplin) han empezado a construir una vida juntos. Por eso, incapaz de aceptar su final, Marc decide criogenizar su cuerpo con la esperanza puesta en el futuro. Más de sesenta años después, en 2084, se convierte en el primer hombre resucitado de la Historia, pero su resurrección no se producirá de la forma idílica que Marc había imaginado antes de morir.",
+    "genres": [
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fwe2/12/s8/2/G/L/n/9/GLn9z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3300806656-3300872273"
+      }
+    ]
+  },
+  {
+    "title": "Puñales por la espalda",
+    "image": "https://image.tmdb.org/t/p/w185/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
+    "rating": "7.9",
+    "year": "Nov. 27, 2019",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
+    "genres": [
+      "Comedia",
+      "Crimen",
+      "Misterio"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/z/Y/O/V/zYOVs.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Piratas del Caribe 3: En el fin del mundo",
+    "image": "https://image.tmdb.org/t/p/w185/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+    "rating": "7.1",
+    "year": "May. 19, 2007",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo…",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/o/d/c/n/odcno.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Pánico en el tren bala",
     "image": "https://image.tmdb.org/t/p/w185/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg",
     "rating": "6.3",
@@ -512,6 +470,48 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/d4/s8/2/_/6/Y/E/_6YEy.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1085236224-1085319187"
+      }
+    ]
+  },
+  {
+    "title": "Piraña 2 3DD",
+    "image": "https://image.tmdb.org/t/p/w185/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg",
+    "rating": "3.8",
+    "year": "May. 11, 2012",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Hay algo en el agua. . . otra vez. Y esta vez nadie está a salvo de ser comido por un pescado, ya que hunden sus dientes afilados en los visitantes de la mejor atracción del verano, el parque acuático Big Wet. Un pueblo verá como las pirañas ya no sólo permanecerán en un lago sino que se abrirán paso a través de las tuberías llegando a hogares, piscinas e incluso a un parque acuático conocido como «Wilderness Waters» donde seguir con su orgía sangrienta. Secuela de «Piraña 3D» (Alexandre Aja, 2010).",
+    "genres": [
+      "Comedia",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/6/v/Z/J/6vZJo.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Power Rangers",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0157.jpg",
+    "rating": "0",
+    "year": "Mar. 23, 2017",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "La película sigue a cinco jóvenes predestinados a convertirse en algo extraordinario cuando descubren que tanto su modesto poblado, Angel Grove, como el resto del mundo, están al borde de la aniquilación por una amenaza alienígena. Nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta, pero para lograrlo tendrán que superar problemas de la vida real y unirse bajo el nombre de Power Rangers antes de que sea demasiado tarde.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDkvbDd2dTExaXNzd2pkX2gvaW5kZXgtdjEtYTEubTN1OD90PTdCdkZZNHZqaDFMbVp1cDJXazN2TjZ3UEZmRldIa0ZOVmtjOGNpT0Radlkmcz0xNzg3MzYwODAxJmU9NDMyMDAmdj0zMjUzNzk3NjMmc3J2PXMxMyZpPTAuMyZzcD0wJmZyPWw3dnUxMWlzc3dqZCZyPWU"
       }
     ]
   },
@@ -535,28 +535,6 @@
       {
         "type": "hls",
         "url": "https://1a-1791.com/video/fww1/ab/s8/2/q/g/9/d/qg9dA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3116640256-3116702149"
-      }
-    ]
-  },
-  {
-    "title": "Power Rangers",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/dgsnZW7zyChQfAzCtmLlPp5twpl-185x278.jpg",
-    "rating": "0",
-    "year": "Mar. 23, 2017",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "La película sigue a cinco jóvenes predestinados a convertirse en algo extraordinario cuando descubren que tanto su modesto poblado, Angel Grove, como el resto del mundo, están al borde de la aniquilación por una amenaza alienígena. Nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta, pero para lograrlo tendrán que superar problemas de la vida real y unirse bajo el nombre de Power Rangers antes de que sea demasiado tarde.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.space/stream/ts?url=aHR0cHM6Ly92aW1lb3MuemlwL2hsczIvMDIvMDAwMDkvbDd2dTExaXNzd2pkX2gvaW5kZXgtdjEtYTEubTN1OD90PTdCdkZZNHZqaDFMbVp1cDJXazN2TjZ3UEZmRldIa0ZOVmtjOGNpT0Radlkmcz0xNzg3MzYwODAxJmU9NDMyMDAmdj0zMjUzNzk3NjMmc3J2PXMxMyZpPTAuMyZzcD0wJmZyPWw3dnUxMWlzc3dqZCZyPWU"
       }
     ]
   },
@@ -603,29 +581,6 @@
     ]
   },
   {
-    "title": "Primitive War ; Emboscada Salvaje",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/08/hFp9Ytgs4kbuBfF4wg1867bRtEs-185x278.jpg",
-    "rating": "5.3",
-    "year": "Aug. 21, 2025",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Vietnam. 1968. Una unidad de reconocimiento conocida como Escuadrón Buitre es enviada a un valle aislado de la jungla para descubrir el destino de un pelotón de Boina Verde desaparecido. Pronto descubren que no están solos.",
-    "genres": [
-      "Acción",
-      "Bélica",
-      "Ciencia ficción",
-      "Terror"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDIvMDAwMTIvaGhvZDJoazBrc2J4X24vaW5kZXgtdjEtYTEubTN1OD90PUdsOXJoeTNBS3d6aG9CeEgtT3dmWEc3MnRWbVo4WXhiSzJ2djVFZmtReUEmcz0xNzg3MzYwNzcyJmU9NDMyMDAmdj0zMjc3Mjg2Mzcmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWhob2QyaGswa3NieCZyPWU"
-      }
-    ]
-  },
-  {
     "title": "Rapidos y Furiosos 1",
     "image": "https://image.tmdb.org/t/p/w185/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
     "rating": "6.8",
@@ -642,6 +597,69 @@
       {
         "type": "mp4",
         "url": "https://1a-1791.com/video/s8/2/f/N/9/k/fN9kt.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Polaroid",
+    "image": "https://image.tmdb.org/t/p/w185/ghNua7wru2APolXOutWqO5kpJrI.jpg",
+    "rating": "5.2",
+    "year": "Jan. 10, 2019",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Basada en el cortometraje ganador en el Festival internacional de cine fantástico de Torremolinos. Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara «embrujada».",
+    "genres": [
+      "Misterio",
+      "Suspense",
+      "Terror"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/x/q/J/p/xqJpq.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Milagros Inesperados",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0142.jpg",
+    "rating": "8.6",
+    "year": "Dec. 10, 1999",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.online/stream/ts?url=aHR0cHM6Ly9zMTMudmltZW9zLm5ldC9obHMyLzAyLzAwMDA2LzJrdXB4dTc2Mnd6ZV9uL2luZGV4LXYxLWExLm0zdTg_dD1XeWZQMEJudHVJVWtkcnEwaVpoRGZIbFI5ZjlpdzdHTnJ0VVZNTTg2N2J3JnM9MTc4NzM2MDc4NCZlPTQzMjAwJnY9MzMxOTE5MTY0Jmk9MC4zJnNwPTAmZnI9Mmt1cHh1NzYyd3plJnI9ZQ"
+      }
+    ]
+  },
+  {
+    "title": "Polar Express",
+    "image": "https://image.tmdb.org/t/p/w185/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+    "rating": "6.6",
+    "year": "Nov. 10, 2004",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/D/Q/Z/kDQZn.caa.mp4"
       }
     ]
   },
@@ -687,67 +705,25 @@
     ]
   },
   {
-    "title": "Predators ; Predadores",
-    "image": "https://image.tmdb.org/t/p/w185/wNfucvF5YByebBVVuT0280D3VFb.jpg",
-    "rating": "6.4",
-    "year": "Jul. 03, 2010",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos —mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte—, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres.",
+    "title": "Primitive War ; Emboscada Salvaje",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0158.jpg",
+    "rating": "5.3",
+    "year": "Aug. 21, 2025",
+    "quality": "720p HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Vietnam. 1968. Una unidad de reconocimiento conocida como Escuadrón Buitre es enviada a un valle aislado de la jungla para descubrir el destino de un pelotón de Boina Verde desaparecido. Pronto descubren que no están solos.",
     "genres": [
       "Acción",
+      "Bélica",
       "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/X/0/7/n/X07ns.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/X/0/7/n/X07ns.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Polar Express",
-    "image": "https://image.tmdb.org/t/p/w185/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
-    "rating": "6.6",
-    "year": "Nov. 10, 2004",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
-    "genres": [
-      "Animación",
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/D/Q/Z/kDQZn.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Polaroid",
-    "image": "https://image.tmdb.org/t/p/w185/ghNua7wru2APolXOutWqO5kpJrI.jpg",
-    "rating": "5.2",
-    "year": "Jan. 10, 2019",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Basada en el cortometraje ganador en el Festival internacional de cine fantástico de Torremolinos. Una adolescente solitaria, Bird Fitcher, se tropieza con una antigua Polaroid y pronto descubre que la cámara alberga un terrible secreto: cualquiera que se toma una fotografía con ella, tiene un final trágico y violento. Ella y sus amigos deben sobrevivir una noche para resolver el misterio de la cámara «embrujada».",
-    "genres": [
-      "Misterio",
-      "Suspense",
       "Terror"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/x/q/J/p/xqJpq.aaa.mp4"
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wNi52aW1lb3MuemlwL2hsczIvMDIvMDAwMTIvaGhvZDJoazBrc2J4X24vaW5kZXgtdjEtYTEubTN1OD90PUdsOXJoeTNBS3d6aG9CeEgtT3dmWEc3MnRWbVo4WXhiSzJ2djVFZmtReUEmcz0xNzg3MzYwNzcyJmU9NDMyMDAmdj0zMjc3Mjg2Mzcmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWhob2QyaGswa3NieCZyPWU"
       }
     ]
   },
@@ -792,6 +768,27 @@
     ]
   },
   {
+    "title": "Reel ; El día que mi hermanastro descubrió mi secreto prohibido",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0161.jpg",
+    "rating": "0",
+    "year": "May. 25, 2026",
+    "quality": "DramaBox",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Por accidente, le entrego a un rival de mi crush una carta de amor… pero pronto descubro que en realidad es el porno que escribí. Lo peor es que ese chico resulta ser mi nuevo hermanastro: un verdadero demonio. Ahora estamos obligados a vivir bajo el mismo techo, y él tiene en sus manos mi secreto más vergonzoso&#8230;",
+    "genres": [
+      "Reel",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/c5/s8/2/Q/l/V/o/QlVoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2855582208-2855638773"
+      }
+    ]
+  },
+  {
     "title": "Poder sin limites ; Chronicle",
     "image": "https://image.tmdb.org/t/p/w185/t4xb2r36SR2sbUtOsPXdZ3lCmcJ.jpg",
     "rating": "7",
@@ -812,23 +809,22 @@
     ]
   },
   {
-    "title": "Reel ; El día que mi hermanastro descubrió mi secreto prohibido",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/05/el.dia_.en_.que_-185x278.jpg",
-    "rating": "0",
-    "year": "May. 25, 2026",
-    "quality": "DramaBox",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Por accidente, le entrego a un rival de mi crush una carta de amor… pero pronto descubro que en realidad es el porno que escribí. Lo peor es que ese chico resulta ser mi nuevo hermanastro: un verdadero demonio. Ahora estamos obligados a vivir bajo el mismo techo, y él tiene en sus manos mi secreto más vergonzoso&#8230;",
+    "title": "Rescate implacable",
+    "image": "https://image.tmdb.org/t/p/w185/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+    "rating": "6.2",
+    "year": "Mar. 26, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Levon Cade dejó atrás una distinguida carrera militar en operaciones encubiertas para llevar una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, quien es como familia para él, es capturada por traficantes de personas, su búsqueda para traerla de regreso revela un mundo de corrupción mucho mayor de lo que jamás pudo imaginar.",
     "genres": [
-      "Reel",
-      "Romance"
+      "Acción",
+      "Crimen",
+      "Suspense"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/c5/s8/2/Q/l/V/o/QlVoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2855582208-2855638773"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fww1/1d/s8/2/j/Q/H/y/jQHyy.aaa.mp4"
       }
     ]
   }

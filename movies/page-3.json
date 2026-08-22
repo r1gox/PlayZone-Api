@@ -1,5 +1,24 @@
 [
   {
+    "title": "Amor explosivo ; Love Hurts",
+    "image": "https://image.tmdb.org/t/p/w185/qKLiQaHIzKAUlCHCY9oa6te3phb.jpg",
+    "rating": "5.4",
+    "year": "Feb. 06, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Marvin Gable, un agente inmobiliario que trabaja en los suburbios de Milwaukee, recibe un sobre de Rose una antigua compañera del crimen que él dio por muerta. Ahora, Marvin es traído de regreso al mundo de los sicarios agresivos, lleno de traiciones y casas abiertas que se convierten en zonas de guerras mortales.",
+    "genres": [
+      "Acción",
+      "Comedia"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/b7/s8/2/_/J/0/G/_J0Gx.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Amor Sin Barreras",
     "image": "https://image.tmdb.org/t/p/w185/lSIYqwBNXxN8QbANbAePVdG1WdI.jpg",
     "rating": "7.1",
@@ -16,25 +35,6 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fww1/a2/s8/2/u/e/T/t/ueTty.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Ahora o nunca",
-    "image": "https://image.tmdb.org/t/p/w185/bBgc1F5o6PMOxTPrOoZ3oIkP2KT.jpg",
-    "rating": "7.4",
-    "year": "Dec. 25, 2007",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Dos enfermos terminales escapan del hospital y se hacen un viaje con una lista de deseos que cumplir antes de morir.",
-    "genres": [
-      "Comedia",
-      "Drama"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/Y/X/d/zYXdr.aaa.mp4"
       }
     ]
   },
@@ -118,25 +118,6 @@
     ]
   },
   {
-    "title": "Another You ; Otro Tu",
-    "image": "https://image.tmdb.org/t/p/w185/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
-    "rating": "7.2",
-    "year": "Mar. 07, 2025",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "",
-    "genres": [
-      "Comedia",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/e9/s8/2/O/k/8/r/Ok8ry.aaa.mp4"
-      }
-    ]
-  },
-  {
     "title": "Anora",
     "image": "https://image.tmdb.org/t/p/w185/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
     "rating": "7.8",
@@ -153,6 +134,25 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fwe2/db/s8/2/N/r/6/c/Nr6cx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Another You ; Otro Tu",
+    "image": "https://image.tmdb.org/t/p/w185/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
+    "rating": "7.2",
+    "year": "Mar. 07, 2025",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/e9/s8/2/O/k/8/r/Ok8ry.aaa.mp4"
       }
     ]
   },
@@ -404,45 +404,26 @@
     ]
   },
   {
-    "title": "Arma Mortal 3",
-    "image": "https://image.tmdb.org/t/p/w185/6AYVXfpC4tE7pYNpa6Zf6wKu6f2.jpg",
+    "title": "Amor y otras drogas",
+    "image": "https://image.tmdb.org/t/p/w185/bzXczujSYdsddv9FZBmVhPUN65z.jpg",
     "rating": "6.7",
-    "year": "May. 15, 1992",
-    "quality": "720p HD",
+    "year": "Nov. 04, 2010",
+    "quality": "720 HD",
     "languages": [],
-    "description": "Martin Riggs y Roger Murtaugh, la inigualable pareja de policías de Los Ángeles, se enfrentan a un difícil caso: armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias policiales y están llegando a manos de los delincuentes más peligrosos de la ciudad.",
+    "description": "Maggie es una mujer independiente que ha decidido vivir sin ataduras. Pero conoce a Jamie, un joven cuyo irresistible encanto funciona no sólo con las mujeres, sino también dentro del despiadado mundo de las ventas farmacéuticas. La relación entre Maggie y Jamie, para sorpresa de ambos, desemboca en amor. La película se basa en una historia real: la de Jamie Reidy, un vendedor de Pfizer (laboratorio que desarrolló la Viagra), quien sacó a la luz algunas prácticas dudosas empleadas por estas compañías farmacéuticas.",
     "genres": [
-      "Acción",
-      "Aventura",
       "Comedia",
-      "Crimen",
-      "Suspense"
+      "Drama",
+      "Romance"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/32/s8/2/U/S/S/q/USSqy.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Armageddon",
-    "image": "https://image.tmdb.org/t/p/w185/mnLgIwhqBcKSMiWJP44tAaADW1g.jpg",
-    "rating": "6.7",
-    "year": "Jul. 01, 1998",
-    "quality": "720p HD",
-    "languages": [],
-    "description": "Un asteroide del tamaño del estado de Texas apunta directamente hacia la Tierra. En la NASA, tan sólo encuentran una posible solución: enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry S. Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el armagedón.",
-    "genres": [
-      "Acción",
-      "Aventura",
-      "Ciencia ficción",
-      "Suspense"
-    ],
-    "sources": [
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/f/c/d/Jfcdp.aaa.mp4"
+      },
       {
         "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/5/J/c/q/5Jcqx.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/f/c/d/Jfcdp.caa.mp4"
       }
     ]
   },
@@ -470,7 +451,7 @@
   },
   {
     "title": "Angry Birds 2: La película",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/jUDA7p8rKlby7aBD1D0PxovKufZ-185x278.jpg",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0016.jpg",
     "rating": "6.4",
     "year": "Aug. 02, 2019",
     "quality": "720 HD",
@@ -492,88 +473,45 @@
     ]
   },
   {
-    "title": "Amigos imaginarios",
-    "image": "https://image.tmdb.org/t/p/w185/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+    "title": "Armageddon",
+    "image": "https://image.tmdb.org/t/p/w185/mnLgIwhqBcKSMiWJP44tAaADW1g.jpg",
     "rating": "6.7",
-    "year": "May. 08, 2024",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Película sobre el viaje de una niña para redescubrir su imaginación.",
-    "genres": [
-      "Comedia",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/P/q/p/p/Pqpps.aaa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Animales fantásticos y dónde encontrarlos",
-    "image": "https://zonaaps.com/wp-content/uploads/2026/07/pLgSLx9dn2YYbwVk8p0F28KIU8C-185x278.jpg",
-    "rating": "7.2",
-    "year": "Nov. 16, 2016",
-    "quality": "720 HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Las aventuras del escritor Newt Scamander en la comunidad secreta de brujas y magos de Nueva York setenta años antes de lo acontecido en «Harry Potter y la Piedra Filosofal».",
-    "genres": [
-      "Aventura",
-      "Familia",
-      "Fantasía"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvZ3ZhOHp1ZnJtM24xX24vaW5kZXgtdjEtYTIubTN1OD90PWo3TVNhdU9PY1R1UGlRTUhnaGlwcXdWTS1SdkhLV2JWNmRHNWpyUzU4SDgmcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMjk5OTgyMDgmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWd2YTh6dWZybTNuMSZyPWU"
-      }
-    ]
-  },
-  {
-    "title": "Amor y otras drogas",
-    "image": "https://image.tmdb.org/t/p/w185/bzXczujSYdsddv9FZBmVhPUN65z.jpg",
-    "rating": "6.7",
-    "year": "Nov. 04, 2010",
-    "quality": "720 HD",
-    "languages": [],
-    "description": "Maggie es una mujer independiente que ha decidido vivir sin ataduras. Pero conoce a Jamie, un joven cuyo irresistible encanto funciona no sólo con las mujeres, sino también dentro del despiadado mundo de las ventas farmacéuticas. La relación entre Maggie y Jamie, para sorpresa de ambos, desemboca en amor. La película se basa en una historia real: la de Jamie Reidy, un vendedor de Pfizer (laboratorio que desarrolló la Viagra), quien sacó a la luz algunas prácticas dudosas empleadas por estas compañías farmacéuticas.",
-    "genres": [
-      "Comedia",
-      "Drama",
-      "Romance"
-    ],
-    "sources": [
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/f/c/d/Jfcdp.aaa.mp4"
-      },
-      {
-        "type": "mp4",
-        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/f/c/d/Jfcdp.caa.mp4"
-      }
-    ]
-  },
-  {
-    "title": "Asalto en la noche ; Irrupción ; Breaking in",
-    "image": "https://image.tmdb.org/t/p/w185/l9wTq9MuLAeX4Qq0G1CsivaJdCv.jpg",
-    "rating": "5.5",
-    "year": "May. 05, 2018",
+    "year": "Jul. 01, 1998",
     "quality": "720p HD",
     "languages": [],
-    "description": "Shaun (Gabrielle Union) es una madre de dos hijos que acaba de perder a su padre. Como legado, hereda una casa en Malibu, por lo que decide mudarse allí junto a los pequeños. En la mansión hay cuatro inquilinos no deseados que tratan de hacerse con la caja de caudales del padre de Shaun y escapar con todo lo que lleva dentro. Los atracadores secuestran a los niños y dejan a la madre fuera de la casa, que resulta ser una fortaleza, pero no se quedará de brazos cruzados. A partir de aquí, comienza la pesadilla de la familia, o de los secuestradores.",
+    "description": "Un asteroide del tamaño del estado de Texas apunta directamente hacia la Tierra. En la NASA, tan sólo encuentran una posible solución: enviar a un equipo de astronautas al espacio para que destruya el meteorito antes de que colisione con nuestro planeta. Para ello recurren a Harry S. Stamper, el mayor experto en perforaciones petrolíferas, y a su cualificado equipo de perforadores, para que aterricen en la superficie del asteroide, lo perforen e introduzcan un dispositivo nuclear que al estallar consiga desviar su trayectoria y poder salvar el planeta, evitando así el armagedón.",
     "genres": [
       "Acción",
+      "Aventura",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/16/s8/2/5/J/c/q/5Jcqx.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Arma Mortal 3",
+    "image": "https://image.tmdb.org/t/p/w185/6AYVXfpC4tE7pYNpa6Zf6wKu6f2.jpg",
+    "rating": "6.7",
+    "year": "May. 15, 1992",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Martin Riggs y Roger Murtaugh, la inigualable pareja de policías de Los Ángeles, se enfrentan a un difícil caso: armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias policiales y están llegando a manos de los delincuentes más peligrosos de la ciudad.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Comedia",
       "Crimen",
       "Suspense"
     ],
     "sources": [
       {
         "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/ec/s8/2/6/U/u/e/6Uuex.aaa.mp4"
+        "url": "https://hugh.cdn.rumble.cloud/video/fwe1/32/s8/2/U/S/S/q/USSqy.aaa.mp4"
       }
     ]
   },
@@ -598,6 +536,26 @@
     ]
   },
   {
+    "title": "Amigos imaginarios",
+    "image": "https://image.tmdb.org/t/p/w185/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+    "rating": "6.7",
+    "year": "May. 08, 2024",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Película sobre el viaje de una niña para redescubrir su imaginación.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/P/q/p/p/Pqpps.aaa.mp4"
+      }
+    ]
+  },
+  {
     "title": "Asesino solitario",
     "image": "https://image.tmdb.org/t/p/w185/gg2XIPNeOu6MWw5FBnhQugZj5KU.jpg",
     "rating": "6.2",
@@ -614,6 +572,48 @@
       {
         "type": "mp4",
         "url": "https://hugh.cdn.rumble.cloud/video/fww1/08/s8/2/S/y/Q/t/SyQty.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Asalto en la noche ; Irrupción ; Breaking in",
+    "image": "https://image.tmdb.org/t/p/w185/l9wTq9MuLAeX4Qq0G1CsivaJdCv.jpg",
+    "rating": "5.5",
+    "year": "May. 05, 2018",
+    "quality": "720p HD",
+    "languages": [],
+    "description": "Shaun (Gabrielle Union) es una madre de dos hijos que acaba de perder a su padre. Como legado, hereda una casa en Malibu, por lo que decide mudarse allí junto a los pequeños. En la mansión hay cuatro inquilinos no deseados que tratan de hacerse con la caja de caudales del padre de Shaun y escapar con todo lo que lleva dentro. Los atracadores secuestran a los niños y dejan a la madre fuera de la casa, que resulta ser una fortaleza, pero no se quedará de brazos cruzados. A partir de aquí, comienza la pesadilla de la familia, o de los secuestradores.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/ec/s8/2/6/U/u/e/6Uuex.aaa.mp4"
+      }
+    ]
+  },
+  {
+    "title": "Animales fantásticos y dónde encontrarlos",
+    "image": "https://raw.githubusercontent.com/r1gox/PlayZone-Api/main/images/img_0017.jpg",
+    "rating": "7.2",
+    "year": "Nov. 16, 2016",
+    "quality": "720 HD",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Las aventuras del escritor Newt Scamander en la comunidad secreta de brujas y magos de Nueva York setenta años antes de lo acontecido en «Harry Potter y la Piedra Filosofal».",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "sources": [
+      {
+        "type": "mp4",
+        "url": "https://stream.11231data.lat/stream/ts?url=aHR0cHM6Ly9wMi52aW1lb3MuemlwL2hsczIvMDIvMDAwMTAvZ3ZhOHp1ZnJtM24xX24vaW5kZXgtdjEtYTIubTN1OD90PWo3TVNhdU9PY1R1UGlRTUhnaGlwcXdWTS1SdkhLV2JWNmRHNWpyUzU4SDgmcz0xNzg3MzYwODA2JmU9NDMyMDAmdj0zMjk5OTgyMDgmc3J2PXMxMCZpPTAuMyZzcD0wJmZyPWd2YTh6dWZybTNuMSZyPWU"
       }
     ]
   },
@@ -638,21 +638,22 @@
     ]
   },
   {
-    "title": "Así en la Tierra como en el Infierno",
-    "image": "https://image.tmdb.org/t/p/w185/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
-    "rating": "6.3",
-    "year": "Aug. 14, 2014",
+    "title": "Atraccion Peligrosa ; The Town: Ciudad de ladrones",
+    "image": "https://image.tmdb.org/t/p/w185/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg",
+    "rating": "7.5",
+    "year": "Sep. 15, 2010",
     "quality": "720p HD",
     "languages": [],
-    "description": "A lo largo de los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar y acaba averiguando cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror.",
+    "description": "En Boston se producen más de 300 robos cada año. Y un barrio llamado Charlestown ha dado más ladrones de vehículos blindados y bancos que ningún otro lugar de EE.UU. Uno de ellos es Doug MacRay, aunque no está hecho de la misma pasta que sus colegas en el crimen. A diferencia de ellos, Doug sí ha tenido una oportunidad de tener éxito, una oportunidad para evitar seguir las huellas criminales de su padre. Pero en lugar de ello, se convirtió en el líder de un grupo de implacables ladrones de bancos que se enorgullecen de coger lo que quieren de forma limpia. La única familia que tiene Doug es la de sus socios criminales. Sin embargo, todo cambia tras el último trabajo de la banda. Doug intentará cambiar de vida y de ciudad, pero no le va a resultar fácil lograrlo.",
     "genres": [
-      "Suspense",
-      "Terror"
+      "Crimen",
+      "Drama",
+      "Suspense"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fww1/fd/s8/2/q/I/3/3/qI33y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=733659648-733715597"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/fwe2/96/s8/2/2/B/f/R/2BfRw.aaa.mp4"
       }
     ]
   },
@@ -681,22 +682,21 @@
     ]
   },
   {
-    "title": "Atraccion Peligrosa ; The Town: Ciudad de ladrones",
-    "image": "https://image.tmdb.org/t/p/w185/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg",
-    "rating": "7.5",
-    "year": "Sep. 15, 2010",
+    "title": "Así en la Tierra como en el Infierno",
+    "image": "https://image.tmdb.org/t/p/w185/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg",
+    "rating": "6.3",
+    "year": "Aug. 14, 2014",
     "quality": "720p HD",
     "languages": [],
-    "description": "En Boston se producen más de 300 robos cada año. Y un barrio llamado Charlestown ha dado más ladrones de vehículos blindados y bancos que ningún otro lugar de EE.UU. Uno de ellos es Doug MacRay, aunque no está hecho de la misma pasta que sus colegas en el crimen. A diferencia de ellos, Doug sí ha tenido una oportunidad de tener éxito, una oportunidad para evitar seguir las huellas criminales de su padre. Pero en lugar de ello, se convirtió en el líder de un grupo de implacables ladrones de bancos que se enorgullecen de coger lo que quieren de forma limpia. La única familia que tiene Doug es la de sus socios criminales. Sin embargo, todo cambia tras el último trabajo de la banda. Doug intentará cambiar de vida y de ciudad, pero no le va a resultar fácil lograrlo.",
+    "description": "A lo largo de los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar y acaba averiguando cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror.",
     "genres": [
-      "Crimen",
-      "Drama",
-      "Suspense"
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/fwe2/96/s8/2/2/B/f/R/2BfRw.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/fd/s8/2/q/I/3/3/qI33y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=733659648-733715597"
       }
     ]
   },
@@ -787,46 +787,44 @@
     ]
   },
   {
-    "title": "Avalancha, desastre en la montaña",
-    "image": "https://image.tmdb.org/t/p/w185/iT84QV70fF4WfMM1UERJI3QWb7A.jpg",
-    "rating": "0",
-    "year": "Sep. 30, 2019",
-    "quality": "720p HD",
-    "languages": [
-      "Latino"
-    ],
-    "description": "Mayo 1960. Cuatro miembros del China Everest Climbing Commando quieren abordar el complicado «segundo paso». Están en su quinto intento y sus fracasos anteriores les han dejado con poca fuerza.",
+    "title": "Annabelle 2 ; Anabelle 2",
+    "image": "https://image.tmdb.org/t/p/w185/qIPmOu09U3KrUTMncw8A52ilgDT.jpg",
+    "rating": "6.5",
+    "year": "Aug. 03, 2017",
+    "quality": "720 HD",
+    "languages": [],
+    "description": "Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato. Sin embargo, las nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de «Annabelle» (2014).",
     "genres": [
-      "Acción",
-      "Aventura",
-      "Drama",
-      "Historia"
+      "Misterio",
+      "Suspense",
+      "Terror"
     ],
     "sources": [
       {
-        "type": "hls",
-        "url": "https://1a-1791.com/video/fwe2/d2/s8/2/K/g/f/_/Kgf_z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3577631232-3577702220"
+        "type": "mp4",
+        "url": "https://1a-1791.com/video/s8/2/5/p/V/0/5pV0n.caa.mp4"
       }
     ]
   },
   {
-    "title": "Avatar",
-    "image": "https://image.tmdb.org/t/p/w185/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg",
-    "rating": "7.9",
-    "year": "Dec. 15, 2009",
+    "title": "Avatar 3: Fuego y ceniza",
+    "image": "https://image.tmdb.org/t/p/w185/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
+    "rating": "7.6",
+    "year": "Dec. 17, 2025",
     "quality": "720p HD",
-    "languages": [],
-    "description": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
+    "languages": [
+      "Latino"
+    ],
+    "description": "Avatar: Fuego y Ceniza expande el mundo de Pandora con un tono más oscuro e intenso. Nuevas tribus Na’vi, conflictos internos y una amenaza devastadora pondrán a prueba la lealtad, el equilibrio natural y el destino del planeta, llevando la saga a su capítulo más épico y emocional. Puedes ver más detalles oficiales en IMDb.Si disfrutas las historias de terror, también puedes visitar nuestra sección de Aventura.",
     "genres": [
-      "Acción",
       "Aventura",
       "Ciencia ficción",
       "Fantasía"
     ],
     "sources": [
       {
-        "type": "mp4",
-        "url": "https://1a-1791.com/video/s8/2/T/n/0/R/Tn0Rt.aaa.mp4"
+        "type": "hls",
+        "url": "https://1a-1791.com/video/fww1/63/s8/2/C/j/4/a/Cj4aA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3152820736-3152941400"
       }
     ]
   }
